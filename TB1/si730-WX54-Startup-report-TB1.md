@@ -158,22 +158,62 @@
 
 ---
 
+
+---
+
 # Student Outcome
+|Criterio Especifico|Acciones Realizadas|Conclusiones|
+|-|-|-|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc.. |Su texto de conclusion|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+Texto del proyecto
 #### 1.1.2. Perfiles de integrantes del equipo
+|Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
+|-|-|-|-|
+|Compañero 1 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+Investigacion (5w, 2h tbn)
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+Texto
 #### 1.2.2.2. Lean UX Assumptions.
+|Business Assumptions|User Assumptions|
+|-|-|
+|1. - 12. |1. - 6.|
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+Texto
 #### 1.2.2.4. Lean UX Canvas.
+(imagen con texto)
 ## 1.3. Segmentos objetivo.
+| | Segmento |  |
+| - | - |-|
+| Variables                 |  |  |
+| Geográfica                |  |  |
+| Demográfica               |  |  |
+| Psicológica               |  |  |
+| Función de comportamiento |  |  |
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
+
+| Competitive Analysis Landscape                          |  |
+| ------------------------------------------------------- | -|
+| ¿Por qué llevar a cabo este análisis?                   | -- |
+
+
+| |  | (Nosotros) | Competidor  | Comptdor |
+|-|-|-|-|-|
+| PERFIL| Overview | lorem | ipsum | lorem |
+|| Ventaja competitiva ¿Qué valor ofrece a los clientes? |  ipsu | impuz |
+|| Mercado Objetivo                                        | Jeda | asa | asa2 |
+| Perfil de marketing                                     | Estrategia de Marketing | Redes Sociales | Redes Sociales | Televisión, Redes Sociales |
+| Perfil del producto                                     | Productos y servicios | Elementos Gráficos Interactivos Enseñanza de Matemáticas Lúdica y Autodidacta Educación matemática interactiva Ámbito Freemium | Educación matemática interactiva Mas de 100 cursos en 28 idiomas diferentes | Educación general interactiva Contratos con Movistar |
+|| Precios y costos                                        | Freemium (Cuenta Premium permite personalizar los juegos) Gratis | Gratuito | Gratuito |
+|| Canales de distribución (Web y/o Móvil)                 | Web y Móvil Web | Móvil Web | Web y móvil Web |
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
@@ -246,3 +286,6 @@
 # Video About-the-Team.
 # Bibliografía
 # Anexos
+
+
+
