@@ -12,7 +12,7 @@
 ### Integrantes:
 - Nombre
 - Ramírez Hoffmann, Sebastián - U202211894
-- Nombre
+- Rodriguez Vargas, Arian Martin - U202212096
 - Esteban Garcia, Nicolas Sebastián - U202217485
 - Nombre  
 
@@ -40,11 +40,11 @@ Texto del proyecto
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
-|Ramírez Hoffmann, Sebastián  <img src="https://avatars.githubusercontent.com/u/129230632?v=4" alt="Imagen del compañero" style="width:100%">|U20221894|Ingenieria de software|C++, piton, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico|
-|compañero X <img src="https://avatars.githubusercontent.com/u/129230632?v=4" alt="Imagen del compañero" style="width:100%">|U20|x|x|
+|Ramírez Hoffmann, Sebastián  <img src="https://avatars.githubusercontent.com/u/129230632?v=4" alt="Imagen del compañero" style="width:100%">|U20221894|Ingenieria de software|C++, Python, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico|
+|Rodriguez Vargas, Arian Martin <img src="../assets/arigeimpleis.jpg" alt="Imagen del compañero" style="width:100%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 |Esteban Garcia, Nicolas Sebastian <img src="../assets/nekolas-profile.png" alt="Imagen del compañero" style="width:100%">|U202217485|Ingenieria de software|HTML, CSS Y JS. Sociable.|
-|compañero x 	<img src="https://avatars.githubusercontent.com/u/129230632?v=4" alt="Imagen del compañero" style="width:100%">|U20...|Ingenieria de software|C++, piton .etc|
-|compañero x 	<img src="https://avatars.githubusercontent.com/u/129230632?v=4" alt="Imagen del compañero" style="width:100%">|U20...|Ingenieria de software|C++, piton .etc|
+|compañero x 	<img src="https://avatars.githubusercontent.com/u/129230632?v=4" alt="Imagen del compañero" style="width:100%">|U20...|Ingenieria de software|C++, Python .etc|
+|compañero x 	<img src="https://avatars.githubusercontent.com/u/129230632?v=4" alt="Imagen del compañero" style="width:100%">|U20...|Ingenieria de software|C++, Python .etc|
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
