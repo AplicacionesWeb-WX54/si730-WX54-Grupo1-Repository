@@ -40,7 +40,7 @@ Texto del proyecto
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-|
-|Ramírez Hoffmann, Sebastián  ![Imagen del compañero](image.jpg)|U20221894|Ingenieria de software|C++, piton, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico|
+|Ramírez Hoffmann, Sebastián  ![Imagen del compañero](https://avatars.githubusercontent.com/u/129230632?v=4)|U20221894|Ingenieria de software|C++, piton, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico|
 |x|U20|x|x|
 |Compañero 1 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
 ## 1.2. Solution Profile
