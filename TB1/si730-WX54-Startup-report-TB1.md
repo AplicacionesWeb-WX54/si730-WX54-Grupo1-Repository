@@ -11,11 +11,11 @@
 "Producto"
 ### Integrantes:
 - Nombre
-- Ramírez Hoffmann, Sebastián U202211894
+- Ramírez Hoffmann, Sebastián - U202211894
 - Nombre
-- Nombre
+- Esteban Garcia, Nicolas Sebastián - U202217485
 - Nombre  
-19/03/2024
+
 ---
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
@@ -23,7 +23,7 @@
 | 0.0 | 19/03/2024 |Grupo 1 |Se crea el documento |
 
 # Project Report Collaboration Insights
-[URL del repositorio](https://www.example.com)
+[URL del repositorio](https://github.com/AplicacionesWeb-WX54/si730-WX54-Grupo1-Repository.git)
 
 (Imagenes de los commits cada entrega)
 
@@ -42,7 +42,8 @@ Texto del proyecto
 |-|-|-|-|
 |Ramírez Hoffmann, Sebastián  ![Imagen del compañero](https://avatars.githubusercontent.com/u/129230632?v=4)|U20221894|Ingenieria de software|C++, piton, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico|
 |x|U20|x|x|
-|Compañero 1 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
+|Esteban Garcia, Nicolas Sebastian 	![Imagen del compañero](../assets/nekolas-profile.png)|U202217485|Ingenieria de software|HTML, CSS Y JS. Sociable.|
+|compañero x 	![Imagen del compañero](image.jpg)|U20...|Ingenieria de software|C++, piton .etc|
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 Investigacion (5w, 2h tbn)
