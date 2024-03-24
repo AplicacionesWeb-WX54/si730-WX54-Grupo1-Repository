@@ -36,7 +36,7 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
-Texto del proyecto
+Nuestra startup [nombre] se basa en un sistema el cual se encarga de conectar a diferentes organizaciones las cuales necesitan donaciones para los mas necesitados con usuarios dispuestos a donar una diferente variedad de objetos como ropa, libros, viveres o algun objeto es especial que la misma organizacion puede especificar. Esto se hace con el objetivo de poder aumentar la ayuda que reciben estas organizaciones en especial en las temporadas donde requieren de más ayuda y concientizar a las personas de la importancia de las organizaciones que se dedican.
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
@@ -45,10 +45,14 @@ Texto del proyecto
 |Esteban Garcia, Nicolas Sebastian <img src="../assets/members-profile/nekolas-profile.png" alt="Imagen del compañero" style="width:60%">|U202217485|Ingenieria de software|HTML, CSS Y JS. Sociable.|
 |Herrera Aguirre, Fabia Alejandra 	<img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">|U202219422|Ingenieria de software|C++, Python. Creativa.|
 |Peña Rivera, Manuel Sebastian	<img src="../assets/members-profile/Manuel.jpg" alt="Imagen del compañero" style="width:60%">|U202210138|Ingenieria de software|C++, Python, MongoDB, SQL, Assembler. Responsabilidad y Buena Comunicación| 
-<!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-Investigacion (5w, 2h tbn)
+Segun la Oficina de Naciones Unidas para la Coordinación de Asuntos Humanitarios (OCHA) en 2023 se reportaron 801,425 personas en necesidades de alimentacion, servicios de agua, saneamiento e higiene.
+En el Peru existen 978 Organizaciones privadas sin fines de lucro de las cuales principalmente 428 se han categorizado como de salud, 19 de educacion y 35 de vivienda (SIGCTI, 2024), esto nos demuestra que existe un alto rango de organizaciones privadas sin fines de lucro. No obstante cuando buscamos organizaciones ONDG(Organizaciones No Gubernamentales de Desarollo) encontramos un total de 1835 (SIGCTI, 2024). Aun con muchas instituciones el alcance que se logra resulta ser preocupante, en la encuesta que se realizo por equillibrium CenDE en 2023 de entre casi 1,200 personas un 80% de estas reconocia que es una ONG no obstante 71% o no sabia o no conocia iniciativas realizadas por las ONGs en ese año, en esta misma encuesta solo un 7% no tenia interes alguno en participar en el abordamiento de problemas publicos ni socialmente es decir un 93% de las 1,200 estaban dispuestas a apoyar sin embargo tambien se menciono que la principal causa que mencionan que limita esta participacion eran el tiempo, la desconfianza, limitaciones economicas y desconocimiento sobre como participar, siendo asi que un 72% de las personas encuestadas no han participado en estas actividades (CenDE, 2023).
+
+Es aqui donde nosotros ideamos la propuesta de [NOMBRE], una aplicacion web que nos servira para reducir el tiempo que toma encontrar una ONG que requiera de ayuda para asimismo eseñandole al usuario la importancia de las ONG y tambien facilitarle a como participar de actividades sociales. El usuario tendra toda la libertad de buscar alguna ONG especifica o la que requiera el objeto el cual la persona este deseando donar.
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 Texto
@@ -233,7 +237,7 @@ en el que se especializa la startup.
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
-
+ 
 Escenario 1: Usuario necesita una interfaz cómoda donde pueda visualizar el registro de los bienes que ha donado y eventos próximos realizados por organizaciones
 
 | Fases    |  El usuario desea tener una sección donde pueda visualizar la cantidad de productos que dono de forma detallada | El usuario desea tener un registro de los productos que dono, así como las fechas de entrega en la que se realizó| El usuario desea tener un seguimiento acerca de los próximos eventos de caridad que ofrecen las organizaciones| El usuario desea tener un apartado donde se visualice la información de los eventos, además de la organización que lo brinda. |
@@ -251,7 +255,7 @@ Escenario 2: Organización sin fines de lucro desea realizar y programar un even
 | Feeling  | La organización se siente cómoda ya que puede comunicarse rápidamente a sus usuarios. | La organización se siente satisfecho ya que conecta rápidamente con su público. | La organización se siente entusiasmado ya que la interfaz permite programar un evento fácilmente  | La organización se siente optimista ya que la interfaz de la aplicación permite registrar los datos del evento rápidamente. |
 
 ## 3.2. User Stories.
-
+ 
 | HU0X | Historia Usuario | "Descripcion"  |
 |-|-|-|
 | HU01 | Listado de organizaciones benéficas | Como usuario donante, quiero poder ver una lista de organizaciones benéficas registradas en la plataforma, para poder seleccionar a quién quiero donar.  |
