@@ -180,24 +180,25 @@ Why would they invite others?
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
-Escenario: {escenario}
+Escenario: Usuario desea realizar una donación como ropa o comida a alguna organización benéfica disponible
 
 As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
+| Fases| El usuario tiene productos como ropa o artefactos que ya no utiliza recientemente | El usuario desea donar sus bienes a una persona sin hogar que lo necesite | El usuario desconoce organizaciones a las cuales pueda donar sus bienes | El usuario requiere de una aplicación confiable donde pueda encontrar organizaciones a las que pueda donar sus bienes |
 | -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
+| Doing | El usuario decide buscar alguna persona a la cual donar aquellos productos. | El usuario investiga acerca de lugares donde hallan personas que necesiten alguna donación. | El usuario investiga acerca de las organizaciones a las cuales puedan donar productos. | El usuario indaga acerca de aplicaciones que puedan facilitar la búsqueda de alguna organización benéfica. |
+| Thinking | El usuario piensa que buscar alguna persona que necesite una donación puede tardar demasiado | El usuario piensa que existen una gran cantidad de lugares que necesiten alguna donación. | El usuario piensa que muchas de estas organizaciones no pueden estar licenciadas o no brindan confianza. | El usuario piensa que no existe alguna aplicación que pueda resolver su necesidad, ya que no garantiza seguridad alguna. |
+| Feeling  | El usuario se siente apenado al no encontrar personas que necesiten alguna donación. | El usuario se siente desconfiado ya que ningún lugar le brinda confianza alguna. | El usuario se siente abrumado debido a la cantidad de organizaciones que necesitan donación alguna | El usuario se siente agobiado ya que no hay una aplicación que cumpla con la necesidad que desea resolver. |
 
 **Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
+Escenario: Organización sin fines de lucro necesitan ciertos bienes en específico que puedan brindar los usuarios donantes.
 
 As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
+| Fases| La organización necesita una cantidad de productos en específico para brindar el servicio | La organización requiere de un producto en específico de los usuarios donantes | La organización desea llegar a un público en específico que desee donar el producto solicitado | La organización requiere de alguna aplicación en la cual pueda llegar a las personas donantes o abrir un evento solicitando dichos productos |
 | -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling  | texto| texto | texto| texto|
+| Doing | La organización busca personas o empresas que puedan brindar los productos que necesitan. | La organización busca a través de eventos a personas que puedan donar aquellos productos. | La organización realiza eventos para reabastecer los productos faltantes que se solicitaron. | La organización investiga acerca de ciertos grupos de donación a los cuales pueda llegar su solicitud. |
+| Thinking | La organización piensa que este es un proceso que puede ser tardado y deficiente a largo plazo. | La organización piensa que realizar estos eventos puede tomar tiempo y dinero. | La organización piensa que debería existir una mejor forma de llegar a un público en concreto. | La organización piensa que este tipo de aplicación podría facilitar la exhaustiva búsqueda de este grupo de personas. |
+| Feeling  | La organización se siente limitada debido a la deficiencia que puede conllevar esta estrategia. | La organización se siente saturada debido a la cantidad de tiempo que sugiere realizar estos eventos. | La organización se siente desconcertada al no encontrar una forma mas optima de llegar a un público. | La organización se siente desmotivada al no encontrar una aplicación que satisfaga su necesidad. |
+
 ## 2.4. Ubiquitous Language.
 ```
 Texto ubiquo: Se trata de un glosario de términos 
