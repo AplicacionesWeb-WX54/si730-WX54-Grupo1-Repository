@@ -53,15 +53,64 @@ En el Peru existen 978 Organizaciones privadas sin fines de lucro de las cuales 
 
 Es aqui donde nosotros ideamos la propuesta de [NOMBRE], una aplicacion web que nos servira para reducir el tiempo que toma encontrar una ONG que requiera de ayuda para asimismo eseñandole al usuario la importancia de las ONG y tambien facilitarle a como participar de actividades sociales. El usuario tendra toda la libertad de buscar alguna ONG especifica o la que requiera el objeto el cual la persona este deseando donar.
 
+What (¿Que se está haciendo?): Se facilita el proceso de accion para actividades orientadas al apoyo social y donacion de bienes. Asimismo se concientiza de la importancia de las ONG.
+
+Why (¿Porque se está haciendo?): Se hace esta aplicacion web con el objetivo de que mas personas esten mejor informadas y sean persuadidas a tomar accion en actividades de ayuda sociales sin la necesidad de buscar mucha informacion de donde o como pueden participar.
+
+When (¿Cuándo se usa?): Se usa cuando el usuario tenga la necesidad o curiosidad de saber como o donde puede asisitir a actividades de ayuda sociales ya sea un evento o saber donde puede entregar distintos donativos de manera simple y rapida.
+
+Where (¿Dónde se usa?): El uso esta diseñado para Perú ya que se recompilara informacion de ONG's que esten actuando en este pais. Asimismo esta App Web se puede usar facilmente desde el telefono o escritorio.
+
+Who (¿Quién lo usa?): Lo usan personas interesadas en realizar donaciones a organizaciones No Gubernamentales o en participar en sus actividades de ayuda social. No obstante tambien esta dirigido a las mismas organizaciones que desean ser mejor reconocidas o que tienen problema llegando a sus metas de donacion.
+
+How Much (¿Cuánto costaría?): La aplicacion web tendra sus funcionalidades core de manera gratuita es decir el buscar organizaciones que tengan algun evento de ayuda social o que necesiten donativos. No obstante, tambien tendra una subscripcion de pago para el usuario para que este reciba notificaciones de los eventos mas recientes con la informacion necesaria que el necesite para inscribirse, asimismo como para las organizaciones que quieran usar la plataforma web como metodo para publicar eventos y objetivos de donacion para que aparezcan en la parte mas visible de la pagina, esta subscripcion se tendra que renovar cada cierto tiempo con un proceso de cola para darle una oportunidad a distintas organizaciones a que tengan más visibilidad en la front page.
+
+How (¿Cómo se lleva al cabo?)
+La aplicacion web tendra un sistema de filtos para tener un display de opciones que se visualizaran segun quiera el usuario o este mismo puede buscarla por su nombre, una vez este seleccione que desea donar o si desea participar entonces se le proporcionara toda la informacion que este necesite para saber el proceso de donacion junto a una redireccion hacia la pagina oficial de la ONG junto con informacion general de la importancia de las ONG para informar al usuario.
+En el proceso de subscripcion se le solicitara su correo para enviarle las notificaciones y datos personales como dni, nombre, apellidos y edad para poder hacer el proceso de inscripcion mas facil si es que este desea participar o hacer donativos y poder hacerle un seguimiento para poder recomendarle ONGs mas orientadas a su edad.
+En el caso de las ONG se les hara un proceso de inscripcion y se tendra que tambien hacer un proceso de validacion mostrando evidencia de que sean una ong legitima, seguidamente se les permitirá crear un post o importarlo para subir en nuestra front page.
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
-Texto
+Hemos identificado que existen diferentes factores los cuales llevan al usuario comun a no tener motivos suficientes para participar de actividades sociales o de hacer donativos a estas mismas, una de estas siendo la falta de informacion y la carencia de visibilidad que estan tienen siendo que aun asi habiendo mas de 1000 ONG's en el Perú no se conocen muchas de estas ni de como poder ayudarlas. Aparte de esto tambien identificamos que necesitan visibilidad con el publico general para poder fomentar la acción de estos. Frente a esta problematica nos planteamos la siguiente pregunta:
+¿Como informamos a la poblacion y les facilitamos la participacion en las actividades que ofrecen las distintas ONG's de nuestro país de manera eficiente?
 #### 1.2.2.2. Lean UX Assumptions.
+
+Después de analizar la problemática y los factores que la ocasionan, podemos tener un panorama de cómo solucionar la necesidad del usuario declarando supuestos, lo cual corresponde al siguiente paso de la Lean UX. Por ello, es necesario tener un conocimiento previo de las empresas que tienen características similares a las nuestras y cómo estas se han desarrollado con el paso del tiempo. 
+
+Se mencionan a dos potenciales competidores:
+
+CauseVox
+Plataforma que facilita el crowdfunding no solo de bienes monetarios, sino también de recursos como víveres y vestimenta.	Plataforma de recaudación de fondos que brinda herramientas necesarias para crear campañas llamativas para cumplir su meta de donación. su diversificacion de bienes junto con sus campañas muestran su capacidad para ser competidores.
+
+Donadora
+Es una plataforma mexicana en la que se pueden financiar proyectos de caridad, así como proyectos de tipo artístico, científico, entre otros. Al entrar en la financiacion para diferentes proyectos fuera de la caridad presenta una aptidud para ser competidor.
+
 |Business Assumptions|User Assumptions|
 |-|-|
-|1. - 12. |1. - 6.|
+|Creemos que nuestros usuarios tienen la necesidad de saber como realizar donaciones o participar en actividades de caridad.  |Los usuarios de este producto son personas de distintas edades las cuales tengan interes en participar, conocer mas de o realizar donaciones a una ONG |
+|Este problema se puede solucionar con una plataforma donde se presente toda la informacion necesaria para el proceso de inscripcion o donacion |Nuestro producto encajaría en la vida cotidiana debido a que no sera dificil de acceder y sera facil de utilizar |
+|Los usuarios iniciales serán individuos interesados en realizar donaciones o participar de actividades de ayuda social.  |Este producto resolverá la necesidad de saber los procesos de inscripcion o donacion de diferentes ONG mientras tambien los informa de su importancia |
+|El valor #1 de nuestro servicio es el fácil acceso, filtracion de informacion relevante segun el usuario y la interfaz amigable y simple de usar. |El producto se utilizará en el momento que el usuario tenga la disponibilidad de realizar una donacion o desee participar de alguna actividad de ayuda social por medio de la web app este podra filtrar segun sus intereses o zona y finalmente sera proporcionado con la informacion necesaria.|
+|El aplicativo adicionalmente presentara una subscripcion a un newsletter donde se notificara a este mismo de diferentes actividades u objetivos de donacion recientes segun sus datos. Para las ONG les dara la posibilidad de poder conseguir mejor visibilidad por medio del frontpage del web app donde se mostraran algunas ONG |Las funciones mas importantes son el mostrar las diferentes ONG segun los filtros selecionados o por nombre, ademas de concientizar la importancia de las ONG.|
+|Se conseguirán la mayoría de los usuarios por medio de marketing digital (como las redes sociales) y Noticieros. |Nuestro producto debe verse como un intermediario entre el usuario y las ONG y debe funcionar como un filtro de preferencias elegidas por el mismo usuario mientras que en el proceso le informa y concientiza de la importancia de las ONG|
+|Conseguiremos ingresos de la aplicación por medio de las suscripciones.||
+|Nuestros competidores principales serán CauseVox y Donadora. ||
+|Los venceremos al tener una mayor interactividad, la constancia por medio de subscripciones y la facil busqueda de ONGs a las cuales el usuario este interesado ||
+|El mayor riesgo del producto es la falta de alcance inicial y los cambios en las ONG. ||
+|Solucionaremos esto por medio de campañas de publicidad y manteniendo un seguimiento de las ONG vigentes.||
+|Pensamos que un assumption que si se prueba falso puede causar que el proyecto falle es la demanda actual de nuestro producto y el alcance que podemos conseguir.||
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-Texto
+- Creemos que, al brindar una interfaz poco compleja de usar para nuestros usuarios, podrán tener una mejor experiencia de usuario al buscar la ONG que les interes y seran motivados a contarle a otras personas de la simple efectividad de nuestra aplicacion web.
+Sabremos que hemos tenido éxito cuando se incremente el número de personas que esten dispuestas a apoyar a distintas ONG por medio de nuestra plataforma. 
+
+- Creemos que la aplicación ayudará a las personas que quieren apoyar a las ONG pero no saben como y a las mismas ONG. 
+Sabremos que hemos tenido éxito cuando veamos las ONG menos reconocidas empiezen a tener mas reconocimiento.  
+
+Creemos que ayudar a las ONG a tener mas visibilidad en la frontpage por medio de una subscripcion poco costosa ayudara a mejorar la visibilidad y aumentar la cantidad de personas motivadas a ayudar.
+Sabremos que hemos tenido éxito, cuando a nivel nacional se empiece a notar un incremento en la ayuda social proporcionada. 
+
 #### 1.2.2.4. Lean UX Canvas.
 (imagen con texto)
 ## 1.3. Segmentos objetivo.
