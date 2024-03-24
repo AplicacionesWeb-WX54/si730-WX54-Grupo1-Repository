@@ -248,7 +248,7 @@ Escenario 2: Organización sin fines de lucro desea realizar y programar un even
 | Feeling  | La organización se siente cómoda ya que puede comunicarse rápidamente a sus usuarios. | La organización se siente satisfecho ya que conecta rápidamente con su público. | La organización se siente entusiasmado ya que la interfaz permite programar un evento fácilmente  | La organización se siente optimista ya que la interfaz de la aplicación permite registrar los datos del evento rápidamente. |
 
 ## 3.2. User Stories.
-
+ 
 | HU0X | Historia Usuario | "Descripcion"  |
 |-|-|-|
 | HU01 | Listado de organizaciones benéficas | Como usuario donante, quiero poder ver una lista de organizaciones benéficas registradas en la plataforma, para poder seleccionar a quién quiero donar.  |
