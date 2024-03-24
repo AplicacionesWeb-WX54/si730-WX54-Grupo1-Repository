@@ -36,7 +36,7 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
-Texto del proyecto
+Nuestra startup [nombre] se basa en un sistema el cual se encarga de conectar a diferentes organizaciones las cuales necesitan donaciones para los mas necesitados con usuarios dispuestos a donar una diferente variedad de objetos como ropa, libros, viveres o algun objeto es especial que la misma organizacion puede especificar. Esto se hace con el objetivo de poder aumentar la ayuda que reciben estas organizaciones en especial en las temporadas donde requieren de más ayuda y concientizar a las personas de la importancia de las organizaciones que se dedican.
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
@@ -48,7 +48,11 @@ Texto del proyecto
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-Investigacion (5w, 2h tbn)
+Segun la Oficina de Naciones Unidas para la Coordinación de Asuntos Humanitarios (OCHA) en 2023 se reportaron 801,425 personas en necesidades de alimentacion, servicios de agua, saneamiento e higiene.
+En el Peru existen 978 Organizaciones privadas sin fines de lucro de las cuales principalmente 428 se han categorizado como de salud, 19 de educacion y 35 de vivienda (SIGCTI, 2024), esto nos demuestra que existe un alto rango de organizaciones privadas sin fines de lucro. No obstante cuando buscamos organizaciones ONDG(Organizaciones No Gubernamentales de Desarollo) encontramos un total de 1835 (SIGCTI, 2024). Aun con muchas instituciones el alcance que se logra resulta ser preocupante, en la encuesta que se realizo por equillibrium CenDE en 2023 de entre casi 1,200 personas un 80% de estas reconocia que es una ONG no obstante 71% o no sabia o no conocia iniciativas realizadas por las ONGs en ese año, en esta misma encuesta solo un 7% no tenia interes alguno en participar en el abordamiento de problemas publicos ni socialmente es decir un 93% de las 1,200 estaban dispuestas a apoyar sin embargo tambien se menciono que la principal causa que mencionan que limita esta participacion eran el tiempo, la desconfianza, limitaciones economicas y desconocimiento sobre como participar, siendo asi que un 72% de las personas encuestadas no han participado en estas actividades (CenDE, 2023).
+
+Es aqui donde nosotros ideamos la propuesta de [NOMBRE], una aplicacion web que nos servira para reducir el tiempo que toma encontrar una ONG que requiera de ayuda para asimismo eseñandole al usuario la importancia de las ONG y tambien facilitarle a como participar de actividades sociales. El usuario tendra toda la libertad de buscar alguna ONG especifica o la que requiera el objeto el cual la persona este deseando donar.
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 Texto
