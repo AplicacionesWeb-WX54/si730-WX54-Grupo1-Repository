@@ -77,17 +77,19 @@ Texto
 
 | Competitive Analysis Landscape                          |  |
 | ------------------------------------------------------- | -|
-| ¿Por qué llevar a cabo este análisis?                   | -- |
+| ¿Por qué llevar a cabo este análisis?                   | Realizamos este análisis a fin de poder conocer el mercado al que nos enfrentamos en un inicio, para de esta manera poder evaluar las estrategias adoptadas por plataformas ya existentes, y así aprender de sus aciertos y errores. |
 
 
-| |  | (Nosotros) | Competidor  | Comptdor |
+| |  | (Nosotros)| CauseVox| Donadora |
 |-|-|-|-|-|
-| PERFIL| Overview | lorem | ipsum | lorem |
-|| Ventaja competitiva ¿Qué valor ofrece a los clientes? |  ipsu | impuz |
-|| Mercado Objetivo                                        | Jeda | asa | asa2 |
-| Perfil de marketing                                     | Estrategia de Marketing | Redes Sociales | Redes Sociales | Televisión, Redes Sociales |
-| Perfil del producto                                     | Productos y servicios | Elementos Gráficos Interactivos Enseñanza de Matemáticas Lúdica y Autodidacta Educación matemática interactiva Ámbito Freemium | Educación matemática interactiva Mas de 100 cursos en 28 idiomas diferentes | Educación general interactiva Contratos con Movistar |
-|| Precios y costos                                        | Freemium (Cuenta Premium permite personalizar los juegos) Gratis | Gratuito | Gratuito |
+| PERFIL| Overview | Plataforma que facilita el crowdfunding no solo de bienes monetarios, sino también de recursos como víveres y vestimenta.  | Plataforma de recaudación de fondos que brinda herramientas necesarias para crear campañas llamativas para cumplir su meta de donación. | Es una plataforma mexicana en la que se pueden financiar proyectos de caridad, así como proyectos de tipo artístico, científico, entre otros. |
+|| Ventaja competitiva ¿Qué valor ofrece a los clientes? |  ipsu | Cuenta con herramientas que le permiten al usuario personalizar su propia campaña para recaudar fondos con su logo e imágenes con las que atraer potenciales donantes. |Permite categorizar los proyectos en 9 categorías, por lo que le facilita al usuario la búsqueda de iniciativas afines a este.
+|| Mercado Objetivo                                        | Organizaciones peruanos y personas con proyectos que necesiten bienes materiales para ser concretados, así como individuos interesados en apoyar. | Organizaciones sin fines de lucro, grupos comunitarios y empresas, e individuos que deseen financiar dichas iniciativas. | Personas de México que quieran apoyo para financiar un proyecto, organizaciones sin fines de lucro, e individuos que deseen financiar dichas iniciativas. |
+| Perfil de marketing                                     | Estrategia de Marketing | Se hacen uso de redes sociales y de publicidad en línea | Publicidad por redes y publicidad en línea | Marketing por influencia, publicidad por redes |
+| Perfil del producto                                     | Productos y servicios | //// | CauseVox es una plataforma de recaudación de fondos que facilita la creación y gestión de campañas de recaudación de fondos en línea. | Donadora es una plataforma de crowdfunding que permite a los usuarios crear campañas para recaudar fondos en efectivo, así como donaciones de artículos físicos. 
+
+ |
+|| Precios y costos                                        | Freemium (las cuentas premium cuentan con beneficios en cuanto a la jerarquía de su aparición en la plataforma)| De pago | Gratuito |
 || Canales de distribución (Web y/o Móvil)                 | Web y Móvil Web | Móvil Web | Web y móvil Web |
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
