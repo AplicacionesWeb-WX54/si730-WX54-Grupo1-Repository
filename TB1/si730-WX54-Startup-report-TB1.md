@@ -10,7 +10,7 @@
 "Startup"
 "Producto"
 ### Integrantes:
-- Nombre
+- Peña Rivera, Manuel Sebastian - U202210138
 - Ramírez Hoffmann, Sebastián - U202211894
 - Rodriguez Vargas, Arian Martin - U202212096
 - Esteban Garcia, Nicolas Sebastián - U202217485
@@ -44,7 +44,7 @@ Texto del proyecto
 |Rodriguez Vargas, Arian Martin <img src="../assets/arigeimpleis.jpg" alt="Imagen del compañero" style="width:100%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 |Esteban Garcia, Nicolas Sebastian <img src="../assets/nekolas-profile.png" alt="Imagen del compañero" style="width:100%">|U202217485|Ingenieria de software|HTML, CSS Y JS. Sociable.|
 |Herrera Aguirre, Fabia Alejandra 	<img src="../assets/pelufoto.png" alt="Imagen del compañero" style="width:100%">|U202219422|Ingenieria de software|C++, Python. Creativa.|
-|compañero x 	<img src="https://avatars.githubusercontent.com/u/129230632?v=4" alt="Imagen del compañero" style="width:100%">|U20...|Ingenieria de software|C++, Python .etc|
+|Peña Rivera, Manuel Sebastian	<img src="" alt="Imagen del compañero" style="width:100%">|U202210138|Ingenieria de software|C++, Python, MongoDB, SQL, Assembler. Responsabilidad y Buena Comunicación| 
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
