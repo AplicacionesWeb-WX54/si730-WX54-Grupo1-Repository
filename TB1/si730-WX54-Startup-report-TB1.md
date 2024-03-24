@@ -41,10 +41,10 @@ Texto del proyecto
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
 |Ramírez Hoffmann, Sebastián  <img src="https://avatars.githubusercontent.com/u/129230632?v=4" alt="Imagen del compañero" style="width:100%">|U20221894|Ingenieria de software|C++, Python, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico|
-|Rodriguez Vargas, Arian Martin <img src="../assets/arigeimpleis.jpg" alt="Imagen del compañero" style="width:100%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
-|Esteban Garcia, Nicolas Sebastian <img src="../assets/nekolas-profile.png" alt="Imagen del compañero" style="width:100%">|U202217485|Ingenieria de software|HTML, CSS Y JS. Sociable.|
-|Herrera Aguirre, Fabia Alejandra 	<img src="../assets/pelufoto.png" alt="Imagen del compañero" style="width:100%">|U202219422|Ingenieria de software|C++, Python. Creativa.|
-|Peña Rivera, Manuel Sebastian	<img src="../assets/Manuel.jpg" alt="Imagen del compañero" style="width:100%">|U202210138|Ingenieria de software|C++, Python, MongoDB, SQL, Assembler. Responsabilidad y Buena Comunicación| 
+|Rodriguez Vargas, Arian Martin <img src="../assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:100%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
+|Esteban Garcia, Nicolas Sebastian <img src="../assets/members-profile/nekolas-profile.png" alt="Imagen del compañero" style="width:100%">|U202217485|Ingenieria de software|HTML, CSS Y JS. Sociable.|
+|Herrera Aguirre, Fabia Alejandra 	<img src="../assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:100%">|U202219422|Ingenieria de software|C++, Python. Creativa.|
+|Peña Rivera, Manuel Sebastian	<img src="../assets/members-profile/Manuel.jpg" alt="Imagen del compañero" style="width:100%">|U202210138|Ingenieria de software|C++, Python, MongoDB, SQL, Assembler. Responsabilidad y Buena Comunicación| 
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -173,10 +173,10 @@ Why would they invite others?
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
+![Empathy Map Segmento1](../assets/requirements-images/empathy_map_user.png)
 
 **Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+![Empathy Map Segmento1](../assets/requirements-images/empathy_map_organizations.png)
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
