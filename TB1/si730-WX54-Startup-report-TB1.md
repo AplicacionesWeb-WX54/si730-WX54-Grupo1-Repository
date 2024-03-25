@@ -201,10 +201,10 @@ Ocupación: _____
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+![Imagen User Persona 1](../assets/requirements-images/user%20persona%20user.png)
 
 **Segmento 2:**
-![Imagen User Persona 1](image.jpg)
+![Imagen User Persona 1](../assets/requirements-images/user%20persona%20organizations.png)
 
 ### 2.3.2. User Task Matrix.
 | --- | ------ | Segmento 1  | ------/----- | Segmento 2  | ---------- |
