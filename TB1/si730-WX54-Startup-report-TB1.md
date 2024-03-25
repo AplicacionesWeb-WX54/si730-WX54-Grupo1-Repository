@@ -120,13 +120,13 @@ Sabremos que hemos tenido éxito, cuando a nivel nacional se empiece a notar un 
 
 
 ## 1.3. Segmentos objetivo.
-| | Segmento 1 | Segmento 2  |
+| |Segmento 1 | Segmento 2  |
 | - | - |-|
-| Variables                 |  |  |
-| Geográfica                |  |  |
-| Demográfica               |  |  |
-| Psicológica               |  |  |
-| Función de comportamiento |  |  |
+| Variables                 |  Usuarios interesados en participar de actividades de ayuda social o en donar | ONG |
+| Geográfica                | En el Perú, de entre 1,200 personas el 93% de estas estan interesadas en participar en actividades de ayuda social (CenDE, 2023) | Existen más de 1000 ONG en el Perú (SIGCTI,2024), no obstante solo se reconocen un aproximado de 10 como las principales (CenDE ,2023) |
+| Demográfica               | Edades de entre 17 a 50+ años <br> Genero: Masculino y Femenino | Organizaciones con almenos 1 año registradas como ONG |
+| Psicológica               | Piensa en participar de actividades sociales o de donaciones en algun momento mas las limitaciones como el tiempo, la disponibilidad economica, la fiabilidad de las ONG que busca o el proceso de inscripcion terminan desanimandolo | Estas Organizaciones requieren de mas donaciones o participantes para sus campañas u eventos y buscan formas de hacerse más visibles en el caso de las menos reconocidas. |
+| Función de comportamiento | Actitudes: Tiene una idea de que es una ONG pero en su mayoria no sabe como puede participar o no sabe de los eventos actuales en los cuales puede formar parte, algunos no conocen otras ONG y otros tienen la motivacion pero no saben si las ONG que encuentren haran correcto uso de lo donado <br> Conocimientos: Sabe que es una ONG, tiene entendido que existen organizaciones fraudulentas que se hacen pasar por ONG, normalmente no sabe si se cumplio el objetivo despues de participar| Actitudes: Hacen todo lo posible para que las donaciones lleguen en su mayor porcentaje a los más necesitados, la mayoria no puede compartir su mensaje más allá de campañas publicitarias de bajo alcance, existen ONG con mas presencia y fiabilidad. <br> Conoce: Saben quienes requieren de ayuda, un estimado de cuanto se necesita o que se necesita para considerar donaciones, organizan eventos para concientizar y poder ayudar. |
 
 ---
 
