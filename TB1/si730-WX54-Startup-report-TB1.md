@@ -460,6 +460,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ![Class Diagram](../assets/diagrams/class_diagram.png)
+URL del diagrama de clases: https://lucid.app/lucidchart/cacf7465-9eca-4b65-86fc-1e3843d2a34c/edit?invitationId=inv_85650c36-929c-4732-bea5-5d6622586c6a
 ### 4.7.2. Class Dictionary.
 Inherit (ave(superclase) -> (subclase)canario )
 Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
