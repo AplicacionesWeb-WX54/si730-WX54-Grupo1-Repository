@@ -276,7 +276,7 @@ en el que se especializa la startup.
 
 **5. Intermediario de donaciones:** Una plataforma o servicio que facilita la conexión entre organizaciones benéficas que necesitan donaciones y personas dispuestas a donar.
 
-**6. Donación en especie:** La contribución de bienes tangibles, como alimentos, ropa, medicamentos, etc., en lugar de dinero.
+**6. ONG:** Entidad formada por personas que comparten un interés común en promover una causa social, política o ambiental.
 
 **7. Usuario donante:** Un usuario de la plataforma que está interesado en donar artículos o suministros a organizaciones benéficas.
 
