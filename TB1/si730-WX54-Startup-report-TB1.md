@@ -1,14 +1,14 @@
----
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>INGENIERÍA DE SISTEMAS DE SOFTWARE</strong><br>
+    <strong> SI720 Aplicaciones Web - WX54</strong><br>
+    <strong>Profesor:  Alex Humberto Sánchez Ponce </strong><br>
+    <br>INFORME <br>
+    "Startup" | "Producto"
+</p>
 
----
----
-# UPC
-# INGENIERÍA DE SISTEMAS DE SOFTWARE
-## CURSO: SI730 Aplicaciones Web | SECCIÓN WX54 
- Profesor: Alex Humberto Sánchez Ponce
-# Informe de TB1
-"Startup"
-"Producto"
+
 ### Integrantes:
 - Peña Rivera, Manuel Sebastian - U202210138
 - Ramírez Hoffmann, Sebastián - U202211894
