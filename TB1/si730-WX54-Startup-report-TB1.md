@@ -459,8 +459,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-![Class Diagram](../assets/diagrams/class_diagram.png)
-URL del diagrama de clases: https://lucid.app/lucidchart/cacf7465-9eca-4b65-86fc-1e3843d2a34c/edit?invitationId=inv_85650c36-929c-4732-bea5-5d6622586c6a
+
 ### 4.7.2. Class Dictionary.
 Inherit (ave(superclase) -> (subclase)canario )
 Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
@@ -468,8 +467,6 @@ Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usad
 Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-![Database Diagram](../assets/diagrams/databasediagram.png)
-URL del diagrama de base de datos: https://my.vertabelo.com/public-model-view/bhwahkHjXkWACtrp79Tq36cqbujgxxQA5KLQPJxv9J080pVxci5WD2BoTJfT7gS9?x=2309&y=2810&zoom=0.4314
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
