@@ -49,43 +49,50 @@ Nuestra startup [nombre] se basa en un servicio enfocado en proporcionar estadis
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
+
 Segun la Oficina de Naciones Unidas para la Coordinación de Asuntos Humanitarios (OCHA) en 2023 se reportaron 801,425 personas en necesidades de alimentacion, servicios de agua, saneamiento e higiene.
-En el Peru existen 978 Organizaciones privadas sin fines de lucro de las cuales principalmente 428 se han categorizado como de salud, 19 de educacion y 35 de vivienda (SIGCTI, 2024), esto nos demuestra que existe un alto rango de organizaciones privadas sin fines de lucro. No obstante cuando buscamos organizaciones ONDG(Organizaciones No Gubernamentales de Desarollo) encontramos un total de 1835 (SIGCTI, 2024). Aun con muchas instituciones el alcance que se logra resulta ser preocupante, en la encuesta que se realizo por equillibrium CenDE en 2023 de entre casi 1,200 personas un 80% de estas reconocia que es una ONG no obstante 71% o no sabia o no conocia iniciativas realizadas por las ONGs en ese año, en esta misma encuesta solo un 7% no tenia interes alguno en participar en el abordamiento de problemas publicos ni socialmente es decir un 93% de las 1,200 estaban dispuestas a apoyar sin embargo tambien se menciono que la principal causa que mencionan que limita esta participacion eran el tiempo, la desconfianza, limitaciones economicas y desconocimiento sobre como participar, siendo asi que un 72% de las personas encuestadas no han participado en estas actividades (CenDE, 2023).
+En el Peru existen 978 Organizaciones privadas sin fines de lucro de las cuales principalmente 428 se han categorizado como de salud, 19 de educacion y 35 de vivienda (SIGCTI, 2024), esto nos demuestra que existe un alto rango de organizaciones privadas sin fines de lucro. No obstante cuando buscamos organizaciones ONDG(Organizaciones No Gubernamentales de Desarollo) encontramos un total de 1835 (SIGCTI, 2024). Aun con muchas instituciones el alcance que se logra resulta ser preocupante, en la encuesta que se realizo por equillibrium CenDE en 2023 de entre casi 1,200 personas un 80% de estas reconocia que es una ONG no obstante 71% o no sabia o no conocia iniciativas realizadas por las ONGs en ese año, en esta misma encuesta solo un 7% no tenia interes alguno en participar en el abordamiento de problemas publicos ni socialmente es decir un 93% de las 1,200 estaban dispuestas a apoyar sin embargo tambien se menciono que la principal causa que mencionan que limita esta participacion eran el tiempo, la desconfianza, limitaciones economicas y desconocimiento sobre como participar, siendo asi que un 72% de las personas encuestadas no han participado en estas actividades (CenDE, 2023). Adicionalmente cuando estas mismas ONG reciben grandes cantidades de datos normalmente solo son para obtener una cifra que represente los asistentes a algun evento o cuanto se logro de un objetivo de donacion omitiendo lo enriquecedor de esta data recolectada, como se menciona en el articulo "Data Analytics for Nonprofits" (DigitalForNonprofits, 2023), en el mundo de hoy para realizar acciones estrategicas y maximisar recursos distintas empresas utilizan lo llamado analisis de datos, esta practica se puede aplicar a un modelo de negocios sin fines de lucro como las ONG donde se consiguen los mismos beneficios que brindan los analisis de datos.
 
-Es aqui donde nosotros ideamos la propuesta de [NOMBRE], una aplicacion web que nos servira para reducir el tiempo que toma encontrar una ONG que requiera de ayuda para asimismo eseñandole al usuario la importancia de las ONG y tambien facilitarle a como participar de actividades sociales. El usuario tendra toda la libertad de buscar alguna ONG especifica o la que requiera el objeto el cual la persona este deseando donar.
+Es aqui donde nosotros ideamos la propuesta de [NOMBRE], una aplicacion web que proporcionara un servicio tanto para los usuarios interesados en la participacion en una ONG donde se tendra toda la libertad de buscar alguna ONG especifica como para las ONG que busquen mejorar el impacto de sus actividades haciendo uso de su informacion recopilada por medio de nosotros quienes por nuestro servicio de analisis de datos y gestion de proyectos le proporcionaremos oportunidades de mejora, graficas relevantes respecto a la data y recomendaciones en como pueden implementar una recolecion de datos mas efectiva para amplificar el impacto deseado. 
 
-What (¿Que se está haciendo?): Se facilita el proceso de accion para actividades orientadas al apoyo social y donacion de bienes. Asimismo se concientiza de la importancia de las ONG.
+What (¿Que se está haciendo?): Se facilita el proceso de accion para actividades orientadas al apoyo social y donacion de bienes. Asimismo se proporciona un servicio de gestion avanzado para las ONG con el objetivo de aumentar el impacto de estas.
 
-Why (¿Porque se está haciendo?): Se hace esta aplicacion web con el objetivo de que mas personas esten mejor informadas y sean persuadidas a tomar accion en actividades de ayuda sociales sin la necesidad de buscar mucha informacion de donde o como pueden participar.
+Why (¿Porque se está haciendo?): Se hace esta aplicacion web con el objetivo de darle una herramienta a las ONG para aumentar la eficiencia de sus proyectos de ayuda social proporcionando adicionalmente una plataforma donde personas interesadas en las ONG puedan conseguir informacion de estas de una manera rapida y facil.
 
-When (¿Cuándo se usa?): Se usa cuando el usuario tenga la necesidad o curiosidad de saber como o donde puede asisitir a actividades de ayuda sociales ya sea un evento o saber donde puede entregar distintos donativos de manera simple y rapida.
+When (¿Cuándo se usa?): Se usa cuando la ONG tiene los datos recopilados de su proyecto mas reciente y desea ver las oportunidades de mejora e ideas para la eficacia de su siguiente proyecto en un formato visual que sea facil de entender. Mientras que para el usuario se usa cuando este tenga la necesidad o curiosidad de saber como o donde puede asisitir a actividades de ayuda sociales ya sea un evento o saber donde puede entregar distintos donativos de manera simple y rapida.
 
-Where (¿Dónde se usa?): El uso esta diseñado para Perú ya que se recompilara informacion de ONG's que esten actuando en este pais. Asimismo esta App Web se puede usar facilmente desde el telefono o escritorio.
+Where (¿Dónde se usa?): El uso esta diseñado para Perú ya que se recompilara informacion de ONG's que esten actuando en este pais, de esta manera se podran hacer recomendaciones mas locales. Asimismo esta App Web se puede usar facilmente desde el telefono o escritorio.
 
-Who (¿Quién lo usa?): Lo usan personas interesadas en realizar donaciones a organizaciones No Gubernamentales o en participar en sus actividades de ayuda social. No obstante tambien esta dirigido a las mismas organizaciones que desean ser mejor reconocidas o que tienen problema llegando a sus metas de donacion.
+Who (¿Quién lo usa?): El usuario principal para nosotros son las ONG ya que son estas mismas las que nos proporcionaran los datos recopilados para mejorar su impacto y darnos una idea de la mejor recomendacion para estas, mientras que nuestro segmento secundario serian las personas interesadas en realizar donaciones a organizaciones No Gubernamentales o en participar en sus actividades de ayuda social.
 
-How Much (¿Cuánto costaría?): La aplicacion web tendra sus funcionalidades core de manera gratuita es decir el buscar organizaciones que tengan algun evento de ayuda social o que necesiten donativos. No obstante, tambien tendra una subscripcion de pago para el usuario para que este reciba notificaciones de los eventos mas recientes con la informacion necesaria que el necesite para inscribirse, asimismo como para las organizaciones que quieran usar la plataforma web como metodo para publicar eventos y objetivos de donacion para que aparezcan en la parte mas visible de la pagina, esta subscripcion se tendra que renovar cada cierto tiempo con un proceso de cola para darle una oportunidad a distintas organizaciones a que tengan más visibilidad en la front page.
+How Much (¿Cuánto costaría?): La aplicacion web tendra sus funcionalidades core a medio de pago es decir el proceso de gestion recopilacion y refinamiento de datos junto con las mejores oportunidades de mejora para estas. No obstante, la funcion secundaria que vendria siendo el sistema de busqueda de ONG sera completamente gratuita con una subscripcion de pago opcional para el usuario que este interesado en notificaciones de los eventos mas recientes. Tanto el core de la app web como la subscripcion se tendran que renovar cada cierto tiempo donde en el caso de las organizaciones se tendra que escoger un plan anual o mensual.
 
 How (¿Cómo se lleva al cabo?)
-La aplicacion web tendra un sistema de filtos para tener un display de opciones que se visualizaran segun quiera el usuario o este mismo puede buscarla por su nombre, una vez este seleccione que desea donar o si desea participar entonces se le proporcionara toda la informacion que este necesite para saber el proceso de donacion junto a una redireccion hacia la pagina oficial de la ONG junto con informacion general de la importancia de las ONG para informar al usuario.
-En el proceso de subscripcion se le solicitara su correo para enviarle las notificaciones y datos personales como dni, nombre, apellidos y edad para poder hacer el proceso de inscripcion mas facil si es que este desea participar o hacer donativos y poder hacerle un seguimiento para poder recomendarle ONGs mas orientadas a su edad.
-En el caso de las ONG se les hara un proceso de inscripcion y se tendra que tambien hacer un proceso de validacion mostrando evidencia de que sean una ong legitima, seguidamente se les permitirá crear un post o importarlo para subir en nuestra front page.
+
+En el caso de la primera funcionalidad se hara un proceso de inscripcion y se tendra que tambien hacer un proceso de validacion mostrando evidencia de que sean una ong legitima, seguidamente se les solicitara los datos recopilados de su ultimo proyecto o del que quieran conseguir un analisis completo, de estos datos se mostraran graficos, explicaciones, recomendaciones y oportunidades de mejora en base a la demografica, los objetos mas comunes en sus donaciones o los proyectos donde hubo un flujo de participantes mas alto. Asimismo se proporcionara la herramienta para gestionar futuros proyectos la cual se podra usar de manera opcional para poder estructurar mejor los encargados y objetivos del siguiente proyecto, si la ONG no proporciona estos datos se le daran recomendaciones de que informacion deberia solicitar para que el impacto sea efectivo en futuros proyectos.
+
+En el caso de la segunda funcionalidad, la aplicacion web tendra un sistema de filtos para tener un display de opciones que se visualizaran segun quiera el usuario o este mismo puede buscarla por su nombre, una vez este seleccione que desea donar o si desea participar entonces se le proporcionara toda la informacion que este necesite para saber el proceso de donacion junto a una redireccion hacia la pagina oficial de la ONG junto con informacion general esta misma.
+
+
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
-Hemos identificado que existen diferentes factores los cuales llevan al usuario comun a no tener motivos suficientes para participar de actividades sociales o de hacer donativos a estas mismas, una de estas siendo la falta de informacion y la carencia de visibilidad que estan tienen siendo que aun asi habiendo mas de 1000 ONG's en el Perú no se conocen muchas de estas ni de como poder ayudarlas. Aparte de esto tambien identificamos que necesitan visibilidad con el publico general para poder fomentar la acción de estos. Frente a esta problematica nos planteamos la siguiente pregunta:
-¿Como informamos a la poblacion y les facilitamos la participacion en las actividades que ofrecen las distintas ONG's de nuestro país de manera eficiente?
+Se identifica una falta de conexion por parte de las ONG donde existen muchas oportunidades de mejora segun la informacion recopilada de estas, no obstante muchas organizaciones no tienen conocimiento del potencial que se puede obtener de esta informacion o no cuentan con un equipo dedicado al analisis de datos a niveles de Big Data. Asimismo hemos identificado que existen diferentes factores los cuales llevan a un usuario interesado en una ONG a no tener motivos suficientes para participar de actividades sociales o de hacer donativos a estas mismas, una de estas siendo la falta de informacion y la carencia de visibilidad que estan tienen siendo que aun asi habiendo mas de 1000 ONG's en el Perú no se conocen muchas de estas ni de como poder ayudarlas. Frente a esta problematica nos planteamos la siguiente pregunta:
+¿Como facilitamos el proceso de gestion de un proyecto de ayuda social y paralelamente informamos y les facilitamos la participacion en las actividades que ofrecen las distintas ONG's a la poblacion de nuestro país de manera eficiente?
 #### 1.2.2.2. Lean UX Assumptions.
 
 Después de analizar la problemática y los factores que la ocasionan, podemos tener un panorama de cómo solucionar la necesidad del usuario declarando supuestos, lo cual corresponde al siguiente paso de la Lean UX. Por ello, es necesario tener un conocimiento previo de las empresas que tienen características similares a las nuestras y cómo estas se han desarrollado con el paso del tiempo. 
 
 Se mencionan a dos potenciales competidores:
 
-CauseVox
-Plataforma que facilita el crowdfunding no solo de bienes monetarios, sino también de recursos como víveres y vestimenta.	Plataforma de recaudación de fondos que brinda herramientas necesarias para crear campañas llamativas para cumplir su meta de donación. su diversificacion de bienes junto con sus campañas muestran su capacidad para ser competidores.
+CauseVox:
+Plataforma que facilita el crowdfunding no solo de bienes monetarios, sino también de recursos como víveres y vestimenta. Plataforma de recaudación de fondos que brinda herramientas necesarias para crear campañas llamativas para cumplir su meta de donación. su diversificacion de bienes junto con sus campañas muestran su capacidad para ser competidores.
 
-Donadora
+Donadora:
 Es una plataforma mexicana en la que se pueden financiar proyectos de caridad, así como proyectos de tipo artístico, científico, entre otros. Al entrar en la financiacion para diferentes proyectos fuera de la caridad presenta una aptidud para ser competidor.
+
+Logalto:
+Es un Programa web colaborativo para el monitoreo y la evaluación de proyectos de desarrollo internacional la cual proporciona una alta gama de herramientas de gestion de proyectos.
 
 |Business Assumptions|User Assumptions|
 |-|-|
@@ -564,6 +571,10 @@ formato
         "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
 
 ```
+https://www.linkedin.com/pulse/data-analytics-nonprofits-digitalfornonprofits/
+
+https://www.linkedin.com/pulse/data-key-unlocking-nonprofit-success-everyone-thrives-4btnc/?trk=public_post_main-feed-card_feed-article-content
+
 # Anexos
 
 datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
