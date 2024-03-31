@@ -36,7 +36,8 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
-Nuestra startup [nombre] se basa en un sistema el cual se encarga de conectar a diferentes organizaciones las cuales necesitan donaciones para los mas necesitados con usuarios dispuestos a donar una diferente variedad de objetos como ropa, libros, viveres o algun objeto es especial que la misma organizacion puede especificar. Esto se hace con el objetivo de poder aumentar la ayuda que reciben estas organizaciones en especial en las temporadas donde requieren de más ayuda y concientizar a las personas de la importancia de las organizaciones que se dedican.
+Nuestra startup [nombre] se basa en un servicio enfocado en proporcionar estadisticas analiticas respecto a los participantes en eventos o donaciones de una ONG, esto se hara al recibir informacion de la misma ONG y por medio de nosotros se hara un analisis intensivo en oportunidades de mejora y datos relevantes segun la informacion proporcionada. Adicionalmente se contara con un sistema de conexion entre ONG y usuario proporcionandole informacion relevante de como participar de eventos de ayuda social. Este proyecto se hace con el objetivo de facilitar el proceso general de gestionar y generar actividades de ayuda social proporcionandole al usuario comun una forma mas facil de informarse y a la ONG formas mas efectivas de llevar al cabo sus proyectos.
+
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
