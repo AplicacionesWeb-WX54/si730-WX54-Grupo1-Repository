@@ -214,21 +214,21 @@ Ocupación: _____
 ### 2.3.3. User Journey Mapping.
 **Registration:**
 Why would they trust us?
-- s
-- s
-- s
+- Interface facil de entender
+- Funciones bien definidas 
+- Ofrecemos un servicio completo junto a recomendaciones
   
 **Onboarding and first use:**
 How can they feel successful?
-- s
-- s
-- s  
+- La interfaz es simple de entender
+- Solicita poco y devuelve mucho
+- Es eficiente para ambos segmentos
   
 **Sharing:**
 Why would they invite others?
-- s
-- s
-- s
+- Facilidad de usar
+- Resultados acertados
+- Servicio accesible
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
@@ -276,7 +276,7 @@ en el que se especializa la startup.
 
 **5. Intermediario de donaciones:** Una plataforma o servicio que facilita la conexión entre organizaciones benéficas que necesitan donaciones y personas dispuestas a donar.
 
-**6. ONG:** Entidad formada por personas que comparten un interés común en promover una causa social, política o ambiental.
+**6. Donación en especie:** La contribución de bienes tangibles, como alimentos, ropa, medicamentos, etc., en lugar de dinero.
 
 **7. Usuario donante:** Un usuario de la plataforma que está interesado en donar artículos o suministros a organizaciones benéficas.
 
@@ -311,26 +311,26 @@ Escenario 2: Organización sin fines de lucro desea realizar y programar un even
  
 | HU0X | Historia Usuario | "Descripcion"  |
 |-|-|-|
-| HU01 | Listado de organizaciones benéficas | Como usuario donante, quiero poder ver una lista de organizaciones benéficas registradas en la plataforma, para poder seleccionar de quién quiero participar del proceso de donación.  |
+| HU01 | Listado de organizaciones benéficas | Como usuario donante, quiero poder ver una lista de organizaciones benéficas registradas en la plataforma, para poder seleccionar a quién quiero donar.  |
 | HU02 | Lista de necesidades en recursos | Como usuario donante, quiero poder ver una lista de necesidades específicas de cada organización benéfica, para poder donar artículos que realmente necesitan.  |
 | HU03 | Detalles de lo necesitado | Como usuario donante, quiero poder ver información detallada sobre cada necesidad benéfica, incluyendo la cantidad requerida y la fecha límite de donación, para poder planificar mi donación.  |
-| HU04 | Fácil contribución a donar | Como usuario posible a contruibuir a una donación, quiero poder dirigirme a los perfiles de las organizaciones para contactarme y conocer más sobre el proceso interesado, para que el proceso sea más rápido |
-| HU05 | Agradecimiento por el interés | Como usuario contribuyente a donación, quiero poder visualizar un mensaje de agradecimiento, una vez me haya informado sobre el proceso de donación en el perfil de la organización para incentivarme a conocer más de otros procesos |
+| HU04 | Donaciones sencillas y rápidas | Como usuario donante, quiero poder realizar donaciones en especie a través de la plataforma, para poder contribuir con las organizaciones benéficas de manera fácil y segura.  |
+| HU05 | Confirmación y agradecimiento | Como usuario donante, quiero recibir una confirmación de mi donación, incluyendo detalles sobre los artículos donados y la organización benéfica receptora, para tener un registro de mis contribuciones.  |
 | HU06 | Perfil y detalles de la organización | Como organización benéfica, quiero poder registrar los detalles de mi organización en la plataforma, incluyendo el nombre, la misión, la ubicación y la información de contacto, para poder recibir donaciones.  |
 | HU07 | Creación lista de necesidades | Como organización benéfica, quiero poder crear una lista de necesidades específicas de mi organización, incluyendo la descripción de los artículos necesarios y la cantidad requerida, para poder comunicar nuestras necesidades a los usuarios donantes.  |
-| HU08 | Historial de posibles donaciones | Como usuario, posible donante, quiero poder contar con un historial de las organizaciones a las que me ha interesado su proceso, incluyendo detalles del perfil de la ONG y los artículos posibles donados, para poder realizar un seguimiento de mis contribuciones.  |
-| HU09 | Recomendaciones y nuevos intereses  | Como usuario suscrito al newsletter de la aplicación, quiero recibir recomendaciones personalizadas sobre organizaciones benéficas y necesidades específicas, basadas en mis intereses, para facilitar el proceso de selección de procesos de donación.  |
-| HU10 | Eventos e iniciativas | Como organización benéfica, quiero que mis eventos e iniciativas programadas sean visibles en la página principal de la aplicación a nivel informativo, para que los usuarios puedan participar activamente además de las donaciones. |
-| HU11 | Solicitud de apoyo | Como organización benéfica, quiero poder solicitar voluntarios a través de la plataforma a nivel informativo como anuncio en la página principal, para que puedan apoyar a nuestras operaciones y programas de donaciones.  |
-| HU12 | Publicaciones de agradecimiento y metas logradas | Como organización benéfica, quiero poder compartir historias de éxito y testimonios de beneficiarios de nuestros programas en la plataforma, para mostrar el impacto positivo de nuestras actividades.  |
-| HU13 | Promoción y creación de eventos | Como organización benéfica, quiero poder crear y promocionar eventos benéficos en la plataforma, para recaudar fondos y aumentar la conciencia sobre nuestra causa. |
-| HU14 | Perfil de donante | Como usuario posible a contribución, quiero poder crear un perfil en la plataforma, para autocompletar mis datos en el proceso de donación.  |
-| HU15 | Punto de enfoque | Como usuario posible a contribución, quiero que no hayan anuncios publicitarios en la aplicación, para que pueda enfocarme en el proceso de donación.  |
-| HU16 | Redirección al proceso de donación | Como organización benéfica quiero poder redirigir a los usuarios donantes a mi página web oficial, para que puedan conocer más sobre nuestra organización y nuestros programas de donación.  |
-| HU17 | Compartir en redes sociales | Como usuario donante, quiero poder compartir información sobre las necesidades benéficas y las organizaciones registradas de la plataforma en mis redes sociales, para aumentar la visibilidad y las donaciones.  |
-| HU18 | Acceso a información de contacto | Como usuario donante, quiero poder acceder a la información de contacto de las organizaciones benéficas registradas en la plataforma, para poder comunicarme con ellas directamente.  |
-| HU19 | Registro de usuarios interesados | Como organización benéfica quiero poder visualizar en mi perfil cuántos usuarios han mostrado interés en donar a través de la plataforma, para evaluar el impacto de nuestras campañas de donación.  |
-| HU20 | Volver a página principal | Como usuario donante, quiero poder regresar a la página principal de la aplicación en cualquier momento, para navegar fácilmente entre las diferentes secciones.  |
+| HU08 | Notificaciones automáticas de nueva donación | Como organización benéfica, quiero poder recibir notificaciones cuando un usuario donante realice una donación a nuestra organización, para poder estar al tanto de las contribuciones recibidas. |
+| HU09 | Gestión de la lista de necesidades | Como organización benéfica, quiero poder gestionar y actualizar nuestra lista de necesidades en la plataforma, para reflejar con precisión nuestras necesidades actuales.  |
+| HU10 | Reseña y comentarios | Como usuario donante, quiero poder compartir información sobre las necesidades benéficas y las organizaciones registradas en la plataforma en mis redes sociales, para aumentar la visibilidad y las donaciones.  |
+| HU11 | Historial de donaciones | Como usuario donante, quiero poder ver un historial de mis donaciones anteriores en la plataforma, incluyendo detalles como la fecha y los artículos donados, para poder realizar un seguimiento de mis contribuciones.  |
+| HU12 | Recomendaciones y nuevos intereses  | Como usuario donante, quiero recibir recomendaciones personalizadas sobre organizaciones benéficas y necesidades específicas, basadas en mis intereses y patrones de donación anteriores, para facilitar el proceso de selección de donaciones.  |
+| HU13 | Donaciones flexibles | Como usuario donante, quiero poder realizar donaciones monetarias a través de la plataforma, para apoyar a las organizaciones benéficas de manera flexible.  |
+| HU14 | Eventos e iniciativas | Como usuario donante, quiero recibir notificaciones sobre eventos benéficos o campañas especiales organizadas por las organizaciones benéficas en la plataforma, para poder participar activamente en iniciativas adicionales de donación. |
+| HU15 | Dashboard de estadísticas y reseñas | Como usuario donante, quiero poder ver el impacto de mis donaciones, incluyendo estadísticas y testimonios sobre cómo mis contribuciones han beneficiado a las organizaciones benéficas, para motivarme a seguir donando. |
+| HU16 | Informes sobre las donaciones | Como organización benéfica, quiero poder acceder a informes y estadísticas sobre las donaciones recibidas a través de la plataforma, para evaluar el rendimiento de nuestras campañas de recaudación de fondos.  |
+| HU17 | Mensajes de agradecimiento automáticos | Como organización benéfica, quiero poder enviar mensajes de agradecimiento automáticos a los usuarios donantes después de cada donación, para expresar nuestra gratitud de manera oportuna. |
+| HU18 | Solicitud de apoyo | Como organización benéfica, quiero poder solicitar voluntarios a través de la plataforma, para apoyar nuestras operaciones y programas.  |
+| HU19 | Publicaciones de agradecimiento y metas logradas | Como organización benéfica, quiero poder compartir historias de éxito y testimonios de beneficiarios de nuestros programas en la plataforma, para mostrar el impacto positivo de nuestras actividades.  |
+| HU20 | Promoción y creación de eventos | Como organización benéfica, quiero poder crear y promocionar eventos benéficos en la plataforma, para recaudar fondos y aumentar la conciencia sobre nuestra causa. |
 
 ## 3.3. Impact Mapping.
 
@@ -372,9 +372,12 @@ Descripcion del porque estos elementos seran importantes
 ![Colores generales](image.jpg)
 
 **Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
+Se hace uso de la tipogracia Roboto     
+<img src="../assets/StyleGuidelines-Images/roboto.png" alt="Tipografias generales" style="width:70%"><br><br>
+
 **Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
+Escogimos este logotipo porque refleja los valores y mision de nuestro servicio el cual como se puede observar tiene caracteristicas que se pueden relacionar facilmente a nuestra propuesta. {falta crear y el nombre}
+![Branding general](image.jpg)  
 ### 4.1.2. Web Style Guidelines.
 Descripcion de los elementos que se utilizaran en el web app
 
@@ -385,8 +388,10 @@ Descripcion de los elementos que se utilizaran en el web app
 **Button Styles:** (Button, dropdowns, Switches)
 ![Button Preview web](image.jpg)
 **Icons:** (Fondo blanco con los iconos que vamos a usar)
+Tendremos iconografia de busqueda, lapiz, ropa, reciclaje, icono de grafico, foco, etc
 ![Icons Preview web](image.jpg)
 **Misc** (Cosas como nav var o slideshows que pensemos usar)
+{neko}
 ![Miscellaneos preview web](image.jpg)
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
@@ -459,8 +464,8 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-![Class Diagram](../assets/diagrams/class_diagram.png)
-URL del diagrama de clases: https://lucid.app/lucidchart/cacf7465-9eca-4b65-86fc-1e3843d2a34c/edit?invitationId=inv_85650c36-929c-4732-bea5-5d6622586c6a
+Esta yaselasaben (diagrama de clases)
+Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
 ### 4.7.2. Class Dictionary.
 Inherit (ave(superclase) -> (subclase)canario )
 Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
@@ -468,9 +473,7 @@ Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usad
 Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-![Database Diagram](../assets/diagrams/database_diagram.png)
-URL del diagrama de base de datos: https://my.vertabelo.com/public-model-view/bhwahkHjXkWACtrp79Tq36cqbujgxxQA5KLQPJxv9J080pVxci5WD2BoTJfT7gS9?x=2309&y=2810&zoom=0.4314
-
+Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
