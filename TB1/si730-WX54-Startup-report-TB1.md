@@ -160,11 +160,11 @@ Es un Programa web colaborativo para el monitoreo y la evaluación de proyectos 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
 
-|Competidores |  | Nosotros | CauseVox| Donadora|
+|Competidores |  | Nosotros | CauseVox| Bloomerang|
 |-|-|-|-|-|
-| Análisis SWOT | Fortalezas |- La aplicación cuenta con una función educativa.<br>- Capacidad de personalizar recomendaciones según preferencias.<br>- Acceso rápido a información sobre ONGs.| - Permite la personalización completa del aspecto de las páginas de campaña.<br>- Herramientas para la promoción en redes sociales. | - Permite financiar una amplia gama de proyectos.<br>- La plataforma es accesible y fácil de usar para crear y gestionar campañas. |
-|| Debilidades   | - Limitación de recursos para el financiamiento de la promoción de la aplicación.<br>- Competencia con plataformas similares. | - Limitaciones en su alcance de mercado. | - No cuenta disponibilidad en varios países latinoamericanos. | lorem | 
-|| Oportunidades | - Crear alianzas con ONGs o empresas podría mejorar el alcance de la aplicación.<br>- El aumento de conciencia social y de la disposición para apoyar a ONGs.<br>- La expansión de la aplicación a regiones extranjeras. | Desarrollar nuevas funcionalidades para mejorar la experiencia de usuario. | La expansión de la aplicación a regiones extranjeras. | lorem | 
+| Análisis SWOT | Fortalezas |- La aplicación cuenta con una función educativa.<br>- Capacidad de personalizar recomendaciones según preferencias.<br>- Acceso rápido a información sobre ONGs.| - Permite la personalización completa del aspecto de las páginas de campaña.<br>- Herramientas para la promoción en redes sociales. | - Cuenta con servicio al cliente en tiempo real.<br>- La plataforma es accesible y fácil de usar para crear y gestionar campañas, y realizar estrategias de marketing por correo. |
+|| Debilidades   | - Limitación de recursos para el financiamiento de la promoción de la aplicación.<br>- Competencia con plataformas similares. | - Limitaciones en su alcance de mercado. | - Los precios de su servicio es elevado. | lorem | 
+|| Oportunidades | - Crear alianzas con ONGs o empresas podría mejorar el alcance de la aplicación.<br>- El aumento de conciencia social y de la disposición para apoyar a ONGs.<br>- La expansión de la aplicación a regiones extranjeras. | Desarrollar nuevas funcionalidades para mejorar la experiencia de usuario. | La expansión de la aplicación a un público más amplio al ofrecer tipos de suscripción alternos y a menor precio. | lorem | 
 || Amenazas      | - La existencia de competidores establecidos.<br>- Preocupaciones sobre la seguridad de datos y las transacciones de las donaciones. | - Al ser un servicio de pago, potenciales organizaciones podrían optar por opciones accesibles. | - La aparición de competencia emergente.<br>- La desconfianza hacia algunas organizaciones benéficas por la percepción del mal manejo de fondos. | lorem |
 
 ## 2.2. Entrevistas.
