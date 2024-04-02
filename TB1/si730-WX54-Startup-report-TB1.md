@@ -279,21 +279,21 @@ en el que se especializa la startup.
 
 **2. Necesidades benéficas:** Los artículos, suministros o recursos específicos que una organización benéfica requiere para llevar a cabo sus actividades o programas.
 
-**3. Donante:** Una persona o entidad que contribuye con artículos, suministros o recursos a una organización benéfica.
+**3. Miembro de equipo:** Una persona que está dentro de un grupo asignado para llevar a cabo una tarea o proyecto específico de la ONG.
 
 **4. Lista de necesidades:** Una lista detallada de los artículos o suministros específicos que una organización benéfica necesita recibir como donación.
 
-**5. Intermediario de donaciones:** Una plataforma o servicio que facilita la conexión entre organizaciones benéficas que necesitan donaciones y personas dispuestas a donar.
+**5. Dashboard estadístico:** Un panel de control que muestra información visual sobre las donaciones realizadas, las necesidades actuales, etc.
 
-**6. Donación en especie:** La contribución de bienes tangibles, como alimentos, ropa, medicamentos, etc., en lugar de dinero.
+**6. Registro de costos:** Un registro de los costos asociados con la realización de un proyecto o evento benéfico.
 
 **7. Usuario donante:** Un usuario de la plataforma que está interesado en donar artículos o suministros a organizaciones benéficas.
 
-**8. Usuario receptor:** Una organización benéfica que está registrada en la plataforma y que busca recibir donaciones de artículos o suministros.
+**8. Project Manager ONG:** Un miembro del equipo de la ONG responsable de planificar, organizar y supervisar la ejecución de un proyecto benéfico.
 
-**9. Registro de donación:** Un registro de las donaciones realizadas por los usuarios, que puede incluir información sobre los artículos donados, la organización benéfica receptora, etc.
+**9. Asignación de tareas:** La distribución de tareas específicas a los miembros del equipo de la ONG para llevar a cabo un proyecto o evento benéfico.
 
-**10. Notificación de necesidad:** Una alerta o mensaje que se envía a los usuarios sobre las necesidades específicas de una organización benéfica en un momento dado.
+**10. Evento benéfico:** Una actividad o programa organizado por una organización benéfica para recaudar fondos, donaciones o concienciar sobre una causa específica.
 
 ---
 
