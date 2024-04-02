@@ -311,26 +311,26 @@ Escenario 2: Organización sin fines de lucro desea realizar y programar un even
  
 | HU0X | Historia Usuario | "Descripcion"  |
 |-|-|-|
-| HU01 | Listado de organizaciones benéficas | Como usuario donante, quiero poder ver una lista de organizaciones benéficas registradas en la plataforma, para poder seleccionar de quién quiero participar del proceso de donación.  |
-| HU02 | Lista de necesidades en recursos | Como usuario donante, quiero poder ver una lista de necesidades específicas de cada organización benéfica, para poder donar artículos que realmente necesitan.  |
-| HU03 | Detalles de lo necesitado | Como usuario donante, quiero poder ver información detallada sobre cada necesidad benéfica, incluyendo la cantidad requerida y la fecha límite de donación, para poder planificar mi donación.  |
-| HU04 | Fácil contribución a donar | Como usuario posible a contruibuir a una donación, quiero poder dirigirme a los perfiles de las organizaciones para contactarme y conocer más sobre el proceso interesado, para que el proceso sea más rápido |
-| HU05 | Agradecimiento por el interés | Como usuario contribuyente a donación, quiero poder visualizar un mensaje de agradecimiento, una vez me haya informado sobre el proceso de donación en el perfil de la organización para incentivarme a conocer más de otros procesos |
-| HU06 | Perfil y detalles de la organización | Como organización benéfica, quiero poder registrar los detalles de mi organización en la plataforma, incluyendo el nombre, la misión, la ubicación y la información de contacto, para poder recibir donaciones.  |
-| HU07 | Creación lista de necesidades | Como organización benéfica, quiero poder crear una lista de necesidades específicas de mi organización, incluyendo la descripción de los artículos necesarios y la cantidad requerida, para poder comunicar nuestras necesidades a los usuarios donantes.  |
-| HU08 | Historial de posibles donaciones | Como usuario, posible donante, quiero poder contar con un historial de las organizaciones a las que me ha interesado su proceso, incluyendo detalles del perfil de la ONG y los artículos posibles donados, para poder realizar un seguimiento de mis contribuciones.  |
-| HU09 | Recomendaciones y nuevos intereses  | Como usuario suscrito al newsletter de la aplicación, quiero recibir recomendaciones personalizadas sobre organizaciones benéficas y necesidades específicas, basadas en mis intereses, para facilitar el proceso de selección de procesos de donación.  |
-| HU10 | Eventos e iniciativas | Como organización benéfica, quiero que mis eventos e iniciativas programadas sean visibles en la página principal de la aplicación a nivel informativo, para que los usuarios puedan participar activamente además de las donaciones. |
-| HU11 | Solicitud de apoyo | Como organización benéfica, quiero poder solicitar voluntarios a través de la plataforma a nivel informativo como anuncio en la página principal, para que puedan apoyar a nuestras operaciones y programas de donaciones.  |
-| HU12 | Publicaciones de agradecimiento y metas logradas | Como organización benéfica, quiero poder compartir historias de éxito y testimonios de beneficiarios de nuestros programas en la plataforma, para mostrar el impacto positivo de nuestras actividades.  |
-| HU13 | Promoción y creación de eventos | Como organización benéfica, quiero poder crear y promocionar eventos benéficos en la plataforma, para recaudar fondos y aumentar la conciencia sobre nuestra causa. |
-| HU14 | Perfil de donante | Como usuario posible a contribución, quiero poder crear un perfil en la plataforma, para autocompletar mis datos en el proceso de donación.  |
-| HU15 | Punto de enfoque | Como usuario posible a contribución, quiero que no hayan anuncios publicitarios en la aplicación, para que pueda enfocarme en el proceso de donación.  |
-| HU16 | Redirección al proceso de donación | Como organización benéfica quiero poder redirigir a los usuarios donantes a mi página web oficial, para que puedan conocer más sobre nuestra organización y nuestros programas de donación.  |
-| HU17 | Compartir en redes sociales | Como usuario donante, quiero poder compartir información sobre las necesidades benéficas y las organizaciones registradas de la plataforma en mis redes sociales, para aumentar la visibilidad y las donaciones.  |
-| HU18 | Acceso a información de contacto | Como usuario donante, quiero poder acceder a la información de contacto de las organizaciones benéficas registradas en la plataforma, para poder comunicarme con ellas directamente.  |
-| HU19 | Registro de usuarios interesados | Como organización benéfica quiero poder visualizar en mi perfil cuántos usuarios han mostrado interés en donar a través de la plataforma, para evaluar el impacto de nuestras campañas de donación.  |
-| HU20 | Volver a página principal | Como usuario donante, quiero poder regresar a la página principal de la aplicación en cualquier momento, para navegar fácilmente entre las diferentes secciones.  |
+| HU01 | Listado de proyectos a realizar | Como project manager encargado del proceso, quiero planificar lo que haré en un listado de tareas, para tener en cuenta lo proyectado.  |
+| HU02 | Actualizaciones de nuevos proyectos | Como miembro del equipo y parte del proyecto, quiero mantenerme informado sobre los nuevos procesos o cambios que se hayan realizado en una lista de status, para no perderme de ningún detalle.  |
+| HU03 | Asignación de tareas del proyecto | Como project manager encargado de un proyecto, quiero asignar a mis miembros del equipo algunas tareas y establecer fechas límites, para mantener un orden.  |
+| HU04 | Calendario con fechas importantes | Como miembro del parte del proyecto, quiero ver en un calendario las fechas y eventos relacionados al proyecto para no perderme ningún detalle.  |
+| HU05 | Dashboard estadístico simple | Como project manager a cargo de un proyecto, quiero ver un resumen visual del progreso del proyecto en forma de gráficos, para tener una mejor visión de lo planificado.  |
+| HU06 | Lista de tareas completadas | Como miembro del proyecto, quiero ver mis tareas asignadas, organizadas y completadas en una lista, para tener mejor detalle de lo realizado. |
+| HU07 | Generación de resúmenes | Como project manager a cargo de un proyecto benéfico, quiero generar resúmen estadístico sobre lo planificado a gastar con un solo click, para optimizar tiempos. |
+| HU08 | Status automático del proyecto | Como miembro del proyecto, quiero ver un resumen ejecutivo del proyecto que incluya el estado actual, los hitos, riesgos identificados, para reconocer rápidamente lo planificado. |
+| HU09 | Registro de detalles en el proyecto | Como miembro del proyecto, quiero registrar horas de trabajo y gastos relacionados con el proyecto para llevar un control preciso de los recursos utilizados  |
+| HU10 | Solicitud de recursos | Como miembro del proyecto, quiero solicitar, mandar análisis de nuevos recursos que se requieren al project manager, para que este al tanto de nuevos requerimientos.   |
+| HU11 | Fechas a expirar | Como miembro del proyecto, quiero ver cuando una fecha límite está por llegar, para diferenciarlos de los que aun existe un rango de tiempo. |
+| HU12 | Estimación de gastos  | Como project manager, quiero poder establecer y gestionar un presupuesto para el proyecto, incluyendo seguimiento de gastos y comparación con la estimación inicial. |
+| HU13 | Límite máximo de presupuesto | Como project manager quiero que me alerte cuando vayamos gastando más de lo presupuestado de manera visual, para tener una diferencia y estar pendiente de ello.  |
+| HU14 | Registro de gastos | Como miembro del proyecto, quiero registrar los recursos que se han ido adquiriendo para que se vaya teniendo un alcance de lo que se va gastando. |
+| HU15 | Directorio de contactos | Como miembro del proyecto, quiero tener un listado de todos los demás miembros para poder ponerme en contacto con ellos. |
+| HU16 | Recomendaciones sobre el buen manejo de proyectos | Como miembro del equipo quiero tener un repositorio en el que tenga diferentes fuentes recomendadas por la aplicación para el buen manejo de proyectos y campañas.  |
+| HU17 | Picos de riesgo | Como project manager, quiero visualizar en el dashboard cuando algún ajuste de la campaña no está cuadrando, para mantenerme alerta del buen manejo del proyecto |
+| HU18 | Documentos legales | Como project manager quiero subir los documentos legalizados sobre la organización benéfica para que sea compartido con los miembros del proyecto |
+| HU19 | Gestión de donaciones | Como miembro del proyecto, quiero poder acceder a un sistema de gestión de donaciones para hacer un seguimiento de las contribuciones recibidas y su impacto en el proyecto. |
+| HU20 | Promoción y seguimiento | quiero poder acceder a un sistema de seguimiento de objetivos y resultados para evaluar el progreso del proyecto y realizar ajustes si es necesario. |
 
 ## 3.3. Impact Mapping.
 
