@@ -334,8 +334,8 @@ Escenario 2: Organización sin fines de lucro desea realizar y programar un even
 
 ## 3.3. Impact Mapping.
 
-![Impact Mapping User](../assets/impact-mapping-images/Impact_mapping_user.png)
-![Impact Mapping Organizations](../assets/impact-mapping-images/Impact_mapping_organizations.png)
+![Impact Mapping Project Manager](../assets/impact-mapping-images/Impact-mapping-project-manager.png)
+![Impact Mapping Organizer](../assets/impact-mapping-images/Impact-mapping-organizer.png)
 
 
 ## 3.4. Product Backlog.
