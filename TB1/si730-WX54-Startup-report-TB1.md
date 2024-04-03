@@ -366,18 +366,40 @@ Escenario 2: Organización sin fines de lucro desea realizar y programar un even
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
-Descripcion del porque estos elementos seran importantes
 
-**Color:** (Descripcion de los colores escogidos y porque)  
-![Colores generales](image.jpg)
+Como startup, nos esforzamos por transmitir profesionalismo y eficiencia a través de nuestra aplicación web, AidManager. Hemos seleccionado una paleta de colores con tonos celestes y verdes para reflejar frescura y conexión con la naturaleza, mientras que las tipografías Poppins y Lora ofrecen una apariencia moderna, limpia y legible. Estas decisiones de diseño no solo buscan captar la atención de nuestros usuarios, sino también garantizar una experiencia agradable y efectiva, reforzando nuestro compromiso en la gestión eficiente de eventos benéficos y donaciones.
+
+**Color:** (Descripcion de la paleta escogida para el proyecto y porque)
+
+| Color | Descripción |
+|-----------|-----------|
+| Color primario    | Representa confianza, serenidad y estabilidad. Transmite la idea de fiabilidad y compromiso en la gestión de organizaciones benéficas, lo que inspira confianza en los donantes y en aquellos que buscan ayuda.<br><br><img src="../assets/StyleGuidelines-Images/PrimaryColor.jpeg" alt="Tipografias generales" style="width:70%"> |
+| Color Secundario  | Este color evoca calma, frescura y bienestar. Simboliza la esperanza y el apoyo que tu startup ofrece a las personas necesitadas, así como la naturaleza refrescante de las soluciones que proporciona. <br><br><img src="../assets/StyleGuidelines-Images/SecondaryColor.jpeg" alt="Tipografias generales" style="width:70%">    |
+| Color de Acento | Este color combina la estabilidad del azul con la vitalidad del verde. Representa el crecimiento, la renovación y la prosperidad, en el cual se busca mejorar la vida de las personas necesitadas y fomentar un cambio positivo en la comunidad. <br><br><img src="../assets/StyleGuidelines-Images/TittleColor.jpeg" alt="Tipografias generales" style="width:70%">   |
+| Color de Fondo  | Este tono de verde transmite equilibrio, armonía y seguridad. Esto refleja la solidez y la integridad de tu startup en su enfoque hacia la gestión eficiente de eventos benéficos y donaciones, asegurando que los recursos se utilicen de manera responsable y efectiva. <br><br><img src="../assets/StyleGuidelines-Images/FooterColor.jpeg" alt="Tipografias generales" style="width:70%">  |
+
+Paleta de colores empleado:
+<center>
+  <img src="../assets/StyleGuidelines-Images/PaletColor.jpg" alt="Tipografias generales" style="width:70%"><br><br>
+</center>
 
 **Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-Se hace uso de la tipogracia Roboto     
-<img src="../assets/StyleGuidelines-Images/roboto.png" alt="Tipografias generales" style="width:70%"><br><br>
+
+| Tipografia | Descripcion |
+|-----------|-----------|
+| Poppins Font | Esta tipografía se eligió por su apariencia moderna, limpia y versátil. Su estilo geométrico y su excelente legibilidad la hacen ideal para comunicar profesionalismo y eficiencia en la gestión de organizaciones benéficas.  |
+| Lora Font | Se seleccionó Lora por su elegancia y legibilidad, que complementa perfectamente la apariencia contemporánea de Poppins. Su estilo serifado transmite una sensación de tradición y prestigio, lo que refuerza la credibilidad de tu startup en el sector de la beneficencia. |
+
+<br><center><img src="../assets/StyleGuidelines-Images/PoppinsFont.jpg" alt="Tipografias generales" style="width:70%"><br><br></center>
+
+<center><img src="../assets/StyleGuidelines-Images/LoraFont.jpg" alt="Tipografias generales" style="width:70%"><br><br></center>
 
 **Branding** (Describir logotipo y porque)
-Escogimos este logotipo porque refleja los valores y mision de nuestro servicio el cual como se puede observar tiene caracteristicas que se pueden relacionar facilmente a nuestra propuesta. {falta crear y el nombre}
-![Branding general](image.jpg)  
+
+El logo de nuestra startup, que muestra la vista superior de alguien abriendo los brazos en un color verde azulado, simboliza nuestra dedicación a la apertura, el apoyo y la generosidad hacia aquellos que más lo necesitan. Representa nuestra misión de ofrecer ayuda directa y tangible, fomentando la solidaridad, la esperanza y la renovación en la comunidad.
+
+<br><center><img src="../assets/StyleGuidelines-Images/LogoAidManager.jpg" alt="Tipografias generales" style="width:70%"><br><br></center>
+
 ### 4.1.2. Web Style Guidelines.
 Descripcion de los elementos que se utilizaran en el web app
 
