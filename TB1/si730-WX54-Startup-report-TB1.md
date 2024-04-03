@@ -433,8 +433,9 @@ la pagina donde te registras y ves info del web app (te manda al web app)
 Wireframe es todo lo funcional de la pagina
 ![Landing page Wireframe](image.jpg)
 ### 4.3.2. Landing Page Mock-up.
-Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+
+<img src="../assets/Landing page mock-up/Landing mock up.png" alt="Landing page mock up" style="width:100%;">
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 lo funcional de cada aspecto del wireframe 
