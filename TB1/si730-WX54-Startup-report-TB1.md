@@ -291,21 +291,24 @@ en el que se especializa la startup.
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
  
-Escenario 1: Usuario necesita una interfaz cómoda donde pueda visualizar el registro de los bienes que ha donado y eventos próximos realizados por organizaciones
+Escenario 1: Gestor de proyecto realiza su labor con AidManager para que lo beneficie.
+To-Be:
+| Fases|        |   |    |   |
+|----------|--------------|--------|----------|--------|
+| Doing          | Utilizando la herramienta web para planificar proyectos | Accediendo a la información recolectada por los ayudantes | Manteniendo comunicación directa con los ayudantes a través de la plataforma | Analizando oportunidades de mejora proporcionadas por la herramienta |
+| Thinking       | Considerando cómo optimizar la planificación de proyectos con la información obtenida | Evaluando la calidad y relevancia de la información recolectada | Reflexionando sobre la efectividad de la comunicación directa con los ayudantes | Identificando oportunidades de mejora sugeridas por la plataforma |
+| Feeling        | Satisfecho con la eficiencia y precisión en la planificación de proyectos | Valorando la contribución de los ayudantes a través de la información recolectada | Confianza en la comunicación fluida con los ayudantes | Motivado por las oportunidades de mejora identificadas por la herramienta |
 
-| Fases    |  El usuario desea tener una sección donde pueda visualizar la cantidad de productos que dono de forma detallada | El usuario desea tener un registro de los productos que dono, así como las fechas de entrega en la que se realizó| El usuario desea tener un seguimiento acerca de los próximos eventos de caridad que ofrecen las organizaciones| El usuario desea tener un apartado donde se visualice la información de los eventos, además de la organización que lo brinda. |
-| -------- | ---- | ------ | ----- | ------------- |
-| Doing    | El usuario hace un registro manual de los productos y bienes donados a aquellas organizaciones. | El usuario anota con las fechas en su calendario para llevar un registro de las donaciones que realizo | El usuario anota las fechas de su calendario los eventos próximos de las organizaciones que ha donado. | El usuario registra la información para los eventos próximos que se realizarán, además de informarlo a la comunidad. |
-| Thinking | El usuario piensa que seria ideal tener un apartado especial para tener un registro de los productos donados | El usuario piensa que la aplicación debería permitir registrar las fechas de entrega, así como su información. | El usuario piensa que se debería implementar un sistema de registro de fechas para los eventos próximos. | El usuario piensa que cada evento debería contar detalles de la misma dentro de la aplicación para facilitar la información. |
-| Feeling  | El usuario siente que es trabajoso tener que registrar esta información manualmente. | El usuario se siente agobiado debido a que no se cuenta con un registro de fechas de entrega. | El usuario se siente esperanzado en que se implemente la funcionalidad. | El usuario se siente confundido al no encontrar las fechas o información a dichos eventos. |
 
-Escenario 2: Organización sin fines de lucro desea realizar y programar un evento donde se solicite ciertos bienes en específico a los usuarios a través de la aplicación.
+Escenario 2: Ayudante del proyecto es enviado a manejar el proyecto de manera presencial con AidManager.
 
-| Fases    | La organización tiene pensado organizar un evento en la que se solicite productos específicos. | La organización desea llegar al publico objetivo que desee donar dichos productos. | La organización desea programar un evento próximamente que será publicado en la aplicación | La organización desea mostrar la información acerca de dicho evento llegando a la mayor cantidad de usuarios donantes |
-| -------- | ---- | ------ | ----- | ------------- |
-| Doing    | La organización publica un comunicado para informar al usuario de la aplicación | La organización hace una encuesta a los usuarios donantes para tener más información | La organización programa una fecha por medio de la aplicación y es publicada. | La organización registra todos los datos del evento que se realizará a través de la aplicación.         |
-| Thinking | La organización piensa que esta forma de comunicación es muy cómoda. | La organización piensa que la forma de llegar al público es muy eficaz. | La organización piensa que esta dinámica es bastante rápido y eficiente. | La organización piensa que registrar un evento dentro de la aplicación es bastante intuitiva y cómoda |
-| Feeling  | La organización se siente cómoda ya que puede comunicarse rápidamente a sus usuarios. | La organización se siente satisfecho ya que conecta rápidamente con su público. | La organización se siente entusiasmado ya que la interfaz permite programar un evento fácilmente  | La organización se siente optimista ya que la interfaz de la aplicación permite registrar los datos del evento rápidamente. |
+TO-BE:
+| Fases          |      |       |       |       |
+|---------|--------|--------|------------------|---------|
+| Doing          | Utilizando la herramienta web para recolectar información demográfica, geográfica y psicológica relevante | Comunicando la información recolectada de manera directa al gestor de proyectos | Colaborando con el gestor en la planificación y ejecución del proyecto utilizando la información recolectada | Manteniendo actualizado el inventario y presupuesto del proyecto en la plataforma |
+| Thinking       | Reflexionando sobre la importancia y relevancia de la información recolectada para el proyecto | Evaluando la eficacia de la comunicación directa con el gestor a través de la plataforma | Considerando cómo mejorar la colaboración con el gestor utilizando la información recolectada | Identificando oportunidades de mejora en la gestión del inventario y presupuesto del proyecto |
+| Feeling        | Comprometido con la precisión y relevancia de la información recolectada | Satisfecho al contribuir de manera significativa al proyecto a través de la información recolectada | Motivado por la colaboración directa con el gestor y el impacto positivo en el proyecto | Esperanzado por la mejora continua en la gestión del inventario y presupuesto del proyecto |
+
 
 ## 3.2. User Stories.
  
