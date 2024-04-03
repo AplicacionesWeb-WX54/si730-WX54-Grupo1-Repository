@@ -216,10 +216,29 @@ Ocupación: _____
 
 
 ### 2.3.2. User Task Matrix.
-| --- | ------ | Segmento 1  | ------/----- | Segmento 2  | ---------- |
+| ‎ | ‎  | Segmento 1  | Saul BuenHombre | Segmento 2  | Manuel Torres |
 | --- | ------ | ----------- | ------------ | ----------- | ---------- |
 | ID  | Titulo | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X| {Texto}| Alta        | Alta         | Media       | Baja       |
+| HU01 | Listado de proyectos a realizar | Alta | Alta | Media | Baja |
+| HU02 | Actualizaciones de nuevos proyectos | Media | Media | Alta | Media |
+| HU03 | Asignación de tareas del proyecto | Alta | Alta | Alta | Alta |
+| HU04 | Calendario con fechas importantes | Media | Media | Alta | Alta |
+| HU05 | Dashboard estadístico simple | Alta | Media | Media | Baja |
+| HU06 | Lista de tareas completadas | Alta | Media | Alta | Media |
+| HU07 | Generación de resúmenes | Alta | Alta | Media | Baja |
+| HU08 | Status automático del proyecto | Media | Baja | Media | Media |
+| HU09 | Registro de detalles en el proyecto | Alta | Baja | Alta | Media |
+| HU10 | Solicitud de recursos | Alta | Media | Media | Media |
+| HU11 | Fechas a expirar | Baja | Baja | Media | Baja |
+| HU12 | Estimación de gastos  | Alta | Alta | Alta | Media |
+| HU13 | Límite máximo de presupuesto | Alta | Media | Alta | Media |
+| HU14 | Registro de gastos | Alta | Alta | Alta | Media |
+| HU15 | Directorio de contactos | Media | Alta | Media | Alta |
+| HU16 | Recomendaciones sobre el buen manejo de proyectos | Alta | Media | Alta | Alta |
+| HU17 | Picos de riesgo | Alta | Alta | Alta | Media |
+| HU18 | Documentos legales | Alta | Media | Media | Baja |
+| HU19 | Gestión de donaciones | Alta | Media | Alta | Media |
+| HU20 | Promoción y seguimiento | Media | Media | Baja | Baja |
 ### 2.3.3. User Journey Mapping.
 **Registration:**
 Why would they trust us?
