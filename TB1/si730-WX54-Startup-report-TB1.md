@@ -268,24 +268,28 @@ Why would they invite others?
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
-Escenario: Usuario desea realizar una donación como ropa o comida a alguna organización benéfica disponible
+Escenario: Gestor de proyecto realiza su labor sin una herramienta que lo beneficie
 
 As Is:
-| Fases| El usuario tiene productos como ropa o artefactos que ya no utiliza recientemente | El usuario desea donar sus bienes a una persona sin hogar que lo necesite | El usuario desconoce organizaciones a las cuales pueda donar sus bienes | El usuario requiere de una aplicación confiable donde pueda encontrar organizaciones a las que pueda donar sus bienes |
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | El usuario decide buscar alguna persona a la cual donar aquellos productos. | El usuario investiga acerca de lugares donde hallan personas que necesiten alguna donación. | El usuario investiga acerca de las organizaciones a las cuales puedan donar productos. | El usuario indaga acerca de aplicaciones que puedan facilitar la búsqueda de alguna organización benéfica. |
-| Thinking | El usuario piensa que buscar alguna persona que necesite una donación puede tardar demasiado | El usuario piensa que existen una gran cantidad de lugares que necesiten alguna donación. | El usuario piensa que muchas de estas organizaciones no pueden estar licenciadas o no brindan confianza. | El usuario piensa que no existe alguna aplicación que pueda resolver su necesidad, ya que no garantiza seguridad alguna. |
-| Feeling  | El usuario se siente apenado al no encontrar personas que necesiten alguna donación. | El usuario se siente desconfiado ya que ningún lugar le brinda confianza alguna. | El usuario se siente abrumado debido a la cantidad de organizaciones que necesitan donación alguna | El usuario se siente agobiado ya que no hay una aplicación que cumpla con la necesidad que desea resolver. |
+| Fases|        |       |      |     |
+|----------|---------------|----------|--------------|-------------|
+| Doing          | Realizando tareas de gestión de proyectos manualmente | Investigando posibles beneficiarios de donaciones | Contactando a los ayudantes que van a participar | Realizando seguimiento de datos en hojas de cálculo o documentos físicos |
+| Thinking       | Considerando la eficacia de los procesos manuales actuales | Evaluando la credibilidad de las fuentes de información sobre beneficiarios | Reflexionando sobre la necesidad de una conexion mas profesional y continua con sus compañeros | Pensando en la necesidad de herramientas digitales para mejorar la gestión de proyectos |
+| Feeling        | Preocupado por la eficiencia y precisión de los métodos manuales | Inquieto por la falta de garantías en la calidad de la información recopilada | Preocupado por la posibilidad de que suceda algo y no pueda contactarse | Frustrado por la falta de herramientas digitales que agilicen y optimicen el proceso de gestión de proyectos |
+
+
 
 **Segmento 2**  
-Escenario: Organización sin fines de lucro necesitan ciertos bienes en específico que puedan brindar los usuarios donantes.
+Escenario: Ayudante del proyecto es enviado a manejar el proyecto de manera presencial
 
 As Is:
-| Fases| La organización necesita una cantidad de productos en específico para brindar el servicio | La organización requiere de un producto en específico de los usuarios donantes | La organización desea llegar a un público en específico que desee donar el producto solicitado | La organización requiere de alguna aplicación en la cual pueda llegar a las personas donantes o abrir un evento solicitando dichos productos |
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | La organización busca personas o empresas que puedan brindar los productos que necesitan. | La organización busca a través de eventos a personas que puedan donar aquellos productos. | La organización realiza eventos para reabastecer los productos faltantes que se solicitaron. | La organización investiga acerca de ciertos grupos de donación a los cuales pueda llegar su solicitud. |
-| Thinking | La organización piensa que este es un proceso que puede ser tardado y deficiente a largo plazo. | La organización piensa que realizar estos eventos puede tomar tiempo y dinero. | La organización piensa que debería existir una mejor forma de llegar a un público en concreto. | La organización piensa que este tipo de aplicación podría facilitar la exhaustiva búsqueda de este grupo de personas. |
-| Feeling  | La organización se siente limitada debido a la deficiencia que puede conllevar esta estrategia. | La organización se siente saturada debido a la cantidad de tiempo que sugiere realizar estos eventos. | La organización se siente desconcertada al no encontrar una forma mas optima de llegar a un público. | La organización se siente desmotivada al no encontrar una aplicación que satisfaga su necesidad. |
+| Fases     |       |       |        |    |
+|----------|----------------|------|---------|-----|
+| Doing          | Realizando entrevistas en persona con posibles beneficiarios de donaciones | Implementando métodos manuales para la recolección de datos en el terreno | Colaborando activamente con el segmento objetivo 1 para entender las necesidades de información específicas | Explorando opciones de recolección de datos |
+| Thinking       | Reflexionando sobre la relevancia de los datos recopilados en el contexto local | Evaluando la eficacia de los métodos manuales utilizados en el terreno | Considerando estrategias para mejorar la comunicación y colaboración con el segmento objetivo 1 de manera presencial | Evaluando la utilidad y seguridad de las herramientas de recolección de datos |
+| Feeling        | Comprometido con la precisión y relevancia de los datos recopilados de manera presencial | Optimista sobre la efectividad de los métodos de recolección de datos en terreno | Satisfecho al contribuir de manera activa al proceso de gestión de proyectos en el lugar | Esperanzado por encontrar herramientas eficaces para la recolección de datos en entornos presenciales |
+
+
 
 ## 2.4. Ubiquitous Language.
 ```
