@@ -390,8 +390,7 @@ Paleta de colores empleado:
 | Poppins Font | Esta tipografía se eligió por su apariencia moderna, limpia y versátil. Su estilo geométrico y su excelente legibilidad la hacen ideal para comunicar profesionalismo y eficiencia en la gestión de organizaciones benéficas.  |
 | Lora Font | Se seleccionó Lora por su elegancia y legibilidad, que complementa perfectamente la apariencia contemporánea de Poppins. Su estilo serifado transmite una sensación de tradición y prestigio, lo que refuerza la credibilidad de tu startup en el sector de la beneficencia. |
 
-<br><center><img src="../assets/StyleGuidelines-Images/PoppinsFont.jpg" alt="Tipografias generales" style="width:70%"><br><br></center>
-
+<br><center><img src="../assets/StyleGuidelines-Images/PoppinsFont.jpg" alt="Tipografias generales" style="width:70%"></center>
 <center><img src="../assets/StyleGuidelines-Images/LoraFont.jpg" alt="Tipografias generales" style="width:70%"><br><br></center>
 
 **Branding** (Describir logotipo y porque)
