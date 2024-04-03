@@ -148,24 +148,24 @@ Es un Programa web colaborativo para el monitoreo y la evaluación de proyectos 
 | ¿Por qué llevar a cabo este análisis?                   | Realizamos este análisis a fin de poder conocer el mercado al que nos enfrentamos en un inicio, para de esta manera poder evaluar las estrategias adoptadas por plataformas ya existentes, y así aprender de sus aciertos y errores. |
 
 
-| |  | (Nosotros)| CauseVox| Bloomerang | Logalto |
+| |  | (Nosotros)| CauseVox|  Bloomerang | Logalto |
 |-|-|-|-|-|-|
-| PERFIL| Overview | Plataforma que facilita el proceso de gestionar proyectos asimismo, se hace uso de la plataforma para facilitar la busqueda de informacion de las ONG.  | Plataforma de recaudación de fondos que brinda herramientas necesarias para crear campañas llamativas para cumplir su meta de donación. | Plataforma que facilita a las ONG herramientas de marketing por correo, formularios de donación en línea e informes y análisis de estadísticas. |Es un Programa web colaborativo para el monitoreo y la evaluación de proyectos de desarrollo internacional la cual proporciona una alta gama de herramientas de gestion de proyectos.|
-|| Ventaja competitiva ¿Qué valor ofrece a los clientes? | Mientras que facilita el proceso de gestion de proyectos y ofrece oportunidades de mejora. Tambien solo facilita la búsqueda de oportunidades de ayuda social, sino que también educa y guía a los usuarios a través del proceso de participación y donación a ONGs. | Cuenta con herramientas que le permiten al usuario personalizar su propia campaña para recaudar fondos con su logo e imágenes con las que atraer potenciales donantes. |Resulta fácil de utilizar y cuenta con una gran variedad de útiles herramientas para facilitar la experiencia de donación al donante y las ONG.| Cuenta con distintas herramientas de gestion, es de alcance global y tiene mas de una forma de apoyar a las ONG.
-|| Mercado Objetivo                                        | Organizaciones peruanas, así como individuos interesados en apoyar. | Organizaciones sin fines de lucro, grupos comunitarios y empresas, e individuos que deseen financiar dichas iniciativas. | Organizaciones sin fines de lucro | proyectos de desarrollo, ONG y fundaciones, ministerios, instituciones de gobierno y proveedores de fondos.|
+| PERFIL| Overview | Plataforma que facilita el proceso de gestionar proyectos y recolectar datos de estos mismos proporcionando asi una herramienta versatil para un objetivo concreto.  | Plataforma de recaudación de fondos que brinda herramientas necesarias para crear campañas llamativas para cumplir su meta de donación. | Cuenta con distintas herramientas de gestion, es de alcance global y tiene mas de una forma de apoyar a las ONG. |Es un Programa web colaborativo para el monitoreo y la evaluación de proyectos de desarrollo internacional la cual proporciona una alta gama de herramientas de gestion de proyectos.|
+|| Ventaja competitiva ¿Qué valor ofrece a los clientes? | Mientras que facilita el proceso de gestion de proyectos y ofrece oportunidades de mejora. Tambien facilita y optimiza la recolecion de datos. | Cuenta con herramientas que le permiten al usuario personalizar su propia campaña para recaudar fondos con su logo e imágenes con las que atraer potenciales donantes. |Permite categorizar los proyectos en 9 categorías, por lo que le facilita al usuario la búsqueda de iniciativas afines a este.| Cuenta con distintas herramientas de gestion, es de alcance global y tiene mas de una forma de apoyar a las ONG.
+|| Mercado Objetivo                                        | ONG peruanas, de estas mismas mas especificamente sus gestores y ayudantes del proyecto. | Organizaciones sin fines de lucro, grupos comunitarios y empresas, e individuos que deseen financiar dichas iniciativas. | Personas de México que quieran apoyo para financiar un proyecto, organizaciones sin fines de lucro, e individuos que deseen financiar dichas iniciativas. | proyectos de desarrollo, ONG y fundaciones, ministerios, instituciones de gobierno y proveedores de fondos.|
 | Perfil de marketing                                     | Estrategia de Marketing | Se hacen uso de redes sociales y de publicidad en línea | Publicidad por redes y publicidad en línea | Marketing por influencia, publicidad por redes |Publicidad por redes sociales.|
-| Perfil del producto                                     | Productos y servicios | Aplicación web que oriantada a la gestion de proyectos de Organizaciones sin fines de lucro haciendo anlisis de datos y ofreciendo sugerencias y oportunidades de mejora, al mismo tiempo que facilita y agiliza el proceso de encontrar oportunidades de participación en actividades de ayuda social y donación de bienes en Perú.| CauseVox es una plataforma de recaudación de fondos que facilita la creación y gestión de campañas de recaudación de fondos en línea. | Bloomerang ayuda a organizaciones sin fines de lucro a mejorar la experiencia de donación, ahorrar tiempo y a recaudar más fondos.| Logalto es un programa web colaborativo para el monitoreo y la evaluación de proyectos de desarrollo
- || Precios y costos                                        | Para el usuario interesado en saber de ONG es un servicio freemium con una subscripcion a un newsletter, mientras que para las ONG se presenta un modelo estrictamente de pago | De pago | Gratuito | De pago|
+| Perfil del producto                                    | Productos y servicios | Aplicación web orientada a la gestion de proyectos de Organizaciones sin fines de lucro haciendo anlisis de datos, ofreciendo sugerencias y oportunidades de mejora, al mismo tiempo que facilita y agiliza el proceso de recoleccion de datos.| CauseVox es una plataforma de recaudación de fondos que facilita la creación y gestión de campañas de recaudación de fondos en línea. | Bloomerang ayuda a organizaciones sin fines de lucro a mejorar la experiencia de donación, ahorrar tiempo y a recaudar más fondos.| Loaglto es programa web colaborativo para el monitoreo y la evaluación de proyectos de desarrollo
+ || Precios y costos                                        | Para las ONG se implementa un modelo estrictamente de pago el cual debe variar segun la cantidad de participantes en el proyecto o por el tamaño de la ONG | De pago | Gratuito | De pago|
 || Canales de distribución (Web y/o Móvil)                 | Web y Móvil Web | Móvil Web | Web y móvil Web ||
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
 
-|Competidores |  | Nosotros | CauseVox| Bloomerang|
-|-|-|-|-|-|
-| Análisis SWOT | Fortalezas |- La aplicación cuenta con una función educativa.<br>- Capacidad de personalizar recomendaciones según preferencias.<br>- Acceso rápido a información sobre ONGs.| - Permite la personalización completa del aspecto de las páginas de campaña.<br>- Herramientas para la promoción en redes sociales. | - Cuenta con servicio al cliente en tiempo real.<br>- La plataforma es accesible y fácil de usar para crear y gestionar campañas, y realizar estrategias de marketing por correo. |
-|| Debilidades   | - Limitación de recursos para el financiamiento de la promoción de la aplicación.<br>- Competencia con plataformas similares. | - Limitaciones en su alcance de mercado. | - Los precios de su servicio es elevado. | lorem | 
-|| Oportunidades | - Crear alianzas con ONGs o empresas podría mejorar el alcance de la aplicación.<br>- El aumento de conciencia social y de la disposición para apoyar a ONGs.<br>- La expansión de la aplicación a regiones extranjeras. | Desarrollar nuevas funcionalidades para mejorar la experiencia de usuario. | La expansión de la aplicación a un público más amplio al ofrecer tipos de suscripción alternos y a menor precio. | lorem | 
-|| Amenazas      | - La existencia de competidores establecidos.<br>- Preocupaciones sobre la seguridad de datos y las transacciones de las donaciones. | - Al ser un servicio de pago, potenciales organizaciones podrían optar por opciones accesibles. | - La aparición de competencia emergente.<br>- La desconfianza hacia algunas organizaciones benéficas por la percepción del mal manejo de fondos. | lorem |
+|Competidores |  | Nosotros | CauseVox| Bloomerang | Logalto |
+|-|-|-|-|-| - |
+| Análisis SWOT | Fortalezas |- La aplicación cuenta con una función de gestion efectiva.<br>- Se presenta un modelo de organizacion facil de entender.<br>- Facil recolecion de datos y analisis.| - Permite la personalización completa del aspecto de las páginas de campaña.<br>- Herramientas para la promoción en redes sociales. | - Cuenta con servicio al cliente en tiempo real.<br>- La plataforma es accesible y fácil de usar para crear y gestionar campañas, y realizar estrategias de marketing por correo. | - Diferentes Funcionalidades para gestion de proyectos <br> -Multiples herramientas de seguimiento y planificacion <br> -Mas tiempo en el mercado. |
+|| Debilidades   | - Limitación de recursos para el financiamiento de la promoción de la aplicación.<br>- Competencia con plataformas similares. | - Limitaciones en su alcance de mercado. | - Los precios de su servicio es elevado. | - Saturacion de herramientas. <br> - Proceso agobiante <br> - No es muy intuitivo. | 
+|| Oportunidades | - Crear alianzas con ONGs o empresas podría mejorar el alcance de la aplicación.<br>- El aumento de conciencia social y de la disposición para apoyar a ONGs.<br>- La expansión de la aplicación a regiones extranjeras. | Desarrollar nuevas funcionalidades para mejorar la experiencia de usuario. |  La expansión de la aplicación a un público más amplio al ofrecer tipos de suscripción alternos y a menor precio.| - Separar las herramientas por paquetes que necesite el usuario. | 
+|| Amenazas      | - La existencia de competidores establecidos.<br>- Preocupaciones sobre la seguridad de datos y las transacciones de las donaciones. | - Al ser un servicio de pago, potenciales organizaciones podrían optar por opciones accesibles. | - La aparición de competencia emergente.<br>- La desconfianza hacia algunas organizaciones benéficas por la percepción del mal manejo de fondos. | - La necesidad de una herramienta facil de usar que no requiera gran cantidad de funciones para lograr un solo objetivo. |
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
@@ -211,9 +211,9 @@ Ocupación: _____
 ### 2.3.1. User Personas.
 **Segmento 1:**  
 ![Imagen User Persona 1](../assets/requirements-images/user%20persona_jefe.png)
-
 **Segmento 2:**
 ![Imagen User Persona 1](../assets/requirements-images/user%20persona_organizadores.png)
+
 
 ### 2.3.2. User Task Matrix.
 | --- | ------ | Segmento 1  | ------/----- | Segmento 2  | ---------- |
@@ -223,21 +223,21 @@ Ocupación: _____
 ### 2.3.3. User Journey Mapping.
 **Registration:**
 Why would they trust us?
-- s
-- s
-- s
+- Interface facil de entender
+- Se reducen gastos y se generan mejores proyectos
+- Ofrecemos un servicio completo junto a recomendaciones
   
 **Onboarding and first use:**
 How can they feel successful?
-- s
-- s
-- s  
+- La interfaz es simple de entender
+- Solicita poco y devuelve mucho
+- Es eficiente para ambos segmentos
   
 **Sharing:**
 Why would they invite others?
-- s
-- s
-- s
+- Implementacion poco complicada.
+- Resultados evidentes.
+- Servicio accesible.
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
@@ -245,6 +245,7 @@ Why would they invite others?
 
 **Segmento 2:**
 ![Empathy Map Segmento1](../assets/requirements-images/user_persona-segmento2.png)
+
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
@@ -279,21 +280,23 @@ en el que se especializa la startup.
 
 **2. Necesidades benéficas:** Los artículos, suministros o recursos específicos que una organización benéfica requiere para llevar a cabo sus actividades o programas.
 
-**3. Miembro de equipo:** Una persona que está dentro de un grupo asignado para llevar a cabo una tarea o proyecto específico de la ONG.
+**3. Gestor de Proyecto:** Segmento Objetivo que representa a los gestores o supervisores del proyecto los cuales son encargados por las ONG en realizar un proyecto estos pueden trabajar solos o en grupos dependiendo de los objetivos de la ONG, finitamente estos son los que deberan revisar y analisar los datos recolectados.
 
 **4. Lista de necesidades:** Una lista detallada de los artículos o suministros específicos que una organización benéfica necesita recibir como donación.
 
-**5. Dashboard estadístico:** Un panel de control que muestra información visual sobre las donaciones realizadas, las necesidades actuales, etc.
+**5. Proyecto:** El proyecto se define como la idea de crear un evento ya sea de accion social o de donacion como lo que puede ser una recolecta de basura en la playa o un evento de donacion de polos. En nuestra aplicacion web se debera definir si se hace un evento de donacion o de accion social.
 
 **6. Registro de costos:** Un registro de los costos asociados con la realización de un proyecto o evento benéfico.
 
-**7. Usuario donante:** Un usuario de la plataforma que está interesado en donar artículos o suministros a organizaciones benéficas.
+**7. Ayudante de proyecto:** Segmento objetivo que representa a los ayudantes reclutados por la ONG para que esten en el evento para que se mantenga el orden y se siga lo planeado segun el proyecto, estos seran asignados de recolectar los datos.
 
-**8. Project Manager ONG:** Un miembro del equipo de la ONG responsable de planificar, organizar y supervisar la ejecución de un proyecto benéfico.
+**8. Usuario receptor:** Una organización benéfica que está registrada en la plataforma y que busca aumentar su impacto.
+
+**9. Registro de asistentes:** Un registro de los participantes de los proyectos realizados por los usuarios, que puede incluir información demografica, geografica o incluso encuestas de opinion.
 
 **9. Asignación de tareas:** La distribución de tareas específicas a los miembros del equipo de la ONG para llevar a cabo un proyecto o evento benéfico.
 
-**10. Evento benéfico:** Una actividad o programa organizado por una organización benéfica para recaudar fondos, donaciones o concienciar sobre una causa específica.
+**10. Registro de costos:** Un registro de los costos asociados con la realización de un proyecto o evento benéfico.
 
 ---
 
