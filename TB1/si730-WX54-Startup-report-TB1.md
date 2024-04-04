@@ -426,9 +426,14 @@ Sequential. Guide users to follow a specific path towards their goal and provide
 
 Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical, Chronological, by topic."
 ### 4.2.2. Labeling Systems.
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in few words. 
-
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
+En esta sección, nos esforzamos por garantizar que la presentación de la información al usuario sea clara y fácil de entender, con el objetivo de proporcionar una experiencia agradable y sin complicaciones. Para ello, hemos incorporado en el vocabulario de nuestra página palabras comunes y familiares que la mayoría de las personas utilizan en su día a día, de manera que puedan asociar de manera intuitiva los conceptos que manejamos. Por ejemplo:
+| Label | Concepto Asociado |
+|-----------|-----------|
+| <center><img src="../assets/LabelingSystems/Home.png" alt="Home Label" style="height:50%"></center>| Se refiere a la página principal de nuestra landing page, donde los usuarios comienzan su recorrido. |
+|<center><img src="../assets/LabelingSystems/About.png" alt="About us Label" style="height:50%"></center>|Una etiqueta que proporciona información sobre nuestra empresa, incluyendo su misión y visión.
+|<center><img src="../assets/LabelingSystems/Organizations.png" alt="Organizations Label" style="height:50%"></center>| Segmento que muestra una recopilación de las organizaciones que colaboran con AidManager.
+|<center><img src="../assets/LabelingSystems/Testimonials.png" alt="Testimonials Label" style="height:50%"></center>|Lista de reseñas que presenta experiencias y opiniones de clientes sobre AidManager.
+|<center><img src="../assets/LabelingSystems/Get Started.png" alt="Home Label" style="height:50%"></center>|Call-to-action que invita a los usuarios a iniciar su experiencia concreta junto a AidManager.
 ### 4.2.3. SEO Tags and Meta Tags
 
 **Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
