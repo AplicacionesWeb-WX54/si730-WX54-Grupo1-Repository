@@ -510,7 +510,7 @@ Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usad
 Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-
+![Database Diagram](/assets/diagrams/database_diagram.png)
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
