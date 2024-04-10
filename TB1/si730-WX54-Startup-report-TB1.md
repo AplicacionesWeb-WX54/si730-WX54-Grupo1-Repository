@@ -479,16 +479,27 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 [URL del Prototipo (Hecho en figma)](https://www.example.com)
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
-1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
-se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
-
-2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)]) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
+![System Context](/assets/system-diagrams/system-context.png) 
    
 ### 4.6.2. Software Architecture Container Diagrams.
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
+![Container Diagram](/assets/system-diagrams/container-diagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+![Component Diagram](/assets/system-diagrams/component-payment.png)
+**Payment Context**: Permite visualizar cómo se relacionan los componentes de la aplicación con el sistema de pagos. Se observa la interacción entre el cliente, la aplicación y el proveedor de pagos.
+
+![Component Diagram](/assets/system-diagrams/component-collaborate.png)
+**Collaborate Context**: Muestra la interacción entre los componentes de la aplicación y el sistema de colaboración. Se evidencia la comunicación entre el usuario, la aplicación y el sistema de colaboración.
+
+![Component Diagram](/assets/system-diagrams/component-costsmanager.png)
+**Costs Manager Context**: Representa la relación entre los componentes de la aplicación y el sistema de gestión de costos. Se visualiza la interacción entre el usuario, la aplicación y el sistema de gestión de costos.
+
+![Component Diagram](/assets/system-diagrams/component-taskmanager.png)
+**Task Manager Context**: Muestra cómo se relacionan los componentes de la aplicación con el sistema de gestión de tareas. Se evidencia la interacción entre el usuario, la aplicación y el sistema de gestión de tareas.
+
+![Component Diagram](/assets/system-diagrams/component-userprofile.png)
+**User Profile Context**: Permite visualizar la relación entre los componentes de la aplicación y el sistema de perfiles de usuario. Se observa la interacción entre el usuario, la aplicación y el sistema de perfiles de usuario.
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 Esta yaselasaben (diagrama de clases)
