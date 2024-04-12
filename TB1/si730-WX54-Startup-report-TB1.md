@@ -481,13 +481,65 @@ Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, is
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
-Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
-extensiones tmbn? nose bn q quieren aca
+- Trello [https://trello.com](https://trello.com):
+ Trello es una aplicación web de gestión de proyectos compatible con la mayoria de navegadores. Se utilizó Trello para la organización y registro de las tareas por hacer, las que están en proceso y las realizadas. De esta forma podemos tener control acerca del avance del proyecto y las actividades de cada uno de los miembros del equipo.
+
+#### Product UX/UI Design
+- Miro [https://miro.com](https://miro.com):
+ Miro ha sido empleado en el desarrollo de los escenarios mapping y escenario mapping para ambos segmentos objetivos.
+
+- Figma [https://figma.com](https://figma.com):
+ Esta herramienta fue de vital importancia para la creación de los wireframes, mockups y mobile applications prototyping de manera colaborativa. Asimismo, su acceso es gratuito al contar con una cuenta registrada.
+
+#### Software Developement
+- Landing Page:
+El desarrollo del landing page se llevó a cabo con las tecnologías de Vite + React. Vite es un entorno de desarrollo web que permite la creación de aplicaciones web modernas con React, Vue, Svelte y Vanilla JS. Para la creación de la landing page se utilizó React como librería de JavaScript.
+
+- Frontend Web Application:
+La aplicación web implica tener claro los conceptos básicos de HTML5, CSS3 y JavaScript, ya que se utilizará Vue como framework de JavaScript.
+
+#### IDE's de desarrollo
+- WebStorm [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/):
+WebStorm es un entorno de desarrollo integrado (IDE) creado por JetBrains. Este entorno de desarrollo nos proporcionará distintas herramientas para agilizar el proceso de desarrollo
+
+#### Software Testing
+- Para las pruebas de testeo software, tanto de la landing page como de la aplicación web, se emplearon las herramientas de desarrollador de los principales navegadores web como Google Chrome [https://www.google.com/chrome/](https://www.google.com/chrome/), Microsoft Edge [https://www.microsoft.com/en-us/edge](https://www.microsoft.com/en-us/edge) y Mozilla Firefox [https://www.mozilla.org/en-US/firefox/browsers/](https://www.mozilla.org/en-US/firefox/browsers/). Estos navegadores cuentan con aplicaciones desktop y móviles las cuáles son totalmente gratuitas. En el caso de desktop podemos instalarlos desde sus sitios oficiales, en el caso de móvil, desde la tienda de aplicaciones del sistema operativo en cuestión.
+
+#### Software Deployment
+- Vercel [https://vercel.com](https://vercel.com):
+Vercel es un servicio proporcionado por Zeit, Inc. que permite a los desarrolladores implementar aplicaciones web estáticas y dinámicas sin problemas. Para utilizar esta plataforma es necesario tener una cuenta registrada.
+
+#### Software Documentation
+- Markdown [https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax):
+Markdown es un lenguaje de marcado ligero que nos permite formatear texto de manera sencilla utilizando un formato de texto plano. De esta forma documentamos la información importante acerca del contexto, organización, producción y creacíon del proyecto.
+
+- Structurizr [https://structurizr.com/](https://structurizr.com/):
+Esta herramienta permite crear los diagramas C4 de manera rápida con una sintaxis similar a un lenguaje de programación. Para utilizar esta aplicación web hace falta tener una cuenta registrada.
+
+- Vertabelo: [https://www.vertabelo.com/](https://www.vertabelo.com/)
+Es una aplicación web colaborativa que facilita el diseño e implementación de bases de datos en una amplia variedad de motores. 
+
 ### 5.1.2. Source Code Management.
-El gitjab donde tengamos el proyecto
+Para el proyecto se creó una organización en Github, que permitiría el trabajo colaborativo para todos los integrantes del equipo, además de contar con un repositorio para el control de versiones del código fuente. Se utilizó la herramienta de control de versiones Git, la cual es una herramienta de código abierto que permite el control de versiones de archivos de manera eficiente.
+**Organización**: [https://github.com/orgs/AplicacionesWeb-WX54/](https://github.com/orgs/AplicacionesWeb-WX54/)
+**Landing Page**: [https://github.com/AplicacionesWeb-WX54/LandingPage-AidManager](https://github.com/AplicacionesWeb-WX54/LandingPage-AidManager)
+
+Para llevar a cabo la organización de desarollo del código, se crearon las siguientes ramas:
+- **main**: Rama principal del proyecto, donde se encuentra el código estable y funcional.
+- **development**: Rama de desarrollo, donde se realizan las integraciones de las funcionalidades de cada uno de los miembros del equipo.
+- **feature/feature-name**: Ramas de funcionalidades, donde se desarrollan las funcionalidades de cada uno de los miembros del equipo.
+
+## Commit Conventions:
+El formato de nuestros commits sigue la estructura de los “Conventional Commits” en su versión 1.0.0 (https://www.conventionalcommits.org/en/v1.0.0/) con el objetivo de proporcionar una lectura sencilla de los mismos. Por ello seguimos el siguiente formato:
+"< type>[optional scope]: < description>"
+Donde:
+- type: Especifica el tipo de cambio realizado, únicamente puede ser feat, fix, update, etc.
+- scope: Es el alcance que tiene nuestro commit.
+- description: Es un breve resumen de los cambios de código.
+
 ### 5.1.3. Source Code Style Guide & Conventions.
-Que usamos con css (en caso usemos software para SASS)
-supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
+asdasd
+
 ### 5.1.4. Software Deployment Configuration.
 Configuraciones de donde y como deployeamos el proyecto
 ## 5.2. Landing Page, Services & Applications Implementation.
