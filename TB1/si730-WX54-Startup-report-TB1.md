@@ -504,10 +504,54 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 ### 4.7.1. Class Diagrams.
 ![Class Diagram](/assets/diagrams/class_diagram.png)
 ### 4.7.2. Class Dictionary.
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
+
+Se muestran las clases que son relevantes.
+
+User - La clase user representa la cuenta de la Organizacion y los metodos mas importantes de estos.
+
+| Atributo | Descripcion |
+| - | - |
+| last name | El nombre del usuario |
+| dateBirth | Fecha de nacimiento del usuario |
+| interests |  Intereses del usuario |
+
+
+Project Manager - La clase representa los project managers
+
+| Atributo | Descripcion |
+| - | - |
+| members | los User que son parte de la clase de Project Manager |
+| projects | Los Projectos gestionados por el Projects Managers |
+| events |  Los eventos gestionados por el Project Managers |
+| mission |  Descripcion corta de la mision del Project Manager |
+| vision |  Descripcion corta de la vision del Project Manager |
+| siteWeb |  sitioWeb relacionado al Project Manager |
+| appreciationMssg |  Mensaje de appreciacion por parte del Project Manager |
+
+Assistant - la clase representa a los asistentes de eventos y proyectos
+
+| Atributo | Descripcion |
+| - | - |
+| tasks | tareas dadas al estudiante |
+| projects | proyectos asignados al ayudante |
+
+
+Project - la clase Projecto representa 
+| Atributo | Descripcion |
+| - | - | 
+| processes | proceso de ejecucion del proyecto |
+| title | titulo del projecto |
+| description | descripcion del proyecto |
+| members | los miembros que seran asignados al proyecto |
+
+| Metodo | Descripcion |
+| - | - | 
+| addMember | se agregan miembros al proyecto |
+| removeMember | se remueven miembros al proyecto |
+
+
+
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 ![Database Diagram](/assets/diagrams/database_diagram.png)
