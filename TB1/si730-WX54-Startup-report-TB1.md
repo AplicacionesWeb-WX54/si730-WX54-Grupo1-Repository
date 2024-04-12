@@ -538,7 +538,9 @@ Donde:
 - description: Es un breve resumen de los cambios de código.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
-asdasd
+Para el desarrollo del código en HTML y CSS se decidió seguir la convención de Google HTML/CSS Style Guide. Entre las más importantes destacan:
+
+El tipo de documento debe especificarse al principio del archivo mediante el uso de meta tags. El elemento <title> debe estar dentro de las etiquetas <head>. La sangría debe tener dos espacios. Debe utilizar letras minúsculas para elementos HTML, atributos, propiedades, valores y selectores de CSS. Los atributos de los elementos HTML deben estar entre comillas. Cada elemento HTML debe tener su correspondiente etiqueta de cierre. Se recomienda evitar largas líneas de código. Es importante indicar el ancho y alto de las imágenes, así como el texto alternativo (alt). Para el código JavaScript, seguimos la convención de la Guía de estilo Java de Google de terminar cada línea con un punto y coma, usar Camelcase para variables y funciones y encerrar valores de cadena entre comillas simples. Al desarrollar pruebas de aceptación con el lenguaje Gherkin, se utilizan las "Convenciones de Gherkin para especificaciones legibles", que incluyen palabras clave como "Dar", "Cuándo", "Entonces" y "Y", sangría específica y comentarios separadores. Java sigue el estándar Google Java Style Guid, que determina el formato de los nombres de paquetes, clases y métodos, la sangría de la tabla, la división de líneas largas y los nombres de archivos Java que coinciden con el nombre de la clase. contenida en el mismo. Se recomienda insertar un salto de línea después de cada declaración.
 
 ### 5.1.4. Software Deployment Configuration.
 Configuraciones de donde y como deployeamos el proyecto
