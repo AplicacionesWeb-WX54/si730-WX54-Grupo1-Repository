@@ -452,6 +452,11 @@ Basicamente aqui definimos como funciona la navegacion del web app
 **Hierarchical Navigation System:** Main page a destination pages.
 **Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe poder regresar a la principal)
 **Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
+
+La navegacion de la web app se estara basando en un Sistema de navegacion Global donde por medio de las cards en el dashboard o los labels en el side bar el usuario se redirija a la seccion selecionada.
+
+No obstante tambien se incluye la navegacion local cuando se trata de la seccion de proyectos y analytics donde se va a navegar entre los distintos proyectos de la ONG.
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 la pagina donde te registras y ves info del web app (te manda al web app)
@@ -535,11 +540,12 @@ Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y e
 <center><img src="../assets/aidmanager-app-mockup/aam-24.png" alt="app web mock-up24" style="width:80%;"></center>
 
 
-
-![Web Aplication Mockup](image.jpg)
 ### 4.4.3. Web Applications User Flow Diagrams.
 un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
 ![Web Aplication User Flow Diagram](image.jpg)
+
+
+
 ## 4.5. Web Applications Prototyping.
 Se utilizó la herramienta Figma para realizar el primer prototipo de la aplicación web. 
 <center><img src="../assets/app-web-prototyping/App-Web-Prototyping.png" alt="app web prototype" style="width:80%;"></center>
