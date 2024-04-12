@@ -462,7 +462,7 @@ No obstante tambien se incluye la navegacion local cuando se trata de la seccion
 la pagina donde te registras y ves info del web app (te manda al web app)
 
 Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+![Landing page Wireframe](/assets/landing-page-wireframe-image/Wireframe.png)
 ### 4.3.2. Landing Page Mock-up.
 
 <img src="../assets/Landing page mock-up/Landing mock up.png" alt="Landing page mock up" style="width:100%;">
