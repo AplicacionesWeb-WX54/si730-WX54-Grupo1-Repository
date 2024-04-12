@@ -464,7 +464,6 @@ Wireframe es todo lo funcional de la pagina
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-lo funcional de cada aspecto del wireframe 
 ![Web Aplication Wireframe](image.jpg)
 ### 4.4.2. Web Applications Wireflow Diagrams.
 Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
@@ -476,7 +475,10 @@ Diseño en todo aspecto
 un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
 ![Web Aplication User Flow Diagram](image.jpg)
 ## 4.5. Web Applications Prototyping.
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
+Se utilizó la herramienta Figma para realizar el primer prototipo de la aplicación web. 
+<center><img src="../assets/app-web-prototyping/App-Web-Prototyping.png" alt="Landing page prototype" style="width:80%;"></center>
+
+[URL del Prototipo hecho en Figma](https://www.figma.com/file/n5BSEAK3X9lFN2M1eqnmQX/Untitled?type=design&node-id=0%3A1&mode=design&t=dhyNolXNOfDSlBEG-1)
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 ![System Context](/assets/system-diagrams/system-context.png) 
