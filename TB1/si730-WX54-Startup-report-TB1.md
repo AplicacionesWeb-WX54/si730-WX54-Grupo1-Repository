@@ -174,19 +174,19 @@ Es un Programa web colaborativo para el monitoreo y la evaluación de proyectos 
 1. ¿Cuál es su nombre? 
 2. ¿Qué edad tiene? 
 3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
+4. ¿Que navegadores y dispositivos usa? 
 
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
+**Entrevistas usuario segmento 1**
+1. ¿Cuando piensa en gestionar un proyecto en que piensa principalmente?
+2. ¿Que metodos utiliza para organizar a sus ayudantes y como les asigna tareas?
+3. ¿Que herramientas usa para gestionar o planificar proyectos?
+4. ¿Como analiza sus datos, que herramientas/metodos usa?  
    
 **Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
+1. ¿Que actividades son las principales en los eventos y como se las asignan? 
+2. ¿Como recolectan informacion de los participantes, que herramientas?
+3. ¿Como hacen llegar esta informacion a los gestores de proyecto?
+4. ¿Si sucede un inconveniente el cual se debe de notificar al gestor del proyecto como se comunica con este, cree que la comunicacion con el gestor de proyecto es efectiva? 
 ### 2.2.2. Registro de entrevistas.
 **Segmento 1**  
 Nombre: _____
