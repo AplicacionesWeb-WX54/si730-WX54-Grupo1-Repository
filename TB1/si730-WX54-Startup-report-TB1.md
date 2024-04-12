@@ -464,7 +464,39 @@ Wireframe es todo lo funcional de la pagina
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
-![Web Aplication Wireframe](image.jpg)
+</br>
+
+[URL del Wireframe hecho en Figma](https://www.figma.com/file/u8S0RHE4Kbl69EwQSVf7jb/AidManager-app-web-Wireframe?type=design&node-id=0%3A1&mode=design&t=FQRKS9G6nW0lMIRj-1)
+
+**Segmento 1: Manager de ONG**
+<center><img src="../assets/app-web-wireframe/aww-1.png" alt="app web wireframe1" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-2.png" alt="app web wireframe2" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-3.png" alt="app web wireframe3" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-4.png" alt="app web wireframe4" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-5.png" alt="app web wireframe5" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-6.png" alt="app web wireframe6" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-7.png" alt="app web wireframe7" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-8.png" alt="app web wireframe8" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-9.png" alt="app web wireframe9" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-10.png" alt="app web wireframe10" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-11.png" alt="app web wireframe11" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-12.png" alt="app web wireframe12" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-13.png" alt="app web wireframe13" style="width:80%;"></center>
+
+**Segmento 2: Equipo de ONG**
+<center><img src="../assets/app-web-wireframe/aww-14.png" alt="app web wireframe14" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-15.png" alt="app web wireframe15" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-16.png" alt="app web wireframe16" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-17.png" alt="app web wireframe17" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-18.png" alt="app web wireframe18" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-19.png" alt="app web wireframe19" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-20.png" alt="app web wireframe20" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-21.png" alt="app web wireframe21" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-22.png" alt="app web wireframe22" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-23.png" alt="app web wireframe23" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-24.png" alt="app web wireframe24" style="width:80%;"></center>
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
 ![Web Aplication Wireflow](image.jpg)
@@ -476,7 +508,7 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 ![Web Aplication User Flow Diagram](image.jpg)
 ## 4.5. Web Applications Prototyping.
 Se utilizó la herramienta Figma para realizar el primer prototipo de la aplicación web. 
-<center><img src="../assets/app-web-prototyping/App-Web-Prototyping.png" alt="Landing page prototype" style="width:80%;"></center>
+<center><img src="../assets/app-web-prototyping/App-Web-Prototyping.png" alt="app web prototype" style="width:80%;"></center>
 
 [URL del Prototipo hecho en Figma](https://www.figma.com/file/n5BSEAK3X9lFN2M1eqnmQX/Untitled?type=design&node-id=0%3A1&mode=design&t=dhyNolXNOfDSlBEG-1)
 ## 4.6. Domain-Driven Software Architecture.
