@@ -547,7 +547,52 @@ Configuraciones de donde y como deployeamos el proyecto
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.X. Sprint n
 #### 5.2.X.1. Sprint Planning n.
-Explicar como vamos a plannear el sprint?
+
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 12/04/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 14:00 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Modalidad remota por Discord.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Y.E.S.I Team
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Todos los miembros del equipo eabmodel.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 0 Review Summary</td>
+            <td> Dado que es nuestro primer sprint de desarrollo no existe
+                un summary del sprint anterior.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td>
+
+
 #### 5.2.X.2. Sprint Backlog n.
 ![SprintBacklog n](image.jpg) Nica hago la tabla 
 #### 5.2.X.3. Development Evidence for Sprint Review.
