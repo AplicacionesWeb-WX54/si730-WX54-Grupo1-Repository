@@ -416,15 +416,11 @@ Tendremos iconografia de busqueda, lapiz, ropa, reciclaje, icono de grafico, foc
 ![Miscellaneos preview web](image.jpg)
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
 Sistemas de organización que usaremos para el proyecto.
-Creación de perfiles de usuarios. – Se adaptará a la vista para personalizar la información de su perfil y el tipo de cuenta. (Visual Hierarchy)
-Filtro de instituciones. – Por nombre se agruparía en una lista ordenada de manera alfabética, por temporada en una lista de campañas activas ordenada por la fecha límite y por ítems a donar en una lista de recursos ordenado por la fecha limite y el progreso de la meta de la institución.
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making use of physical differences, such as size, colour, contrast, alignment etc.
 
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the current step. 
+El sistema de Organizacion se basa en un sistema Sequencial donde el usuario debe seguir el workdlow de la herramienta para llegar a su objetivo, no obstante ofrecemos atajos en el sidebar.
 
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical, Chronological, by topic."
+Asimismo existira una herarquia visual dependiendo si quien se ha ingresado es un gestor o colaborador/ayudante.
 ### 4.2.2. Labeling Systems.
 En esta sección, nos esforzamos por garantizar que la presentación de la información al usuario sea clara y fácil de entender, con el objetivo de proporcionar una experiencia agradable y sin complicaciones. Para ello, hemos incorporado en el vocabulario de nuestra página palabras comunes y familiares que la mayoría de las personas utilizan en su día a día, de manera que puedan asociar de manera intuitiva los conceptos que manejamos. Por ejemplo:
 | Label | Concepto Asociado |
@@ -437,21 +433,23 @@ En esta sección, nos esforzamos por garantizar que la presentación de la infor
 ### 4.2.3. SEO Tags and Meta Tags
 
 **Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+* Titulo: ```<title> AidManager | La mejor opcion de ONG para la gestion de proyectos </title> ```
+* Descripcion: ```<meta name = "description" content = "Gestiona, Recolecta, Analiza y Visualiza los datos y colaboradores de tus proyectos todo en un solo lugar."/> ```
+* Palabras Clave: ```<meta name = "keyword" content = "ONG gestion, Gestionar Proyecto, ONG, dar Tareas, analisis de datos, Organizar, Orden "/> ```
 
 ### 4.2.4. Searching Systems.
-**Que se busca?:** Que buscara el usuario  
-**Que resultados se mostraran?:** Que se mostrara  
-**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado 
-![Search interface preview web](image.jpg)
+
+Se hace un ejemplo respecto al segmento 1:
+
+**Que se busca?:** 
+El usuario busca su proyecto para gestionar.
+**Que resultados se mostraran?:** Se debe de mostrar las cards con el proyecto que esta revisando.  
+**Interface de busqueda:** el dashboard muestra en el sidebar la seccion home una vez se selecciona se mostraran las cards con sus proyectos, el usuario selecciona el proyecto especifico y se redirreciona a su proyecto para gestionar. 
+![Search interface](/assets/searching-system/Search.png)
+
+Cabe mencionar que este metodo se usa en los demas features.
 
 ### 4.2.5. Navigation Systems.
-Basicamente aqui definimos como funciona la navegacion del web app
-**Hierarchical Navigation System:** Main page a destination pages.
-**Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe poder regresar a la principal)
-**Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
 
 La navegacion de la web app se estara basando en un Sistema de navegacion Global donde por medio de las cards en el dashboard o los labels en el side bar el usuario se redirija a la seccion selecionada.
 
