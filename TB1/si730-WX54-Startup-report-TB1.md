@@ -189,18 +189,43 @@ Es un Programa web colaborativo para el monitoreo y la evaluación de proyectos 
 4. ¿Si sucede un inconveniente el cual se debe de notificar al gestor del proyecto como se comunica con este, cree que la comunicacion con el gestor de proyecto es efectiva? 
 ### 2.2.2. Registro de entrevistas.
 **Segmento 1**  
+Nombre: Maria Jose Melendez
+Edad: 53 años 
+Ocupación: Directora de Hogar (CAEF)
+![Imagen de entrevista](/assets/Entrevistas/EntrevistaS1E1.png)  
+[Seg1 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERgJ0_AWCqVErNukgws7eiIBIgGIeuzeYyiSeb76MeGP9w?e=f7I1Pt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Nombre: Cesar Alva Posada
+Edad: 57 años 
+Ocupación: Sociologo encargado de Gestion de Proyectos  
+![Imagen de entrevista](/assets/Entrevistas/EntrevistaS1E2.png)  
+[Seg1 -Entrevista - 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESDqRfzRGHFMsuxKkO5AzPgB5n2DN_YAREAKth0-NdKi-A?e=2FxzuN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Nombre: Guilder Quiñones Aldean
+Edad: 54 años 
+Ocupación: Jefe de Proyectos  
+![Imagen de entrevista](/assets/Entrevistas/EntrevistaS1E3.png)  
+[Seg1 - Entrevista - 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESDqRfzRGHFMsuxKkO5AzPgB5n2DN_YAREAKth0-NdKi-A?e=2FxzuN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+{texto mucho}
+
+**Segmento 2**  
+Nombre: Luis Herrera Gonzales
+Edad: 19 años 
+Ocupación: Estudiante - Ayudante 
+![Imagen de entrevista](/assets/Entrevistas/EntrevistaS2E1.png)  
+[Seg2 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESesnqbIKNBIj2P7j6CMxpsBuPL5ecH8TMAAxZh29afhHw?e=pCWved&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 Nombre: _____
 Edad: _ años 
 Ocupación: _____  
 ![Imagen de entrevista](image.jpg)  
 {texto mucho}
 
-**Segmento 2**  
 Nombre: _____
 Edad: _ años 
 Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+![Imagen de entrevista](image.jpg)  
+{texto mucho}
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
@@ -242,21 +267,46 @@ Ocupación: _____
 ### 2.3.3. User Journey Mapping.
 **Registration:**
 Why would they trust us?
-- Interface facil de entender
-- Se reducen gastos y se generan mejores proyectos
-- Ofrecemos un servicio completo junto a recomendaciones
+
+Good
+
+- Herramienta multi usos
+- Devuelve un analisis completo
+- Mantiene Comunicacion entre segmentos
   
+Bad
+
+- Concepto de codigo probablemente complicado la primera vez
+- Acostrumbrarse al workflow
+- Innovacion
+
 **Onboarding and first use:**
+
+Good
+
 How can they feel successful?
-- La interfaz es simple de entender
-- Solicita poco y devuelve mucho
-- Es eficiente para ambos segmentos
-  
+- Se reduce el tiempo de planificacion
+- Se asignan tareas facilmente
+- Se pueden gestionar multiples proyectos
+
+Bad  
+
+- Multiples proyectos al mismo tiempo
+- Falta de conocimiento en la gestion del software
+
 **Sharing:**
+
+Good
+
 Why would they invite others?
-- Implementacion poco complicada.
-- Resultados evidentes.
-- Servicio accesible.
+- Organizacion con mejores resultados.
+- Resultados que se pueden demostrar por estadisticas.
+- Servicio economicamente accesible.
+
+Bad
+
+- Nuevo para las ONG mas antiguas
+- Requerimiento de data para funcionar al 100%
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
