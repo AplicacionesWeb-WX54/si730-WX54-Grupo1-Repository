@@ -403,6 +403,7 @@ El logo de nuestra startup, que muestra la vista superior de alguien abriendo lo
 Descripcion de los elementos que se utilizaran en el web app
 
 **Background:** (primary, secondary, terniary)  
+Para el background se hace uso del color FFFFF para resaltar la pagina y para separar secciones D9ED8F
 ![Background Preview web](image.jpg)
 **Text Styles:** (H1, H2, p, a,)  
 ![Text Style Preview web](image.jpg)
