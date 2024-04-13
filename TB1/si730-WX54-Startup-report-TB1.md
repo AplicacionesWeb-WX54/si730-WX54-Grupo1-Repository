@@ -404,8 +404,11 @@ Descripcion de los elementos que se utilizaran en el web app
 
 **Background:** (primary, secondary, terniary)  
 Para el background se hace uso del color FFFFF para resaltar la pagina y para separar secciones D9ED8F
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
+![Background Preview web](/assets/searching-system/Search.png)
+
+
+**Text Styles:** (H1, H2, p, a,)
+
 ![Text Style Preview web](image.jpg)
 **Button Styles:** (Button, dropdowns, Switches)
 ![Button Preview web](image.jpg)
