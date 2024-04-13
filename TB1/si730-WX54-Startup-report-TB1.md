@@ -236,9 +236,12 @@ Ocupación: _____
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
-{texto}
+
+En el segmento 1 existe una preferencia en usar excel para el analisis de datos recibidos, las multiples herramientas para un proyecto y en base a que entregan sus tareas a sus colaboradores. Se puede observar que la mayoria no utiliza tecnologia y que a escala de necesidad sienten que puede resultar util. Mas no tienen mucho conocimiento de la tecnologia implementada.
+
 **Segmento 2:**
-{texto}
+Respecto al segmento 2 se nota una tendencia respecto a la necesidad de una herramienta la cual pueda obtener la informacion y mandarla al proyecto de manera efectiva y rapida, Asimismo de como se requiere de una plataforma para poder comunicarse con el supervizor.
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **Segmento 1:**  
