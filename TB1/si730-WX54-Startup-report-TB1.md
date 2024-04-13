@@ -579,7 +579,7 @@ Configuraciones de donde y como deployeamos el proyecto
         </tr>
         <tr>
             <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
-            <td> Todos los miembros del equipo eabmodel.
+            <td> Todos los miembros del equipo Y.E.S.I
             <td>
         </tr>
         <tr>
