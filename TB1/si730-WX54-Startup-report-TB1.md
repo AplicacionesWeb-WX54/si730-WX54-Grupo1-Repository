@@ -217,7 +217,7 @@ El Jefe de Proyecto Guilder comparte su vision respecto a las herramientas usada
 Nombre: Luis Herrera Gonzales
 Edad: 19 años 
 Ocupación: Estudiante - Ayudante 
-![Imagen de entrevista](/assets/Entrevistas/EntrevistaS2E1.png)  
+![Imagen de entrevista](../assets/Entrevistas/EntrevistaS2E1.png)  
 [Seg2 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESesnqbIKNBIj2P7j6CMxpsBuPL5ecH8TMAAxZh29afhHw?e=pCWved&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Luis nos cuenta de como participa de estas actividades usando whatsapp como su principal fuente de recoleccion de datos y comunicacion con su gerente, menciona que tanto el uso del correo electronico y uso de whatsapp son obsoletos, toman mucho tiempo y no demuestran el nivel de formalidad deseado.
@@ -230,17 +230,13 @@ Ocupación: Estudiante - Ayudante
 
 Alvaro comenta sobre su experiencia como voluntario ayudante en una ONG. Se menciona como es la distribucion de tareas y la comunicacion entre los ayudantes y el gestor del proyecto. Tambien menciona que noes eficiente ni rapida la gestion de la organizacion y que el espera se pueda mejorar en algun futuro.
 
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+Nombre: Pol Landeo
+Edad: 27 años 
+Ocupación: Ayudante en una ONG
+![Imagen de entrevista](../assets/Entrevistas/EntrevistaS2E3.png)  
+[Seg2 - Entrevista - 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EVTCV3Z3klZEunW6DHRtpU4BIwJk7OE6UEs4NEG5tWiMpQ?e=l3SrWz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+Pol nos cuenta que en su día a día hace uso de las herramientas de google para la gestión de la información de la ONG. Asimismo, 
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
