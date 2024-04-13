@@ -591,6 +591,9 @@ Configuraciones de donde y como deployeamos el proyecto
         <tr>
             <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
             <td>
+        </tr>
+    <tbody>
+<table>
 
 
 #### 5.2.X.2. Sprint Backlog n.
