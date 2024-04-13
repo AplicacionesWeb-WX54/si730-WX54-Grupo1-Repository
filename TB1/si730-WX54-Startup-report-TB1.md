@@ -402,22 +402,31 @@ El logo de nuestra startup, que muestra la vista superior de alguien abriendo lo
 ### 4.1.2. Web Style Guidelines.
 Descripcion de los elementos que se utilizaran en el web app
 
-**Background:** (primary, secondary, terniary)  
+**Background:** (primary, secondary, terniary)
+
 Para el background se hace uso del color FFFFF para resaltar la pagina y para separar secciones D9ED8F
 ![Background Preview web](/assets/searching-system/Search.png)
 
 
 **Text Styles:** (H1, H2, p, a,)
 
-![Text Style Preview web](image.jpg)
+Para el texto se escogieron colores que combinan con la tematica de la pagina y que facilitan la lectura del usuario
+<center><img src="../assets/aidmanager-app-mockup/aam-6.png" alt="app web mock-up6" style="width:80%;"></center>
+
 **Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
+
+Para los botones el color cambia segun el color del fondo
+<center><img src="../assets/app-web-wireframe/aww-13.png" alt="app web wireframe13" style="width:80%;"></center>
+
 **Icons:** (Fondo blanco con los iconos que vamos a usar)
 Tendremos iconografia de busqueda, lapiz, ropa, reciclaje, icono de grafico, foco, etc
-![Icons Preview web](image.jpg)
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-{neko}
-![Miscellaneos preview web](image.jpg)
+
+<center><img src="../assets/aidmanager-app-mockup/aam-6.png" alt="app web mock-up6" style="width:80%;"></center>
+
+**Misc** 
+Se determina el color y posicion segun la seccion
+<center><img src="../assets/app-web-wireframe/aww-10.png" alt="app web wireframe10" style="width:80%;"></center>
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 Sistemas de organización que usaremos para el proyecto.
