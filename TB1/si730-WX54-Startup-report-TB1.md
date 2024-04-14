@@ -647,7 +647,19 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
 
 
 #### 5.2.X.2. Sprint Backlog n.
-![SprintBacklog n](image.jpg) Nica hago la tabla 
+
+| Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
+|------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
+| CC01 | Testimonials     | C01  | Sección Testimonials responsive | Desarrollo e implementación de los estilos que corresponden a la sección Testimonials | 3                   | Arian Rodriguez Vargas      | Done   |
+| CC02 | BrandCarousel         | C02  | Sección Features responsive     | Desarrollo e implementación de los estilos que corresponden a la sección BrandCarousel     | 3                   | Peña Ramirez, Sebastian Piñera      | Done   |
+| CC03 | Button component | C03  | Button Design responsive        | Desarrollo e implementación de los estilos que corresponden al Button                 | 2                   | Esteban Garcia, Nicolas Sebastian | Done   |
+| CC04 | Navbar component | C04  | Sección Navbar responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Navbar       | 3                   | Esteban Garcia, Nicolas Sebastian | Done   |
+| CC05 | Contact          | C05  | Sección Contact responsive      | Desarrollo e implementación de los estilos que corresponden a la sección Contact      | 3                   | Fabia Alejandra, Herrera Aguirre  | Done   |
+| CC06 | Footer           | C06  | Sección Footer responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Footer       | 2                   | Fabia Alejandra, Herrera Aguirre  | Done   |
+| CC07 | Hero             | C07  | Sección Hero responsive         | Desarrollo e implementación de los estilos que corresponden a la sección Hero         | 4                   | Sebastian Ramirez Hotman | Done   |
+| CC08 | About            | C08  | Sección About responsive        | Desarrollo e implementación de los estilos que corresponden a la sección About        | 3                   | Sebastian Ramirez Hotman | Done   |
+| CC10 | Service           | C010 | Sección Prices responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Service       | 2                   | Arian Rodriguez Vargas       | Done   |
+
 #### 5.2.X.3. Development Evidence for Sprint Review.
 
 | Repository                 | Branch                   | Commit ID | Commit Message                                                                      | Commit Message Body | Commited On(Date) |
