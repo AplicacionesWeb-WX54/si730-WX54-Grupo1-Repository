@@ -587,7 +587,7 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
     <img src="../assets/evidences-deployment/configure-project-image.jpeg" alt="Imagen del compañero" style="width:80%">
 </center><br/>
 
-3. Después de realizar la acción, observamos que el despliegue se realizó correctamente, adjuntamos los detalles del despliegue a producción.
+1. Después de realizar la acción, observamos que el despliegue se realizó correctamente, adjuntamos los detalles del despliegue a producción.
 
 <center>
     <img src="../assets/evidences-deployment/production-deploy-image.jpg" alt="Imagen del compañero" style="width:80%">
@@ -653,13 +653,104 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
 ![Sprint review Testing suite Evidence](image.jpg)
 #### 5.2.X.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg)
+
+Para esta entrega, el equipo AidManager logró implementar exitosamente la landing page, en la cual se brindará información específica para conocer nuestra misión como startup, así como los servicios que ofrecemos en nuestra aplicación web.
+
+**URL Landing Page:** https://landing-page-aid-manager-37nb.vercel.app/
+
+**Hero en version desktop**
+
+<img src="../assets/evidences-landing-page/hero-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Hero en version mobile**
+
+<img src="../assets/evidences-landing-page/hero-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+**About en version desktop**
+
+<img src="../assets/evidences-landing-page/about-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**About en version mobile**
+
+<img src="../assets/evidences-landing-page/about-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+**Service en version desktop**
+
+<img src="../assets/evidences-landing-page/service-section-desktok.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Service en version mobile**
+
+<img src="../assets/evidences-landing-page/service-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+**Carousel en version desktop**
+
+<img src="../assets/evidences-landing-page/carousel-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Carousel en version mobile**
+
+<img src="../assets/evidences-landing-page/carousel-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+**Testimonials en version desktop**
+
+<img src="../assets/evidences-landing-page/testimonials-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Testimonials en version mobile**
+
+<img src="../assets/evidences-landing-page/testimonials-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+**Contact en version desktop**
+
+<img src="../assets/evidences-landing-page/contact-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Testimonials en version mobile**
+
+<img src="../assets/evidences-landing-page/contact-section-mobile-1.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+<img src="../assets/evidences-landing-page/contact-section-mobile-2.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+//
+
+**Footer en version desktop**
+
+<img src="../assets/evidences-landing-page/footer-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Footer en version mobile**
+
+<img src="../assets/evidences-landing-page/footer-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review.
-![Sprint review Services Documentation Evidence](image.jpg)
+
+En este sprint los miembros de AidManager Solutions complementaron satisfactoriamente las tareas propuestas. El sprint estuvo relacionado mayormente con el diseño y desarrollo del software. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
+
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review.
-![Sprint review Software Deployment Evidence](image.jpg)
+
+Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
+
+* Git: Se utilizó para el control de versiones del código fuente.
+* GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
+* GitHub: Se utilizó para crear el repositorio de la landing page, * donde se subió el código fuente.
+* Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular
+
+Evidencias de despliegue en la plataforma Vercel:
+
+<img src="../assets/evidences-deployment/production-deploy-image.jpg" alt="Imagen del compañero" style="width:100%"><br/>
+
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+
+Los integrantes del equipo, colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existian las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main. Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+<img src="../assets/collaboration-insights/overview-landing.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+
+Flujo de trabajo entre las ramas:
+
+<img src="../assets/collaboration-insights/network-graph.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+Evidencia de contribuciones:
+
+<img src="../assets/collaboration-insights/commit-evidences.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
