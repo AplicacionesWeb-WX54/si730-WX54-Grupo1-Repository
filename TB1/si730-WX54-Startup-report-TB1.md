@@ -515,12 +515,19 @@ Wireframe es todo lo funcional de la pagina
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+
+![Web Aplication Wireflow1](/assets/user-flow/Userflow1.png)
+![Web Aplication Wireflow2](/assets/user-flow/Userflo2.png)
+![Web Aplication Wireflow3](/assets/user-flow/Userflo3.png)
+![Web Aplication Wireflow4](/assets/user-flow/userflo4.png)
+![Web Aplication Wireflow5](/assets/user-flow/userflo5.png)
+
 ### 4.4.2. Web Applications Mock-ups.
 
 </br>
 
 [URL del Mock-up de la Aplicación hecho en Figma](https://www.figma.com/file/n5BSEAK3X9lFN2M1eqnmQX/AidManager-Prototype?type=design&node-id=0%3A1&mode=design&t=dhyNolXNOfDSlBEG-1)
+
 
 **Segmento 1: Manager de ONG**
 <center><img src="../assets/aidmanager-app-mockup/aam-1.png" alt="app web mock-up1" style="width:80%;"></center>
