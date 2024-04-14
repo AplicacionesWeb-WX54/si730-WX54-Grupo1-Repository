@@ -1185,15 +1185,16 @@ TB1: Se recomienda seguir trabajando de manera colaborativa y equitativa, de man
 
 # Bibliografía
 ``` 
-formato
 
-"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
-        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
+Nonprofits, D. F. (2023, 7 agosto). Data Analytics for Nonprofits.
+        (https://www.linkedin.com/pulse/data-analytics-nonprofits-digitalfornonprofits/)
+
+
+Everyone Thrives Consultant Services. (2023, 15 diciembre). Data: The Key to 
+        Unlocking Nonprofit Success. https://www.linkedin.com/pulse/,data-analytics-nonprofits-digitalfornonprofits/data-key-unlocking-nonprofit-success-everyone-thrives-4btnc/
+
 
 ```
-https://www.linkedin.com/pulse/data-analytics-nonprofits-digitalfornonprofits/
-
-https://www.linkedin.com/pulse/data-key-unlocking-nonprofit-success-everyone-thrives-4btnc/?trk=public_post_main-feed-card_feed-article-content
 
 # Anexos
 
