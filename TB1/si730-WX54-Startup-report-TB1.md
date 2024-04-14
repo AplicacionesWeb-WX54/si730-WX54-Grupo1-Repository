@@ -649,7 +649,20 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
 #### 5.2.X.2. Sprint Backlog n.
 ![SprintBacklog n](image.jpg) Nica hago la tabla 
 #### 5.2.X.3. Development Evidence for Sprint Review.
-![Sprint review development Evidence](image.jpg)
+
+| Repository                 | Branch                   | Commit ID | Commit Message                                                                      | Commit Message Body | Commited On(Date) |
+|----------------------------|--------------------------|-----------|-------------------------------------------------------------------------------------|---------------------|-------------------|
+| LandingPage-AidManager | main          | b28816c   | initial commit                                                                   | -                   | 7/04/2024        |
+| LandingPage-AidManager | feature/footer           | b28816c   | Update Footer.jsx                                                                   | -                   | 9/04/2024        |
+| LandingPage-AidManager | feature/contact          | d429bb8   | Update Contact.jsx                                                                  | -                   | 7/04/2024        |
+| LandingPage-AidManager | feature/service | a624c36   | feat: add ServiceCar Component and Service Component                 | -                   | 8/04/2024        |
+| LandingPage-AidManager | feature/testimonials     | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component | -                   | 12/04/2024        |
+| LandingPage-AidManager | feature/about            | 7e85194   | Update About.jsx                                                                    | -                   | 10/04/2024        |
+| LandingPage-AidManager | feature/hero             | 56ab21c   | Update Hero.jsx                                                                     | -                   | 10/04/2024        |
+| LandingPage-AidManager | feature/service          | c663461   | feat: Service section added                                                         | -                   | 12/04/2024        |
+| LandingPage-AidManager | feature/navbar           | 1d527f8   | feat: Navbar added                                                                  | -                   | 7/04/2024        |
+| LandingPage-AidManager | feature/brandCarousel           | 1d527f8   | feat: brandCarousel added added                                                                  | -                   | 11/04/2024        |
+
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
 ![Sprint review Testing suite Evidence](image.jpg)
 #### 5.2.X.5. Execution Evidence for Sprint Review.
