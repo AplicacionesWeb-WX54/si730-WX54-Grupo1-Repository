@@ -764,11 +764,11 @@ Wireframe es todo lo funcional de la pagina
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
-![Web Aplication UserFlow](/assets/user-flow/Userflow1.png)
-![Web Aplication UserFlow](/assets/user-flow/Userflo2.png)
-![Web Aplication UserFlow](/assets/user-flow/Userflo3.png)
-![Web Aplication UserFlow](/assets/user-flow/userflo4.png)
-![Web Aplication UserFlow](/assets/user-flow/userflo5.png)
+![Web Aplication UserFlow](../assets/user-flow/Userflow1.png)
+![Web Aplication UserFlow](../assets/user-flow/Userflo2.png)
+![Web Aplication UserFlow](../assets/user-flow/Userflo3.png)
+![Web Aplication UserFlow](../assets/user-flow/userflo4.png)
+![Web Aplication UserFlow](../assets/user-flow/userflo5.png)
 
 
 
@@ -779,30 +779,30 @@ Se utilizó la herramienta Figma para realizar el primer prototipo de la aplicac
 [URL del Prototipo hecho en Figma](https://www.figma.com/file/n5BSEAK3X9lFN2M1eqnmQX/Untitled?type=design&node-id=0%3A1&mode=design&t=dhyNolXNOfDSlBEG-1)
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
-![System Context](/assets/system-diagrams/system-context.png) 
+![System Context](../assets/system-diagrams/system-context.png) 
    
 ### 4.6.2. Software Architecture Container Diagrams.
-![Container Diagram](/assets/system-diagrams/container-diagram.png)
+![Container Diagram](../assets/system-diagrams/container-diagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
-![Component Diagram](/assets/system-diagrams/component-payment.png)
+![Component Diagram](../assets/system-diagrams/component-payment.png)
 **Payment Context**: Permite visualizar cómo se relacionan los componentes de la aplicación con el sistema de pagos. Se observa la interacción entre el cliente, la aplicación y el proveedor de pagos.
 
-![Component Diagram](/assets/system-diagrams/component-collaborate.png)
+![Component Diagram](../assets/system-diagrams/component-collaborate.png)
 **Collaborate Context**: Muestra la interacción entre los componentes de la aplicación y el sistema de colaboración. Se evidencia la comunicación entre el usuario, la aplicación y el sistema de colaboración.
 
-![Component Diagram](/assets/system-diagrams/component-costsmanager.png)
+![Component Diagram](../assets/system-diagrams/component-costsmanager.png)
 **Costs Manager Context**: Representa la relación entre los componentes de la aplicación y el sistema de gestión de costos. Se visualiza la interacción entre el usuario, la aplicación y el sistema de gestión de costos.
 
-![Component Diagram](/assets/system-diagrams/component-taskmanager.png)
+![Component Diagram](../assets/system-diagrams/component-taskmanager.png)
 **Task Manager Context**: Muestra cómo se relacionan los componentes de la aplicación con el sistema de gestión de tareas. Se evidencia la interacción entre el usuario, la aplicación y el sistema de gestión de tareas.
 
-![Component Diagram](/assets/system-diagrams/component-userprofile.png)
+![Component Diagram](../assets/system-diagrams/component-userprofile.png)
 **User Profile Context**: Permite visualizar la relación entre los componentes de la aplicación y el sistema de perfiles de usuario. Se observa la interacción entre el usuario, la aplicación y el sistema de perfiles de usuario.
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-![Class Diagram](/assets/diagrams/class_diagram.png)
+![Class Diagram](../assets/diagrams/class_diagram.png)
 ### 4.7.2. Class Dictionary.
 
 Se muestran las clases que son relevantes.
@@ -854,7 +854,7 @@ Project - la clase Projecto representa
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-![Database Diagram](/assets/diagrams/database_diagram.png)
+![Database Diagram](../assets/diagrams/database_diagram.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
