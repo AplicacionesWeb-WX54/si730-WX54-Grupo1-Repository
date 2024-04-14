@@ -1178,9 +1178,10 @@ Evidencia de contribuciones:
 <img src="../assets/collaboration-insights/commit-evidences.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
 
 # Conclusiones
-{texto}
-# Conclusiones y recomendaciones.
-{texto}
+TB1: AidManager se centra en la creación de una aplicación web que permita a las ONGs gestionar sus proyectos de manera eficiente, así como a los voluntarios colaborar en las diferentes actividades que se realizan. La landing page es el primer paso para dar a conocer la startup y los servicios que ofrece, de manera que se pueda captar la atención de los posibles usuarios. Se ha logrado implementar de manera exitosa la landing page, la cual se encuentra desplegada en la web de manera pública. Los integrantes del equipo colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existían las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main. Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
+
+# Recomendaciones.
+TB1: Se recomienda seguir trabajando de manera colaborativa y equitativa, de manera que se pueda lograr los objetivos propuestos en el tiempo establecido. Se recomienda seguir utilizando las herramientas de GitFlow para manejar las actualizaciones que se vayan realizando en el código fuente, de manera que se pueda tener un control de las versiones y de los cambios que se vayan realizando. Se recomienda seguir utilizando las herramientas de GitFlow para manejar las actualizaciones que se vayan realizando en el código fuente, de manera que se pueda tener un control de las versiones y de los cambios que se vayan realizando.
 
 # Bibliografía
 ``` 
