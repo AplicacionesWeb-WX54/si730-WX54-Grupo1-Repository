@@ -664,7 +664,24 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
 | LandingPage-AidManager | feature/brandCarousel           | 1d527f8   | feat: brandCarousel added added                                                                  | -                   | 11/04/2024        |
 
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. En el siguiente link se puede encontrar dichas pruebas de aceptación: https://github.com/AplicacionesWeb-WX54/Acceptance-Tests.git
+
+| Repository          | Branch | Commit ID                                | Commit Message                     | Commit Message (Body) | Committed on (Date) |
+|---------------------|--------|------------------------------------------|------------------------------------|-----------------------|---------------------|
+| Acceptance-Test     | main   | 91507dffacabf6415efaa4e663c85756521a9f04 | Initial commit                     | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | 822c79119c080f39585630ce640ab7ee1c3c692f | feat: Added us-01 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | a24f512b364b04682994f111d1d4a9a05fa79f74 | feat: Added us-02 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | 00f760dedabd22b97928d7bf36dccf7ebe51cf67 | feat: Added us-03 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | 134caed2aea32dee6a049d956466d8580e0b1ab8 | feat: Added us-04 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | cd8cc231ff1973cbffd9adec1839191a5d98ea62 | feat: Added us-05 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | b8b7f2389d0f4e04f3e75dcfaa22d9f4d1d547d9 | feat: Added us-06 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | cd8cc231ff1973cbffd9adec1839191a5d98ea62 | feat: Added us-07 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | b8b7f2389d0f4e04f3e75dcfaa22d9f4d1d547d9 | feat: Added us-07 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | 56a8ed5b3dfc62a1be1658cfc6d08d00e8cbcf85 | feat: Added us-17 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | e3b0c44298fc1c149afbf4c8996fb92427ae41e4 | feat: Added us-18 acceptance test  | -                     | 14/04/2024          |
+
+
 #### 5.2.X.5. Execution Evidence for Sprint Review.
 
 Para esta entrega, el equipo AidManager logró implementar exitosamente la landing page, en la cual se brindará información específica para conocer nuestra misión como startup, así como los servicios que ofrecemos en nuestra aplicación web.
