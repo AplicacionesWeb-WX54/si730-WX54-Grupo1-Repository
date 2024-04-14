@@ -20,7 +20,7 @@
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 19/03/2024 |Grupo 1 |Se crea el documento |
+| 1.0 | 14/04/2024 |Grupo 1 | Informe |
 
 # Project Report Collaboration Insights
 [URL de la organización](https://github.com/AplicacionesWeb-WX54)
