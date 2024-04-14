@@ -1,14 +1,14 @@
----
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>INGENIERÍA DE SISTEMAS DE SOFTWARE</strong><br>
+    <strong> SI720 Aplicaciones Web - WX54</strong><br>
+    <strong>Profesor:  Alex Humberto Sánchez Ponce </strong><br>
+    <br>INFORME <br>
+    "Startup" | "Producto"
+</p>
 
----
----
-# UPC
-# INGENIERÍA DE SISTEMAS DE SOFTWARE
-## CURSO: SI730 Aplicaciones Web | SECCIÓN WX54 
- Profesor: Alex Humberto Sánchez Ponce
-# Informe de TB1
-Startup: **YESI (Yielding Efficient Software Implementations)**  
-Producto: **AidManager**
+
 ### Integrantes:
 - Peña Rivera, Manuel Sebastian - U202210138
 - Ramírez Hoffmann, Sebastián - U202211894
@@ -368,16 +368,305 @@ en el que se especializa la startup.
 
 **4. Lista de necesidades:** Una lista detallada de los artículos o suministros específicos que una organización benéfica necesita recibir como donación.
 
-**5. Proyecto:** El proyecto se define como la idea de crear un evento ya sea de accion social o de donacion como lo que puede ser una recolecta de basura en la playa o un evento de donacion de polos. En nuestra aplicacion web se debera definir si se hace un evento de donacion o de accion social.
+**5. Intermediario de donaciones:** Una plataforma o servicio que facilita la conexión entre organizaciones benéficas que necesitan donaciones y personas dispuestas a donar.
 
-**6. Registro de costos:** Un registro de los costos asociados con la realización de un proyecto o evento benéfico.
+**6. ONG:** Entidad formada por personas que comparten un interés común en promover una causa social, política o ambiental.
 
-**7. Ayudante de proyecto:** Segmento objetivo que representa a los ayudantes reclutados por la ONG para que esten en el evento para que se mantenga el orden y se siga lo planeado segun el proyecto, estos seran asignados de recolectar los datos.
+**7. Usuario donante:** Un usuario de la plataforma que está interesado en donar artículos o suministros a organizaciones benéficas.
 
-**8. Usuario receptor:** Una organización benéfica que está registrada en la plataforma y que busca aumentar su impacto.
+**8. Usuario receptor:** Una organización benéfica que está registrada en la plataforma y que busca recibir donaciones de artículos o suministros.
 
-**9. Registro de asistentes:** Un registro de los participantes de los proyectos realizados por los usuarios, que puede incluir información demografica, geografica o incluso encuestas de opinion.
+**9. Registro de donación:** Un registro de las donaciones realizadas por los usuarios, que puede incluir información sobre los artículos donados, la organización benéfica receptora, etc.
 
-**9. Asignación de tareas:** La distribución de tareas específicas a los miembros del equipo de la ONG para llevar a cabo un proyecto o evento benéfico.
+**10. Notificación de necesidad:** Una alerta o mensaje que se envía a los usuarios sobre las necesidades específicas de una organización benéfica en un momento dado.
 
-**10. Registro de costos:** Un registro de los costos asociados con la realización de un proyecto o evento benéfico.
+---
+
+# Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping.
+ 
+Escenario 1: Gestor de proyecto realiza su labor con AidManager para que lo beneficie.
+To-Be:
+| Fases|        |   |    |   |
+|----------|--------------|--------|----------|--------|
+| Doing          | Utilizando la herramienta web para planificar proyectos | Accediendo a la información recolectada por los ayudantes | Manteniendo comunicación directa con los ayudantes a través de la plataforma | Analizando oportunidades de mejora proporcionadas por la herramienta |
+| Thinking       | Considerando cómo optimizar la planificación de proyectos con la información obtenida | Evaluando la calidad y relevancia de la información recolectada | Reflexionando sobre la efectividad de la comunicación directa con los ayudantes | Identificando oportunidades de mejora sugeridas por la plataforma |
+| Feeling        | Satisfecho con la eficiencia y precisión en la planificación de proyectos | Valorando la contribución de los ayudantes a través de la información recolectada | Confianza en la comunicación fluida con los ayudantes | Motivado por las oportunidades de mejora identificadas por la herramienta |
+
+
+Escenario 2: Ayudante del proyecto es enviado a manejar el proyecto de manera presencial con AidManager.
+
+TO-BE:
+| Fases          |      |       |       |       |
+|---------|--------|--------|------------------|---------|
+| Doing          | Utilizando la herramienta web para recolectar información demográfica, geográfica y psicológica relevante | Comunicando la información recolectada de manera directa al gestor de proyectos | Colaborando con el gestor en la planificación y ejecución del proyecto utilizando la información recolectada | Manteniendo actualizado el inventario y presupuesto del proyecto en la plataforma |
+| Thinking       | Reflexionando sobre la importancia y relevancia de la información recolectada para el proyecto | Evaluando la eficacia de la comunicación directa con el gestor a través de la plataforma | Considerando cómo mejorar la colaboración con el gestor utilizando la información recolectada | Identificando oportunidades de mejora en la gestión del inventario y presupuesto del proyecto |
+| Feeling        | Comprometido con la precisión y relevancia de la información recolectada | Satisfecho al contribuir de manera significativa al proyecto a través de la información recolectada | Motivado por la colaboración directa con el gestor y el impacto positivo en el proyecto | Esperanzado por la mejora continua en la gestión del inventario y presupuesto del proyecto |
+
+
+## 3.2. User Stories.
+ 
+| HU0X | Historia Usuario | "Descripcion"  | Criterios de Aceptación |
+|-|-|-|-|
+| HU01 | Listado de proyectos a realizar | Como project manager encargado del proceso, quiero planificar lo que haré en un listado de tareas, para tener en cuenta lo proyectado.  | Given que soy un project manager,<br>When accedo al sistema de gestión de proyectos,<br>Then debo poder ver un listado de proyectos a realizar. |
+| HU02 | Actualizaciones de nuevos proyectos | Como miembro del equipo y parte del proyecto, quiero mantenerme informado sobre los nuevos procesos o cambios que se hayan realizado en una lista de status, para no perderme de ningún detalle.  |Given que soy un miembro del equipo,<br>When accedo al sistema de gestión de proyectos,<br>Then debo poder ver las actualizaciones de nuevos proyectos en la lista de status. |
+| HU03 | Asignación de tareas del proyecto | Como project manager encargado de un proyecto, quiero asignar a mis miembros del equipo algunas tareas y establecer fechas límites, para mantener un orden.  |Given que soy un project manager,<br>When asigno tareas a los miembros del equipo en el sistema de gestión de proyectos,<br>Then las tareas se asignan correctamente y se establecen fechas límites. |
+| HU04 | Calendario con fechas importantes | Como miembro del parte del proyecto, quiero ver en un calendario las fechas y eventos relacionados al proyecto para no perderme ningún detalle.  |Given que soy un miembro del proyecto,<br>When accedo al calendario en el sistema de gestión de proyectos,<br>Then puedo ver todas las fechas importantes relacionadas al proyecto. |
+| HU05 | Dashboard estadístico simple | Como project manager a cargo de un proyecto, quiero ver un resumen visual del progreso del proyecto en forma de gráficos, para tener una mejor visión de lo planificado.  |Given que soy un project manager,<br>When accedo al dashboard en el sistema de gestión de proyectos,<br>Then debo poder ver un resumen visual del progreso del proyecto en forma de gráficos. |
+| HU06 | Lista de tareas completadas | Como miembro del proyecto, quiero ver mis tareas asignadas, organizadas y completadas en una lista, para tener mejor detalle de lo realizado. |Given que soy un miembro del proyecto,<br>When accedo a la lista de tareas en el sistema de gestión de proyectos,<br>Then puedo ver mis tareas asignadas, organizadas y completadas. |
+| HU07 | Generación de resúmenes | Como project manager a cargo de un proyecto benéfico, quiero generar resúmen estadístico sobre lo planificado a gastar con un solo click, para optimizar tiempos. |Given que soy un project manager,<br>When genero un resumen estadístico en el sistema de gestión de proyectos,<br>Then debo poder hacerlo con un solo click para optimizar tiempos. |
+| HU08 | Status automático del proyecto | Como miembro del proyecto, quiero ver un resumen ejecutivo del proyecto que incluya el estado actual, los hitos, riesgos identificados, para reconocer rápidamente lo planificado. |Given que soy un miembro del proyecto,<br>When accedo al resumen ejecutivo del proyecto en el sistema de gestión,<br>Then debo poder ver el estado actual, los hitos y riesgos identificados. |
+| HU09 | Registro de detalles en el proyecto | Como miembro del proyecto, quiero registrar horas de trabajo y gastos relacionados con el proyecto para llevar un control preciso de los recursos utilizados  |Given que soy un miembro del proyecto,<br>When registro horas de trabajo y gastos en el sistema de gestión de proyectos,<br>Then debo poder llevar un control preciso de los recursos utilizados. |
+| HU10 | Solicitud de recursos | Como miembro del proyecto, quiero solicitar, mandar análisis de nuevos recursos que se requieren al project manager, para que este al tanto de nuevos requerimientos.   |Given que soy un miembro del proyecto,<br>When solicito nuevos recursos en el sistema de gestión de proyectos,<br>Then debo poder enviar análisis de los recursos requeridos al project manager. |
+| HU11 | Fechas a expirar | Como miembro del proyecto, quiero ver cuando una fecha límite está por llegar, para diferenciarlos de los que aun existe un rango de tiempo. |Given que soy un miembro del proyecto,<br>When accedo al sistema de gestión de proyectos,<br>Then debo poder ver las fechas límite por expirar y diferenciarlas claramente. |
+| HU12 | Estimación de gastos  | Como project manager, quiero poder establecer y gestionar un presupuesto para el proyecto, incluyendo seguimiento de gastos y comparación con la estimación inicial. |Given que soy un project manager,<br>When establezco un presupuesto en el sistema de gestión de proyectos,<br>Then debo poder hacer seguimiento de gastos y compararlo con la estimación inicial. |
+| HU13 | Límite máximo de presupuesto | Como project manager quiero que me alerte cuando vayamos gastando más de lo presupuestado de manera visual, para tener una diferencia y estar pendiente de ello.  |Given que soy un project manager,<br>When gasto más de lo presupuestado,<br>Then debo recibir una alerta visual en el sistema de gestión de proyectos. |
+| HU14 | Registro de gastos | Como miembro del proyecto, quiero registrar los recursos que se han ido adquiriendo para que se vaya teniendo un alcance de lo que se va gastando. |Given que soy un miembro del proyecto,<br>When registro los recursos adquiridos en el sistema de gestión de proyectos,<br>Then debo tener un alcance de lo que se va gastando. |
+| HU15 | Directorio de contactos | Como miembro del proyecto, quiero tener un listado de todos los demás miembros para poder ponerme en contacto con ellos. | Given que soy un miembro del proyecto,<br>When accedo al directorio de contactos en el sistema de gestión de proyectos,<br>Then debo poder ver el listado de todos los demás miembros. |
+| HU16 | Recomendaciones sobre el buen manejo de proyectos | Como miembro del equipo quiero tener un repositorio en el que tenga diferentes fuentes recomendadas por la aplicación para el buen manejo de proyectos y campañas.  | Given que soy un miembro del equipo,<br>When accedo al repositorio de recomendaciones en el sistema de gestión de proyectos,<br>Then debo poder ver diferentes fuentes recomendadas para el buen manejo de proyectos. |
+| HU17 | Picos de riesgo | Como project manager, quiero visualizar en el dashboard cuando algún ajuste de la campaña no está cuadrando, para mantenerme alerta del buen manejo del proyecto | Given que soy un project manager,<br>When accedo al dashboard en el sistema de gestión de proyectos,<br>Then debo poder visualizar picos de riesgo para mantenerme alerta. |
+| HU18 | Documentos legales | Como project manager quiero subir los documentos legalizados sobre la organización benéfica para que sea compartido con los miembros del proyecto | Given que soy un project manager,<br>When subo documentos legales en el sistema de gestión de proyectos,<br>Then debo poder compartirlos con los miembros del proyecto. |
+| HU19 | Gestión de donaciones | Como miembro del proyecto, quiero poder acceder a un sistema de gestión de donaciones para hacer un seguimiento de las contribuciones recibidas y su impacto en el proyecto. | Given que soy un miembro del proyecto,<br>When accedo al sistema de gestión de donaciones en el sistema de gestión de proyectos,<br>Then debo poder hacer un seguimiento de las contribuciones recibidas y su impacto en el proyecto. |
+| HU20 | Promoción y seguimiento | Quiero poder acceder a un sistema de seguimiento de objetivos y resultados para evaluar el progreso del proyecto y realizar ajustes si es necesario. | Given que soy un usuario,<br>When accedo al sistema de seguimiento de objetivos y resultados en el sistema de gestión de proyectos,<br>Then debo poder evaluar el progreso del proyecto y realizar ajustes si es necesario. |
+
+
+## 3.3. Impact Mapping.
+
+![Impact Mapping Project Manager](../assets/impact-mapping-images/Impact-mapping-project-manager.png)
+![Impact Mapping Organizer](../assets/impact-mapping-images/Impact-mapping-organizer.png)
+
+
+## 3.4. Product Backlog.
+
+| #Orden | User Story ID | Titulo| Descripción| Story Points (1/2/3/5/8) |
+| ------ | ------------- | ----- | ---------- | ------------------------ |
+| 1      | HU01          |Listado de proyectos a realizar | Como project manager encargado del proceso, quiero planificar lo que haré en un listado de tareas, para tener en cuenta lo proyectado.  |     8    |
+| 2      | HU02         | Actualizaciones de nuevos proyectos | Como miembro del equipo y parte del proyecto, quiero mantenerme informado sobre los nuevos procesos o cambios que se hayan realizado en una lista de status, para no perderme de ningún detalle.  |     8    |
+| 3      | HU03         | Asignación de tareas del proyecto | Como project manager encargado de un proyecto, quiero asignar a mis miembros del equipo algunas tareas y establecer fechas límites, para mantener un orden.  |     8    | 
+| 4      | HU04         | Calendario con fechas importantes | Como miembro del parte del proyecto, quiero ver en un calendario las fechas y eventos relacionados al proyecto para no perderme ningún detalle.  |     5    |
+| 5      | HU05         | Dashboard estadístico simple | Como project manager a cargo de un proyecto, quiero ver un resumen visual del progreso del proyecto en forma de gráficos, para tener una mejor visión de lo planificado.  |     8    |
+| 6      | HU06         | Lista de tareas completadas | Como miembro del proyecto, quiero ver mis tareas asignadas, organizadas y completadas en una lista, para tener mejor detalle de lo realizado. |     5    |
+| 7      | HU07         | Generación de resúmenes | Como project manager a cargo de un proyecto benéfico, quiero generar resúmen estadístico sobre lo planificado a gastar con un solo click, para optimizar tiempos. |     8    |
+| 8      | HU08 | Status automático del proyecto | Como miembro del proyecto, quiero ver un resumen ejecutivo del proyecto que incluya el estado actual, los hitos, riesgos identificados, para reconocer rápidamente lo planificado. |     5    |
+| 9      | HU09 | Registro de detalles en el proyecto | Como miembro del proyecto, quiero registrar horas de trabajo y gastos relacionados con el proyecto para llevar un control preciso de los recursos utilizados  |     5    |
+| 10     | HU10 | Solicitud de recursos | Como miembro del proyecto, quiero solicitar, mandar análisis de nuevos recursos que se requieren al project manager, para que este al tanto de nuevos requerimientos.   |     3    |
+| 11     | HU11 | Fechas a expirar | Como miembro del proyecto, quiero ver cuando una fecha límite está por llegar, para diferenciarlos de los que aun existe un rango de tiempo. |     2    |
+| 12     | HU12 | Estimación de gastos  | Como project manager, quiero poder establecer y gestionar un presupuesto para el proyecto, incluyendo seguimiento de gastos y comparación con la estimación inicial. |     8    |
+| 13     | HU13 | Límite máximo de presupuesto | Como project manager quiero que me alerte cuando vayamos gastando más de lo presupuestado de manera visual, para tener una diferencia y estar pendiente de ello.  |     5    |
+| 14     | HU14 | Registro de gastos | Como miembro del proyecto, quiero registrar los recursos que se han ido adquiriendo para que se vaya teniendo un alcance de lo que se va gastando. |     8    |
+| 15     | HU15 | Directorio de contactos | Como miembro del proyecto, quiero tener un listado de todos los demás miembros para poder ponerme en contacto con ellos. |     3    |
+| 16     | HU16 | Recomendaciones sobre el buen manejo de proyectos | Como miembro del equipo quiero tener un repositorio en el que tenga diferentes fuentes recomendadas por la aplicación para el buen manejo de proyectos y campañas.  |     8    |
+| 17     | HU17 | Picos de riesgo | Como project manager, quiero visualizar en el dashboard cuando algún ajuste de la campaña no está cuadrando, para mantenerme alerta del buen manejo del proyecto |     5    |
+| 18     | HU18 | Documentos legales | Como project manager quiero subir los documentos legalizados sobre la organización benéfica para que sea compartido con los miembros del proyecto |     5    |
+| 19     | HU19 | Gestión de donaciones | Como miembro del proyecto, quiero poder acceder a un sistema de gestión de donaciones para hacer un seguimiento de las contribuciones recibidas y su impacto en el proyecto. |     5    |
+| 20     | HU20 | Promoción y seguimiento | quiero poder acceder a un sistema de seguimiento de objetivos y resultados para evaluar el progreso del proyecto y realizar ajustes si es necesario. |     5    |
+
+# Capítulo IV: Product Design
+## 4.1. Style Guidelines.
+### 4.1.1. General Style Guidelines.
+Descripcion del porque estos elementos seran importantes
+
+**Color:** (Descripcion de los colores escogidos y porque)  
+![Colores generales](image.jpg)
+
+**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
+![Tipografias generales](image.jpg)
+**Branding** (Describir logotipo y porque)
+![Branding general](image.jpg)
+### 4.1.2. Web Style Guidelines.
+Descripcion de los elementos que se utilizaran en el web app
+
+**Background:** (primary, secondary, terniary)  
+![Background Preview web](image.jpg)
+**Text Styles:** (H1, H2, p, a,)  
+![Text Style Preview web](image.jpg)
+**Button Styles:** (Button, dropdowns, Switches)
+![Button Preview web](image.jpg)
+**Icons:** (Fondo blanco con los iconos que vamos a usar)
+![Icons Preview web](image.jpg)
+**Misc** (Cosas como nav var o slideshows que pensemos usar)
+![Miscellaneos preview web](image.jpg)
+## 4.2. Information Architecture.
+### 4.2.1. Organization Systems.
+Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
+Sistemas de organización que usaremos para el proyecto.
+Creación de perfiles de usuarios. – Se adaptará a la vista para personalizar la información de su perfil y el tipo de cuenta. (Visual Hierarchy)
+Filtro de instituciones. – Por nombre se agruparía en una lista ordenada de manera alfabética, por temporada en una lista de campañas activas ordenada por la fecha límite y por ítems a donar en una lista de recursos ordenado por la fecha limite y el progreso de la meta de la institución.
+"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making use of physical differences, such as size, colour, contrast, alignment etc.
+
+Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the current step. 
+
+Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical, Chronological, by topic."
+### 4.2.2. Labeling Systems.
+The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in few words. 
+
+Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
+### 4.2.3. SEO Tags and Meta Tags
+
+**Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
+* Titulo: ```<title> ___ </title> ```
+* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
+* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+
+### 4.2.4. Searching Systems.
+**Que se busca?:** Que buscara el usuario  
+**Que resultados se mostraran?:** Que se mostrara  
+**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado 
+![Search interface preview web](image.jpg)
+
+### 4.2.5. Navigation Systems.
+Basicamente aqui definimos como funciona la navegacion del web app
+**Hierarchical Navigation System:** Main page a destination pages.
+**Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe poder regresar a la principal)
+**Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
+## 4.3. Landing Page UI Design.
+### 4.3.1. Landing Page Wireframe.
+la pagina donde te registras y ves info del web app (te manda al web app)
+
+Wireframe es todo lo funcional de la pagina
+![Landing page Wireframe](image.jpg)
+### 4.3.2. Landing Page Mock-up.
+Mockup es todo lo relacionado al diseño de la pagina
+![Landing page mockup](image.jpg)
+## 4.4. Web Applications UX/UI Design.
+### 4.4.1. Web Applications Wireframes.
+lo funcional de cada aspecto del wireframe 
+![Web Aplication Wireframe](image.jpg)
+### 4.4.2. Web Applications Wireflow Diagrams.
+Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
+![Web Aplication Wireflow](image.jpg)
+### 4.4.2. Web Applications Mock-ups.
+Diseño en todo aspecto
+![Web Aplication Mockup](image.jpg)
+### 4.4.3. Web Applications User Flow Diagrams.
+un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
+![Web Aplication User Flow Diagram](image.jpg)
+## 4.5. Web Applications Prototyping.
+[URL del Prototipo (Hecho en figma)](https://www.example.com)
+## 4.6. Domain-Driven Software Architecture.
+### 4.6.1. Software Architecture Context Diagram.
+1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
+se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
+
+2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que encapsula palabras clave en los procesos para poder diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)]) Se hace como un brainstorm y se ve en que pueden conectarse o comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
+   
+### 4.6.2. Software Architecture Container Diagrams.
+1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
+
+### 4.6.3. Software Architecture Components Diagrams.
+1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+## 4.7. Software Object-Oriented Design.
+### 4.7.1. Class Diagrams.
+
+### 4.7.2. Class Dictionary.
+Inherit (ave(superclase) -> (subclase)canario )
+Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
+Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera de vista))
+Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
+## 4.8. Database Design.
+### 4.8.1. Database Diagram.
+
+# Capítulo V: Product Implementation, Validation & Deployment
+## 5.1. Software Configuration Management.
+### 5.1.1. Software Development Environment Configuration.
+Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
+extensiones tmbn? nose bn q quieren aca
+### 5.1.2. Source Code Management.
+El gitjab donde tengamos el proyecto
+### 5.1.3. Source Code Style Guide & Conventions.
+Que usamos con css (en caso usemos software para SASS)
+supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
+### 5.1.4. Software Deployment Configuration.
+Configuraciones de donde y como deployeamos el proyecto
+## 5.2. Landing Page, Services & Applications Implementation.
+### 5.2.X. Sprint n
+#### 5.2.X.1. Sprint Planning n.
+Explicar como vamos a plannear el sprint?
+#### 5.2.X.2. Sprint Backlog n.
+![SprintBacklog n](image.jpg) Nica hago la tabla 
+#### 5.2.X.3. Development Evidence for Sprint Review.
+![Sprint review development Evidence](image.jpg)
+#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+![Sprint review Testing suite Evidence](image.jpg)
+#### 5.2.X.5. Execution Evidence for Sprint Review.
+![Sprint review Execution Evidence](image.jpg)
+#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+![Sprint review Services Documentation Evidence](image.jpg)
+#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+![Sprint review Software Deployment Evidence](image.jpg)
+#### 5.2.X.8. Team Collaboration Insights during Sprint.
+![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+**Preguntas generales:**
+
+1. ¿Cuál es su nombre? 
+2. ¿Qué edad tiene? 
+3. ¿A qué se dedica? 
+4. ¿[Opinion de idea de propuesta]? 
+
+**Entrevistas usuario segmento 2**
+1. ¿Lorem?
+2. ¿Lorem?
+3. ¿Lorem?
+4. ¿Lorem?  
+   
+**Entrevistas usuario segmento 2**
+1. ¿Lorem? 
+2. ¿Lorem?
+3. ¿Lorem?
+4. ¿Lorem? 
+### 5.3.2. Registro de Entrevistas.
+**Segmento 1**  
+Nombre: _____
+Edad: _ años 
+Ocupación: _____  
+![Imagen de entrevista](image.jpg)  
+{texto mucho}
+
+**Segmento 2**  
+Nombre: _____
+Edad: _ años 
+Ocupación: _____  
+![Imagen de entrevista](image.jpg)
+{texto}
+### 5.3.3. Evaluaciones según heurísticas.
+| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
+| --------------------------------------------- | ---------- | --------- |
+| Visibilidad del estado del sistema            |            | {texto}   |
+| Coincidencia entre el sistema y el mundo real |            | {texto}   |
+| Control y libertad del usuario                |            | {texto}   |
+| Consistencia y estándares                     |            | {texto}   |
+| Prevención de errores                         |            | {texto}   |
+| Mostrar antes que recordar                    |            | {texto}   |
+| Flexibilidad y eficiencia de uso              |            | {texto}   |
+| Diseño estético y minimalista                 |            | {texto}   |
+| Comunicar errores con facilidad               |            | {texto}   |
+| Ayuda y documentación                         |            | {texto}   |
+## 5.4. Video About-the-Product.
+[URL del video about the product](https://www.example.com)
+# Conclusiones
+{texto}
+# Conclusiones y recomendaciones.
+{texto}
+# Video About-the-Team.
+[URL del video about the team](https://www.example.com)
+# Bibliografía
+``` 
+formato
+
+"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
+        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
+
+```
+# Anexos
+
+datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
+
+![Imagen de algo no nuestro lol](image.jpg)
+
+
+
+
+
