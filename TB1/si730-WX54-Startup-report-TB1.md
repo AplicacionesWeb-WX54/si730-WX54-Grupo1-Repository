@@ -725,8 +725,400 @@ Project - la clase Projecto representa
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-![Database Diagram](/assets/diagrams/database_diagram.png)
+Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+# Capítulo V: Product Implementation, Validation & Deployment
+## 5.1. Software Configuration Management.
+### 5.1.1. Software Development Environment Configuration.
+- Trello [https://trello.com](https://trello.com):
+ Trello es una aplicación web de gestión de proyectos compatible con la mayoria de navegadores. Se utilizó Trello para la organización y registro de las tareas por hacer, las que están en proceso y las realizadas. De esta forma podemos tener control acerca del avance del proyecto y las actividades de cada uno de los miembros del equipo.
 
+#### Product UX/UI Design
+- Miro [https://miro.com](https://miro.com):
+ Miro ha sido empleado en el desarrollo de los escenarios mapping y escenario mapping para ambos segmentos objetivos.
+
+- Figma [https://figma.com](https://figma.com):
+ Esta herramienta fue de vital importancia para la creación de los wireframes, mockups y mobile applications prototyping de manera colaborativa. Asimismo, su acceso es gratuito al contar con una cuenta registrada.
+
+#### Software Developement
+- Landing Page:
+El desarrollo del landing page se llevó a cabo con las tecnologías de Vite + React. Vite es un entorno de desarrollo web que permite la creación de aplicaciones web modernas con React, Vue, Svelte y Vanilla JS. Para la creación de la landing page se utilizó React como librería de JavaScript.
+
+- Frontend Web Application:
+La aplicación web implica tener claro los conceptos básicos de HTML5, CSS3 y JavaScript, ya que se utilizará Vue como framework de JavaScript.
+
+#### IDE's de desarrollo
+- WebStorm [https://www.jetbrains.com/webstorm/](https://www.jetbrains.com/webstorm/):
+WebStorm es un entorno de desarrollo integrado (IDE) creado por JetBrains. Este entorno de desarrollo nos proporcionará distintas herramientas para agilizar el proceso de desarrollo
+
+#### Software Testing
+- Para las pruebas de testeo software, tanto de la landing page como de la aplicación web, se emplearon las herramientas de desarrollador de los principales navegadores web como Google Chrome [https://www.google.com/chrome/](https://www.google.com/chrome/), Microsoft Edge [https://www.microsoft.com/en-us/edge](https://www.microsoft.com/en-us/edge) y Mozilla Firefox [https://www.mozilla.org/en-US/firefox/browsers/](https://www.mozilla.org/en-US/firefox/browsers/). Estos navegadores cuentan con aplicaciones desktop y móviles las cuáles son totalmente gratuitas. En el caso de desktop podemos instalarlos desde sus sitios oficiales, en el caso de móvil, desde la tienda de aplicaciones del sistema operativo en cuestión.
+
+#### Software Deployment
+- Vercel [https://vercel.com](https://vercel.com):
+Vercel es un servicio proporcionado por Zeit, Inc. que permite a los desarrolladores implementar aplicaciones web estáticas y dinámicas sin problemas. Para utilizar esta plataforma es necesario tener una cuenta registrada.
+
+#### Software Documentation
+- Markdown [https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax):
+Markdown es un lenguaje de marcado ligero que nos permite formatear texto de manera sencilla utilizando un formato de texto plano. De esta forma documentamos la información importante acerca del contexto, organización, producción y creacíon del proyecto.
+
+- LucidChart: [https://lucidchart.com/](https://lucidchart.com/):
+LucidChart es una plataforma que cuenta con opciones para la creación de diagramas, mapas mentales, flujos, con el uso de plantillas y tableros con edición en tiempo real. Fue utilizado en el desarrollo del diagrama de clases UML, así como los Wireflows y User Flows.
+
+- Structurizr [https://structurizr.com/](https://structurizr.com/):
+Esta herramienta permite crear los diagramas C4 de manera rápida con una sintaxis similar a un lenguaje de programación. Para utilizar esta aplicación web hace falta tener una cuenta registrada.
+
+- Vertabelo: [https://www.vertabelo.com/](https://www.vertabelo.com/)
+Es una aplicación web colaborativa que facilita el diseño e implementación de bases de datos en una amplia variedad de motores. 
+
+### 5.1.2. Source Code Management.
+Para el proyecto se creó una organización en Github, que permitiría el trabajo colaborativo para todos los integrantes del equipo, además de contar con un repositorio para el control de versiones del código fuente. Se utilizó la herramienta de control de versiones Git, la cual es una herramienta de código abierto que permite el control de versiones de archivos de manera eficiente.  
+**Organización**: [https://github.com/orgs/AplicacionesWeb-WX54/]  (https://github.com/orgs/AplicacionesWeb-WX54/)  
+**Landing Page**: [https://github.com/AplicacionesWeb-WX54/LandingPage-AidManager](https://github.com/AplicacionesWeb-WX54/LandingPage-AidManager)
+
+Para llevar a cabo la organización de desarollo del código, se crearon las siguientes ramas:
+- **main**: Rama principal del proyecto, donde se encuentra el código estable y funcional.
+- **development**: Rama de desarrollo, donde se realizan las integraciones de las funcionalidades de cada uno de los miembros del equipo.
+- **feature/feature-name**: Ramas de funcionalidades, donde se desarrollan las funcionalidades de cada uno de los miembros del equipo.
+
+## Commit Conventions:
+El formato de nuestros commits sigue la estructura de los “Conventional Commits” en su versión 1.0.0 (https://www.conventionalcommits.org/en/v1.0.0/) con el objetivo de proporcionar una lectura sencilla de los mismos. Por ello seguimos el siguiente formato:
+"< type>[optional scope]: < description>"
+Donde:
+- type: Especifica el tipo de cambio realizado, únicamente puede ser feat, fix, update, etc.
+- scope: Es el alcance que tiene nuestro commit.
+- description: Es un breve resumen de los cambios de código.
+
+### 5.1.3. Source Code Style Guide & Conventions.
+
+Para el desarrollo del código en HTML y CSS se decidió seguir la convención de Google HTML/CSS Style Guide. Entre las más importantes destacan:
+
+* Se debe declarar el tipo de documento al principio del archivo con `<!DOCTYPE html>`.
+* Indicar los meta tags.
+* El elemento `<title>` se debe ubicar entre las etiquetas `<head>`.
+* La identación es de dos espacios a la vez.
+* Usar solo minúsculas para los elementos HTML, atributos, propiedades, valores y selectores CSS.
+* Encerrar entre comillas los atributos de los elementos HTML.
+* Cada elemento HTML debe tener su etiqueta de cierre.
+* Evitar largas líneas de código.
+* Indicar el ancho y alto de las imágenes, así como el texto alternativo (`alt`).
+
+*Para el desarrollo del código en JavaScript, se eligió la convención Google JavaScript Style Guide. Algunas de estas convenciones son:*
+
+* Cada línea de código debe terminar con un punto y coma (`;`).
+* Tanto las variables como funciones deben estar en Camelcase.
+* Los valores strings deben estar entre comillas simples.
+* La identación del contenido es de +2.
+* Se debe evitar definir variables con la sentencia `var`. En su lugar, se recomienda `let` y `const`.
+
+*Para el desarrollo de los acceptance test con el lenguaje Gherkin, se seleccionó “Gherkin Conventions for Readable Specifications”. Entre ellas están:*
+
+* Para describir los pasos del escenario, utilizar las palabras "Give", "When", "Then" y "And".
+* Identar los pasos que comienzan con "And".
+* Agregar líneas entre pasos.
+* Encerrar entre comillas simples los parámetros.
+* Usar un comentario separador y dos líneas en blanco entre cada escenario.
+
+
+### 5.1.4. Software Deployment Configuration.
+
+En este apartado, detallaremos los pasos realizados para el despliegue de la Landing Page utilizando el servicio "Vercel".
+
+1. Luego de acceder a https://www.vercel.com/ e iniciar sesión o crear una cuenta, nos dirigimos al apartado "New Project" y conectamos nuestra cuenta de github para tener acceso a los respositorios disponibles.
+
+<center>
+    <img src="../assets/evidences-deployment/import-git-repository-image.jpeg" alt="Imagen del compañero" style="width:80%">
+</center><br/>
+
+2. Seleccionamos la organizacion "AplicacionesWeb-WX54" y nos dirigimos al repositorio de la Landing Page, la cual es "LandingPage-AidManager" y luego la importamos, una vez importado, realizamos la configuracion del proyecto para hacer el deploy.
+
+<center>
+    <img src="../assets/evidences-deployment/configure-project-image.jpeg" alt="Imagen del compañero" style="width:80%">
+</center><br/>
+
+1. Después de realizar la acción, observamos que el despliegue se realizó correctamente, adjuntamos los detalles del despliegue a producción.
+
+<center>
+    <img src="../assets/evidences-deployment/production-deploy-image.jpg" alt="Imagen del compañero" style="width:80%">
+</center><br/>
+
+
+## 5.2. Landing Page, Services & Applications Implementation.
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1.
+
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 12/04/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 14:00 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Modalidad remota por Discord.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Y.E.S.I Team
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Todos los miembros del equipo Y.E.S.I
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 0 Review Summary</td>
+            <td> Dado que es nuestro primer sprint de desarrollo no existe
+                un summary del sprint anterior.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td>
+        </tr>
+    <tbody>
+<table>
+
+
+#### 5.2.1.2. Sprint Backlog 1.
+
+| Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
+|------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
+| CC01 | Testimonials     | C01  | Sección Testimonials responsive | Desarrollo e implementación de los estilos que corresponden a la sección Testimonials | 3                   | Arian Rodriguez Vargas      | Done   |
+| CC02 | BrandCarousel         | C02  | Sección Features responsive     | Desarrollo e implementación de los estilos que corresponden a la sección BrandCarousel     | 3                   | Peña Ramirez, Sebastian Piñera      | Done   |
+| CC03 | Button component | C03  | Button Design responsive        | Desarrollo e implementación de los estilos que corresponden al Button                 | 2                   | Esteban Garcia, Nicolas Sebastian | Done   |
+| CC04 | Navbar component | C04  | Sección Navbar responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Navbar       | 3                   | Esteban Garcia, Nicolas Sebastian | Done   |
+| CC05 | Contact          | C05  | Sección Contact responsive      | Desarrollo e implementación de los estilos que corresponden a la sección Contact      | 3                   | Fabia Alejandra, Herrera Aguirre  | Done   |
+| CC06 | Footer           | C06  | Sección Footer responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Footer       | 2                   | Fabia Alejandra, Herrera Aguirre  | Done   |
+| CC07 | Hero             | C07  | Sección Hero responsive         | Desarrollo e implementación de los estilos que corresponden a la sección Hero         | 4                   | Sebastian Ramirez Hotman | Done   |
+| CC08 | About            | C08  | Sección About responsive        | Desarrollo e implementación de los estilos que corresponden a la sección About        | 3                   | Sebastian Ramirez Hotman | Done   |
+| CC10 | Service           | C010 | Sección Prices responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Service       | 2                   | Arian Rodriguez Vargas       | Done   |
+
+**Link to product backlog table:** https://github.com/orgs/AplicacionesWeb-WX54/projects/2 
+
+<br/>
+<img src="../assets/collaboration-insights/sprint-backlog.jpeg" alt="Captura Sprint 1 en Trello" width="100%">
+
+#### 5.2.1.3. Development Evidence for Sprint Review.
+
+| Repository                 | Branch                   | Commit ID | Commit Message                                                                      | Commit Message Body | Commited On(Date) |
+|----------------------------|--------------------------|-----------|-------------------------------------------------------------------------------------|---------------------|-------------------|
+| LandingPage-AidManager | main          | b28816c   | initial commit                                                                   | -                   | 7/04/2024        |
+| LandingPage-AidManager | feature/footer           | b28816c   | Update Footer.jsx                                                                   | -                   | 9/04/2024        |
+| LandingPage-AidManager | feature/contact          | d429bb8   | Update Contact.jsx                                                                  | -                   | 7/04/2024        |
+| LandingPage-AidManager | feature/service | a624c36   | feat: add ServiceCar Component and Service Component                 | -                   | 8/04/2024        |
+| LandingPage-AidManager | feature/testimonials     | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component | -                   | 12/04/2024        |
+| LandingPage-AidManager | feature/about            | 7e85194   | Update About.jsx                                                                    | -                   | 10/04/2024        |
+| LandingPage-AidManager | feature/hero             | 56ab21c   | Update Hero.jsx                                                                     | -                   | 10/04/2024        |
+| LandingPage-AidManager | feature/service          | c663461   | feat: Service section added                                                         | -                   | 12/04/2024        |
+| LandingPage-AidManager | feature/navbar           | 1d527f8   | feat: Navbar added                                                                  | -                   | 7/04/2024        |
+| LandingPage-AidManager | feature/brandCarousel           | 1d527f8   | feat: brandCarousel added added                                                                  | -                   | 11/04/2024        |
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. En el siguiente link se puede encontrar dichas pruebas de aceptación: https://github.com/AplicacionesWeb-WX54/Acceptance-Tests.git
+
+| Repository          | Branch | Commit ID                                | Commit Message                     | Commit Message (Body) | Committed on (Date) |
+|---------------------|--------|------------------------------------------|------------------------------------|-----------------------|---------------------|
+| Acceptance-Test     | main   | 91507dffacabf6415efaa4e663c85756521a9f04 | Initial commit                     | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | 822c79119c080f39585630ce640ab7ee1c3c692f | feat: Added us-01 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | a24f512b364b04682994f111d1d4a9a05fa79f74 | feat: Added us-02 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | 00f760dedabd22b97928d7bf36dccf7ebe51cf67 | feat: Added us-03 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | 134caed2aea32dee6a049d956466d8580e0b1ab8 | feat: Added us-04 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | cd8cc231ff1973cbffd9adec1839191a5d98ea62 | feat: Added us-05 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | b8b7f2389d0f4e04f3e75dcfaa22d9f4d1d547d9 | feat: Added us-06 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | cd8cc231ff1973cbffd9adec1839191a5d98ea62 | feat: Added us-07 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | b8b7f2389d0f4e04f3e75dcfaa22d9f4d1d547d9 | feat: Added us-07 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | 56a8ed5b3dfc62a1be1658cfc6d08d00e8cbcf85 | feat: Added us-17 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | e3b0c44298fc1c149afbf4c8996fb92427ae41e4 | feat: Added us-18 acceptance test  | -                     | 14/04/2024          |
+
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+Para esta entrega, el equipo AidManager logró implementar exitosamente la landing page, en la cual se brindará información específica para conocer nuestra misión como startup, así como los servicios que ofrecemos en nuestra aplicación web.
+
+**URL Landing Page:** https://landing-page-aid-manager-37nb.vercel.app/
+
+**Hero en version desktop**
+
+<img src="../assets/evidences-landing-page/hero-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Hero en version mobile**
+
+<img src="../assets/evidences-landing-page/hero-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+**About en version desktop**
+
+<img src="../assets/evidences-landing-page/about-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**About en version mobile**
+
+<img src="../assets/evidences-landing-page/about-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+**Service en version desktop**
+
+<img src="../assets/evidences-landing-page/service-section-desktok.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Service en version mobile**
+
+<img src="../assets/evidences-landing-page/service-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+**Carousel en version desktop**
+
+<img src="../assets/evidences-landing-page/carousel-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Carousel en version mobile**
+
+<img src="../assets/evidences-landing-page/carousel-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+**Testimonials en version desktop**
+
+<img src="../assets/evidences-landing-page/testimonials-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Testimonials en version mobile**
+
+<img src="../assets/evidences-landing-page/testimonials-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+**Contact en version desktop**
+
+<img src="../assets/evidences-landing-page/contact-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Testimonials en version mobile**
+
+<img src="../assets/evidences-landing-page/contact-section-mobile-1.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+<img src="../assets/evidences-landing-page/contact-section-mobile-2.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+//
+
+**Footer en version desktop**
+
+<img src="../assets/evidences-landing-page/footer-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Footer en version mobile**
+
+<img src="../assets/evidences-landing-page/footer-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En este sprint los miembros de AidManager Solutions complementaron satisfactoriamente las tareas propuestas. El sprint estuvo relacionado mayormente con el diseño y desarrollo del software. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
+
+* Git: Se utilizó para el control de versiones del código fuente.
+* GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
+* GitHub: Se utilizó para crear el repositorio de la landing page, * donde se subió el código fuente.
+* Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular
+
+Evidencias de despliegue en la plataforma Vercel:
+
+<img src="../assets/evidences-deployment/production-deploy-image.jpg" alt="Imagen del compañero" style="width:100%"><br/>
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Los integrantes del equipo, colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existian las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main. Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+<img src="../assets/collaboration-insights/overview-landing.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+
+Flujo de trabajo entre las ramas:
+
+<img src="../assets/collaboration-insights/network-graph.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+Evidencia de contribuciones:
+
+<img src="../assets/collaboration-insights/commit-evidences.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+**Preguntas generales:**
+
+1. ¿Cuál es su nombre? 
+2. ¿Qué edad tiene? 
+3. ¿A qué se dedica? 
+4. ¿[Opinion de idea de propuesta]? 
+
+**Entrevistas usuario segmento 2**
+1. ¿Lorem?
+2. ¿Lorem?
+3. ¿Lorem?
+4. ¿Lorem?  
+   
+**Entrevistas usuario segmento 2**
+1. ¿Lorem? 
+2. ¿Lorem?
+3. ¿Lorem?
+4. ¿Lorem? 
+### 5.3.2. Registro de Entrevistas.
+**Segmento 1**  
+Nombre: _____
+Edad: _ años 
+Ocupación: _____  
+![Imagen de entrevista](image.jpg)  
+{texto mucho}
+
+**Segmento 2**  
+Nombre: _____
+Edad: _ años 
+Ocupación: _____  
+![Imagen de entrevista](image.jpg)
+{texto}
+### 5.3.3. Evaluaciones según heurísticas.
+| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
+| --------------------------------------------- | ---------- | --------- |
+| Visibilidad del estado del sistema            |            | {texto}   |
+| Coincidencia entre el sistema y el mundo real |            | {texto}   |
+| Control y libertad del usuario                |            | {texto}   |
+| Consistencia y estándares                     |            | {texto}   |
+| Prevención de errores                         |            | {texto}   |
+| Mostrar antes que recordar                    |            | {texto}   |
+| Flexibilidad y eficiencia de uso              |            | {texto}   |
+| Diseño estético y minimalista                 |            | {texto}   |
+| Comunicar errores con facilidad               |            | {texto}   |
+| Ayuda y documentación                         |            | {texto}   |
+## 5.4. Video About-the-Product.
+[URL del video about the product](https://www.example.com)
+# Conclusiones
+{texto}
+# Conclusiones y recomendaciones.
+{texto}
+# Video About-the-Team.
+[URL del video about the team](https://www.example.com)
+# Bibliografía
+``` 
+formato
+
+"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
+        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
+
+```
+https://www.linkedin.com/pulse/data-analytics-nonprofits-digitalfornonprofits/
+
+https://www.linkedin.com/pulse/data-key-unlocking-nonprofit-success-everyone-thrives-4btnc/?trk=public_post_main-feed-card_feed-article-content
+
+# Anexos
+
+datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
+
+![Imagen de algo no nuestro lol](image.jpg)
 
 
 
