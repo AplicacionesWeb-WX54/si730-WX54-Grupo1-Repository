@@ -595,8 +595,8 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
 
 
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.1. Sprint n
-#### 5.2.1.1. Sprint Planning n.
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1.
 
 <table>
     <thead>
@@ -646,7 +646,7 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
 <table>
 
 
-#### 5.2.1.2. Sprint Backlog n.
+#### 5.2.1.2. Sprint Backlog 1.
 
 | Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
 |------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
@@ -659,6 +659,9 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
 | CC07 | Hero             | C07  | Sección Hero responsive         | Desarrollo e implementación de los estilos que corresponden a la sección Hero         | 4                   | Sebastian Ramirez Hotman | Done   |
 | CC08 | About            | C08  | Sección About responsive        | Desarrollo e implementación de los estilos que corresponden a la sección About        | 3                   | Sebastian Ramirez Hotman | Done   |
 | CC10 | Service           | C010 | Sección Prices responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Service       | 2                   | Arian Rodriguez Vargas       | Done   |
+
+<br/>
+<img src="../assets/collaboration-insights/sprint-backlog.jpeg" alt="Captura Sprint 1 en Trello" width="100%">
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
