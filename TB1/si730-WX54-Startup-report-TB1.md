@@ -660,6 +660,8 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
 | CC08 | About            | C08  | Sección About responsive        | Desarrollo e implementación de los estilos que corresponden a la sección About        | 3                   | Sebastian Ramirez Hotman | Done   |
 | CC10 | Service           | C010 | Sección Prices responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Service       | 2                   | Arian Rodriguez Vargas       | Done   |
 
+**Link to product backlog table:** https://github.com/orgs/AplicacionesWeb-WX54/projects/2 
+
 <br/>
 <img src="../assets/collaboration-insights/sprint-backlog.jpeg" alt="Captura Sprint 1 en Trello" width="100%">
 
