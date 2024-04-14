@@ -278,46 +278,27 @@ Respecto al segmento 2 se nota una tendencia respecto a la necesidad de una herr
 ### 2.3.3. User Journey Mapping.
 **Registration:**
 Why would they trust us?
-
-Good
-
-- Herramienta multi usos
-- Devuelve un analisis completo
-- Mantiene Comunicacion entre segmentos
+- Interface facil de entender
+- Funciones bien definidas 
+- Ofrecemos un servicio completo junto a recomendaciones
   
-Bad
-
-- Concepto de codigo probablemente complicado la primera vez
-- Acostrumbrarse al workflow
-- Innovacion
-
 **Onboarding and first use:**
 
 Good
 
 How can they feel successful?
-- Se reduce el tiempo de planificacion
-- Se asignan tareas facilmente
-- Se pueden gestionar multiples proyectos
-
-Bad  
-
-- Multiples proyectos al mismo tiempo
-- Falta de conocimiento en la gestion del software
-
+- La interfaz es simple de entender
+- Solicita poco y devuelve mucho
+- Es eficiente para ambos segmentos
+  
 **Sharing:**
 
 Good
 
 Why would they invite others?
-- Organizacion con mejores resultados.
-- Resultados que se pueden demostrar por estadisticas.
-- Servicio economicamente accesible.
-
-Bad
-
-- Nuevo para las ONG mas antiguas
-- Requerimiento de data para funcionar al 100%
+- Facilidad de usar
+- Resultados acertados
+- Servicio accesible
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**
@@ -440,23 +421,412 @@ TO-BE:
 
 | #Orden | User Story ID | Titulo| Descripción| Story Points (1/2/3/5/8) |
 | ------ | ------------- | ----- | ---------- | ------------------------ |
-| 1      | HU01          |Listado de proyectos a realizar | Como project manager encargado del proceso, quiero planificar lo que haré en un listado de tareas, para tener en cuenta lo proyectado.  |     8    |
-| 2      | HU02         | Actualizaciones de nuevos proyectos | Como miembro del equipo y parte del proyecto, quiero mantenerme informado sobre los nuevos procesos o cambios que se hayan realizado en una lista de status, para no perderme de ningún detalle.  |     8    |
-| 3      | HU03         | Asignación de tareas del proyecto | Como project manager encargado de un proyecto, quiero asignar a mis miembros del equipo algunas tareas y establecer fechas límites, para mantener un orden.  |     8    | 
-| 4      | HU04         | Calendario con fechas importantes | Como miembro del parte del proyecto, quiero ver en un calendario las fechas y eventos relacionados al proyecto para no perderme ningún detalle.  |     5    |
-| 5      | HU05         | Dashboard estadístico simple | Como project manager a cargo de un proyecto, quiero ver un resumen visual del progreso del proyecto en forma de gráficos, para tener una mejor visión de lo planificado.  |     8    |
-| 6      | HU06         | Lista de tareas completadas | Como miembro del proyecto, quiero ver mis tareas asignadas, organizadas y completadas en una lista, para tener mejor detalle de lo realizado. |     5    |
-| 7      | HU07         | Generación de resúmenes | Como project manager a cargo de un proyecto benéfico, quiero generar resúmen estadístico sobre lo planificado a gastar con un solo click, para optimizar tiempos. |     8    |
-| 8      | HU08 | Status automático del proyecto | Como miembro del proyecto, quiero ver un resumen ejecutivo del proyecto que incluya el estado actual, los hitos, riesgos identificados, para reconocer rápidamente lo planificado. |     5    |
-| 9      | HU09 | Registro de detalles en el proyecto | Como miembro del proyecto, quiero registrar horas de trabajo y gastos relacionados con el proyecto para llevar un control preciso de los recursos utilizados  |     5    |
-| 10     | HU10 | Solicitud de recursos | Como miembro del proyecto, quiero solicitar, mandar análisis de nuevos recursos que se requieren al project manager, para que este al tanto de nuevos requerimientos.   |     3    |
-| 11     | HU11 | Fechas a expirar | Como miembro del proyecto, quiero ver cuando una fecha límite está por llegar, para diferenciarlos de los que aun existe un rango de tiempo. |     2    |
-| 12     | HU12 | Estimación de gastos  | Como project manager, quiero poder establecer y gestionar un presupuesto para el proyecto, incluyendo seguimiento de gastos y comparación con la estimación inicial. |     8    |
-| 13     | HU13 | Límite máximo de presupuesto | Como project manager quiero que me alerte cuando vayamos gastando más de lo presupuestado de manera visual, para tener una diferencia y estar pendiente de ello.  |     5    |
-| 14     | HU14 | Registro de gastos | Como miembro del proyecto, quiero registrar los recursos que se han ido adquiriendo para que se vaya teniendo un alcance de lo que se va gastando. |     8    |
-| 15     | HU15 | Directorio de contactos | Como miembro del proyecto, quiero tener un listado de todos los demás miembros para poder ponerme en contacto con ellos. |     3    |
-| 16     | HU16 | Recomendaciones sobre el buen manejo de proyectos | Como miembro del equipo quiero tener un repositorio en el que tenga diferentes fuentes recomendadas por la aplicación para el buen manejo de proyectos y campañas.  |     8    |
-| 17     | HU17 | Picos de riesgo | Como project manager, quiero visualizar en el dashboard cuando algún ajuste de la campaña no está cuadrando, para mantenerme alerta del buen manejo del proyecto |     5    |
-| 18     | HU18 | Documentos legales | Como project manager quiero subir los documentos legalizados sobre la organización benéfica para que sea compartido con los miembros del proyecto |     5    |
-| 19     | HU19 | Gestión de donaciones | Como miembro del proyecto, quiero poder acceder a un sistema de gestión de donaciones para hacer un seguimiento de las contribuciones recibidas y su impacto en el proyecto. |     5    |
-| 20     | HU20 | Promoción y seguimiento | quiero poder acceder a un sistema de seguimiento de objetivos y resultados para evaluar el progreso del proyecto y realizar ajustes si es necesario. |     5    |
+| 1      | HU01          | Listado de organizaciones benéficas | Como usuario donante, quiero poder ver una lista de organizaciones benéficas registradas en la plataforma, para poder seleccionar a quién quiero donar. |     8    |
+| 2      | HU02          | Lista de necesidades en recursos | Como usuario donante, quiero poder ver una lista de necesidades específicas de cada organización benéfica, para poder donar artículos que realmente necesitan. |         5         |
+| 3      | HU03          | Detalles de lo necesitado | Como usuario donante, quiero poder ver información detallada sobre cada necesidad benéfica, incluyendo la cantidad requerida y la fecha límite de donación, para poder planificar mi donación. |         8         |
+| 4      | HU04          | Donaciones sencillas y rápidas | Como usuario donante, quiero poder realizar donaciones en especie a través de la plataforma, para poder contribuir con las organizaciones benéficas de manera fácil y segura. |         5         |
+| 5      | HU05          | Confirmación y agradecimiento | Como usuario donante, quiero recibir una confirmación de mi donación, incluyendo detalles sobre los artículos donados y la organización benéfica receptora, para tener un registro de mis contribuciones. |         5         |
+| 6     | HU06 | Perfil y detalles de la organización | Como organización benéfica, quiero poder registrar los detalles de mi organización en la plataforma, incluyendo el nombre, la misión, la ubicación y la información de contacto, para poder recibir donaciones.  |     8    |
+| 7     | HU07 | Creación lista de necesidades | Como organización benéfica, quiero poder crear una lista de necesidades específicas de mi organización, incluyendo la descripción de los artículos necesarios y la cantidad requerida, para poder comunicar nuestras necesidades a los usuarios donantes.  |     8    |
+| 8     | HU08 | Notificaciones automáticas de nueva donación | Como organización benéfica, quiero poder recibir notificaciones cuando un usuario donante realice una donación a nuestra organización, para poder estar al tanto de las contribuciones recibidas. |     5    |
+| 9     | HU09 | Gestión de la lista de necesidades | Como organización benéfica, quiero poder gestionar y actualizar nuestra lista de necesidades en la plataforma, para reflejar con precisión nuestras necesidades actuales.  |     5    |
+| 10     | HU10 | Reseña y comentarios | Como usuario donante, quiero poder compartir información sobre las necesidades benéficas y las organizaciones registradas en la plataforma en mis redes sociales, para aumentar la visibilidad y las donaciones.  |     5    |
+| 11     | HU11 | Historial de donaciones | Como usuario donante, quiero poder ver un historial de mis donaciones anteriores en la plataforma, incluyendo detalles como la fecha y los artículos donados, para poder realizar un seguimiento de mis contribuciones.  |     3    |
+| 12     | HU12 | Recomendaciones y nuevos intereses  | Como usuario donante, quiero recibir recomendaciones personalizadas sobre organizaciones benéficas y necesidades específicas, basadas en mis intereses y patrones de donación anteriores, para facilitar el proceso de selección de donaciones.  |     5    |
+| 13     | HU13 | Donaciones flexibles | Como usuario donante, quiero poder realizar donaciones monetarias a través de la plataforma, para apoyar a las organizaciones benéficas de manera flexible.  |     3    |
+| 14     | HU14 | Eventos e iniciativas | Como usuario donante, quiero recibir notificaciones sobre eventos benéficos o campañas especiales organizadas por las organizaciones benéficas en la plataforma, para poder participar activamente en iniciativas adicionales de donación. |     5    |
+| 15     | HU15 | Dashboard de estadísticas y reseñas | Como usuario donante, quiero poder ver el impacto de mis donaciones, incluyendo estadísticas y testimonios sobre cómo mis contribuciones han beneficiado a las organizaciones benéficas, para motivarme a seguir donando. |     2    |
+| 16     | HU16 | Informes sobre las donaciones | Como organización benéfica, quiero poder acceder a informes y estadísticas sobre las donaciones recibidas a través de la plataforma, para evaluar el rendimiento de nuestras campañas de recaudación de fondos.  |     8    |
+| 17     | HU17 | Mensajes de agradecimiento automáticos | Como organización benéfica, quiero poder enviar mensajes de agradecimiento automáticos a los usuarios donantes después de cada donación, para expresar nuestra gratitud de manera oportuna. |     3    |
+| 18     | HU18 | Solicitud de apoyo | Como organización benéfica, quiero poder solicitar voluntarios a través de la plataforma, para apoyar nuestras operaciones y programas.  |     5    |
+| 19     | HU19 | Publicaciones de agradecimiento y metas logradas | Como organización benéfica, quiero poder compartir historias de éxito y testimonios de beneficiarios de nuestros programas en la plataforma, para mostrar el impacto positivo de nuestras actividades.  |     3    |
+| 20     | HU20 | Promoción y creación de eventos | Como organización benéfica, quiero poder crear y promocionar eventos benéficos en la plataforma, para recaudar fondos y aumentar la conciencia sobre nuestra causa. |     5    |
+
+# Capítulo IV: Product Design
+## 4.1. Style Guidelines.
+### 4.1.1. General Style Guidelines.
+
+Como startup, nos esforzamos por transmitir profesionalismo y eficiencia a través de nuestra aplicación web, AidManager. Hemos seleccionado una paleta de colores con tonos celestes y verdes para reflejar frescura y conexión con la naturaleza, mientras que las tipografías Poppins y Lora ofrecen una apariencia moderna, limpia y legible. Estas decisiones de diseño no solo buscan captar la atención de nuestros usuarios, sino también garantizar una experiencia agradable y efectiva, reforzando nuestro compromiso en la gestión eficiente de eventos benéficos y donaciones.
+
+**Color:** (Descripcion de la paleta escogida para el proyecto y porque)
+
+| Color | Descripción |
+|-----------|-----------|
+| Color primario    | Representa confianza, serenidad y estabilidad. Transmite la idea de fiabilidad y compromiso en la gestión de organizaciones benéficas, lo que inspira confianza en los donantes y en aquellos que buscan ayuda.<br><br><img src="../assets/StyleGuidelines-Images/PrimaryColor.jpeg" alt="Tipografias generales" style="width:70%"> |
+| Color Secundario  | Este color evoca calma, frescura y bienestar. Simboliza la esperanza y el apoyo que tu startup ofrece a las personas necesitadas, así como la naturaleza refrescante de las soluciones que proporciona. <br><br><img src="../assets/StyleGuidelines-Images/SecondaryColor.jpeg" alt="Tipografias generales" style="width:70%">    |
+| Color de Acento | Este color combina la estabilidad del azul con la vitalidad del verde. Representa el crecimiento, la renovación y la prosperidad, en el cual se busca mejorar la vida de las personas necesitadas y fomentar un cambio positivo en la comunidad. <br><br><img src="../assets/StyleGuidelines-Images/TittleColor.jpeg" alt="Tipografias generales" style="width:70%">   |
+| Color de Fondo  | Este tono de verde transmite equilibrio, armonía y seguridad. Esto refleja la solidez y la integridad de tu startup en su enfoque hacia la gestión eficiente de eventos benéficos y donaciones, asegurando que los recursos se utilicen de manera responsable y efectiva. <br><br><img src="../assets/StyleGuidelines-Images/FooterColor.jpeg" alt="Tipografias generales" style="width:70%">  |
+
+Paleta de colores empleado:
+<center>
+  <img src="../assets/StyleGuidelines-Images/PaletColor.jpg" alt="Tipografias generales" style="width:70%"><br><br>
+</center>
+
+**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
+
+| Tipografia | Descripcion |
+|-----------|-----------|
+| Poppins Font | Esta tipografía se eligió por su apariencia moderna, limpia y versátil. Su estilo geométrico y su excelente legibilidad la hacen ideal para comunicar profesionalismo y eficiencia en la gestión de organizaciones benéficas.  |
+| Lora Font | Se seleccionó Lora por su elegancia y legibilidad, que complementa perfectamente la apariencia contemporánea de Poppins. Su estilo serifado transmite una sensación de tradición y prestigio, lo que refuerza la credibilidad de tu startup en el sector de la beneficencia. |
+
+<br><center><img src="../assets/StyleGuidelines-Images/PoppinsFont.jpg" alt="Tipografias generales" style="width:70%"></center>
+<center><img src="../assets/StyleGuidelines-Images/LoraFont.jpg" alt="Tipografias generales" style="width:70%"><br><br></center>
+
+**Branding** (Describir logotipo y porque)
+
+El logo de nuestra startup, que muestra la vista superior de alguien abriendo los brazos en un color verde azulado, simboliza nuestra dedicación a la apertura, el apoyo y la generosidad hacia aquellos que más lo necesitan. Representa nuestra misión de ofrecer ayuda directa y tangible, fomentando la solidaridad, la esperanza y la renovación en la comunidad.
+
+<br><center><img src="../assets/StyleGuidelines-Images/LogoAidManager.jpg" alt="Tipografias generales" style="width:70%"><br><br></center>
+
+### 4.1.2. Web Style Guidelines.
+Descripcion de los elementos que se utilizaran en el web app
+
+**Background:** (primary, secondary, terniary)
+
+Para el background se hace uso del color FFFFF para resaltar la pagina y para separar secciones D9ED8F
+![Background Preview web](/assets/searching-system/Search.png)
+
+
+**Text Styles:** (H1, H2, p, a,)
+
+Para el texto se escogieron colores que combinan con la tematica de la pagina y que facilitan la lectura del usuario
+<center><img src="../assets/aidmanager-app-mockup/aam-6.png" alt="app web mock-up6" style="width:80%;"></center>
+
+**Button Styles:** (Button, dropdowns, Switches)
+
+Para los botones el color cambia segun el color del fondo
+<center><img src="../assets/app-web-wireframe/aww-13.png" alt="app web wireframe13" style="width:80%;"></center>
+
+**Icons:** (Fondo blanco con los iconos que vamos a usar)
+Tendremos iconografia de busqueda, lapiz, ropa, reciclaje, icono de grafico, foco, etc
+
+<center><img src="../assets/aidmanager-app-mockup/aam-6.png" alt="app web mock-up6" style="width:80%;"></center>
+
+**Misc** 
+Se determina el color y posicion segun la seccion
+<center><img src="../assets/app-web-wireframe/aww-10.png" alt="app web wireframe10" style="width:80%;"></center>
+
+## 4.2. Information Architecture.
+### 4.2.1. Organization Systems.
+Sistemas de organización que usaremos para el proyecto.
+
+El sistema de Organizacion se basa en un sistema Sequencial donde el usuario debe seguir el workdlow de la herramienta para llegar a su objetivo, no obstante ofrecemos atajos en el sidebar.
+
+Asimismo existira una herarquia visual dependiendo si quien se ha ingresado es un gestor o colaborador/ayudante.
+### 4.2.2. Labeling Systems.
+En esta sección, nos esforzamos por garantizar que la presentación de la información al usuario sea clara y fácil de entender, con el objetivo de proporcionar una experiencia agradable y sin complicaciones. Para ello, hemos incorporado en el vocabulario de nuestra página palabras comunes y familiares que la mayoría de las personas utilizan en su día a día, de manera que puedan asociar de manera intuitiva los conceptos que manejamos. Por ejemplo:
+| Label | Concepto Asociado |
+|-----------|-----------|
+| <center><img src="../assets/LabelingSystems/Home.png" alt="Home Label" style="height:50%"></center>| Se refiere a la página principal de nuestra landing page, donde los usuarios comienzan su recorrido. |
+|<center><img src="../assets/LabelingSystems/About.png" alt="About us Label" style="height:50%"></center>|Una etiqueta que proporciona información sobre nuestra empresa, incluyendo su misión y visión.
+|<center><img src="../assets/LabelingSystems/Organizations.png" alt="Organizations Label" style="height:50%"></center>| Segmento que muestra una recopilación de las organizaciones que colaboran con AidManager.
+|<center><img src="../assets/LabelingSystems/Testimonials.png" alt="Testimonials Label" style="height:50%"></center>|Lista de reseñas que presenta experiencias y opiniones de clientes sobre AidManager.
+|<center><img src="../assets/LabelingSystems/Get Started.png" alt="Home Label" style="height:50%"></center>|Call-to-action que invita a los usuarios a iniciar su experiencia concreta junto a AidManager.
+### 4.2.3. SEO Tags and Meta Tags
+
+**Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
+* Titulo: ```<title> AidManager | La mejor opcion de ONG para la gestion de proyectos </title> ```
+* Descripcion: ```<meta name = "description" content = "Gestiona, Recolecta, Analiza y Visualiza los datos y colaboradores de tus proyectos todo en un solo lugar."/> ```
+* Palabras Clave: ```<meta name = "keyword" content = "ONG gestion, Gestionar Proyecto, ONG, dar Tareas, analisis de datos, Organizar, Orden "/> ```
+
+### 4.2.4. Searching Systems.
+
+Se hace un ejemplo respecto al segmento 1:
+
+**Que se busca?:** 
+El usuario busca su proyecto para gestionar.
+**Que resultados se mostraran?:** Se debe de mostrar las cards con el proyecto que esta revisando.  
+**Interface de busqueda:** el dashboard muestra en el sidebar la seccion home una vez se selecciona se mostraran las cards con sus proyectos, el usuario selecciona el proyecto especifico y se redirreciona a su proyecto para gestionar. 
+![Search interface](/assets/searching-system/Search.png)
+
+Cabe mencionar que este metodo se usa en los demas features.
+
+### 4.2.5. Navigation Systems.
+
+La navegacion de la web app se estara basando en un Sistema de navegacion Global donde por medio de las cards en el dashboard o los labels en el side bar el usuario se redirija a la seccion selecionada.
+
+No obstante tambien se incluye la navegacion local cuando se trata de la seccion de proyectos y analytics donde se va a navegar entre los distintos proyectos de la ONG.
+
+## 4.3. Landing Page UI Design.
+### 4.3.1. Landing Page Wireframe.
+la pagina donde te registras y ves info del web app (te manda al web app)
+
+Wireframe es todo lo funcional de la pagina
+![Landing page Wireframe](/assets/landing-page-wireframe-image/Wireframe.png)
+### 4.3.2. Landing Page Mock-up.
+
+<img src="../assets/Landing page mock-up/Landing mock up.png" alt="Landing page mock up" style="width:100%;">
+
+## 4.4. Web Applications UX/UI Design.
+### 4.4.1. Web Applications Wireframes.
+</br>
+
+[URL del Wireframe hecho en Figma](https://www.figma.com/file/u8S0RHE4Kbl69EwQSVf7jb/AidManager-app-web-Wireframe?type=design&node-id=0%3A1&mode=design&t=FQRKS9G6nW0lMIRj-1)
+
+**Segmento 1: Manager de ONG**
+<center><img src="../assets/app-web-wireframe/aww-1.png" alt="app web wireframe1" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-2.png" alt="app web wireframe2" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-3.png" alt="app web wireframe3" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-4.png" alt="app web wireframe4" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-5.png" alt="app web wireframe5" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-6.png" alt="app web wireframe6" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-7.png" alt="app web wireframe7" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-8.png" alt="app web wireframe8" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-9.png" alt="app web wireframe9" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-10.png" alt="app web wireframe10" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-11.png" alt="app web wireframe11" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-12.png" alt="app web wireframe12" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-13.png" alt="app web wireframe13" style="width:80%;"></center>
+
+**Segmento 2: Equipo de ONG**
+<center><img src="../assets/app-web-wireframe/aww-14.png" alt="app web wireframe14" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-15.png" alt="app web wireframe15" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-16.png" alt="app web wireframe16" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-17.png" alt="app web wireframe17" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-18.png" alt="app web wireframe18" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-19.png" alt="app web wireframe19" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-20.png" alt="app web wireframe20" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-21.png" alt="app web wireframe21" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-22.png" alt="app web wireframe22" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-23.png" alt="app web wireframe23" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-24.png" alt="app web wireframe24" style="width:80%;"></center>
+
+
+### 4.4.2. Web Applications Wireflow Diagrams.
+Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
+
+![Web Aplication Wireflow1](/assets/user-flow/Userflow1.png)
+![Web Aplication Wireflow2](/assets/user-flow/Userflo2.png)
+![Web Aplication Wireflow3](/assets/user-flow/Userflo3.png)
+![Web Aplication Wireflow4](/assets/user-flow/userflo4.png)
+![Web Aplication Wireflow5](/assets/user-flow/userflo5.png)
+
+### 4.4.2. Web Applications Mock-ups.
+
+</br>
+
+[URL del Mock-up de la Aplicación hecho en Figma](https://www.figma.com/file/n5BSEAK3X9lFN2M1eqnmQX/AidManager-Prototype?type=design&node-id=0%3A1&mode=design&t=dhyNolXNOfDSlBEG-1)
+
+
+**Segmento 1: Manager de ONG**
+<center><img src="../assets/aidmanager-app-mockup/aam-1.png" alt="app web mock-up1" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-2.png" alt="app web mock-up2" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-3.png" alt="app web mock-up3" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-4.png" alt="app web mock-up4" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-5.png" alt="app web mock-up5" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-6.png" alt="app web mock-up6" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-7.png" alt="app web mock-up7" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-8.png" alt="app web mock-up8" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-9.png" alt="app web mock-up9" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-10.png" alt="app web mock-up10" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-11.png" alt="app web mock-up11" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-12.png" alt="app web mock-up12" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-13.png" alt="app web mock-up13" style="width:80%;"></center>
+
+**Segmento 2: Equipo de ONG**
+<center><img src="../assets/aidmanager-app-mockup/aam-14.png" alt="app web mock-up14" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-15.png" alt="app web mock-up15" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-16.png" alt="app web mock-up16" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-17.png" alt="app web mock-up17" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-18.png" alt="app web mock-up18" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-19.png" alt="app web mock-up19" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-20.png" alt="app web mock-up20" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-21.png" alt="app web mock-up21" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-22.png" alt="app web mock-up22" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-23.png" alt="app web mock-up23" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-24.png" alt="app web mock-up24" style="width:80%;"></center>
+
+
+### 4.4.3. Web Applications User Flow Diagrams.
+un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
+![Web Aplication User Flow Diagram](image.jpg)
+
+
+
+## 4.5. Web Applications Prototyping.
+Se utilizó la herramienta Figma para realizar el primer prototipo de la aplicación web. 
+<center><img src="../assets/app-web-prototyping/App-Web-Prototyping.png" alt="app web prototype" style="width:80%;"></center>
+
+[URL del Prototipo hecho en Figma](https://www.figma.com/file/n5BSEAK3X9lFN2M1eqnmQX/Untitled?type=design&node-id=0%3A1&mode=design&t=dhyNolXNOfDSlBEG-1)
+## 4.6. Domain-Driven Software Architecture.
+### 4.6.1. Software Architecture Context Diagram.
+![System Context](/assets/system-diagrams/system-context.png) 
+   
+### 4.6.2. Software Architecture Container Diagrams.
+![Container Diagram](/assets/system-diagrams/container-diagram.png)
+
+### 4.6.3. Software Architecture Components Diagrams.
+![Component Diagram](/assets/system-diagrams/component-payment.png)
+**Payment Context**: Permite visualizar cómo se relacionan los componentes de la aplicación con el sistema de pagos. Se observa la interacción entre el cliente, la aplicación y el proveedor de pagos.
+
+![Component Diagram](/assets/system-diagrams/component-collaborate.png)
+**Collaborate Context**: Muestra la interacción entre los componentes de la aplicación y el sistema de colaboración. Se evidencia la comunicación entre el usuario, la aplicación y el sistema de colaboración.
+
+![Component Diagram](/assets/system-diagrams/component-costsmanager.png)
+**Costs Manager Context**: Representa la relación entre los componentes de la aplicación y el sistema de gestión de costos. Se visualiza la interacción entre el usuario, la aplicación y el sistema de gestión de costos.
+
+![Component Diagram](/assets/system-diagrams/component-taskmanager.png)
+**Task Manager Context**: Muestra cómo se relacionan los componentes de la aplicación con el sistema de gestión de tareas. Se evidencia la interacción entre el usuario, la aplicación y el sistema de gestión de tareas.
+
+![Component Diagram](/assets/system-diagrams/component-userprofile.png)
+**User Profile Context**: Permite visualizar la relación entre los componentes de la aplicación y el sistema de perfiles de usuario. Se observa la interacción entre el usuario, la aplicación y el sistema de perfiles de usuario.
+
+## 4.7. Software Object-Oriented Design.
+### 4.7.1. Class Diagrams.
+![Class Diagram](/assets/diagrams/class_diagram.png)
+### 4.7.2. Class Dictionary.
+
+Se muestran las clases que son relevantes.
+
+User - La clase user representa la cuenta de la Organizacion y los metodos mas importantes de estos.
+
+| Atributo | Descripcion |
+| - | - |
+| last name | El nombre del usuario |
+| dateBirth | Fecha de nacimiento del usuario |
+| interests |  Intereses del usuario |
+
+
+Project Manager - La clase representa los project managers
+
+| Atributo | Descripcion |
+| - | - |
+| members | los User que son parte de la clase de Project Manager |
+| projects | Los Projectos gestionados por el Projects Managers |
+| events |  Los eventos gestionados por el Project Managers |
+| mission |  Descripcion corta de la mision del Project Manager |
+| vision |  Descripcion corta de la vision del Project Manager |
+| siteWeb |  sitioWeb relacionado al Project Manager |
+| appreciationMssg |  Mensaje de appreciacion por parte del Project Manager |
+
+Assistant - la clase representa a los asistentes de eventos y proyectos
+
+| Atributo | Descripcion |
+| - | - |
+| tasks | tareas dadas al estudiante |
+| projects | proyectos asignados al ayudante |
+
+
+Project - la clase Projecto representa 
+| Atributo | Descripcion |
+| - | - | 
+| processes | proceso de ejecucion del proyecto |
+| title | titulo del projecto |
+| description | descripcion del proyecto |
+| members | los miembros que seran asignados al proyecto |
+
+| Metodo | Descripcion |
+| - | - | 
+| addMember | se agregan miembros al proyecto |
+| removeMember | se remueven miembros al proyecto |
+
+
+
+
+## 4.8. Database Design.
+### 4.8.1. Database Diagram.
+![Database Diagram](/assets/diagrams/database_diagram.png)
+# Capítulo V: Product Implementation, Validation & Deployment
+## 5.1. Software Configuration Management.
+### 5.1.1. Software Development Environment Configuration.
+Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
+extensiones tmbn? nose bn q quieren aca
+### 5.1.2. Source Code Management.
+El gitjab donde tengamos el proyecto
+### 5.1.3. Source Code Style Guide & Conventions.
+Que usamos con css (en caso usemos software para SASS)
+supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
+### 5.1.4. Software Deployment Configuration.
+Configuraciones de donde y como deployeamos el proyecto
+## 5.2. Landing Page, Services & Applications Implementation.
+### 5.2.X. Sprint n
+#### 5.2.X.1. Sprint Planning n.
+Explicar como vamos a plannear el sprint?
+#### 5.2.X.2. Sprint Backlog n.
+![SprintBacklog n](image.jpg) Nica hago la tabla 
+#### 5.2.X.3. Development Evidence for Sprint Review.
+![Sprint review development Evidence](image.jpg)
+#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+![Sprint review Testing suite Evidence](image.jpg)
+#### 5.2.X.5. Execution Evidence for Sprint Review.
+![Sprint review Execution Evidence](image.jpg)
+#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+![Sprint review Services Documentation Evidence](image.jpg)
+#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+![Sprint review Software Deployment Evidence](image.jpg)
+#### 5.2.X.8. Team Collaboration Insights during Sprint.
+![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+**Preguntas generales:**
+
+1. ¿Cuál es su nombre? 
+2. ¿Qué edad tiene? 
+3. ¿A qué se dedica? 
+4. ¿[Opinion de idea de propuesta]? 
+
+**Entrevistas usuario segmento 2**
+1. ¿Lorem?
+2. ¿Lorem?
+3. ¿Lorem?
+4. ¿Lorem?  
+   
+**Entrevistas usuario segmento 2**
+1. ¿Lorem? 
+2. ¿Lorem?
+3. ¿Lorem?
+4. ¿Lorem? 
+### 5.3.2. Registro de Entrevistas.
+**Segmento 1**  
+Nombre: _____
+Edad: _ años 
+Ocupación: _____  
+![Imagen de entrevista](image.jpg)  
+{texto mucho}
+
+**Segmento 2**  
+Nombre: _____
+Edad: _ años 
+Ocupación: _____  
+![Imagen de entrevista](image.jpg)
+{texto}
+### 5.3.3. Evaluaciones según heurísticas.
+| HEURÍSTICA   | EVALUACIÓN ✅❌ | NOTA      |
+| --------------------------------------------- | ---------- | --------- |
+| Visibilidad del estado del sistema            |            | {texto}   |
+| Coincidencia entre el sistema y el mundo real |            | {texto}   |
+| Control y libertad del usuario                |            | {texto}   |
+| Consistencia y estándares                     |            | {texto}   |
+| Prevención de errores                         |            | {texto}   |
+| Mostrar antes que recordar                    |            | {texto}   |
+| Flexibilidad y eficiencia de uso              |            | {texto}   |
+| Diseño estético y minimalista                 |            | {texto}   |
+| Comunicar errores con facilidad               |            | {texto}   |
+| Ayuda y documentación                         |            | {texto}   |
+## 5.4. Video About-the-Product.
+[URL del video about the product](https://www.example.com)
+# Conclusiones
+{texto}
+# Conclusiones y recomendaciones.
+{texto}
+# Video About-the-Team.
+[URL del video about the team](https://www.example.com)
+# Bibliografía
+``` 
+formato
+
+"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
+        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
+
+```
+# Anexos
+
+datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
+
+![Imagen de algo no nuestro lol](image.jpg)
+
+
+
+
+
