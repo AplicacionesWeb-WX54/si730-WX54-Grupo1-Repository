@@ -595,8 +595,8 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
 
 
 ## 5.2. Landing Page, Services & Applications Implementation.
-### 5.2.X. Sprint n
-#### 5.2.X.1. Sprint Planning n.
+### 5.2.1. Sprint n
+#### 5.2.1.1. Sprint Planning n.
 
 <table>
     <thead>
@@ -646,7 +646,7 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
 <table>
 
 
-#### 5.2.X.2. Sprint Backlog n.
+#### 5.2.1.2. Sprint Backlog n.
 
 | Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
 |------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
@@ -660,7 +660,7 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
 | CC08 | About            | C08  | Sección About responsive        | Desarrollo e implementación de los estilos que corresponden a la sección About        | 3                   | Sebastian Ramirez Hotman | Done   |
 | CC10 | Service           | C010 | Sección Prices responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Service       | 2                   | Arian Rodriguez Vargas       | Done   |
 
-#### 5.2.X.3. Development Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review.
 
 | Repository                 | Branch                   | Commit ID | Commit Message                                                                      | Commit Message Body | Commited On(Date) |
 |----------------------------|--------------------------|-----------|-------------------------------------------------------------------------------------|---------------------|-------------------|
@@ -675,7 +675,7 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
 | LandingPage-AidManager | feature/navbar           | 1d527f8   | feat: Navbar added                                                                  | -                   | 7/04/2024        |
 | LandingPage-AidManager | feature/brandCarousel           | 1d527f8   | feat: brandCarousel added added                                                                  | -                   | 11/04/2024        |
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
 En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. En el siguiente link se puede encontrar dichas pruebas de aceptación: https://github.com/AplicacionesWeb-WX54/Acceptance-Tests.git
 
@@ -694,7 +694,7 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
 | Acceptance-Test     | main   | e3b0c44298fc1c149afbf4c8996fb92427ae41e4 | feat: Added us-18 acceptance test  | -                     | 14/04/2024          |
 
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 
 Para esta entrega, el equipo AidManager logró implementar exitosamente la landing page, en la cual se brindará información específica para conocer nuestra misión como startup, así como los servicios que ofrecemos en nuestra aplicación web.
 
@@ -760,11 +760,11 @@ Para esta entrega, el equipo AidManager logró implementar exitosamente la landi
 
 <img src="../assets/evidences-landing-page/footer-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 En este sprint los miembros de AidManager Solutions complementaron satisfactoriamente las tareas propuestas. El sprint estuvo relacionado mayormente con el diseño y desarrollo del software. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
 
@@ -777,7 +777,7 @@ Evidencias de despliegue en la plataforma Vercel:
 
 <img src="../assets/evidences-deployment/production-deploy-image.jpg" alt="Imagen del compañero" style="width:100%"><br/>
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 Los integrantes del equipo, colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existian las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main. Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
 
