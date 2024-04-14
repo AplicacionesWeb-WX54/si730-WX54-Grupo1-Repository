@@ -636,7 +636,7 @@ Wireframe es todo lo funcional de la pagina
 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
+
 ![Web Aplication UserFlow](/assets/user-flow/Userflow1.png)
 ![Web Aplication UserFlow](/assets/user-flow/Userflo2.png)
 ![Web Aplication UserFlow](/assets/user-flow/Userflo3.png)
