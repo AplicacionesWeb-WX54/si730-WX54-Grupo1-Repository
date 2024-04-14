@@ -514,13 +514,11 @@ Wireframe es todo lo funcional de la pagina
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
 
-![Web Aplication Wireflow1](/assets/user-flow/Userflow1.png)
-![Web Aplication Wireflow2](/assets/user-flow/Userflo2.png)
-![Web Aplication Wireflow3](/assets/user-flow/Userflo3.png)
-![Web Aplication Wireflow4](/assets/user-flow/userflo4.png)
-![Web Aplication Wireflow5](/assets/user-flow/userflo5.png)
+
+![Web Aplication WireflowSegmento1](/assets/wireflow-images/wireflow.png)
+![Web Aplication WireflowSegmento2](/assets/wireflow-images/wireflo2.png)
+
 
 ### 4.4.2. Web Applications Mock-ups.
 
@@ -560,7 +558,11 @@ Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y e
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
-![Web Aplication User Flow Diagram](image.jpg)
+![Web Aplication UserFlow](/assets/user-flow/Userflow1.png)
+![Web Aplication UserFlow](/assets/user-flow/Userflo2.png)
+![Web Aplication UserFlow](/assets/user-flow/Userflo3.png)
+![Web Aplication UserFlow](/assets/user-flow/userflo4.png)
+![Web Aplication UserFlow](/assets/user-flow/userflo5.png)
 
 
 
