@@ -513,6 +513,9 @@ Vercel es un servicio proporcionado por Zeit, Inc. que permite a los desarrollad
 - Markdown [https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax):
 Markdown es un lenguaje de marcado ligero que nos permite formatear texto de manera sencilla utilizando un formato de texto plano. De esta forma documentamos la información importante acerca del contexto, organización, producción y creacíon del proyecto.
 
+- LucidChart: [https://lucidchart.com/](https://lucidchart.com/):
+LucidChart es una plataforma que cuenta con opciones para la creación de diagramas, mapas mentales, flujos, con el uso de plantillas y tableros con edición en tiempo real. Fue utilizado en el desarrollo del diagrama de clases UML, así como los Wireflows y User Flows.
+
 - Structurizr [https://structurizr.com/](https://structurizr.com/):
 Esta herramienta permite crear los diagramas C4 de manera rápida con una sintaxis similar a un lenguaje de programación. Para utilizar esta aplicación web hace falta tener una cuenta registrada.
 
@@ -520,8 +523,8 @@ Esta herramienta permite crear los diagramas C4 de manera rápida con una sintax
 Es una aplicación web colaborativa que facilita el diseño e implementación de bases de datos en una amplia variedad de motores. 
 
 ### 5.1.2. Source Code Management.
-Para el proyecto se creó una organización en Github, que permitiría el trabajo colaborativo para todos los integrantes del equipo, además de contar con un repositorio para el control de versiones del código fuente. Se utilizó la herramienta de control de versiones Git, la cual es una herramienta de código abierto que permite el control de versiones de archivos de manera eficiente.
-**Organización**: [https://github.com/orgs/AplicacionesWeb-WX54/](https://github.com/orgs/AplicacionesWeb-WX54/)
+Para el proyecto se creó una organización en Github, que permitiría el trabajo colaborativo para todos los integrantes del equipo, además de contar con un repositorio para el control de versiones del código fuente. Se utilizó la herramienta de control de versiones Git, la cual es una herramienta de código abierto que permite el control de versiones de archivos de manera eficiente.  
+**Organización**: [https://github.com/orgs/AplicacionesWeb-WX54/]  (https://github.com/orgs/AplicacionesWeb-WX54/)  
 **Landing Page**: [https://github.com/AplicacionesWeb-WX54/LandingPage-AidManager](https://github.com/AplicacionesWeb-WX54/LandingPage-AidManager)
 
 Para llevar a cabo la organización de desarollo del código, se crearon las siguientes ramas:
@@ -538,12 +541,59 @@ Donde:
 - description: Es un breve resumen de los cambios de código.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
+
 Para el desarrollo del código en HTML y CSS se decidió seguir la convención de Google HTML/CSS Style Guide. Entre las más importantes destacan:
 
-El tipo de documento debe especificarse al principio del archivo mediante el uso de meta tags. El elemento ``` <title> ``` debe estar dentro de las etiquetas ``` <head> ```. La sangría debe tener dos espacios. Debe utilizar letras minúsculas para elementos HTML, atributos, propiedades, valores y selectores de CSS. Los atributos de los elementos HTML deben estar entre comillas. Cada elemento HTML debe tener su correspondiente etiqueta de cierre. Se recomienda evitar largas líneas de código. Es importante indicar el ancho y alto de las imágenes, así como el texto alternativo (alt). Para el código JavaScript, seguimos la convención de la Guía de estilo Java de Google de terminar cada línea con un punto y coma, usar Camelcase para variables y funciones y encerrar valores de cadena entre comillas simples. Al desarrollar pruebas de aceptación con el lenguaje Gherkin, se utilizan las "Convenciones de Gherkin para especificaciones legibles", que incluyen palabras clave como "Dar", "Cuándo", "Entonces" y "Y", sangría específica y comentarios separadores. Java sigue el estándar Google Java Style Guid, que determina el formato de los nombres de paquetes, clases y métodos, la sangría de la tabla, la división de líneas largas y los nombres de archivos Java que coinciden con el nombre de la clase. contenida en el mismo. Se recomienda insertar un salto de línea después de cada declaración.
+* Se debe declarar el tipo de documento al principio del archivo con `<!DOCTYPE html>`.
+* Indicar los meta tags.
+* El elemento `<title>` se debe ubicar entre las etiquetas `<head>`.
+* La identación es de dos espacios a la vez.
+* Usar solo minúsculas para los elementos HTML, atributos, propiedades, valores y selectores CSS.
+* Encerrar entre comillas los atributos de los elementos HTML.
+* Cada elemento HTML debe tener su etiqueta de cierre.
+* Evitar largas líneas de código.
+* Indicar el ancho y alto de las imágenes, así como el texto alternativo (`alt`).
+
+*Para el desarrollo del código en JavaScript, se eligió la convención Google JavaScript Style Guide. Algunas de estas convenciones son:*
+
+* Cada línea de código debe terminar con un punto y coma (`;`).
+* Tanto las variables como funciones deben estar en Camelcase.
+* Los valores strings deben estar entre comillas simples.
+* La identación del contenido es de +2.
+* Se debe evitar definir variables con la sentencia `var`. En su lugar, se recomienda `let` y `const`.
+
+*Para el desarrollo de los acceptance test con el lenguaje Gherkin, se seleccionó “Gherkin Conventions for Readable Specifications”. Entre ellas están:*
+
+* Para describir los pasos del escenario, utilizar las palabras "Give", "When", "Then" y "And".
+* Identar los pasos que comienzan con "And".
+* Agregar líneas entre pasos.
+* Encerrar entre comillas simples los parámetros.
+* Usar un comentario separador y dos líneas en blanco entre cada escenario.
+
 
 ### 5.1.4. Software Deployment Configuration.
-Configuraciones de donde y como deployeamos el proyecto
+
+En este apartado, detallaremos los pasos realizados para el despliegue de la Landing Page utilizando el servicio "Vercel".
+
+1. Luego de acceder a https://www.vercel.com/ e iniciar sesión o crear una cuenta, nos dirigimos al apartado "New Project" y conectamos nuestra cuenta de github para tener acceso a los respositorios disponibles.
+
+<center>
+    <img src="../assets/evidences-deployment/import-git-repository-image.jpeg" alt="Imagen del compañero" style="width:80%">
+</center><br/>
+
+2. Seleccionamos la organizacion "AplicacionesWeb-WX54" y nos dirigimos al repositorio de la Landing Page, la cual es "LandingPage-AidManager" y luego la importamos, una vez importado, realizamos la configuracion del proyecto para hacer el deploy.
+
+<center>
+    <img src="../assets/evidences-deployment/configure-project-image.jpeg" alt="Imagen del compañero" style="width:80%">
+</center><br/>
+
+3. Después de realizar la acción, observamos que el despliegue se realizó correctamente, adjuntamos los detalles del despliegue a producción.
+
+<center>
+    <img src="../assets/evidences-deployment/production-deploy-image.jpg" alt="Imagen del compañero" style="width:80%">
+</center><br/>
+
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.X. Sprint n
 #### 5.2.X.1. Sprint Planning n.
