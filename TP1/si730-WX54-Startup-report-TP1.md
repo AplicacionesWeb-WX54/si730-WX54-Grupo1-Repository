@@ -211,7 +211,7 @@ seguidamente solicitara los datos recopilados de su proyecto mas reciente, de es
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
-Se identifica una falta de organizacion por parte de las ONG donde existen distintas oportunidades para mejorar el alcance con una buena planificacion. No obstante, muchas organizaciones no tienen conocimiento del potencial que se puede obtener de esta informacion o no cuentan con un equipo dedicado al analisis de datos a niveles de Big Data o formas efectivas de recolectar esta misma informacion. Asimismo hemos identificado que existen diferentes factores los cuales llevan a un usuario interesado en una ONG a no tener motivos suficientes para participar de actividades sociales o de hacer donativos a estas mismas, una de estas siendo la falta de informacion y la carencia de visibilidad que estan tienen siendo que aun asi habiendo mas de 1000 ONG's en el Perú no se conocen muchas de estas ni de como poder ayudarlas.
+Se identifica una falta de organizacion por parte de las ONG donde existen distintas oportunidades para mejorar el alcance con una buena planificación. No obstante, muchas organizaciones no tienen conocimiento del potencial que se puede obtener de esta informacion o no cuentan con un equipo dedicado al analisis de datos a niveles de Big Data o formas efectivas de recolectar esta misma informacion. Asimismo hemos identificado que existen diferentes factores los cuales llevan a un usuario interesado en una ONG a no tener motivos suficientes para participar de actividades sociales o de hacer donativos a estas mismas, una de estas siendo la falta de informacion y la carencia de visibilidad que estan tienen siendo que aun asi habiendo mas de 1000 ONG's en el Perú no se conocen muchas de estas ni de como poder ayudarlas.
 
 Otros productos normalmente fallan en facilitar una solucion efectiva al solicitar pagos economicamente poco accesibles lo que resulta en una perdida en sus ganancias y una oportunidad para nosotros, adicionalmente estas herramientas con objetivos similares resultan ser muy saturadas implementando muchas funciones sin tomar en cuenta los user flows necesarios, finalmente se les hace una observacion respecto a la integracion con los empleados al no tener un enfoque en la recoleccion de data en la mayoria de casos.
 
@@ -232,7 +232,7 @@ Acquisition: (Base): [1000 visitantes] El usuario se percatara de nuestra soluci
 
 Activacion: (Plateau):[450 users : 100% users] En esta seccion el usuario "project manager" crea su cuenta registrando su correo ya sea personal o de la institucion, metodos de pago, las dimensiones del negocio es decir la cantidad de habitaciones por piso y finalmente un codigo de autenticacion para los ayudantes que deban de generar una cuenta y participar del proyecto. De los usuarios que se percatan del producto esperamos que el 45% se anime a utilizarlo.
 
-Retention: (Plateau + 1 level):[60% users] De los usuarios que se animaran a utilizarlo esperamos que el 60% de estos continue utilizando nuestro producto menusalmente para gestionar sus proyectos y recolectando data. En esta seccion el usuario utiliza las herramientas que le proporciona nuestro producto para la gestion, planificacion y analisis de proyectos, ya tiene a sus ayudantes asignados y les asigna las tareas respecto al proyecto mientras que estos mantienen una participacion activa en el registro de informacion.
+Retention: (Plateau + 1 level):[60% users] De los usuarios que se animaran a utilizarlo esperamos que el 60% de estos continue utilizando nuestro producto menusalmente para gestionar sus proyectos y recolectando data. En esta seccion el usuario utiliza las herramientas que le proporciona nuestro producto para la gestion, planificación y analisis de proyectos, ya tiene a sus ayudantes asignados y les asigna las tareas respecto al proyecto mientras que estos mantienen una participacion activa en el registro de informacion.
 
 Revenue: (Plateau + 2 levels):[10% users] Los usuarios que utilizan nuestro producto son usuarios estrictamente de paga, no obstante si es que llegara la situacion donde su organizacion se expande entonces van a tener proyectos a mayor escala, con mas ayudantes y cuentas y excederan el limite de las que les proporcionamos en su plan inicial. De esta manera se espera que un 10% de los usuarios retenidos que consigan este crecimiento estaran dispuestos a mejorar su plan generandonos un mayor ingreso.
 
@@ -244,7 +244,7 @@ En esta seccion creamos un Proto-Persona como un assumption de como son nuestros
 
 |Demografica|Comportmamiento|Necesidades / Obstaculos|
 |-|-|-|
-|Carlos:<br>29 años <br> Gestor de proyectos para ONG| - Trabaja con un equipo en las ONG <br> - Gana lo suficiente <br> - Enfocado en la planificacion de proyectos <br> - Busca que se consiga el impacto requerido | - Necesita agilizar el proceso de planificacion <br> - Necesita mejorar la asignacion de tareas<br> - Necesita mejorar el seguimiento de gastos por proyecto <br> - Requiere de una mejor comunicacion con los demas ayudantes a la hora de la ejecucion del proyecto <br> - Obstaculo: La ONG no implementa soluciones modernas para el proyecto <br> - Obstaculo: Se desconoce de programas que sirvan para la planificacion y gestion de proyectos. <br> - Busca mejorar la efectividad de los proyectos generando un impacto positivo |
+|Carlos:<br>29 años <br> Gestor de proyectos para ONG| - Trabaja con un equipo en las ONG <br> - Gana lo suficiente <br> - Enfocado en la planificación de proyectos <br> - Busca que se consiga el impacto requerido | - Necesita agilizar el proceso de planificación <br> - Necesita mejorar la asignacion de tareas<br> - Necesita mejorar el seguimiento de gastos por proyecto <br> - Requiere de una mejor comunicacion con los demas ayudantes a la hora de la ejecucion del proyecto <br> - Obstaculo: La ONG no implementa soluciones modernas para el proyecto <br> - Obstaculo: Se desconoce de programas que sirvan para la planificación y gestion de proyectos. <br> - Busca mejorar la efectividad de los proyectos generando un impacto positivo |
 |Alejandra:<br> 23 años <br> Ayudante de proyectos ONG | -Gana lo minimo si es que no es voluntariado <br> - Enfocada en el cumplimiento de tareas y recoleccion de datos <br> - Busca ayudar a los demas por medio de su participacion|- Necesita un medio de comunicacion directo con el gestor de proyectos por si sucede algo <br> - Necesita saber que tareas debe de cumplir para el proyecto <br> -Existien casos donde necesita de una herramienta de recoleccion de datos para mandar a la ONG <br> -Obstaculo: No existe un medio optimo para realizar la comunicacion <br> - Obstaculo: Las herramientas que usa para recopilar informacion no siempre son las mas efectivas para lo que busca <br> - Busca proporcionar con informacion valiosa a las ONG <br> - Busca notificar al final del proyecto los gastos que se realizaron |
 
 Esta tabla refleja los dos principales usuarios que tenemos como assumption junto con sus necesidades y comportamientos en el area laboral.
@@ -282,7 +282,7 @@ Sabremos que tuvimos exito cuando el usuario presente un monitoreo y creacion ra
 ---
 
 Que busca lograr el usuario?
-Quiero saber los datos y gastos de mi proyecto en base a los gastos realizados.<br>
+Quiero gestionar proyectos, ayudantes, tareas y presupuesto.<br>
 Como se quiere sentir el usuario en este proceso?
 Quiero sentirme como que puedo ver todos los aspectos logisticos del proyecto en un solo lugar.<br>
 Como nuestro producto acerca al usuario a un logro personal?
@@ -337,7 +337,7 @@ Tomar en cuenta que cada hipotesis empieza con "Creemos que.."
 
 Debemos de analizar que es lo que debemos aprender de nuestras Hipotesis, entonces llegamos a nuestra siguiente conclusion respecto a lo mas importante que debemos aprender:
 
-Los usuarios estaran interesados en nuestra "innovadora" propuesta dado que existen otros productos similares y asimismo, realmente la necesitan?
+Los usuarios estarán interesados en nuestra "innovadora" propuesta dado que existen otros productos similares y siendo este el caso, la razón de nuestra retención es por el aspecto de gestión o planificación?
 
 **Minimum viable product**
 
@@ -348,13 +348,12 @@ Lo primero que debemos de realizar y aprender para nuestro proyecto es **Las ope
 
 #### 1.2.2.4. Lean UX Canvas.
 
-
-
+<img src="../assets/LeanUX/LeanUXCanvas(V2)AidManager.jpg">
 
 ## 1.3. Segmentos objetivo.
 | |Segmento 1 | Segmento 2  |
 | - | - |-|
-| Variables                 |  Usuarios interesados en participar de actividades de ayuda social o en donar | ONG |
+| Variables                 |  Usuarios encargados de ayudar como "staff" de los proyectos de ayuda social | Gestor de Proyecto |
 | Geográfica                | En el Perú, de entre 1,200 personas el 93% de estas estan interesadas en participar en actividades de ayuda social (CenDE, 2023) | Existen más de 1000 ONG en el Perú (SIGCTI,2024), no obstante solo se reconocen de 10 principalmente (CenDE ,2023) |
 | Demográfica               | Edades de entre 17 a 50+ años <br> Genero: Masculino y Femenino | Organizaciones registradas como ONG |
 | Psicológica               | Piensa en participar de actividades sociales o de donaciones en algun momento mas las limitaciones como el tiempo, la disponibilidad economica, la fiabilidad de las ONG que busca o el proceso de inscripcion terminan desanimandolo | Estas Organizaciones requieren de mas donaciones o participantes para sus campañas u eventos y buscan formas de aumentar el impacto general de estos mismos. |
@@ -385,7 +384,7 @@ Lo primero que debemos de realizar y aprender para nuestro proyecto es **Las ope
 
 |Competidores |  | Nosotros | CauseVox| Bloomerang | Logalto |
 |-|-|-|-|-| - |
-| Análisis SWOT | Fortalezas |- La aplicación cuenta con una función de gestion efectiva.<br>- Se presenta un modelo de organizacion facil de entender.<br>- Facil recolecion de datos y analisis.| - Permite la personalización completa del aspecto de las páginas de campaña.<br>- Herramientas para la promoción en redes sociales. | - Cuenta con servicio al cliente en tiempo real.<br>- La plataforma es accesible y fácil de usar para crear y gestionar campañas, y realizar estrategias de marketing por correo. | - Diferentes Funcionalidades para gestion de proyectos <br> -Multiples herramientas de seguimiento y planificacion <br> -Mas tiempo en el mercado. |
+| Análisis SWOT | Fortalezas |- La aplicación cuenta con una función de gestion efectiva.<br>- Se presenta un modelo de organizacion facil de entender.<br>- Facil recolecion de datos y analisis.| - Permite la personalización completa del aspecto de las páginas de campaña.<br>- Herramientas para la promoción en redes sociales. | - Cuenta con servicio al cliente en tiempo real.<br>- La plataforma es accesible y fácil de usar para crear y gestionar campañas, y realizar estrategias de marketing por correo. | - Diferentes Funcionalidades para gestion de proyectos <br> -Multiples herramientas de seguimiento y planificación <br> -Mas tiempo en el mercado. |
 || Debilidades   | - Limitación de recursos para el financiamiento de la promoción de la aplicación.<br>- Competencia con plataformas similares. | - Limitaciones en su alcance de mercado. | - Los precios de su servicio es elevado. | - Saturacion de herramientas. <br> - Proceso agobiante <br> - No es muy intuitivo. | 
 || Oportunidades | - Crear alianzas con ONGs o empresas podría mejorar el alcance de la aplicación.<br>- El aumento de conciencia social y de la disposición para apoyar a ONGs.<br>- La expansión de la aplicación a regiones extranjeras. | Desarrollar nuevas funcionalidades para mejorar la experiencia de usuario. |  La expansión de la aplicación a un público más amplio al ofrecer tipos de suscripción alternos y a menor precio.| - Separar las herramientas por paquetes que necesite el usuario. | 
 || Amenazas      | - La existencia de competidores establecidos.<br>- Preocupaciones sobre la seguridad de datos y las transacciones de las donaciones. | - Al ser un servicio de pago, potenciales organizaciones podrían optar por opciones accesibles. | - La aparición de competencia emergente.<br>- La desconfianza hacia algunas organizaciones benéficas por la percepción del mal manejo de fondos. | - La necesidad de una herramienta facil de usar que no requiera gran cantidad de funciones para lograr un solo objetivo. |
@@ -418,7 +417,7 @@ Ocupación: Directora de Hogar (CAEF)
 ![Imagen de entrevista](/assets/Entrevistas/EntrevistaS1E1.png)  
 [Seg1 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERgJ0_AWCqVErNukgws7eiIBIgGIeuzeYyiSeb76MeGP9w?e=f7I1Pt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-En la entrevista Maria nos cuenta de como su ONG no tiene una herramienta de gestion determinada y como normalmente usan Excel para los analisis de sus datos, tambien relata que para la planificacion se hacen reuniones anuales y mensuales.
+En la entrevista Maria nos cuenta de como su ONG no tiene una herramienta de gestion determinada y como normalmente usan Excel para los analisis de sus datos, tambien relata que para la planificación se hacen reuniones anuales y mensuales.
 
 Nombre: Cesar Alva Posada
 Edad: 57 años 
