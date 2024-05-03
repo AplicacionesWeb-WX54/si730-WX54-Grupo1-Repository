@@ -28,6 +28,12 @@
 [URL de la organización] (https://github.com/AplicacionesWeb-WX54)
 [URL del repositorio] (https://github.com/AplicacionesWeb-WX54/si730-WX54-Grupo1-Repository.git)
 [URL de la Landing Page] (https://github.com/AplicacionesWeb-WX54/LandingPage-AidManager)
+[URL del Front end Aplication] (https://github.com/AplicacionesWeb-WX54/AidManager-Frontend.git)
+
+### TB1
+Para la entrega del TB1 se han hecho las respectivas divisiones por cada capitulo con el objetivo de tener un workflow saludable y para se pueda realizar una retroalimentacion activa, para cada actividad asignada se ha entregado un conjunto de sub indices por cada capitulo a los integrantes del grupo, dejando la posibilidad de realizar correcciones entre los mismos integrantes.
+
+Se muestran evidencias de los commits realizados en la entrega de la TB1
 
 <img src="../assets/collaboration-insights/report/contributionsTb1.png" alt="commits">
 
@@ -220,10 +226,75 @@ Sabremos que tuvimos exito cuando se observe un impacto mayor a 70% en los usuar
 #### 1.2.2.2. Lean UX Assumptions.
 
 **Business Outcome**
+En esta seccion vamos a usar las metricas de Montaña que ha conceptualizada por Jeff Gothelf e implementaremos algunas de las pirate metrics para poder definir los niveles de la montaña para llegar poder analizar los comportamientos de nuestros usuarios y analizar que parte del User Journey es relevante para nosotros y hacer un assumption de como actuaran nuestros usuarios en base al producto.
+
+Acquisition: (Base): [1000 visitantes] El usuario se percatara de nuestra solucion por medio de las redes sociales como medio de comunicacion asimismo promocionando nuestra landing page, de misma manera intentaremos ofrecer el servicio a los mismos usuarios con metodos de comunicacion directa como por ejemplo ofrecerle el servicio a la institucion donde trabaja (ONG).
+
+Activacion: (Plateau):[450 users : 100% users] En esta seccion el usuario "project manager" crea su cuenta registrando su correo ya sea personal o de la institucion, metodos de pago, las dimensiones del negocio es decir la cantidad de habitaciones por piso y finalmente un codigo de autenticacion para los ayudantes que deban de generar una cuenta y participar del proyecto. De los usuarios que se percatan del producto esperamos que el 45% se anime a utilizarlo.
+
+Retention: (Plateau + 1 level):[60% users] De los usuarios que se animaran a utilizarlo esperamos que el 60% de estos continue utilizando nuestro producto menusalmente para gestionar sus proyectos y recolectando data. En esta seccion el usuario utiliza las herramientas que le proporciona nuestro producto para la gestion, planificacion y analisis de proyectos, ya tiene a sus ayudantes asignados y les asigna las tareas respecto al proyecto mientras que estos mantienen una participacion activa en el registro de informacion.
+
+Revenue: (Plateau + 2 levels):[10% users] Los usuarios que utilizan nuestro producto son usuarios estrictamente de paga, no obstante si es que llegara la situacion donde su organizacion se expande entonces van a tener proyectos a mayor escala, con mas ayudantes y cuentas y excederan el limite de las que les proporcionamos en su plan inicial. De esta manera se espera que un 10% de los usuarios retenidos que consigan este crecimiento estaran dispuestos a mejorar su plan generandonos un mayor ingreso.
+
+Referral:(top) [5% users] Finalmente de los usuarios que retenimos esperamos que un 5% de estos nos referencien a sus colegas o a nuevas ONG indirectamente promocionandonos y aumentando el flujo de usuarios potenciales que podemos obtener.
 
 **Users**
 
+En esta seccion creamos un Proto-Persona como un assumption de como son nuestros usuarios enfocandonos mas en el aspecto de actitud.
+
+|Demografica|Comportmamiento|Necesidades / Obstaculos|
+|-|-|-|
+|Carlos:<br>29 años <br> Gestor de proyectos para ONG| - Trabaja con un equipo en las ONG <br> - Gana lo suficiente <br> - Enfocado en la planificacion de proyectos <br> - Busca que se consiga el impacto requerido | - Necesita agilizar el proceso de planificacion <br> - Necesita mejorar la asignacion de tareas<br> - Necesita mejorar el seguimiento de gastos por proyecto <br> - Requiere de una mejor comunicacion con los demas ayudantes a la hora de la ejecucion del proyecto <br> - Obstaculo: La ONG no implementa soluciones modernas para el proyecto <br> - Obstaculo: Se desconoce de programas que sirvan para la planificacion y gestion de proyectos. <br> - Busca mejorar la efectividad de los proyectos generando un impacto positivo |
+|Alejandra:<br> 23 años <br> Ayudante de proyectos ONG | -Gana lo minimo si es que no es voluntariado <br> - Enfocada en el cumplimiento de tareas y recoleccion de datos <br> - Busca ayudar a los demas por medio de su participacion|- Necesita un medio de comunicacion directo con el gestor de proyectos por si sucede algo <br> - Necesita saber que tareas debe de cumplir para el proyecto <br> -Existien casos donde necesita de una herramienta de recoleccion de datos para mandar a la ONG <br> -Obstaculo: No existe un medio optimo para realizar la comunicacion <br> - Obstaculo: Las herramientas que usa para recopilar informacion no siempre son las mas efectivas para lo que busca <br> - Busca proporcionar con informacion valiosa a las ONG <br> - Busca notificar al final del proyecto los gastos que se realizaron |
+
+Esta tabla refleja los dos principales usuarios que tenemos como assumption junto con sus necesidades y comportamientos en el area laboral.
+
 **Users Outcomes & Benefits**
+
+En esta seccion se busca el lado mas emocional y empatizar con el usuario para darles los outcomes correctos.
+
+---
+
+Que busca lograr el usuario?
+Quiero ser de ayuda para los proyectos de ONG recopilando informacion.<br>
+Como se quiere sentir el usuario en este proceso?
+Quiero sentirme como si mis aportes puedan llegar directamente a los gestores.<br>
+Como nuestro producto acerca al usuario a un logro personal?
+Quiero sentirme de utilidad y tomado en consideracion.<br>
+Porque nuestro usuario buscaria nuestro producto?
+Quiero poder enviar y recopilar datos de los asistentes del proyecto sin problemas.<br>
+Que cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?
+Sabremos que tuvimos exito cuando el usuario presente una recoleccion de datos efficiente y se pueda comunicar con el gestor utilizando nuestro producto en el area laboral.<br><br>
+
+---
+
+Que busca lograr el usuario?
+Quiero crear un proyecto de ayuda social .<br>
+Como se quiere sentir el usuario en este proceso?
+Quiero sentirme como que puedo generar un proyecto solo dando detalles simples.<br>
+Como nuestro producto acerca al usuario a un logro personal?
+Quiero sentir que puedo manejarme y organizarme.<br>
+Porque nuestro usuario buscaria nuestro producto?
+Quiero crear y analizar mi proyecto con pocas operaciones y obteniendo informacion substancial.<br>
+Que cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?
+Sabremos que tuvimos exito cuando el usuario presente un monitoreo y creacion rapido de proyectos utilizando nuestro producto en el area laboral.<br><br>
+
+---
+
+Que busca lograr el usuario?
+Quiero saber los datos y gastos de mi proyecto en base a los gastos realizados.<br>
+Como se quiere sentir el usuario en este proceso?
+Quiero sentirme como que puedo ver todos los aspectos logisticos del proyecto en un solo lugar.<br>
+Como nuestro producto acerca al usuario a un logro personal?
+Quiero sentir que tengo el control de mis acciones.<br>
+Porque nuestro usuario buscaria nuestro producto?
+Quiero hacer mas trabajo en menor tiempo y que no me cueste mucho hacerlo.
+<br><br>
+Que cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?
+Sabremos que tuvimos exito cuando el usuario tenga una facilidad en gestionar y generar sus proyectos en el area laboral utilizando nuestro producto.
+
+Este analisis de user Outcomes sirve para ambos segmentos en ciertos casos ya que tienen un objetivo similar y se puede comprender el contexto desde ambas perspectivas.
+
 
 **Solutions**
 
