@@ -298,62 +298,57 @@ Este analisis de user Outcomes sirve para ambos segmentos en ciertos casos ya qu
 
 **Solutions**
 
+Si bien Gothelf menciona en su libro LeanUX 3rd Edition que debemos utilizar elementos fisicos como post its y demas para esta entrega realizamos una llamada para definir nuestras soluciones supuestas.
 
+Tomando en cuenta las restricciones anteriormente seleccionadas realizamos las siguiente soluciones:
 
-Después de analizar la problemática y los factores que la ocasionan, podemos tener un panorama de cómo solucionar la necesidad del usuario declarando supuestos, lo cual corresponde al siguiente paso de la Lean UX. Por ello, es necesario tener un conocimiento previo de las empresas que tienen características similares a las nuestras y cómo estas se han desarrollado con el paso del tiempo. 
+Desarollar un gestor para planear y organizar projectos para ONG orientado a realizar la mayoria de prorcesos de gestion principales siendo feats:
 
-Se mencionan a tres potenciales competidores:
+- **Creacion y edicion de proyectos** - El gestor crea proyecto y puede editar diferentes aspectos de este.
+- **Asignacion, creacion, edicion y eliminacion de tareas** - El gestor tiene la capacidad de crear las tareas de su proyecto.
+- **Asignacion, creacion, edicion y eliminacion de miembros de equipo** - Los ayudantes crean sus cuentas de equipo y el gestor asigna estos ayudantes a los equipos con el codigo.
+- **Creacion de posts por parte del gestor** - De esta manera el gestor puede notificar a su equipo de eventos o situaciones.
+- **Visualizacion, creacion, edicion y eliminacion de tablas de analisis y presupuestos** - Esto sirve para que el gestor pueda analizar los datos del proyecto actuales rapidamente. Tambien sirve para los empleados ya que proporciona la herramienta para insertar datos.
+- **Organizacion y edicion de calendario** - Como un lujo y herramienta para poder visualizar las fechas importantes para los proyectos.
+- **Sistema de comunicacion entre gestor y ayudante** - Como una ultima solucion a los imprevistos a la hora de ejecutar el proyecto, se considera realizar un sistema de comunicacion entre el usuario gestor y ayudante.
 
-CauseVox:
-Plataforma que facilita el crowdfunding no solo de bienes monetarios, sino también de recursos como víveres y vestimenta. Plataforma de recaudación de fondos que brinda herramientas necesarias para crear campañas llamativas para cumplir su meta de donación. su diversificacion de bienes junto con sus campañas muestran su capacidad para ser competidores.
+---
 
-Donadora:
-Es una plataforma mexicana en la que se pueden financiar proyectos de caridad, así como proyectos de tipo artístico, científico, entre otros. Al entrar en la financiacion para diferentes proyectos fuera de la caridad presenta una aptidud para ser competidor.
-
-Logalto:
-Es un Programa web colaborativo para el monitoreo y la evaluación de proyectos de desarrollo internacional la cual proporciona una alta gama de herramientas de gestion de proyectos.
-
-|Business Assumptions|User Assumptions|
-|-|-|
-|Creemos que nuestros usuarios tienen la necesidad de aumentar el flujo de personas a sus eventos y facilitar la creasion de estos gestionando sus datos y proyectos de manera efectiva. |Los usuarios de este producto son el personal encargado de gestion de proyecto y los ayudantes que participan de estos eventos de Organizaciones no gubernamentales. |
-|Este problema se puede solucionar con una plataforma donde se pueda organizar y supervizar proyectos donde se pueda generar un analisis de datos con recomendaciones y oportunidedes de mejora con infromacion recoleccionada por los mismos ayudantes de estos eventos. Ademas de que se presente toda la informacion necesaria para un proceso de inscripcion o donacion |Nuestro producto encajaría en la vida cotidiana debido a que sera accesible, economicamente viable y facil de utilizar tanto para las personas que tengan que supervizar el proyecto como para los mismos ayudantes para la recoleccion de datos |
-|Los usuarios iniciales Organizaciones no gubernamentales sin fines de lucro que deseen mejorar su impacto y alcance.  |Este producto resolverá la necesidad de gestionar proyectos mientras que se recopila y analiza informacion de manera efectiva, simple y facil de entender para tener mayores oportunidades de mejora. |
-|El valor #1 de nuestro servicio es el analisis de datos comprensible, el registro de informacion relevante y la interfaz amigable y simple de usar. |El producto se utilizará al momento que se tenga que realizar un nuevo proyecto de ayuda social y se deba realizar un planeamiento.|
-|El aplicativo adicionalmente contara con el sistema de registro de ayudantes y gerentes que tendran un limite segun los distintos planes que tenemos para las ONG de distintos tamaños |Las funciones mas importantes son, la capacidad de manejar y presentar los datos de manera que sean visualmente coherentes y poco abrumadores. La planificacion de proyectos haciendo un registrod de todo lo necesario para que se pueda ejecutar. Y finalmente, una interfaz facil de usar para tanto el ayudante como para el gestor del proyecto|
-|Se conseguirán la mayoría de los usuarios por medio de marketing digital (como las redes sociales) y Noticieros. |Nuestro producto debe verse como una herramienta de gestion y analisis de datos. Asimismo siendo una herramienta que se usa para planificar proyectos de ayuda benefica de alta calidad y monitoreo |
-|Conseguiremos ingresos de la aplicación por medio de la compra del servicio para las ONG y los distintos planes proporcionales al tamaño de las necesidades de la organizacion.||
-|Nuestros competidores principales serán CauseVox, Donadora y Logalto. ||
-|Los venceremos al tener una mejor interactividad y experiencia de usuario, una herramienta de gestion para proyectos futuros simple de entender y el proceso amigable y facil de utilizar para adquirir la informacion. ||
-|El mayor riesgo del producto es la falta de alcance inicial, la capacidad de datos, la precicion de datos y la competencia. ||
-|Solucionaremos esto por medio de campañas de publicidad, contactar a las ONG y dandoles a los recolectores las pautas a seguir para reducir el margen de error.||
-|Pensamos que un assumption que si se prueba falso puede causar que el proyecto falle es la demanda actual de nuestro producto y la necesidad estimada.||
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-**Hypotesis**
 
-**Lo mas importante que debemos aprender**
+**Hipotesis**
 
-**Minimun Value Product (MVP)**
+Siguiendo el formato de las Hipotesis usaremos la tabla de hipotesis.
+Tomar en cuenta que cada hipotesis empieza con "Creemos que.."
 
-- Creemos que, al brindar una interfaz poco compleja de usar para nuestros usuarios, podrán tener una mejor experiencia al gestionar sus datos y  proyectos de ayuda social.
-  Sabremos que hemos tenido éxito cuando se incremente la cantidad de proyectos efectivos por parte de las ONG que usen nuestra herramienta. 
+|Business Outcome|Persona|User Outcome|Feature/Solution|
+|-|-|-|-|
+|Conseguiremos una retencion del 20% de usuarios | Si los gestores de proyecto | asignan las tareas del proyecto | con la funcion de creacion y edicion de proyectos y tareas |
+|Conseguiremos una retencion del 20% de usuarios optima | Si los gestores de proyecto | logran organizar sus tareas guiandose del calendario | con el sistema de creacion, asignacion y edicion de tareas |
+|Conseguiremos una retencion total del 60% de usuarios optima | Si los gestores de proyecto | observan un aumento del impacto de los proyectos en un 70% | con las herramientas de gestion, analisis y recoleccion de datos que estamos ofreciendo, estas siendo monitoreo proyectos, tareas y revision de gastos |
+|Conseguiremos una retencion del 20% usuarios optima | Si los gestores de proyecto | Consiguen comunicarse con los ayudantes | con el sistema de comunicacion entre gestor y ayudante |
+|Conseguiremos que 10% de nuestros usuarios nos genere una ganancia | Si los gestores de proyecto | mejoran el plan de su cuenta | proveyendo al usuario de la posibilidad de mejorar su cuenta y aumentar la escalabilidad |
+|Conseguiremos que 5% de nuestro usuarios nos referencien | Si los gestores de proyecto y ayudantes | logran mas de los esperado con sus proyectos | con el servicio de gestion que proveemos |
+|Conseguiremos que 45% de nuestra adquisicion de usuarios vengan de nuestra pagina | Si los gestores de proyecto y ayudantes | encuentran nuestra solucion como una posibilidad de mejora | con la landing page implementada |
 
-- Creemos que la aplicación facilitara la gestion y creacion de proyectos de ayuda social proporcionando mejores resultados y un mayor flujo de personas participando de estas actividades.  
-  Sabremos que tuvimos exito cuando distintos proyectos de ONG reciban mas relevancia y participantes.
+**Que es lo mas importante que debemos aprender**
 
-- Creemos que ayudar a las ONG a tener una mejor gestion y planeamiento en sus proyectos ayudara a mejorar la visibilidad y aumentar la cantidad de personas motivadas a participar.
-  Sabremos que hemos tenido éxito, cuando a nivel nacional se empiece a notar un incremento en la ayuda social proporcionada. 
+Debemos de analizar que es lo que debemos aprender de nuestras Hipotesis, entonces llegamos a nuestra siguiente conclusion respecto a lo mas importante que debemos aprender:
+
+Los usuarios estaran interesados en nuestra "innovadora" propuesta dado que existen otros productos similares y asimismo, realmente la necesitan?
+
+**Minimum viable product**
+
+Los MVP nos sirven para aprender cosas a corto plazo. para realizar esto se hace la pregunta: 
+What’s the most important thing we need to learn first?
+Lo primero que debemos de realizar y aprender para nuestro proyecto es **Las operaciones crud para nuestro Proyecto y si nuestra solucion tiene el potencial de ser implementada**, es por esta misma razon que tendremos que realizar una serie de entrevistas a gestores de proyectos y sus ayudantes para poder probar que si existe una necesidad que estamos satisfaciendo. Adicionalmente crear una landing page realizando un MVP para los usuarios que esten interesados en este producto.
+
 
 #### 1.2.2.4. Lean UX Canvas.
 
-(hacer diagrama)
 
-|-|-|-|
-|-|-|-|
-| Business Problem <br>¿Qué problema has identificado que necesitas resolver? Las ONG estan perdiendo conexion y requieren optimizar sus proyectos para mejorar su impacto. <br>Según CenDe de 1200 personas 72% de estas no han participado en alguna actividad de actividad de ayuda social.<br> Segun "Digital for non Profits" 78% de organizaciones nonprofit con capacidades analiticas tienen mejoras tales como mejora de reclutamiento, mejoras en el alcance y hacer seguimiento de presupuestos| Solution ideas <br>Herramienta de gestion de proyectos recopilando datos y recomendaciones de accion.<br><br>Ofrecer planes de pago a las para ONG cuyos proyectos tienen diferentes cantidades de personas.<br><br>Mejorar y optimizar los procesos de recoleccion de datos para un analisis mas exacto. | Business Outcomes <br>(Cambios en el comportamiento del usuario) <br>¿Qué cambios en el comportamiento del usuario indicarán que has solucionado un problema real de manera que añada valor a tus clientes? <br> El comportamiento que refleje que se ha solucionado un problema real sera cuando las actividades de ayuda social consigan ser mas efectivas y que los participantes de estas aumenten.|
-| User & Customers <br>¿En qué tipo de usuarios y clientes tienes que centrarte primero? <br>Usuario: <br>Personas encargadas de la gestion y recoleccion de datos de un proyecto orientado a las ONG. <br>Cliente: la Organizacion sin fines de lucro que adquiere nuestra herramienta. <br> ONG que busquen una optimizacion en la cantidad de gastos y tiempo invertidos.  <br> |  UX Canvas| User benefits <br>¿Cuáles son los objetivos que los usuarios intentan obtener? <br> \- Se busca gestionar un proyecto de manera que se pueda entender las oportunidades de mejora, los datos registrados, las planificaciones del proyecto y como pueden llegar a mas con menos. <br> ¿Qué les motiva a buscar tu solución? <br> \- Los usuarios están motivados a buscar esta solución debido la interfaz intuitiva, las oportunidades de optimizacion economica y el seguimiento de las acciones, gastos y personal que participara. <br>Nuestra interfaz resulta intuitiva para el usuario en todo el proceso. <br> |
-| Hyphotheses: <br>  \- Creemos que, al brindar una interfaz poco compleja de usar para nuestros usuarios, podrán tener una mejor experiencia al gestionar sus datos y  proyectos de ayuda social. <br><br>Sabremos que hemos tenido éxito cuando se incremente la cantidad de proyectos efectivos por parte de las ONG que usen nuestra herramienta. <br><br> \- Creemos que la aplicación facilitara la gestion y creacion de proyectos de ayuda social proporcionando mejores resultados y un mayor flujo de personas participando de estas actividades. <br><br> Sabremos que tuvimos exito cuando distintos proyectos de ONG reciban mas relevancia y participantes. <br><br> \- Creemos que ayudar a las ONG a tener una mejor gestion y planeamiento en sus proyectos ayudara a mejorar la visibilidad y aumentar la cantidad de personas motivadas a participar. <br><br> Sabremos que hemos tenido éxito, cuando a nivel nacional se empiece a notar un incremento en la ayuda social proporcionada. | ¿Qué es la cosa más importante que nosotros necesitamos aprender primero? <br> Lo principal que necesitamos aprender es generar un modelo de gestion el cual sea efectivo a nivel visual y de gestion, y adicionalmente, un repaso en lo que viene siendo la gestión del proyecto| <br> ¿Cuál es la mínima cantidad de trabajo que nosotros necesitamos hacer para aprender la siguiente cosa más importante? <br> Asistir a las clases y solicitar que se nos revise los avances del proyecto para poder hacer un seguimiento saludable del proyecto|
 
 
 ## 1.3. Segmentos objetivo.
