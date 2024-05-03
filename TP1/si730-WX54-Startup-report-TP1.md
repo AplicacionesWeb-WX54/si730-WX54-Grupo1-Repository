@@ -28,6 +28,12 @@
 [URL de la organización] (https://github.com/AplicacionesWeb-WX54)
 [URL del repositorio] (https://github.com/AplicacionesWeb-WX54/si730-WX54-Grupo1-Repository.git)
 [URL de la Landing Page] (https://github.com/AplicacionesWeb-WX54/LandingPage-AidManager)
+[URL del Front end Aplication] (https://github.com/AplicacionesWeb-WX54/AidManager-Frontend.git)
+
+### TB1
+Para la entrega del TB1 se han hecho las respectivas divisiones por cada capitulo con el objetivo de tener un workflow saludable y para se pueda realizar una retroalimentacion activa, para cada actividad asignada se ha entregado un conjunto de sub indices por cada capitulo a los integrantes del grupo, dejando la posibilidad de realizar correcciones entre los mismos integrantes.
+
+Se muestran evidencias de los commits realizados en la entrega de la TB1
 
 <img src="../assets/collaboration-insights/report/contributionsTb1.png" alt="commits">
 
@@ -205,7 +211,7 @@ seguidamente solicitara los datos recopilados de su proyecto mas reciente, de es
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
-Se identifica una falta de organizacion por parte de las ONG donde existen distintas oportunidades para mejorar el alcance con una buena planificacion. No obstante, muchas organizaciones no tienen conocimiento del potencial que se puede obtener de esta informacion o no cuentan con un equipo dedicado al analisis de datos a niveles de Big Data o formas efectivas de recolectar esta misma informacion. Asimismo hemos identificado que existen diferentes factores los cuales llevan a un usuario interesado en una ONG a no tener motivos suficientes para participar de actividades sociales o de hacer donativos a estas mismas, una de estas siendo la falta de informacion y la carencia de visibilidad que estan tienen siendo que aun asi habiendo mas de 1000 ONG's en el Perú no se conocen muchas de estas ni de como poder ayudarlas.
+Se identifica una falta de organizacion por parte de las ONG donde existen distintas oportunidades para mejorar el alcance con una buena planificación. No obstante, muchas organizaciones no tienen conocimiento del potencial que se puede obtener de esta informacion o no cuentan con un equipo dedicado al analisis de datos a niveles de Big Data o formas efectivas de recolectar esta misma informacion. Asimismo hemos identificado que existen diferentes factores los cuales llevan a un usuario interesado en una ONG a no tener motivos suficientes para participar de actividades sociales o de hacer donativos a estas mismas, una de estas siendo la falta de informacion y la carencia de visibilidad que estan tienen siendo que aun asi habiendo mas de 1000 ONG's en el Perú no se conocen muchas de estas ni de como poder ayudarlas.
 
 Otros productos normalmente fallan en facilitar una solucion efectiva al solicitar pagos economicamente poco accesibles lo que resulta en una perdida en sus ganancias y una oportunidad para nosotros, adicionalmente estas herramientas con objetivos similares resultan ser muy saturadas implementando muchas funciones sin tomar en cuenta los user flows necesarios, finalmente se les hace una observacion respecto a la integracion con los empleados al no tener un enfoque en la recoleccion de data en la mayoria de casos.
 
@@ -220,79 +226,138 @@ Sabremos que tuvimos exito cuando se observe un impacto mayor a 70% en los usuar
 #### 1.2.2.2. Lean UX Assumptions.
 
 **Business Outcome**
+En esta seccion vamos a usar las metricas de Montaña que ha conceptualizada por Jeff Gothelf e implementaremos algunas de las pirate metrics para poder definir los niveles de la montaña para llegar poder analizar los comportamientos de nuestros usuarios y analizar que parte del User Journey es relevante para nosotros y hacer un assumption de como actuaran nuestros usuarios en base al producto.
+
+Acquisition: (Base): [1000 visitantes] El usuario se percatara de nuestra solucion por medio de las redes sociales como medio de comunicacion asimismo promocionando nuestra landing page, de misma manera intentaremos ofrecer el servicio a los mismos usuarios con metodos de comunicacion directa como por ejemplo ofrecerle el servicio a la institucion donde trabaja (ONG).
+
+Activacion: (Plateau):[450 users : 100% users] En esta seccion el usuario "project manager" crea su cuenta registrando su correo ya sea personal o de la institucion, metodos de pago, las dimensiones del negocio es decir la cantidad de habitaciones por piso y finalmente un codigo de autenticacion para los ayudantes que deban de generar una cuenta y participar del proyecto. De los usuarios que se percatan del producto esperamos que el 45% se anime a utilizarlo.
+
+Retention: (Plateau + 1 level):[60% users] De los usuarios que se animaran a utilizarlo esperamos que el 60% de estos continue utilizando nuestro producto menusalmente para gestionar sus proyectos y recolectando data. En esta seccion el usuario utiliza las herramientas que le proporciona nuestro producto para la gestion, planificación y analisis de proyectos, ya tiene a sus ayudantes asignados y les asigna las tareas respecto al proyecto mientras que estos mantienen una participacion activa en el registro de informacion.
+
+Revenue: (Plateau + 2 levels):[10% users] Los usuarios que utilizan nuestro producto son usuarios estrictamente de paga, no obstante si es que llegara la situacion donde su organizacion se expande entonces van a tener proyectos a mayor escala, con mas ayudantes y cuentas y excederan el limite de las que les proporcionamos en su plan inicial. De esta manera se espera que un 10% de los usuarios retenidos que consigan este crecimiento estaran dispuestos a mejorar su plan generandonos un mayor ingreso.
+
+Referral:(top) [5% users] Finalmente de los usuarios que retenimos esperamos que un 5% de estos nos referencien a sus colegas o a nuevas ONG indirectamente promocionandonos y aumentando el flujo de usuarios potenciales que podemos obtener.
 
 **Users**
 
+En esta seccion creamos un Proto-Persona como un assumption de como son nuestros usuarios enfocandonos mas en el aspecto de actitud.
+
+|Demografica|Comportmamiento|Necesidades / Obstaculos|
+|-|-|-|
+|Carlos:<br>29 años <br> Gestor de proyectos para ONG| - Trabaja con un equipo en las ONG <br> - Gana lo suficiente <br> - Enfocado en la planificación de proyectos <br> - Busca que se consiga el impacto requerido | - Necesita agilizar el proceso de planificación <br> - Necesita mejorar la asignacion de tareas<br> - Necesita mejorar el seguimiento de gastos por proyecto <br> - Requiere de una mejor comunicacion con los demas ayudantes a la hora de la ejecucion del proyecto <br> - Obstaculo: La ONG no implementa soluciones modernas para el proyecto <br> - Obstaculo: Se desconoce de programas que sirvan para la planificación y gestion de proyectos. <br> - Busca mejorar la efectividad de los proyectos generando un impacto positivo |
+|Alejandra:<br> 23 años <br> Ayudante de proyectos ONG | -Gana lo minimo si es que no es voluntariado <br> - Enfocada en el cumplimiento de tareas y recoleccion de datos <br> - Busca ayudar a los demas por medio de su participacion|- Necesita un medio de comunicacion directo con el gestor de proyectos por si sucede algo <br> - Necesita saber que tareas debe de cumplir para el proyecto <br> -Existien casos donde necesita de una herramienta de recoleccion de datos para mandar a la ONG <br> -Obstaculo: No existe un medio optimo para realizar la comunicacion <br> - Obstaculo: Las herramientas que usa para recopilar informacion no siempre son las mas efectivas para lo que busca <br> - Busca proporcionar con informacion valiosa a las ONG <br> - Busca notificar al final del proyecto los gastos que se realizaron |
+
+Esta tabla refleja los dos principales usuarios que tenemos como assumption junto con sus necesidades y comportamientos en el area laboral.
+
 **Users Outcomes & Benefits**
+
+En esta seccion se busca el lado mas emocional y empatizar con el usuario para darles los outcomes correctos.
+
+---
+
+Que busca lograr el usuario?
+Quiero ser de ayuda para los proyectos de ONG recopilando informacion.<br>
+Como se quiere sentir el usuario en este proceso?
+Quiero sentirme como si mis aportes puedan llegar directamente a los gestores.<br>
+Como nuestro producto acerca al usuario a un logro personal?
+Quiero sentirme de utilidad y tomado en consideracion.<br>
+Porque nuestro usuario buscaria nuestro producto?
+Quiero poder enviar y recopilar datos de los asistentes del proyecto sin problemas.<br>
+Que cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?
+Sabremos que tuvimos exito cuando el usuario presente una recoleccion de datos efficiente y se pueda comunicar con el gestor utilizando nuestro producto en el area laboral.<br><br>
+
+---
+
+Que busca lograr el usuario?
+Quiero crear un proyecto de ayuda social .<br>
+Como se quiere sentir el usuario en este proceso?
+Quiero sentirme como que puedo generar un proyecto solo dando detalles simples.<br>
+Como nuestro producto acerca al usuario a un logro personal?
+Quiero sentir que puedo manejarme y organizarme.<br>
+Porque nuestro usuario buscaria nuestro producto?
+Quiero crear y analizar mi proyecto con pocas operaciones y obteniendo informacion substancial.<br>
+Que cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?
+Sabremos que tuvimos exito cuando el usuario presente un monitoreo y creacion rapido de proyectos utilizando nuestro producto en el area laboral.<br><br>
+
+---
+
+Que busca lograr el usuario?
+Quiero gestionar proyectos, ayudantes, tareas y presupuesto.<br>
+Como se quiere sentir el usuario en este proceso?
+Quiero sentirme como que puedo ver todos los aspectos logisticos del proyecto en un solo lugar.<br>
+Como nuestro producto acerca al usuario a un logro personal?
+Quiero sentir que tengo el control de mis acciones.<br>
+Porque nuestro usuario buscaria nuestro producto?
+Quiero hacer mas trabajo en menor tiempo y que no me cueste mucho hacerlo.
+<br><br>
+Que cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?
+Sabremos que tuvimos exito cuando el usuario tenga una facilidad en gestionar y generar sus proyectos en el area laboral utilizando nuestro producto.
+
+Este analisis de user Outcomes sirve para ambos segmentos en ciertos casos ya que tienen un objetivo similar y se puede comprender el contexto desde ambas perspectivas.
+
 
 **Solutions**
 
+Si bien Gothelf menciona en su libro LeanUX 3rd Edition que debemos utilizar elementos fisicos como post its y demas para esta entrega realizamos una llamada para definir nuestras soluciones supuestas.
 
+Tomando en cuenta las restricciones anteriormente seleccionadas realizamos las siguiente soluciones:
 
-Después de analizar la problemática y los factores que la ocasionan, podemos tener un panorama de cómo solucionar la necesidad del usuario declarando supuestos, lo cual corresponde al siguiente paso de la Lean UX. Por ello, es necesario tener un conocimiento previo de las empresas que tienen características similares a las nuestras y cómo estas se han desarrollado con el paso del tiempo. 
+Desarollar un gestor para planear y organizar projectos para ONG orientado a realizar la mayoria de prorcesos de gestion principales siendo feats:
 
-Se mencionan a tres potenciales competidores:
+- **Creacion y edicion de proyectos** - El gestor crea proyecto y puede editar diferentes aspectos de este.
+- **Asignacion, creacion, edicion y eliminacion de tareas** - El gestor tiene la capacidad de crear las tareas de su proyecto.
+- **Asignacion, creacion, edicion y eliminacion de miembros de equipo** - Los ayudantes crean sus cuentas de equipo y el gestor asigna estos ayudantes a los equipos con el codigo.
+- **Creacion de posts por parte del gestor** - De esta manera el gestor puede notificar a su equipo de eventos o situaciones.
+- **Visualizacion, creacion, edicion y eliminacion de tablas de analisis y presupuestos** - Esto sirve para que el gestor pueda analizar los datos del proyecto actuales rapidamente. Tambien sirve para los empleados ya que proporciona la herramienta para insertar datos.
+- **Organizacion y edicion de calendario** - Como un lujo y herramienta para poder visualizar las fechas importantes para los proyectos.
+- **Sistema de comunicacion entre gestor y ayudante** - Como una ultima solucion a los imprevistos a la hora de ejecutar el proyecto, se considera realizar un sistema de comunicacion entre el usuario gestor y ayudante.
 
-CauseVox:
-Plataforma que facilita el crowdfunding no solo de bienes monetarios, sino también de recursos como víveres y vestimenta. Plataforma de recaudación de fondos que brinda herramientas necesarias para crear campañas llamativas para cumplir su meta de donación. su diversificacion de bienes junto con sus campañas muestran su capacidad para ser competidores.
+---
 
-Donadora:
-Es una plataforma mexicana en la que se pueden financiar proyectos de caridad, así como proyectos de tipo artístico, científico, entre otros. Al entrar en la financiacion para diferentes proyectos fuera de la caridad presenta una aptidud para ser competidor.
-
-Logalto:
-Es un Programa web colaborativo para el monitoreo y la evaluación de proyectos de desarrollo internacional la cual proporciona una alta gama de herramientas de gestion de proyectos.
-
-|Business Assumptions|User Assumptions|
-|-|-|
-|Creemos que nuestros usuarios tienen la necesidad de aumentar el flujo de personas a sus eventos y facilitar la creasion de estos gestionando sus datos y proyectos de manera efectiva. |Los usuarios de este producto son el personal encargado de gestion de proyecto y los ayudantes que participan de estos eventos de Organizaciones no gubernamentales. |
-|Este problema se puede solucionar con una plataforma donde se pueda organizar y supervizar proyectos donde se pueda generar un analisis de datos con recomendaciones y oportunidedes de mejora con infromacion recoleccionada por los mismos ayudantes de estos eventos. Ademas de que se presente toda la informacion necesaria para un proceso de inscripcion o donacion |Nuestro producto encajaría en la vida cotidiana debido a que sera accesible, economicamente viable y facil de utilizar tanto para las personas que tengan que supervizar el proyecto como para los mismos ayudantes para la recoleccion de datos |
-|Los usuarios iniciales Organizaciones no gubernamentales sin fines de lucro que deseen mejorar su impacto y alcance.  |Este producto resolverá la necesidad de gestionar proyectos mientras que se recopila y analiza informacion de manera efectiva, simple y facil de entender para tener mayores oportunidades de mejora. |
-|El valor #1 de nuestro servicio es el analisis de datos comprensible, el registro de informacion relevante y la interfaz amigable y simple de usar. |El producto se utilizará al momento que se tenga que realizar un nuevo proyecto de ayuda social y se deba realizar un planeamiento.|
-|El aplicativo adicionalmente contara con el sistema de registro de ayudantes y gerentes que tendran un limite segun los distintos planes que tenemos para las ONG de distintos tamaños |Las funciones mas importantes son, la capacidad de manejar y presentar los datos de manera que sean visualmente coherentes y poco abrumadores. La planificacion de proyectos haciendo un registrod de todo lo necesario para que se pueda ejecutar. Y finalmente, una interfaz facil de usar para tanto el ayudante como para el gestor del proyecto|
-|Se conseguirán la mayoría de los usuarios por medio de marketing digital (como las redes sociales) y Noticieros. |Nuestro producto debe verse como una herramienta de gestion y analisis de datos. Asimismo siendo una herramienta que se usa para planificar proyectos de ayuda benefica de alta calidad y monitoreo |
-|Conseguiremos ingresos de la aplicación por medio de la compra del servicio para las ONG y los distintos planes proporcionales al tamaño de las necesidades de la organizacion.||
-|Nuestros competidores principales serán CauseVox, Donadora y Logalto. ||
-|Los venceremos al tener una mejor interactividad y experiencia de usuario, una herramienta de gestion para proyectos futuros simple de entender y el proceso amigable y facil de utilizar para adquirir la informacion. ||
-|El mayor riesgo del producto es la falta de alcance inicial, la capacidad de datos, la precicion de datos y la competencia. ||
-|Solucionaremos esto por medio de campañas de publicidad, contactar a las ONG y dandoles a los recolectores las pautas a seguir para reducir el margen de error.||
-|Pensamos que un assumption que si se prueba falso puede causar que el proyecto falle es la demanda actual de nuestro producto y la necesidad estimada.||
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-**Hypotesis**
 
-**Lo mas importante que debemos aprender**
+**Hipotesis**
 
-**Minimun Value Product (MVP)**
+Siguiendo el formato de las Hipotesis usaremos la tabla de hipotesis.
+Tomar en cuenta que cada hipotesis empieza con "Creemos que.."
 
-- Creemos que, al brindar una interfaz poco compleja de usar para nuestros usuarios, podrán tener una mejor experiencia al gestionar sus datos y  proyectos de ayuda social.
-  Sabremos que hemos tenido éxito cuando se incremente la cantidad de proyectos efectivos por parte de las ONG que usen nuestra herramienta. 
+|Business Outcome|Persona|User Outcome|Feature/Solution|
+|-|-|-|-|
+|Conseguiremos una retencion del 20% de usuarios | Si los gestores de proyecto | asignan las tareas del proyecto | con la funcion de creacion y edicion de proyectos y tareas |
+|Conseguiremos una retencion del 20% de usuarios optima | Si los gestores de proyecto | logran organizar sus tareas guiandose del calendario | con el sistema de creacion, asignacion y edicion de tareas |
+|Conseguiremos una retencion total del 60% de usuarios optima | Si los gestores de proyecto | observan un aumento del impacto de los proyectos en un 70% | con las herramientas de gestion, analisis y recoleccion de datos que estamos ofreciendo, estas siendo monitoreo proyectos, tareas y revision de gastos |
+|Conseguiremos una retencion del 20% usuarios optima | Si los gestores de proyecto | Consiguen comunicarse con los ayudantes | con el sistema de comunicacion entre gestor y ayudante |
+|Conseguiremos que 10% de nuestros usuarios nos genere una ganancia | Si los gestores de proyecto | mejoran el plan de su cuenta | proveyendo al usuario de la posibilidad de mejorar su cuenta y aumentar la escalabilidad |
+|Conseguiremos que 5% de nuestro usuarios nos referencien | Si los gestores de proyecto y ayudantes | logran mas de los esperado con sus proyectos | con el servicio de gestion que proveemos |
+|Conseguiremos que 45% de nuestra adquisicion de usuarios vengan de nuestra pagina | Si los gestores de proyecto y ayudantes | encuentran nuestra solucion como una posibilidad de mejora | con la landing page implementada |
 
-- Creemos que la aplicación facilitara la gestion y creacion de proyectos de ayuda social proporcionando mejores resultados y un mayor flujo de personas participando de estas actividades.  
-  Sabremos que tuvimos exito cuando distintos proyectos de ONG reciban mas relevancia y participantes.
+**Que es lo mas importante que debemos aprender**
 
-- Creemos que ayudar a las ONG a tener una mejor gestion y planeamiento en sus proyectos ayudara a mejorar la visibilidad y aumentar la cantidad de personas motivadas a participar.
-  Sabremos que hemos tenido éxito, cuando a nivel nacional se empiece a notar un incremento en la ayuda social proporcionada. 
+Debemos de analizar que es lo que debemos aprender de nuestras Hipotesis, entonces llegamos a nuestra siguiente conclusion respecto a lo mas importante que debemos aprender:
+
+Los usuarios estarán interesados en nuestra "innovadora" propuesta dado que existen otros productos similares y siendo este el caso, la razón de nuestra retención es por el aspecto de gestión o planificación?
+
+**Minimum viable product**
+
+Los MVP nos sirven para aprender cosas a corto plazo. para realizar esto se hace la pregunta: 
+What’s the most important thing we need to learn first?
+Lo primero que debemos de realizar y aprender para nuestro proyecto es **Las operaciones crud para nuestro Proyecto y si nuestra solucion tiene el potencial de ser implementada**, es por esta misma razon que tendremos que realizar una serie de entrevistas a gestores de proyectos y sus ayudantes para poder probar que si existe una necesidad que estamos satisfaciendo. Adicionalmente crear una landing page realizando un MVP para los usuarios que esten interesados en este producto.
+
 
 #### 1.2.2.4. Lean UX Canvas.
 
-(hacer diagrama)
-
-|-|-|-|
-|-|-|-|
-| Business Problem <br>¿Qué problema has identificado que necesitas resolver? Las ONG estan perdiendo conexion y requieren optimizar sus proyectos para mejorar su impacto. <br>Según CenDe de 1200 personas 72% de estas no han participado en alguna actividad de actividad de ayuda social.<br> Segun "Digital for non Profits" 78% de organizaciones nonprofit con capacidades analiticas tienen mejoras tales como mejora de reclutamiento, mejoras en el alcance y hacer seguimiento de presupuestos| Solution ideas <br>Herramienta de gestion de proyectos recopilando datos y recomendaciones de accion.<br><br>Ofrecer planes de pago a las para ONG cuyos proyectos tienen diferentes cantidades de personas.<br><br>Mejorar y optimizar los procesos de recoleccion de datos para un analisis mas exacto. | Business Outcomes <br>(Cambios en el comportamiento del usuario) <br>¿Qué cambios en el comportamiento del usuario indicarán que has solucionado un problema real de manera que añada valor a tus clientes? <br> El comportamiento que refleje que se ha solucionado un problema real sera cuando las actividades de ayuda social consigan ser mas efectivas y que los participantes de estas aumenten.|
-| User & Customers <br>¿En qué tipo de usuarios y clientes tienes que centrarte primero? <br>Usuario: <br>Personas encargadas de la gestion y recoleccion de datos de un proyecto orientado a las ONG. <br>Cliente: la Organizacion sin fines de lucro que adquiere nuestra herramienta. <br> ONG que busquen una optimizacion en la cantidad de gastos y tiempo invertidos.  <br> |  UX Canvas| User benefits <br>¿Cuáles son los objetivos que los usuarios intentan obtener? <br> \- Se busca gestionar un proyecto de manera que se pueda entender las oportunidades de mejora, los datos registrados, las planificaciones del proyecto y como pueden llegar a mas con menos. <br> ¿Qué les motiva a buscar tu solución? <br> \- Los usuarios están motivados a buscar esta solución debido la interfaz intuitiva, las oportunidades de optimizacion economica y el seguimiento de las acciones, gastos y personal que participara. <br>Nuestra interfaz resulta intuitiva para el usuario en todo el proceso. <br> |
-| Hyphotheses: <br>  \- Creemos que, al brindar una interfaz poco compleja de usar para nuestros usuarios, podrán tener una mejor experiencia al gestionar sus datos y  proyectos de ayuda social. <br><br>Sabremos que hemos tenido éxito cuando se incremente la cantidad de proyectos efectivos por parte de las ONG que usen nuestra herramienta. <br><br> \- Creemos que la aplicación facilitara la gestion y creacion de proyectos de ayuda social proporcionando mejores resultados y un mayor flujo de personas participando de estas actividades. <br><br> Sabremos que tuvimos exito cuando distintos proyectos de ONG reciban mas relevancia y participantes. <br><br> \- Creemos que ayudar a las ONG a tener una mejor gestion y planeamiento en sus proyectos ayudara a mejorar la visibilidad y aumentar la cantidad de personas motivadas a participar. <br><br> Sabremos que hemos tenido éxito, cuando a nivel nacional se empiece a notar un incremento en la ayuda social proporcionada. | ¿Qué es la cosa más importante que nosotros necesitamos aprender primero? <br> Lo principal que necesitamos aprender es generar un modelo de gestion el cual sea efectivo a nivel visual y de gestion, y adicionalmente, un repaso en lo que viene siendo la gestión del proyecto| <br> ¿Cuál es la mínima cantidad de trabajo que nosotros necesitamos hacer para aprender la siguiente cosa más importante? <br> Asistir a las clases y solicitar que se nos revise los avances del proyecto para poder hacer un seguimiento saludable del proyecto|
-
+<img src="../assets/LeanUX/LeanUXCanvas(V2)AidManager.jpg">
 
 ## 1.3. Segmentos objetivo.
 | |Segmento 1 | Segmento 2  |
 | - | - |-|
-| Variables                 |  Usuarios interesados en participar de actividades de ayuda social o en donar | ONG |
+| Variables                 |  Usuarios encargados de ayudar como "staff" de los proyectos de ayuda social | Usuarios encargados de la gestion de Proyecto |
 | Geográfica                | En el Perú, de entre 1,200 personas el 93% de estas estan interesadas en participar en actividades de ayuda social (CenDE, 2023) | Existen más de 1000 ONG en el Perú (SIGCTI,2024), no obstante solo se reconocen de 10 principalmente (CenDE ,2023) |
-| Demográfica               | Edades de entre 17 a 50+ años <br> Genero: Masculino y Femenino | Organizaciones registradas como ONG |
-| Psicológica               | Piensa en participar de actividades sociales o de donaciones en algun momento mas las limitaciones como el tiempo, la disponibilidad economica, la fiabilidad de las ONG que busca o el proceso de inscripcion terminan desanimandolo | Estas Organizaciones requieren de mas donaciones o participantes para sus campañas u eventos y buscan formas de aumentar el impacto general de estos mismos. |
-| Función de comportamiento | Actitudes: Tiene una idea de que es una ONG pero en su mayoria no sabe como puede participar o no sabe de los eventos actuales en los cuales puede formar parte, algunos no conocen otras ONG y otros tienen la motivacion pero no saben si las ONG que encuentren haran correcto uso de lo donado <br> Conocimientos: Sabe que es una ONG, tiene entendido que existen organizaciones fraudulentas que se hacen pasar por ONG, normalmente no sabe si se cumplio el objetivo despues de participar| Actitudes: Hacen todo lo posible para que las donaciones lleguen en su mayor porcentaje a los más necesitados, hacen proyectos de ayuda social sin hacer mucho uso de data analitics<br> Conoce: Saben quienes requieren de ayuda, un estimado de cuanto se necesita o que se necesita para considerar donaciones, organizan eventos para concientizar y poder apoyar. |
+| Demográfica               | Edades de entre 17 a 30 años <br> Genero: Masculino y Femenino | dades de entre 26 a 30 años <br> Genero: Masculino y Femenino  |
+| Psicológica| Los ayudantes tienen como objetivo el poder ser de ayuda a las ONG participando de sus eventos como staff, recolectando datos de los visitantes y fomentando un ambiente placentero para todos los mencionados | Estos gestores de proyecto requieren cumplir con un objetivo de impacto en sus campañas y eventos. Buscan formas de aumentar el impacto general de estos mismos y reducir los gastos mal implementados. |
+| Función de comportamiento | **Actitudes:** Participa de actividades sociales o de donaciones como ayudante "staff" recolectando datos y guiando el proyecto, mas las limitaciones como las diferentes tareas que tiene generan que el poder ser de ayuda logistica se mantenga como baja prioridad  <br> **Conocimientos:** Tiene conocimientos respecto a la recoleecion de datos y organizar a las personas| **Actitudes:** Hacen proyectos de ayuda social sin hacer mucho uso de data analitics o herramientas de gestion<br> **Conocimientos:** Saben a quien dirigen el impacto, ya tienen experiencias previas gestionando proyectos con metodos tradicionales, saben de la importancia que significa hacer un impacto. |
 
 ---
 
@@ -319,7 +384,7 @@ Es un Programa web colaborativo para el monitoreo y la evaluación de proyectos 
 
 |Competidores |  | Nosotros | CauseVox| Bloomerang | Logalto |
 |-|-|-|-|-| - |
-| Análisis SWOT | Fortalezas |- La aplicación cuenta con una función de gestion efectiva.<br>- Se presenta un modelo de organizacion facil de entender.<br>- Facil recolecion de datos y analisis.| - Permite la personalización completa del aspecto de las páginas de campaña.<br>- Herramientas para la promoción en redes sociales. | - Cuenta con servicio al cliente en tiempo real.<br>- La plataforma es accesible y fácil de usar para crear y gestionar campañas, y realizar estrategias de marketing por correo. | - Diferentes Funcionalidades para gestion de proyectos <br> -Multiples herramientas de seguimiento y planificacion <br> -Mas tiempo en el mercado. |
+| Análisis SWOT | Fortalezas |- La aplicación cuenta con una función de gestion efectiva.<br>- Se presenta un modelo de organizacion facil de entender.<br>- Facil recolecion de datos y analisis.| - Permite la personalización completa del aspecto de las páginas de campaña.<br>- Herramientas para la promoción en redes sociales. | - Cuenta con servicio al cliente en tiempo real.<br>- La plataforma es accesible y fácil de usar para crear y gestionar campañas, y realizar estrategias de marketing por correo. | - Diferentes Funcionalidades para gestion de proyectos <br> -Multiples herramientas de seguimiento y planificación <br> -Mas tiempo en el mercado. |
 || Debilidades   | - Limitación de recursos para el financiamiento de la promoción de la aplicación.<br>- Competencia con plataformas similares. | - Limitaciones en su alcance de mercado. | - Los precios de su servicio es elevado. | - Saturacion de herramientas. <br> - Proceso agobiante <br> - No es muy intuitivo. | 
 || Oportunidades | - Crear alianzas con ONGs o empresas podría mejorar el alcance de la aplicación.<br>- El aumento de conciencia social y de la disposición para apoyar a ONGs.<br>- La expansión de la aplicación a regiones extranjeras. | Desarrollar nuevas funcionalidades para mejorar la experiencia de usuario. |  La expansión de la aplicación a un público más amplio al ofrecer tipos de suscripción alternos y a menor precio.| - Separar las herramientas por paquetes que necesite el usuario. | 
 || Amenazas      | - La existencia de competidores establecidos.<br>- Preocupaciones sobre la seguridad de datos y las transacciones de las donaciones. | - Al ser un servicio de pago, potenciales organizaciones podrían optar por opciones accesibles. | - La aparición de competencia emergente.<br>- La desconfianza hacia algunas organizaciones benéficas por la percepción del mal manejo de fondos. | - La necesidad de una herramienta facil de usar que no requiera gran cantidad de funciones para lograr un solo objetivo. |
@@ -352,7 +417,7 @@ Ocupación: Directora de Hogar (CAEF)
 ![Imagen de entrevista](/assets/Entrevistas/EntrevistaS1E1.png)  
 [Seg1 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERgJ0_AWCqVErNukgws7eiIBIgGIeuzeYyiSeb76MeGP9w?e=f7I1Pt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-En la entrevista Maria nos cuenta de como su ONG no tiene una herramienta de gestion determinada y como normalmente usan Excel para los analisis de sus datos, tambien relata que para la planificacion se hacen reuniones anuales y mensuales.
+En la entrevista Maria nos cuenta de como su ONG no tiene una herramienta de gestion determinada y como normalmente usan Excel para los analisis de sus datos, tambien relata que para la planificación se hacen reuniones anuales y mensuales.
 
 Nombre: Cesar Alva Posada
 Edad: 57 años 
