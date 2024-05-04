@@ -25,10 +25,10 @@
 
 
 # Project Report Collaboration Insights
-[URL de la organización] (https://github.com/AplicacionesWeb-WX54)
-[URL del repositorio] (https://github.com/AplicacionesWeb-WX54/si730-WX54-Grupo1-Repository.git)
-[URL de la Landing Page] (https://github.com/AplicacionesWeb-WX54/LandingPage-AidManager)
-[URL del Front end Aplication] (https://github.com/AplicacionesWeb-WX54/AidManager-Frontend.git)
+[URL de la organización] (https://github.com/AplicacionesWeb-WX54)  
+[URL del repositorio] (https://github.com/AplicacionesWeb-WX54/si730-WX54-Grupo1-Repository.git)  
+[URL de la Landing Page] (https://github.com/AplicacionesWeb-WX54/LandingPage-AidManager)  
+[URL del Front end Aplication] (https://github.com/AplicacionesWeb-WX54/AidManager-Frontend.git)  
 
 ### TB1
 Para la entrega del TB1 se han hecho las respectivas divisiones por cada capitulo con el objetivo de tener un workflow saludable y para se pueda realizar una retroalimentacion activa, para cada actividad asignada se ha entregado un conjunto de sub indices por cada capitulo a los integrantes del grupo, dejando la posibilidad de realizar correcciones entre los mismos integrantes.
@@ -425,7 +425,7 @@ Nombre: Maria Jose Melendez
 Edad: 53 años 
 Ocupación: Directora de Hogar (CAEF)
 ![Imagen de entrevista](/assets/Entrevistas/EntrevistaS1E1.png)  
-[Seg1 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERgJ0_AWCqVErNukgws7eiIBIgGIeuzeYyiSeb76MeGP9w?e=f7I1Pt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Seg1 - Entrevista - 1] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERgJ0_AWCqVErNukgws7eiIBIgGIeuzeYyiSeb76MeGP9w?e=f7I1Pt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 En la entrevista Maria nos cuenta de como su ONG no tiene una herramienta de gestion determinada y como normalmente usan Excel para los analisis de sus datos, tambien relata que para la planificación se hacen reuniones anuales y mensuales.
 
@@ -433,7 +433,7 @@ Nombre: Cesar Alva Posada
 Edad: 57 años 
 Ocupación: Sociologo encargado de Gestion de Proyectos  
 ![Imagen de entrevista](/assets/Entrevistas/EntrevistaS1E2.png)  
-[Seg1 -Entrevista - 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESDqRfzRGHFMsuxKkO5AzPgB5n2DN_YAREAKth0-NdKi-A?e=2FxzuN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Seg1 -Entrevista - 2] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESDqRfzRGHFMsuxKkO5AzPgB5n2DN_YAREAKth0-NdKi-A?e=2FxzuN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 En esta entrevista Cesar explica como la metodologia que se usa es importante a la hora de organizarse asimismo nos comento de otras herramientas que se implementan para la gestion, no obstante tambien menciona que todos estos procesos se hacen de manera separada. Asimismo para la gestion de datos utiliza excel.
 
@@ -441,7 +441,7 @@ Nombre: Guilder Quiñones Aldean
 Edad: 54 años 
 Ocupación: Jefe de Proyectos  
 ![Imagen de entrevista](/assets/Entrevistas/EntrevistaS1E3.png)  
-[Seg1 - Entrevista - 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESDqRfzRGHFMsuxKkO5AzPgB5n2DN_YAREAKth0-NdKi-A?e=2FxzuN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Seg1 - Entrevista - 3] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESDqRfzRGHFMsuxKkO5AzPgB5n2DN_YAREAKth0-NdKi-A?e=2FxzuN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 El Jefe de Proyecto Guilder comparte su vision respecto a las herramientas usadas, de manera parecida a la entrevista anterior el usa excel para manejar sus datos mas tambien hace uso de programas de gestion como trello.
 
@@ -450,7 +450,7 @@ Nombre: Luis Herrera Gonzales
 Edad: 19 años 
 Ocupación: Estudiante - Ayudante 
 ![Imagen de entrevista](../assets/Entrevistas/EntrevistaS2E1.png)  
-[Seg2 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESesnqbIKNBIj2P7j6CMxpsBuPL5ecH8TMAAxZh29afhHw?e=pCWved&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Seg2 - Entrevista - 1] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESesnqbIKNBIj2P7j6CMxpsBuPL5ecH8TMAAxZh29afhHw?e=pCWved&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Luis nos cuenta de como participa de estas actividades usando whatsapp como su principal fuente de recoleccion de datos y comunicacion con su gerente, menciona que tanto el uso del correo electronico y uso de whatsapp son obsoletos, toman mucho tiempo y no demuestran el nivel de formalidad deseado.
 
@@ -458,7 +458,7 @@ Nombre: Alvaro Jimenez
 Edad: 19 años
 Ocupación: Estudiante - Ayudante 
 ![Imagen de entrevista](/assets/Entrevistas/EntrevistaS2E2.png)  
-[Seg2 - Entrevista - 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESskiDGzwCZLrHJVscTBOOoBK0Bx2Q6u2aFn2dDAv0RB8w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=smRneZ)
+[Seg2 - Entrevista - 2] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESskiDGzwCZLrHJVscTBOOoBK0Bx2Q6u2aFn2dDAv0RB8w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=smRneZ)
 
 Alvaro comenta sobre su experiencia como voluntario ayudante en una ONG. Se menciona como es la distribucion de tareas y la comunicacion entre los ayudantes y el gestor del proyecto. Tambien menciona que no es eficiente ni rapida la gestion de la organizacion y que el espera se pueda mejorar en algun futuro.
 
@@ -466,7 +466,7 @@ Nombre: Pol Landeo
 Edad: 27 años 
 Ocupación: Ayudante en una ONG
 ![Imagen de entrevista](../assets/Entrevistas/EntrevistaS2E3.png)  
-[Seg2 - Entrevista - 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EVTCV3Z3klZEunW6DHRtpU4BIwJk7OE6UEs4NEG5tWiMpQ?e=l3SrWz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Seg2 - Entrevista - 3] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EVTCV3Z3klZEunW6DHRtpU4BIwJk7OE6UEs4NEG5tWiMpQ?e=l3SrWz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Pol nos cuenta que en su día a día hace uso de las herramientas de google para la administración de tareas y la comunicación con el gestor del proyecto, menciona que la comunicación con el gestor del proyecto es efectiva pero que la gestión de tareas no es tan eficiente. En cuanto a la recolección de datos, menciona que se hace de manera manual, por lo que sería de gran ayuda contar con una herramienta que facilite este proceso.
 
