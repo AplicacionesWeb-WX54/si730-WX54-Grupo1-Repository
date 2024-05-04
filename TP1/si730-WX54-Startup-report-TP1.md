@@ -1384,72 +1384,16 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
-Para esta entrega, el equipo AidManager logró implementar exitosamente la landing page, en la cual se brindará información específica para conocer nuestra misión como startup, así como los servicios que ofrecemos en nuestra aplicación web.
+Para esta entrega, el equipo AidManager logró implementar exitosamente el frontend, en la cual se brindará información específica para conocer nuestra misión como startup, así como los servicios que ofrecemos en nuestra aplicación web.
 
-**URL Landing Page:** https://landing-page-aid-manager-37nb.vercel.app/
+**URL Front End:** https://landing-page-aid-manager-37nb.vercel.app/
 
 **Hero en version desktop**
 
-<img src="../assets/evidences-landing-page/hero-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
-
-**Hero en version mobile**
-
-<img src="../assets/evidences-landing-page/hero-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
-
-**About en version desktop**
-
-<img src="../assets/evidences-landing-page/about-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
-
-**About en version mobile**
-
-<img src="../assets/evidences-landing-page/about-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
-
-**Service en version desktop**
-
-<img src="../assets/evidences-landing-page/service-section-desktok.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
-
-**Service en version mobile**
-
-<img src="../assets/evidences-landing-page/service-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
-
-**Carousel en version desktop**
-
-<img src="../assets/evidences-landing-page/carousel-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
-
-**Carousel en version mobile**
-
-<img src="../assets/evidences-landing-page/carousel-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
-
-**Testimonials en version desktop**
-
-<img src="../assets/evidences-landing-page/testimonials-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
-
-**Testimonials en version mobile**
-
-<img src="../assets/evidences-landing-page/testimonials-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
-
-**Contact en version desktop**
-
-<img src="../assets/evidences-landing-page/contact-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
-
-**Testimonials en version mobile**
-
-<img src="../assets/evidences-landing-page/contact-section-mobile-1.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
-
-<img src="../assets/evidences-landing-page/contact-section-mobile-2.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
-
-
-**Footer en version desktop**
-
-<img src="../assets/evidences-landing-page/footer-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
-
-**Footer en version mobile**
-
-<img src="../assets/evidences-landing-page/footer-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
-En este sprint los miembros de AidManager Solutions complementaron satisfactoriamente las tareas propuestas. El sprint estuvo relacionado mayormente con el diseño y desarrollo del software. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
+Los integrantes de AidManager Solutions completaron con éxito las actividades planificadas. El sprint se centró principalmente en la implementación y mejora del software. Además de las tareas previstas, se llevaron a cabo ajustes y mejoras en el código para corregir errores.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
@@ -1466,28 +1410,29 @@ Evidencias de despliegue en la plataforma Vercel:
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
-Los integrantes del equipo, colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existian las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main. Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
+Los integrantes del equipo, colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existian las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main. Las evidencias muestran como los integrantes realizaron diferentes commits para los features por el lado del FrontEnd, asimismo se logró conectar con la FakeAPI creada apoyándonos con la dependencia json-server.
 
 A continuación se mostrarán los gráficos de insights durante el sprint:
 
-<img src="../assets/collaboration-insights/overview-landing.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+<img src="../assets/collaboration-insights/sprint-2/commits.PNG" alt="Historial de commits" style="width:100%"><br/>
 
 
 Flujo de trabajo entre las ramas:
 
-<img src="../assets/collaboration-insights/network-graph.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+<img src="../assets/collaboration-insights/sprint-2/network-graph.PNG" alt="Network Graph" style="width:100%"><br/>
 
-Evidencia de contribuciones:
-
-<img src="../assets/collaboration-insights/commit-evidences.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
 
 
 
 # Conclusiones
 TB1: AidManager se centra en la creación de una aplicación web que permita a las ONGs gestionar sus proyectos de manera eficiente, así como a los voluntarios colaborar en las diferentes actividades que se realizan. La landing page es el primer paso para dar a conocer la startup y los servicios que ofrece, de manera que se pueda captar la atención de los posibles usuarios. Se ha logrado implementar de manera exitosa la landing page, la cual se encuentra desplegada en la web de manera pública. Los integrantes del equipo colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existían las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main. Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
 
+TP: Se ha logrado implementar de manera exitosa la landing page, la cual se encuentra desplegada en la web de manera pública. Los integrantes del equipo colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existían las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main. Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
+
 # Recomendaciones.
 TB1: Se recomienda seguir trabajando de manera colaborativa y equitativa, de manera que se pueda lograr los objetivos propuestos en el tiempo establecido. Se recomienda seguir utilizando las herramientas de GitFlow para manejar las actualizaciones que se vayan realizando en el código fuente, de manera que se pueda tener un control de las versiones y de los cambios que se vayan realizando. Se recomienda seguir utilizando las herramientas de GitFlow para manejar las actualizaciones que se vayan realizando en el código fuente, de manera que se pueda tener un control de las versiones y de los cambios que se vayan realizando.
+
+TP: Se recomienda tener en cuenta el despliegue del FrontEnd, ya que si se ejecuta de manera local, se puede levantar el fake api con "npm run fakeapi" en la terminal mientras se está levantando el servidor de la aplicación front, sin embargo si se estuviera probando en el despliegue, se debe levantar de todas maneras el fakeapi a nivel local y así puedan funcionar las consultas CRUD.
 
 # Bibliografía
 ``` 
