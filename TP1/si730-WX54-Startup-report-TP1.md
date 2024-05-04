@@ -1354,16 +1354,14 @@ Evidencia de contribuciones:
 
 | Repository                 | Branch                   | Commit ID | Commit Message                                                                      | Commit Message Body | Commited On(Date) |
 |----------------------------|--------------------------|-----------|-------------------------------------------------------------------------------------|---------------------|-------------------|
-| LandingPage-AidManager | main          | b28816c   | initial commit                                                                   | -                   | 7/04/2024        |
-| LandingPage-AidManager | feature/footer           | b28816c   | Update Footer.jsx                                                                   | -                   | 9/04/2024        |
-| LandingPage-AidManager | feature/contact          | d429bb8   | Update Contact.jsx                                                                  | -                   | 7/04/2024        |
-| LandingPage-AidManager | feature/service | a624c36   | feat: add ServiceCar Component and Service Component                 | -                   | 8/04/2024        |
-| LandingPage-AidManager | feature/testimonials     | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component | -                   | 12/04/2024        |
-| LandingPage-AidManager | feature/about            | 7e85194   | Update About.jsx                                                                    | -                   | 10/04/2024        |
-| LandingPage-AidManager | feature/hero             | 56ab21c   | Update Hero.jsx                                                                     | -                   | 10/04/2024        |
-| LandingPage-AidManager | feature/service          | c663461   | feat: Service section added                                                         | -                   | 12/04/2024        |
-| LandingPage-AidManager | feature/navbar           | 1d527f8   | feat: Navbar added                                                                  | -                   | 7/04/2024        |
-| LandingPage-AidManager | feature/brandCarousel           | 1d527f8   | feat: brandCarousel added added                                                                  | -                   | 11/04/2024        |
+| AidManager-FrontEnd | main          | a47dbf3  | initial commit                                                                   | -                   | 25/04/2024        |
+| AidManager-FrontEnd | feature/home           | cbada84   | add: new images and views                                                                | -                   | 30/04/2024        |
+| AidManager-FrontEnd | feature/projects          | 9e44023   | update: items dropping for service                                                             | -                   | 30/04/2024        |
+| AidManager-FrontEnd | feature/team | 5eda2af   | update: more gap to member container for mobile                | -                   | 03/05/2024        |
+| AidManager-FrontEnd | feature/calendar     | 797edaf |  add: delete event fakeapi |                    | 03/05/2024        |
+| AidManager-FrontEnd | feature/analytics            | 55ae609  | feat(analytics-content): added card report view                                                                    | -                   | 04/05/2024        |
+| AidManager-FrontEnd | feature/login             | 69aac15   | update: login                                                                     | -                   | 05/05/2024        |
+
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
@@ -1455,7 +1453,7 @@ En este sprint los miembros de AidManager Solutions complementaron satisfactoria
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
+Para el sprint presentado de la aplicación web a nivel de Front End se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
 
 * Git: Se utilizó para el control de versiones del código fuente.
 * GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
