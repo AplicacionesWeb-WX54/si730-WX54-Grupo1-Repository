@@ -1133,8 +1133,8 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
 | CC04 | Navbar component | C04  | Sección Navbar responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Navbar       | 3                   | Esteban Garcia, Nicolas Sebastian | Done   |
 | CC05 | Contact          | C05  | Sección Contact responsive      | Desarrollo e implementación de los estilos que corresponden a la sección Contact      | 3                   | Fabia Alejandra, Herrera Aguirre  | Done   |
 | CC06 | Footer           | C06  | Sección Footer responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Footer       | 2                   | Fabia Alejandra, Herrera Aguirre  | Done   |
-| CC07 | Hero             | C07  | Sección Hero responsive         | Desarrollo e implementación de los estilos que corresponden a la sección Hero         | 4                   | Sebastian Ramirez Hotman | Done   |
-| CC08 | About            | C08  | Sección About responsive        | Desarrollo e implementación de los estilos que corresponden a la sección About        | 3                   | Sebastian Ramirez Hotman | Done   |
+| CC07 | Hero             | C07  | Sección Hero responsive         | Desarrollo e implementación de los estilos que corresponden a la sección Hero         | 4                   | Sebastian Ramirez Hoffmann | Done   |
+| CC08 | About            | C08  | Sección About responsive        | Desarrollo e implementación de los estilos que corresponden a la sección About        | 3                   | Sebastian Ramirez Hoffmann | Done   |
 | CC10 | Service           | C010 | Sección Prices responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Service       | 2                   | Arian Rodriguez Vargas       | Done   |
 
 **Link to product backlog table:** https://github.com/orgs/AplicacionesWeb-WX54/projects/2 
@@ -1232,7 +1232,6 @@ Para esta entrega, el equipo AidManager logró implementar exitosamente la landi
 
 <img src="../assets/evidences-landing-page/contact-section-mobile-2.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
 
-//
 
 **Footer en version desktop**
 
@@ -1275,6 +1274,216 @@ Flujo de trabajo entre las ramas:
 Evidencia de contribuciones:
 
 <img src="../assets/collaboration-insights/commit-evidences.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+
+### 5.2.2. Sprint 2
+#### 5.2.1.2. Sprint Planning 2.
+
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 03/05/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 22:00 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Modalidad remota por Discord.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Y.E.S.I Team
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Todos los miembros del equipo Y.E.S.I
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
+            <td> Del Sprint anterior se realizo la landing pagae para el producto donde se cumplieron los objetivos propuestos.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary
+            </td>
+            <td>
+            Para el sprint anterior se realizaron todas las tareas a su tiempo, si las acabamos antes de este tiempo tendriamos la oportunidad para un debug extensivo y agregar otros features adicionales.
+            </td>
+        </tr>
+    <tbody>
+<table>
+
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+| Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
+|------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
+| CC01 | Calendar     | C01  | Sección Calendario | Desarrollo e implementación de los estilos que corresponden a la sección Calendarios | 6                   | Arian Rodriguez Vargas      | Done   |
+| CC02 | Analitycs         | C02  | Sección de analisis     | Desarrollo e implementación de los estilos que corresponden a la sección Analisis     | 8                   | Peña Ramirez, Sebastian Piñera      | Done   |
+| CC03 | Main Sidebar | C03  | Sidebar Design responsive        | Desarrollo e implementación de los estilos que corresponden al Sidebar                 | 2                   | Esteban Garcia, Nicolas Sebastian | Done   |
+| CC04 | Navbar component | C04  | Sección Navbar responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Navbar       | 3                   | Esteban Garcia, Nicolas Sebastian | Done   |
+| CC05 | Users Profile          | C05  | Sección Users Profile responsive      | Desarrollo e implementación de los estilos que corresponden a la sección Users Profile      | 5                   | Fabia Alejandra, Herrera Aguirre  | Done   |
+| CC06 | Login           | C06  | Sección Login responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Login       | 2                   | Fabia Alejandra, Herrera Aguirre  | Done   |
+| CC07 | Project              | C07  | Sección Project  responsive         | Desarrollo e implementación de los estilos que corresponden a la sección Project          | 8                   | Sebastian Ramirez Hoffmann | Done   |
+| CC08 | To-Do             | C08  | Sección About responsive        | Desarrollo e implementación de los estilos que corresponden a la sección About        | 4                   | Sebastian Ramirez Hoffmann | Done   |
+| CC10 | Team           | C010 | Sección Team       | Desarrollo e implementación de los estilos que corresponden a la sección Team       | 5                   | Arian Rodriguez Vargas       | Done   |
+| CC11 | Analitycs Forms           | C011 | Sección Forms de analitycs       | Desarrollo e implementación de los estilos que corresponden a la sección Analitycs Forms       | 5                   | Peña Ramirez, Sebastian Piñera        | Done   |
+
+
+**Link to product backlog table:** https://github.com/orgs/AplicacionesWeb-WX54/projects/3 
+
+<br/>
+<img src="../assets/collaboration-insights/sprint-2/sprint-backlog2.png" alt="Captura Sprint 1 en Trello" width="100%">
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+| Repository                 | Branch                   | Commit ID | Commit Message                                                                      | Commit Message Body | Commited On(Date) |
+|----------------------------|--------------------------|-----------|-------------------------------------------------------------------------------------|---------------------|-------------------|
+| LandingPage-AidManager | main          | b28816c   | initial commit                                                                   | -                   | 7/04/2024        |
+| LandingPage-AidManager | feature/footer           | b28816c   | Update Footer.jsx                                                                   | -                   | 9/04/2024        |
+| LandingPage-AidManager | feature/contact          | d429bb8   | Update Contact.jsx                                                                  | -                   | 7/04/2024        |
+| LandingPage-AidManager | feature/service | a624c36   | feat: add ServiceCar Component and Service Component                 | -                   | 8/04/2024        |
+| LandingPage-AidManager | feature/testimonials     | a16c0c0   | feat: add TestimonialCard Component and Testimonials Component | -                   | 12/04/2024        |
+| LandingPage-AidManager | feature/about            | 7e85194   | Update About.jsx                                                                    | -                   | 10/04/2024        |
+| LandingPage-AidManager | feature/hero             | 56ab21c   | Update Hero.jsx                                                                     | -                   | 10/04/2024        |
+| LandingPage-AidManager | feature/service          | c663461   | feat: Service section added                                                         | -                   | 12/04/2024        |
+| LandingPage-AidManager | feature/navbar           | 1d527f8   | feat: Navbar added                                                                  | -                   | 7/04/2024        |
+| LandingPage-AidManager | feature/brandCarousel           | 1d527f8   | feat: brandCarousel added added                                                                  | -                   | 11/04/2024        |
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. En el siguiente link se puede encontrar dichas pruebas de aceptación: https://github.com/AplicacionesWeb-WX54/Acceptance-Tests.git
+
+| Repository          | Branch | Commit ID                                | Commit Message                     | Commit Message (Body) | Committed on (Date) |
+|---------------------|--------|------------------------------------------|------------------------------------|-----------------------|---------------------|
+| Acceptance-Test     | main   | 91507dffacabf6415efaa4e663c85756521a9f04 | Initial commit                     | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | 822c79119c080f39585630ce640ab7ee1c3c692f | feat: Added us-01 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | a24f512b364b04682994f111d1d4a9a05fa79f74 | feat: Added us-02 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | 00f760dedabd22b97928d7bf36dccf7ebe51cf67 | feat: Added us-03 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | 134caed2aea32dee6a049d956466d8580e0b1ab8 | feat: Added us-04 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | cd8cc231ff1973cbffd9adec1839191a5d98ea62 | feat: Added us-05 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | b8b7f2389d0f4e04f3e75dcfaa22d9f4d1d547d9 | feat: Added us-06 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | cd8cc231ff1973cbffd9adec1839191a5d98ea62 | feat: Added us-07 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | b8b7f2389d0f4e04f3e75dcfaa22d9f4d1d547d9 | feat: Added us-07 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | 56a8ed5b3dfc62a1be1658cfc6d08d00e8cbcf85 | feat: Added us-17 acceptance test  | -                     | 14/04/2024          |
+| Acceptance-Test     | main   | e3b0c44298fc1c149afbf4c8996fb92427ae41e4 | feat: Added us-18 acceptance test  | -                     | 14/04/2024          |
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+Para esta entrega, el equipo AidManager logró implementar exitosamente la landing page, en la cual se brindará información específica para conocer nuestra misión como startup, así como los servicios que ofrecemos en nuestra aplicación web.
+
+**URL Landing Page:** https://landing-page-aid-manager-37nb.vercel.app/
+
+**Hero en version desktop**
+
+<img src="../assets/evidences-landing-page/hero-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Hero en version mobile**
+
+<img src="../assets/evidences-landing-page/hero-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+**About en version desktop**
+
+<img src="../assets/evidences-landing-page/about-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**About en version mobile**
+
+<img src="../assets/evidences-landing-page/about-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+**Service en version desktop**
+
+<img src="../assets/evidences-landing-page/service-section-desktok.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Service en version mobile**
+
+<img src="../assets/evidences-landing-page/service-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+**Carousel en version desktop**
+
+<img src="../assets/evidences-landing-page/carousel-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Carousel en version mobile**
+
+<img src="../assets/evidences-landing-page/carousel-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+**Testimonials en version desktop**
+
+<img src="../assets/evidences-landing-page/testimonials-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Testimonials en version mobile**
+
+<img src="../assets/evidences-landing-page/testimonials-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+**Contact en version desktop**
+
+<img src="../assets/evidences-landing-page/contact-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Testimonials en version mobile**
+
+<img src="../assets/evidences-landing-page/contact-section-mobile-1.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+<img src="../assets/evidences-landing-page/contact-section-mobile-2.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+
+**Footer en version desktop**
+
+<img src="../assets/evidences-landing-page/footer-section-desktop.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+**Footer en version mobile**
+
+<img src="../assets/evidences-landing-page/footer-section-mobile.jpeg" alt="Imagen del compañero" style="width:50%"><br/>
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+En este sprint los miembros de AidManager Solutions complementaron satisfactoriamente las tareas propuestas. El sprint estuvo relacionado mayormente con el diseño y desarrollo del software. A lo largo del desarrollo se fueron realizando correcciones a errores dentro del codigo.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para el sprint presentado de la landing page se optó por varias herramientas para su desarrollo y despliegue en la web de manera pública.
+
+* Git: Se utilizó para el control de versiones del código fuente.
+* GitFlow: Se utilizó para ver el avance de los integrantes del equipo.
+* GitHub: Se utilizó para crear el repositorio de la landing page, * donde se subió el código fuente.
+* Vercel: Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular
+
+Evidencias de despliegue en la plataforma Vercel:
+
+<img src="../assets/evidences-deployment/production-deploy-image.jpg" alt="Imagen del compañero" style="width:100%"><br/>
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Los integrantes del equipo, colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existian las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main. Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+<img src="../assets/collaboration-insights/overview-landing.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+
+Flujo de trabajo entre las ramas:
+
+<img src="../assets/collaboration-insights/network-graph.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+Evidencia de contribuciones:
+
+<img src="../assets/collaboration-insights/commit-evidences.jpeg" alt="Imagen del compañero" style="width:100%"><br/>
+
+
 
 # Conclusiones
 TB1: AidManager se centra en la creación de una aplicación web que permita a las ONGs gestionar sus proyectos de manera eficiente, así como a los voluntarios colaborar en las diferentes actividades que se realizan. La landing page es el primer paso para dar a conocer la startup y los servicios que ofrece, de manera que se pueda captar la atención de los posibles usuarios. Se ha logrado implementar de manera exitosa la landing page, la cual se encuentra desplegada en la web de manera pública. Los integrantes del equipo colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existían las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main. Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
