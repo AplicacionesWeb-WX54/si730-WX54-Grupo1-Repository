@@ -716,6 +716,7 @@ TO-BE:
 | 31     | HU34          | Creación y gestión de usuarios           | Como administrador del sistema, necesito una manera de crear y gestionar usuarios para controlar el acceso al sistema. | 3                      |
 | 32     | HU35          | Autenticación de usuarios                | Como usuario del sistema, necesito autenticarme de manera segura para acceder al sistema y proteger la información confidencial. | 3                      |
 
+link del backlog en trello: <a href="https://trello.com/invite/b/Sa4Tdqzl/ATTI72da25084d788e3933d66f50022c4ada92F1AB24/aidmanagerproductbacklog">https://trello.com/invite/b/Sa4Tdqzl/ATTI72da25084d788e3933d66f50022c4ada92F1AB24/aidmanagerproductbacklog</a>
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
