@@ -1528,7 +1528,7 @@ Flujo de trabajo entre las ramas:
         <tr>
             <td style="font-weight: bold;"> Sprint 3 velocity</td>
             <td>
-            Para este sprint el equipo se ha comprometido desarrollar 15 historias de usuario, con un valor de 3 story points cada una. Se han aceptado 45 story points para este Sprint.
+            Para este sprint el equipo se ha comprometido desarrollar 12 historias de usuario, con un valor de 3 story points cada una. Se han aceptado 36 story points para este Sprint.
             </td>
         </tr>
         <tr>
@@ -1541,6 +1541,28 @@ Flujo de trabajo entre las ramas:
 <table>
 
 #### 5.2.3.2. Sprint Backlog 3
+
+| Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
+|------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
+| CC01 | Projects | C01  | API para CRUD de proyectos | Desarrollo de la API que permita crear, actualizar, borrar y gestionar proyectos.	 |           3        |       | Done   |
+| CC02 | Tasks | C02 | API para asignar tareas | Desarrollo de la API que permita la asignación de tareas a miembros de un determinado equipo.	 |          2      |       | Done   |
+| CC03 | Tasks Status | C03 | Endpoint para gestión de estado de tareas | Desarrollo de endpoint en API de asignación de tareas para poder asignar, actualizar y modificar el estado de una tarea.	 |            2        |       | Done   |
+| CC04 | Dashboard | C04 | API para CRUD de dashboards | Desarrollo de la API que permita la creación, modificación, eliminación y visualización de dashboards.	 |            3        |       | Done   |
+| CC05 | Home | C05 | API para actualización de Home | Desarrollo de la API que permita la actualización de novedades que aparecen en el Home de la aplicación.	 |       3             |       | Done   |
+| CC06 | Calendar | C06 | API para gestión de eventos en calendario | Desarrollo de la API que permita la creación, edición, eliminación y visualización de eventos en el calendario.	 |        3            |       | Done   |
+| CC07 | Analytics | C07 | Generación automática de resúmenes de analytics | Desarrollo de la API que permita obtener dashboards automáticos con la información recopilada de los proyectos.	 |            3        |       | Done   |
+| CC08 | Users | C08 | API para CRUD de usuarios | Desarrollo de la API que permita la creación, modificación, eliminación y visualización de usuarios.	 |          3          |       | Done   |
+| CC09 | Authentication | C09 | API para autenticación de usuarios | Desarrollo de la API que permita la autenticación de los usuarios para acceder a la aplicación.	 |           2         |       | Done   |
+| CC10 | Users | C10 | API para actualización de usuarios | Desarrollo de la API que permita la actualización de los datos de los usuarios.	 |          2          |       | Done   |
+
+
+
+**Link to product backlog table:** https:// 
+
+<br/>
+<img src="../assets/a.png" alt="Captura Sprint 3 en Trello" width="100%">
+
+
 #### 5.2.3.3. Development Evidence for Sprint Review
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 #### 5.2.3.5. Execution Evidence for Sprint Review
