@@ -1111,12 +1111,12 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
         </tr>
         <tr>
             <td style="font-weight: bold;"> Prepared By</td>
-            <td> Y.E.S.I Team
+            <td> Esteban Garcia, Nicolas Sebastián
             <td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
-            <td> Todos los miembros del equipo Y.E.S.I
+            <td> Peña Rivera, Manuel Sebastian / Ramírez Hoffmann, Sebastián / Rodriguez Vargas, Arian Martin / Esteban Garcia, Nicolas Sebastián / Herrera Aguirre, Fabia Alejandra
             <td>
         </tr>
         <tr>
@@ -1127,7 +1127,24 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td> En este sprint se desarrollará la landing page basado en el diseño del wireframe y mockup creados en figma. </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User stories</td>
+        </tr>
+         <tr>
+            <td style="font-weight: bold;"> Sprint n Goal</td>
+            <td> Para este sprint 1, el objetivo principal es brindar informacion de la empresa mediante una pagina web (landing page), bajo la metrica de story points.
             <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n velocity</td>
+            <td> Va ser necesario 5 iteraciones con valor de 2 story points cada uno. Se han aceptado 10 story points para este Sprint 1.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story points</td>
+            <td> 10
         </tr>
     <tbody>
 <table>
@@ -1315,13 +1332,13 @@ Evidencia de contribuciones:
         </tr>
         <tr>
             <td style="font-weight: bold;"> Prepared By</td>
-            <td> Y.E.S.I Team
+            <td> Ramírez Hoffmann, Sebastián
             <td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
-            <td> Todos los miembros del equipo Y.E.S.I
-            <td>
+            <td> Peña Rivera, Manuel Sebastian / Ramírez Hoffmann, Sebastián / Rodriguez Vargas, Arian Martin / Esteban Garcia, Nicolas Sebastián / Herrera Aguirre, Fabia Alejandra
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
@@ -1334,6 +1351,23 @@ Evidencia de contribuciones:
             <td>
             Para el sprint anterior se realizaron todas las tareas a su tiempo, si las acabamos antes de este tiempo tendriamos la oportunidad para un debug extensivo y agregar otros features adicionales.
             </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User stories</td>
+        </tr>
+         <tr>
+            <td style="font-weight: bold;"> Sprint n Goal</td>
+            <td> Para este sprint 2, el objetivo principal es comenzar el desarrollo frontend de la aplicación web, bajo la metrica de story points.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n velocity</td>
+            <td> Va ser necesario 5 iteraciones para cada apartado, con valor de 2 a 3 story points cada uno. Se han aceptado 20 story points para este Sprint 1.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story points</td>
+            <td> 20
         </tr>
     <tbody>
 <table>
@@ -1434,6 +1468,72 @@ Flujo de trabajo entre las ramas:
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1. Sprint Planning 3
+
+<table>
+       <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 18/05/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 17:32 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Modalidad remota por Discord.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Ramírez Hoffmann, Sebastián
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Peña Rivera, Manuel Sebastian / Ramírez Hoffmann, Sebastián / Rodriguez Vargas, Arian Martin / Esteban Garcia, Nicolas Sebastián / Herrera Aguirre, Fabia Alejandra
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
+            <td> Del Sprint anterior se realizo 
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User stories</td>
+        </tr>
+         <tr>
+            <td style="font-weight: bold;"> Sprint n Goal</td>
+            <td> Para este sprint 3, el objetivo principal 
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n velocity</td>
+            <td> Va ser necesario
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story points</td>
+            <td> 
+        </tr>
+    <tbody>
+<table>
+
 #### 5.2.3.2. Sprint Backlog 3
 #### 5.2.3.3. Development Evidence for Sprint Review
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
