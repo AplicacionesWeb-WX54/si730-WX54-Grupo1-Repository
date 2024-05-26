@@ -714,7 +714,7 @@ TO-BE:
 | 29     | HU32          | Implementación de medidas de seguridad   | Como desarrollador del sistema, quiero implementar medidas de seguridad robustas para proteger los datos del sistema y la información de la empresa. | 3                      |
 | 30     | HU33          | Supervisión de la integridad de los datos | Como administrador del sistema, necesito supervisar la integridad de los datos almacenados para detectar y prevenir posibles brechas de seguridad. | 3                      |
 | 31     | HU34          | Creación y gestión de usuarios           | Como administrador del sistema, necesito una manera de crear y gestionar usuarios para controlar el acceso al sistema. | 3                      |
-| 32     | H35          | Autenticación de usuarios                | Como usuario del sistema, necesito autenticarme de manera segura para acceder al sistema y proteger la información confidencial. | 3                      |
+| 32     | HU35          | Autenticación de usuarios                | Como usuario del sistema, necesito autenticarme de manera segura para acceder al sistema y proteger la información confidencial. | 3                      |
 
 
 # Capítulo IV: Product Design
