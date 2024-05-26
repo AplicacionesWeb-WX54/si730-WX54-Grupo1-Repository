@@ -1342,7 +1342,7 @@ Evidencia de contribuciones:
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
-            <td> Del Sprint anterior se realizo la landing pagae para el producto donde se cumplieron los objetivos propuestos.
+            <td> Del Sprint anterior se realizo la landing page para el producto donde se cumplieron los objetivos propuestos.
             <td>
         </tr>
         <tr>
@@ -1505,31 +1505,37 @@ Flujo de trabajo entre las ramas:
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
-            <td> Del Sprint anterior se realizo 
+            <td> 
+            Durante el sprint anterior se desarrolló el FrontEnd de la aplicación web, cumpliendo con los objetivos y las fechas establecidas.
             <td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary
             </td>
             <td>
+            Durante el último sprint se logró completar todas las tareas propuestas, sin embargo, se identificaron algunos problemas con la conexión a la FakeAPI, por lo que se tuvieron que realizar ajustes en el código.
             </td>
         </tr>
         <tr>
             <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User stories</td>
         </tr>
          <tr>
-            <td style="font-weight: bold;"> Sprint n Goal</td>
-            <td> Para este sprint 3, el objetivo principal 
+            <td style="font-weight: bold;"> Sprint 3 Goal</td>
+            <td> 
+            El objetivo principal para el sprint 3 es comenzar el desarrollo backend de la aplicación web, bajo la métrica de story points.
             <td>
         </tr>
         <tr>
-            <td style="font-weight: bold;"> Sprint n velocity</td>
-            <td> Va ser necesario
+            <td style="font-weight: bold;"> Sprint 3 velocity</td>
             <td>
+            Para este sprint el equipo se ha comprometido desarrollar 15 historias de usuario, con un valor de 3 story points cada una. Se han aceptado 45 story points para este Sprint.
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sum of Story points</td>
-            <td> 
+            <td>
+            45
+            </td>
         </tr>
     <tbody>
 <table>
