@@ -1432,8 +1432,6 @@ Para esta entrega, el equipo AidManager logró implementar exitosamente el front
 
 **URL Front End:** https://landing-page-aid-manager-37nb.vercel.app/
 
-**Hero en version desktop**
-
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
@@ -1534,7 +1532,7 @@ Flujo de trabajo entre las ramas:
         <tr>
             <td style="font-weight: bold;"> Sum of Story points</td>
             <td>
-            45
+            36
             </td>
         </tr>
     <tbody>
@@ -1552,15 +1550,13 @@ Flujo de trabajo entre las ramas:
 | CC06 | Calendar | C06 | API para gestión de eventos en calendario | Desarrollo de la API que permita la creación, edición, eliminación y visualización de eventos en el calendario.	 |        3            |       | Done   |
 | CC07 | Analytics | C07 | Generación automática de resúmenes de analytics | Desarrollo de la API que permita obtener dashboards automáticos con la información recopilada de los proyectos.	 |            3        |       | Done   |
 | CC08 | Users | C08 | API para CRUD de usuarios | Desarrollo de la API que permita la creación, modificación, eliminación y visualización de usuarios.	 |          3          |       | Done   |
-| CC09 | Authentication | C09 | API para autenticación de usuarios | Desarrollo de la API que permita la autenticación de los usuarios para acceder a la aplicación.	 |           2         |       | Done   |
-| CC10 | Users | C10 | API para actualización de usuarios | Desarrollo de la API que permita la actualización de los datos de los usuarios.	 |          2          |       | Done   |
 
 
 
-**Link to product backlog table:** https:// 
+**Link to product backlog table:** https://github.com/orgs/AplicacionesWeb-WX54/projects/4/views/1
 
 <br/>
-<img src="../assets/a.png" alt="Captura Sprint 3 en Trello" width="100%">
+<img src="../assets/collaboration-insights/sprint-3/sprint-backlog3.png" alt="Captura Sprint 3 en Trello" width="100%">
 
 
 #### 5.2.3.3. Development Evidence for Sprint Review
