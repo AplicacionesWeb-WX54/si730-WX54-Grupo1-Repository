@@ -1560,11 +1560,27 @@ Flujo de trabajo entre las ramas:
 
 
 #### 5.2.3.3. Development Evidence for Sprint Review
+
+| Repository                 | Branch                   | Commit ID | Commit Message                                                                      | Commit Message Body | Commited On(Date) |
+|----------------------------|--------------------------|-----------|-------------------------------------------------------------------------------------|---------------------|-------------------|
+| AidManager-BackEnd | main          | 294fcb7  | feature: DDD and conventions added | - | 26/05/2024        |
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. En el siguiente link se puede encontrar dichas pruebas de aceptación: [ ]
+
+
 #### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante esta entrega el equipo de AidManager logró implementar exitosamente el backend que permitirá la gestión de proyectos, tareas, usuarios, entre otros, en nuestra aplicación web. A continuación se muestra la documentación de la API desarrollada: [ ]
+
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
