@@ -1589,7 +1589,6 @@ Durante esta entrega el equipo de AidManager logró implementar exitosamente el 
 1. ¿Cuál es su nombre? 
 2. ¿Qué edad tiene? 
 3. ¿A qué se dedica? 
-4. ¿Que navegadores y dispositivos usa? 
 
 **Entrevistas usuario segmento 1**
 1. ¿Cómo se sintió al ver la página principal de la aplicación por primera vez?
