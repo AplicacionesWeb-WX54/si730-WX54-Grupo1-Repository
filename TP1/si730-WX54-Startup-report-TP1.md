@@ -1584,6 +1584,30 @@ Durante esta entrega el equipo de AidManager logró implementar exitosamente el 
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
+**Preguntas generales:**
+
+1. ¿Cuál es su nombre? 
+2. ¿Qué edad tiene? 
+3. ¿A qué se dedica? 
+4. ¿Que navegadores y dispositivos usa? 
+
+**Entrevistas usuario segmento 1**
+1. ¿Cómo se sintió al ver la página principal de la aplicación por primera vez?
+2. ¿Qué le parecen las funciones disponibles y la interfaz visual de la aplicación?
+3. ¿Encuentra intuitiva la navegación y el uso de las diferentes herramientas?
+4. ¿Considera que la aplicación facilita una comunicación efectiva entre usted y los miembros de su equipo?
+5. ¿Hay alguna función que le gustaría agregar?
+6. ¿Qué mejoras cree que serían necesarias para optimizar su experiencia con la aplicación?
+7. En una frase breve, ¿cómo describiría la aplicación y su impacto en la gestión de proyectos?
+   
+**Entrevistas usuario segmento 2**
+1. ¿Cómo se sintió al ver la página principal de la aplicación por primera vez?
+2. ¿Qué le parecen las funciones disponibles y la interfaz visual de la aplicación?
+3. ¿Encuentra intuitiva la navegación y el uso de las diferentes herramientas?
+4. ¿Considera que la aplicación facilita una comunicación efectiva entre usted y el gestor del proyecto?
+5. ¿Hay alguna función que le gustaría agregar?
+6. En una frase breve, ¿cómo describiría la aplicación y su impacto en su trabajo diario?
+
 ### 5.3.2. Registro de Entrevistas
 ### 5.3.3. Evaluaciones según heurísticas
 ## 5.4. Video About-the-Product
