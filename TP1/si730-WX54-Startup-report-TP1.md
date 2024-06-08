@@ -21,7 +21,11 @@
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
 | 1.0 | 14/04/2024 |Nicolas | creacion del informe |
-| 1.0 | 1/04/2024 | Sebastian | cambios a las secciones iniciales del informe |
+| 1.1 | 1/04/2024 | Sebastian | cambios a las secciones iniciales del informe |
+| 2.0 | 24/04/2024 | Arian | Merge final a las ramas para entrega TP1 |
+| 3.0 | 9/06/2024 | Sebastian | Merge final de las ramas para la entrega TB2 |
+
+
 
 
 # Project Report Collaboration Insights
@@ -1660,7 +1664,7 @@ Edad: 57 años
 Ocupación: Sociólogo encargado de Gestión de Proyectos 
 
 ![Imagen de entrevista](../assets/registro-entrevistas-sprint3/entrevista-cesarAlva-manager.png)  
-[Seg1 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EU6vtNjTaXpGqf7jjuq5oKMBXxSt7zJ9Er-W39zJwXX9Ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwOkR5)
+[Seg1 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EU6vtNjTaXpGqf7jjuq5oKMBXxSt7zJ9Er-W39zJwXX9Ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwOkR5) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EU6vtNjTaXpGqf7jjuq5oKMBXxSt7zJ9Er-W39zJwXX9Ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwOkR5
 
 Cesar Alva Posada, sociólogo encargado de gestión de proyectos, se sintió satisfecho al ver la página principal de la aplicación por primera vez, considera que las funciones disponibles y la interfaz visual de la aplicación son adecuadas. Encuentra intuitiva la navegación y el uso de las diferentes herramientas. Considera que la aplicación facilita una comunicación efectiva entre él y los miembros de su equipo. No hay ninguna función que le gustaría agregar, sin embargo, considera que sería necesario mejorar la velocidad de carga de la aplicación. En una frase breve, describiría la aplicación como una herramienta que facilita la gestión de proyectos y la comunicación entre los miembros del equipo.
 
@@ -1671,11 +1675,21 @@ Edad: 27 años
 Ocupación: Ayudante en una ONG
 
 ![Imagen de entrevista](../assets/registro-entrevistas-sprint3/entrevista-polLandeo-team.png)  
-[Seg2 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EQoxEIcI9S9LjoLBI1Pvk9sBOBDDbocy79EGJtHMYUifsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uQrCmF)
+[Seg2 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EQoxEIcI9S9LjoLBI1Pvk9sBOBDDbocy79EGJtHMYUifsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uQrCmF) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EQoxEIcI9S9LjoLBI1Pvk9sBOBDDbocy79EGJtHMYUifsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uQrCmF
 
 Pol Landeo nos comenta que la página de la aplciación tiene un aspecto profesional y pulcro. La interfaz visual de la aplicación es atractiva y las funciones disponibles son útiles. Nos recomendó como aspecto de mejora para la parte visual de la aplicación modificar una de las tipografías utilizadas para mejorar su legibilidad. En una frase breve, se refiere a la aplicación como una herramienta para una "comunicación agradable y eficiente".
 
 <br>
+
+Nombre: Luis Herrera Gonzales
+Edad: 19 años 
+Ocupación: Estudiante - Ayudante 
+![Imagen de entrevista](../assets/Entrevistas/EntrevistaS2E1.png)  
+[Seg2 - Entrevista - 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EcatbdnAbUpMiAMARybJ2vMB2uTPWkIzuN4HVZFljueERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=inq8J5) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EcatbdnAbUpMiAMARybJ2vMB2uTPWkIzuN4HVZFljueERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=inq8J5
+
+Luis menciona de como el diseño de la pagina cumple con sus expectativas y de como se logra el objetivo, nos relata de como le gusto la mayoria del diseño y de la facilidad de la pagina para poder realizar los objetivos que tiene. Como observaciones importantes menciona de como la seccion de Home no presenta claramente la funcionalidad que tiene y comenta que la imagen que se presenta en esa sección lo confunde más que ayudarlo a saber el funcionamiento de esta. No obstante nos felicita por la facilidad que le proveemos al darle herramientas de comunicacion y administracion de tareas.
+
+
 
 ### 5.3.3. Evaluaciones según heurísticas
 
@@ -1692,19 +1706,19 @@ Pol Landeo nos comenta que la página de la aplciación tiene un aspecto profesi
 | Comunicar errores con facilidad               |
 | Ayuda y documentación                         |
 
-SITE o APP A EVALUAR: InnControl
+SITE o APP A EVALUAR: AidManager
 TAREAS A EVALUAR:
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 1. Registro de un usuario nuevo
 2. Administracion de las Tareas
-3. Administracion de empleados
-4. Administracion de cuartos
-5. Sistema de mensajeria entre usuarios
-6. Vista del perfil de usuario
-7. Administracion del inventario
+3. Administracion del equipo
+4. Analisis de informacion
+5. Comunicacion entre usuarios
+6. Creacion y administracion de projectos
+7. Organizacion de tiempos
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 1. Sistema de pago
-2. Alertas de actualizacion de mensajes o tareas
+2. Servicios de correo para terceros
 
 Niveles de Severidad:
 1. Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco
@@ -1719,11 +1733,11 @@ la herramienta. Es imperativo que sea corregido antes del lanzamiento
 
 | PROBLEMA                                    |Escala de severidad 1:✅4:❌ | Heuristica no considerada    |
 |-----------------------------------------------|---------------|---------|
-| Posicion del calendario en una vista designada|     3       | Diseño estético y minimalista |
-| Color del fondo de la aplicacion              |     3         | Diseño estético y minimalista |
-| Identificadores de cuenta (manager o usuario) |     4         | Visibilidad del estado del sistema |
-| Identificador de el hotel el cual este usando el servicio                     |       4       | Visibilidad del estado del sistema |
-| Saturacion de informacion en la seccion de perfil                         |      3        | Diseño estético y minimalista |
+| Vista de Home no definida correctamente |     2       | Diseño estético y minimalista |
+| Variedad de reaccion como commentarios en los posts              |     3         | Diseño estético y minimalista |
+| Titulo de analytics con una fuente que no concuerda mucho con la pagina |     1         | Diseño estético y minimalista |
+| Mejorar el orden en equipo                     |       3       | Diseño estético y minimalista |
+| Mejorar la vista de Analytics para que sea de enfoque mas economico                         |      3        | Consistencia y estándares |
 
 ## 5.4. Video About-the-Product
 
@@ -1733,16 +1747,16 @@ la herramienta. Es imperativo que sea corregido antes del lanzamiento
 # Conclusiones
 TB1: AidManager se centra en la creación de una aplicación web que permita a las ONGs gestionar sus proyectos de manera eficiente, así como a los voluntarios colaborar en las diferentes actividades que se realizan. La landing page es el primer paso para dar a conocer la startup y los servicios que ofrece, de manera que se pueda captar la atención de los posibles usuarios. Se ha logrado implementar de manera exitosa la landing page, la cual se encuentra desplegada en la web de manera pública. Los integrantes del equipo colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existían las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main. Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
 
-TP: Se ha logrado implementar de manera exitosa la landing page, la cual se encuentra desplegada en la web de manera pública. Los integrantes del equipo colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existían las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main. Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
+TP: Se ha logrado implementar de manera exitosa la landing page y la parte Front End de nuestra aplicacion web, la cual se encuentra desplegada en la web de manera pública. Los integrantes del equipo colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existían las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main. Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
 
-TB2:
+TB2: En esta entrega se logro implementar el back end bajo un approach similar a la entrega anterior donde se logro donde se habia hecho todo bajo las ramas correspondientes y un develop para realizar un merge, en este caso todos participaron de acuerdo a lo que se esperaba y finitamente se logro implementar la solucion de back end eficientemente. Adicionalmente se realizaron entrevistas a la mayoria de los participantes de la primera entrevista donde nos compartieron su vision y observaciones respecto a la solucion de front end que se llego a implementar. Finalmente cabe mencionar que utilizamos herramientas como SWAGGER y Rider para realizar el back end y para organizarnos utilizamos herramientas como discord y  Trello para hacer seguimiento de los sprints y tareas pendientes.
 
 # Recomendaciones.
 TB1: Se recomienda seguir trabajando de manera colaborativa y equitativa, de manera que se pueda lograr los objetivos propuestos en el tiempo establecido. Se recomienda seguir utilizando las herramientas de GitFlow para manejar las actualizaciones que se vayan realizando en el código fuente, de manera que se pueda tener un control de las versiones y de los cambios que se vayan realizando. Se recomienda seguir utilizando las herramientas de GitFlow para manejar las actualizaciones que se vayan realizando en el código fuente, de manera que se pueda tener un control de las versiones y de los cambios que se vayan realizando.
 
 TP: Se recomienda tener en cuenta el despliegue del FrontEnd, ya que si se ejecuta de manera local, se puede levantar el fake api con "npm run fakeapi" en la terminal mientras se está levantando el servidor de la aplicación front, sin embargo si se estuviera probando en el despliegue, se debe levantar de todas maneras el fakeapi a nivel local y así puedan funcionar las consultas CRUD.
 
-TB2:
+TB2: Como observaciones en base a los entrevistados nos mencionaron realizar cambios respecto a diseño principalmente. Adicionalmente la organizacion que realizamos puede haber resultado conflictiva para nuestra eficiencia al no haber considerado un orden mas organico para esta entrega, de todas maneras se logro completar de manera efectiva pero siempre teniendo en cuenta los cambios orientados a la mejora continua.
 
 # Bibliografía
 ``` 
