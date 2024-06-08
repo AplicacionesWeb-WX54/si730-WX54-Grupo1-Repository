@@ -1653,7 +1653,29 @@ A continuación se muestra el detalle de los commits realizados por los integran
 
 ### 5.3.2. Registro de Entrevistas
 
+**Segmento 1**  
 
+Nombre: Cesar Alva Posada
+Edad: 57 años
+Ocupación: Sociólogo encargado de Gestión de Proyectos 
+
+![Imagen de entrevista](../assets/registro-entrevistas-sprint3/entrevista-cesarAlva-manager.png)  
+[Seg1 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EU6vtNjTaXpGqf7jjuq5oKMBXxSt7zJ9Er-W39zJwXX9Ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwOkR5)
+
+Cesar Alva Posada, sociólogo encargado de gestión de proyectos, se sintió satisfecho al ver la página principal de la aplicación por primera vez, considera que las funciones disponibles y la interfaz visual de la aplicación son adecuadas. Encuentra intuitiva la navegación y el uso de las diferentes herramientas. Considera que la aplicación facilita una comunicación efectiva entre él y los miembros de su equipo. No hay ninguna función que le gustaría agregar, sin embargo, considera que sería necesario mejorar la velocidad de carga de la aplicación. En una frase breve, describiría la aplicación como una herramienta que facilita la gestión de proyectos y la comunicación entre los miembros del equipo.
+
+**Segmento 2**
+
+Nombre: Pol Landeo
+Edad: 27 años 
+Ocupación: Ayudante en una ONG
+
+![Imagen de entrevista](../assets/registro-entrevistas-sprint3/entrevista-polLandeo-team.png)  
+[Seg2 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EQoxEIcI9S9LjoLBI1Pvk9sBOBDDbocy79EGJtHMYUifsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uQrCmF)
+
+Pol Landeo nos comenta que la página de la aplciación tiene un aspecto profesional y pulcro. La interfaz visual de la aplicación es atractiva y las funciones disponibles son útiles. Nos recomendó como aspecto de mejora para la parte visual de la aplicación modificar una de las tipografías utilizadas para mejorar su legibilidad. En una frase breve, se refiere a la aplicación como una herramienta para una "comunicación agradable y eficiente".
+
+<br>
 
 ### 5.3.3. Evaluaciones según heurísticas
 
