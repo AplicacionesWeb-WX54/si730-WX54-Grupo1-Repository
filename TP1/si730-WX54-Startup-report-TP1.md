@@ -1561,9 +1561,20 @@ Flujo de trabajo entre las ramas:
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
+Para este tercer sprint se decidió crear ramas distintas para cada uno de los bounded context creados con anterioridad. A continuación se muestra el detalle de los commits realizados por los integrantes del equipo:
+
+
 | Repository                 | Branch                   | Commit ID | Commit Message                                                                      | Commit Message Body | Commited On(Date) |
 |----------------------------|--------------------------|-----------|-------------------------------------------------------------------------------------|---------------------|-------------------|
-| AidManager-BackEnd | main          | 294fcb7  | feature: DDD and conventions added | - | 26/05/2024        |
+| AidManager-BackEnd | user-auth-system | 9dbc7fd    | add: method post to register new users | - | 01/06/2024        |
+| AidManager-BackEnd | user-auth-system | 05b9308    | add: authenticating user with his email | - | 01/06/2024        |
+| AidManager-BackEnd | collaborate-system | 477f30c  | feat: method get by project id all events | - | 06/06/2024        |
+| AidManager-BackEnd | collaborate-system | 64e59eb  | feat: method post to events calendar | - | 01/06/2024        |
+| AidManager-BackEnd | manage-costs-system | 4bb9df3 | feat(analytics): added Analytic get all | - | 05/06/2024        |
+| AidManager-BackEnd | manage-costs-system | 26b63bf | feat(analytics): implemented Analytic Find all | - | 01/06/2024        |
+| AidManager-BackEnd | manage-tasks-system | 4e52220 | feat(manageTasks): interface Implemented | - | 04/06/2024        |
+| AidManager-BackEnd | manage-tasks-system | 2b78ff1 | feat(manageTasks): Manage Tasks Domain Implemented | - | 04/06/2024        |
+| AidManager-BackEnd | payment-system    | 9690c5e  | feat: payment details table config | - | 07/06/2024 |
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
@@ -1572,15 +1583,48 @@ En este sprint se realizaron las pruebas de aceptación en la herramienta de Ghe
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
-Durante esta entrega el equipo de AidManager logró implementar exitosamente el backend que permitirá la gestión de proyectos, tareas, usuarios, entre otros, en nuestra aplicación web. A continuación se muestra la documentación de la API desarrollada: [ ]
+Durante esta entrega el equipo de AidManager logró implementar exitosamente el backend que permitirá la gestión de proyectos, tareas, usuarios, entre otros, en nuestra aplicación web. Para ello, se utilizaron las herramientas y tecnologías necesarias para el desarrollo de la API:
+- **Git y Gitflow:** Para el control de versiones del código fuente y la gestión de ramas de desarrollo.
+- **Swagger:** Se utilizó para documentar la API y facilitar su uso.
+- **MySQL:** Se utilizó para la base de datos de la API.
+
+
+A continuación se muestra la documentación de la API desarrollada: 
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/execution-evidence-sprint3/evidence1.jpg" alt="Swagger" style="width:80%;">
+</div>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/execution-evidence-sprint3/evidence2.png" alt="Swagger" style="width:80%;">
+</div>
+<div style="display:flex;justify-content:center">
+<img src="../assets/execution-evidence-sprint3/evidence3.jpeg" alt="Swagger" style="width:80%;">
+</div>
+<div style="display:flex;justify-content:center">
+<img src="../assets/execution-evidence-sprint3/evidence4.jpeg" alt="Swagger" style="width:80%;">
+</div>
+
+
 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+Los integrantes de AidManager Solutions completaron con éxito las actividades planificadas. El sprint se centró principalmente en el desarrollo del backend de la aplicación web. Además de las tareas previstas, se llevaron a cabo ajustes y mejoras en el código para corregir errores.
+
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+[CUANDO SE DESPLIEGUE EN LA MAQUINONA VIRTUAL DE AZURE]
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+Para el desarrollo de este sprint, se crearon ramas distintas para cada uno de los bounded context en los cuales se desarrollaron los features correspondientes. Posteriormente, se realizaron los commits en cada rama y se fusionaron las ramas con la rama development. Habiendo compronbado que todo funcionaba correctamente, se realizó el merge a la rama main y se desplegó en un app service de Azure. 
+A continuación se muestra el detalle de los commits realizados por los integrantes del equipo:
+<br>
+<div style="display:flex;justify-content:center">
+<img src="../assets/team-insights-sprint3/evidence1.png" alt="Evidence" style="width:80%;">
+</div>
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
