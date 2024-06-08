@@ -1489,12 +1489,12 @@ Flujo de trabajo entre las ramas:
         <tr>
             <td style="font-weight: bold;"> Location</td>
             <td> Modalidad remota por Discord.
-            <td>
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Prepared By</td>
             <td> Ramírez Hoffmann, Sebastián
-            <td>
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
@@ -1505,7 +1505,7 @@ Flujo de trabajo entre las ramas:
             <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
             <td> 
             Durante el sprint anterior se desarrolló el FrontEnd de la aplicación web, cumpliendo con los objetivos y las fechas establecidas.
-            <td>
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary
@@ -1521,7 +1521,7 @@ Flujo de trabajo entre las ramas:
             <td style="font-weight: bold;"> Sprint 3 Goal</td>
             <td> 
             El objetivo principal para el sprint 3 es comenzar el desarrollo backend de la aplicación web, bajo la métrica de story points.
-            <td>
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sprint 3 velocity</td>
@@ -1542,14 +1542,14 @@ Flujo de trabajo entre las ramas:
 
 | Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
 |------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
-| CC01 | Projects | C01  | API para CRUD de proyectos | Desarrollo de la API que permita crear, actualizar, borrar y gestionar proyectos.	 |           3        |       | Done   |
-| CC02 | Tasks | C02 | API para asignar tareas | Desarrollo de la API que permita la asignación de tareas a miembros de un determinado equipo.	 |          2      |       | Done   |
-| CC03 | Tasks Status | C03 | Endpoint para gestión de estado de tareas | Desarrollo de endpoint en API de asignación de tareas para poder asignar, actualizar y modificar el estado de una tarea.	 |            2        |       | Done   |
-| CC04 | Dashboard | C04 | API para CRUD de dashboards | Desarrollo de la API que permita la creación, modificación, eliminación y visualización de dashboards.	 |            3        |       | Done   |
-| CC05 | Home | C05 | API para actualización de Home | Desarrollo de la API que permita la actualización de novedades que aparecen en el Home de la aplicación.	 |       3             |       | Done   |
-| CC06 | Calendar | C06 | API para gestión de eventos en calendario | Desarrollo de la API que permita la creación, edición, eliminación y visualización de eventos en el calendario.	 |        3            |       | Done   |
-| CC07 | Analytics | C07 | Generación automática de resúmenes de analytics | Desarrollo de la API que permita obtener dashboards automáticos con la información recopilada de los proyectos.	 |            3        |       | Done   |
-| CC08 | Users | C08 | API para CRUD de usuarios | Desarrollo de la API que permita la creación, modificación, eliminación y visualización de usuarios.	 |          3          |       | Done   |
+| CC01 | Projects | C01  | API para CRUD de proyectos | Desarrollo de la API que permita crear, actualizar, borrar y gestionar proyectos.	 |           3        |    Arian Rodriguez Vargas   | Done   |
+| CC02 | Tasks | C02 | API para asignar tareas | Desarrollo de la API que permita la asignación de tareas a miembros de un determinado equipo.	 |          2      |   Sebastian Ramirez Hoffman    | Done   |
+| CC03 | Tasks Status | C03 | Endpoint para gestión de estado de tareas | Desarrollo de endpoint en API de asignación de tareas para poder asignar, actualizar y modificar el estado de una tarea.	 |            2        |    Sebastian Ramirez Hoffman   | Done   |
+| CC04 | Dashboard | C04 | API para CRUD de dashboards | Desarrollo de la API que permita la creación, modificación, eliminación y visualización de dashboards.	 |            3        |   Sebastian Peña Rivera    | Done   |
+| CC05 | Home | C05 | API para actualización de Home | Desarrollo de la API que permita la actualización de novedades que aparecen en el Home de la aplicación.	 |       3             |  Nicolas Esteban Garcia     | Done   |
+| CC06 | Calendar | C06 | API para gestión de eventos en calendario | Desarrollo de la API que permita la creación, edición, eliminación y visualización de eventos en el calendario.	 |        3            |   Arian Rodriguez Vargas    | Done   |
+| CC07 | Analytics | C07 | Generación automática de resúmenes de analytics | Desarrollo de la API que permita obtener dashboards automáticos con la información recopilada de los proyectos.	 |            3        |   Sebastian Peña Rivera    | Done   |
+| CC08 | Users | C08 | API para CRUD de usuarios | Desarrollo de la API que permita la creación, modificación, eliminación y visualización de usuarios.	 |          3          |   Fabia Herrera Aguirre    | Done   |
 
 
 
