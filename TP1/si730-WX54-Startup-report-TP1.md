@@ -1797,6 +1797,14 @@ la herramienta. Es imperativo que sea corregido antes del lanzamiento
 
 ## 5.4. Video About-the-Product
 
+Video promocional de la aplicación web AidManager, en el cual se muestra la funcionalidad y los beneficios que ofrece a las ONGs y a los voluntarios:
+
+[Enlace del video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EVW3sQLVUNdDhuNp6Kt6lbwBQVVS3x5TgdeOWTtp1w-NPQ?e=cmimyD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+ 
+<div style="display:flex;justify-content:center">
+<img src="../assets/video-about-the-product/captura-video.png" alt="Video About-the-Product" style="width:80%;">
+</div>
 
 
 # Conclusiones
