@@ -1714,7 +1714,7 @@ Edad: 57 años
 Ocupación: Sociólogo encargado de Gestión de Proyectos 
 
 ![Imagen de entrevista](../assets/registro-entrevistas-sprint3/entrevista-cesarAlva-manager.png)  
-[Seg1 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EU6vtNjTaXpGqf7jjuq5oKMBXxSt7zJ9Er-W39zJwXX9Ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwOkR5) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EU6vtNjTaXpGqf7jjuq5oKMBXxSt7zJ9Er-W39zJwXX9Ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwOkR5
+[Seg1 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EU6vtNjTaXpGqf7jjuq5oKMBXxSt7zJ9Er-W39zJwXX9Ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwOkR5)
 
 Cesar Alva Posada, sociólogo encargado de gestión de proyectos, se sintió satisfecho al ver la página principal de la aplicación por primera vez, considera que las funciones disponibles y la interfaz visual de la aplicación son adecuadas. Encuentra intuitiva la navegación y el uso de las diferentes herramientas. Considera que la aplicación facilita una comunicación efectiva entre él y los miembros de su equipo. No hay ninguna función que le gustaría agregar, sin embargo, considera que sería necesario mejorar la velocidad de carga de la aplicación. En una frase breve, describiría la aplicación como una herramienta que facilita la gestión de proyectos y la comunicación entre los miembros del equipo.
 
@@ -1725,7 +1725,7 @@ Edad: 27 años
 Ocupación: Ayudante en una ONG
 
 ![Imagen de entrevista](../assets/registro-entrevistas-sprint3/entrevista-polLandeo-team.png)  
-[Seg2 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EQoxEIcI9S9LjoLBI1Pvk9sBOBDDbocy79EGJtHMYUifsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uQrCmF) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EQoxEIcI9S9LjoLBI1Pvk9sBOBDDbocy79EGJtHMYUifsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uQrCmF
+[Seg2 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EQoxEIcI9S9LjoLBI1Pvk9sBOBDDbocy79EGJtHMYUifsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uQrCmF)
 
 Pol Landeo nos comenta que la página de la aplciación tiene un aspecto profesional y pulcro. La interfaz visual de la aplicación es atractiva y las funciones disponibles son útiles. Nos recomendó como aspecto de mejora para la parte visual de la aplicación modificar una de las tipografías utilizadas para mejorar su legibilidad. En una frase breve, se refiere a la aplicación como una herramienta para una "comunicación agradable y eficiente".
 
@@ -1735,7 +1735,7 @@ Nombre: Luis Herrera Gonzales
 Edad: 19 años 
 Ocupación: Estudiante - Ayudante 
 ![Imagen de entrevista](../assets/Entrevistas/EntrevistaS2E1.png)  
-[Seg2 - Entrevista - 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EcatbdnAbUpMiAMARybJ2vMB2uTPWkIzuN4HVZFljueERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=inq8J5) https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EcatbdnAbUpMiAMARybJ2vMB2uTPWkIzuN4HVZFljueERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=inq8J5
+[Seg2 - Entrevista - 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EcatbdnAbUpMiAMARybJ2vMB2uTPWkIzuN4HVZFljueERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=inq8J5)
 
 Luis menciona de como el diseño de la pagina cumple con sus expectativas y de como se logra el objetivo, nos relata de como le gusto la mayoria del diseño y de la facilidad de la pagina para poder realizar los objetivos que tiene. Como observaciones importantes menciona de como la seccion de Home no presenta claramente la funcionalidad que tiene y comenta que la imagen que se presenta en esa sección lo confunde más que ayudarlo a saber el funcionamiento de esta. No obstante nos felicita por la facilidad que le proveemos al darle herramientas de comunicacion y administracion de tareas.
 
@@ -1756,16 +1756,20 @@ Luis menciona de como el diseño de la pagina cumple con sus expectativas y de c
 | Comunicar errores con facilidad               |
 | Ayuda y documentación                         |
 
-SITE o APP A EVALUAR: AidManager
-TAREAS A EVALUAR:
+<br>
+
+**SITE o APP A EVALUAR:** AidManager
+
+**TAREAS A EVALUAR:**
+
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 1. Registro de un usuario nuevo
-2. Administracion de las Tareas
-3. Administracion del equipo
-4. Analisis de informacion
-5. Comunicacion entre usuarios
-6. Creacion y administracion de projectos
-7. Organizacion de tiempos
+2. Administración de las Tareas
+3. Administración del equipo
+4. Análisis de información
+5. Comunicación entre usuarios
+6. Creación y administración de proyectos
+7. Organización de tiempos
 No están incluidas en esta versión de la evaluación las siguientes tareas:
 1. Sistema de pago
 2. Servicios de correo para terceros
@@ -1789,8 +1793,9 @@ la herramienta. Es imperativo que sea corregido antes del lanzamiento
 | Mejorar el orden en equipo                     |       3       | Diseño estético y minimalista |
 | Mejorar la vista de Analytics para que sea de enfoque mas economico                         |      3        | Consistencia y estándares |
 
-## 5.4. Video About-the-Product
+<br>
 
+## 5.4. Video About-the-Product
 
 
 
