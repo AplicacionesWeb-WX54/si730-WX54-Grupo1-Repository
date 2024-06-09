@@ -1625,13 +1625,51 @@ A continuación se muestra la documentación de la API desarrollada:
 
 Los integrantes de AidManager Solutions completaron con éxito las actividades planificadas. El sprint se centró principalmente en el desarrollo del backend de la aplicación web. Además de las tareas previstas, se llevaron a cabo ajustes y mejoras en el código para corregir errores.
 
-Como servicios utilizados estamos implementando SWAGGER y RAIDER como las herramientas relacionadas al desarollo de la seccion back end de nuestra solucion.
+Como servicios utilizados estamos implementando SWAGGER y RIDER como las herramientas relacionadas al desarollo de la seccion back end de nuestra solucion.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-EL API Realizado para el back end fue desplegado en una maquina virtual de AZURE donde por medio de esta se podra acceder a la base de datos en MySQL y hacer los request requeridos para esta entrega.
+EL API Realizado para el back end fue desplegado en un App Service de AZURE por la cual se podrá acceder a la base de datos en MySQL y hacer los request requeridos para esta entrega.
+Se consideró la creación de un App Service para el despliegue de .NET v8 y además se creó una base de datos flexible MySQL para el almacenamiento de los datos de la aplicación.
 
-[CUANDO SE DESPLIEGUE EN LA MAQUINONA VIRTUAL DE AZURE]
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/1.PNG" alt="Evidence" style="width:80%;">
+</div>
+<p style="font-style: italic; text-align:center">Creación del app service gratuito</p>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/2.PNG" alt="Evidence" style="width:80%;">
+</div>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/3.PNG" alt="Evidence" style="width:80%;">
+</div>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/4.PNG" alt="Evidence" style="width:80%;">
+</div>
+<p style="font-style: italic; text-align:center">Implementando y sincronizando con nuestro repositorio de GitHub, de manera que cada vez se realice un nuevo commit en la rama main de producción, este se actualice en deploy</p>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/5.PNG" alt="Evidence" style="width:80%;">
+</div>
+<br>
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/bd-1.PNG" alt="Evidence" style="width:80%;">
+</div>
+<p style="font-style: italic; text-align:center">Base de datos Flexible MySQL creada en Azure</p>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/postman-1.PNG" alt="Evidence" style="width:80%;">
+</div>
+<br>
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/postman-2.PNG" alt="Evidence" style="width:80%;">
+</div>
+
+<p style="font-style: italic; text-align:center">Una vez desplegado el App Service, se procede a realizar las pruebas necesarias con el dominio de azure, resultando de manera válida las peticiones que se realizan a los diferentes endpoints creados</p>
+
+
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
