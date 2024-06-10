@@ -21,7 +21,11 @@
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
 | 1.0 | 14/04/2024 |Nicolas | creacion del informe |
-| 1.0 | 1/04/2024 | Sebastian | cambios a las secciones iniciales del informe |
+| 1.1 | 1/04/2024 | Sebastian | cambios a las secciones iniciales del informe |
+| 2.0 | 24/04/2024 | Arian | Merge final a las ramas para entrega TP1 |
+| 3.0 | 9/06/2024 | Sebastian | Merge final de las ramas para la entrega TB2 |
+
+
 
 
 # Project Report Collaboration Insights
@@ -41,9 +45,18 @@ Se muestran evidencias de los commits realizados en la entrega de la TB1
 
 ### TP1
 
-Para la entrega del TP1 se han hecho las respectivas divisiones por cada feature con el objetivo de tener un workflow saludable y para se pueda realizar una retroalimentacion activa.
+Para la entrega del TP1 se han hecho las respectivas divisiones por cada feature con el objetivo de tener un workflow saludable y para se pueda realizar una retroalimentacion activa. Nos enfocamos en realizar el desarollo del Front end donde las tareas se repartieron segun bounded contexts y las vistas de componentes, asimismo realizamos las correciones de la entrega anterior respecto a las necesidades de nuestro proyecto.
 
 Se muestran evidencias de los commits realizados en la entrega de la TP1 en el informe
+
+<img src="../assets/collaboration-insights/report/contributionsTp1.png" alt="commits">
+
+<img src="../assets/collaboration-insights/report/commitstp1.png" alt="commits">
+
+### TB2
+Para la entrega del TB2 se ha desarollando el backend junto con los respectivos deployments que estos requieren, se repartieron las tareas a realizar por medio de los bounded context que hicimos en la entrega anterior asimismo como las correcciones de la entrega anterior orientadas al front end. En las reuniones de sprint hemos identificado las actividades a realizar e hicimos un seguimiento implementando trello.
+
+Se muestran evidencias de los commits realizados en la entrega de la TB2
 
 <img src="../assets/collaboration-insights/report/contributionsTp1.png" alt="commits">
 
@@ -53,8 +66,10 @@ Se muestran evidencias de los commits realizados en la entrega de la TP1 en el i
 
 |Criterio Especifico| Acciones Realizadas                                                                                                                                                                                |Conclusiones|
 |-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.| Nicolas Esteban:<br> **TB1 y TP1:** Durante el proyecto, adquirí habilidades para transmitir conceptos complejos de manera comprensible a diversos grupos, lo que aumentó notablemente la colaboración y el compromiso con nuestra labor. Este proceso subrayó la relevancia de ajustar mi comunicación según el entorno, una lección de gran valor para mi desarrollo profesional futuro. <br><br>Arian Rodriguez Vargas:<br>**TB1**: Durante la ejecución del proyecto, conseguí transmitir de manera eficiente tanto los resultados como el proceso seguido, empleando Lean UX como enfoque principal. Además, compartí los descubrimientos fundamentales derivados de nuestra investigación en experiencia de usuario (UX).<br>**TP**: Logré elaborar mis propias soluciones en el nivel del FrontEnd con nuevas propuestas y desplegando el FakeAPI<br><br>Sebastian Ramirez Hoffmann:<br>**TB1 y TP**: Logre cumplir con mis asignaciones y adicionalmente comparti ideas para los supuestos de nuestra solucion, logre hacer e informar a mis compañeros sobre las tendencias en las entrevistas y consecuentemente definiendo nuestros usuarios objetivo. Asimismo he logrado elaborar soluciones para mis compañeros<br><br>Sebastian Manuel Peña Rivera:<br>**TB1**: Durante la realización del proyecto, logré expresar de manera clara todas mis ideas durante las reuniones de equipo. Además, llevé a cabo una entrevista con un usuario potencial, donde expliqué el propósito de la misma y la información que necesitaba recopilar.<br>**TP**: En el transcurso del proyecto, me dediqué a perfeccionar mis habilidades comunicación y organización, además de cumplir con el desarrollo de los componentes Analytics en los plazos establecidos. <br><br>Fabia Alejandra, Herrera Aguirre:<br>**TB1 y TP1**: A lo largo del proyecto, progresé satisfactoriamente en las responsabilidades asignadas y fortalecí habilidades interpersonales como la comunicación dentro del equipo. Además, obtuve una comprensión más sólida del proceso a seguir, lo que permitió su enfoque desde diversas perspectivas para una mejor posicionamiento.|Gracias a la eficiencia y la organización que mantuvimos, respaldadas por un sólido marco de trabajo establecido dentro del grupo, alcanzamos nuestro objetivo de desarrollar el primer entregable de manera precisa y oportuna. La colaboración efectiva, la comunicación clara y el compromiso compartido con los plazos establecidos fueron pilares clave en nuestro éxito|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.| Nicolas Esteban:<br> **TB1 TP1:** En mi participación en el proyecto, me dediqué a comunicar mis ideas y los resultados obtenidos de manera clara y objetiva. Desde la elaboración de informes hasta la realización de presentaciones, mi objetivo fue hacer que la información fuera accesible y comprensible para todos los involucrados.  <br><br> Arian Rodriguez Vargas<br>**TB1:** A lo largo de este proyecto, me encargué de documentar de manera adecuada el emprendimiento, utilizando las herramientas pertinentes y siguiendo las convenciones de idioma, estructura de nombres y prácticas de programación establecidas en los aspectos de la solución. Además, realicé y documenté minuciosamente los procesos de Lean UX, diseño, prototipado, entre otros, con el objetivo de lograr una comunicación efectiva con una amplia gama de audiencias.<br>**TP**: Aprendí las conexiones de los métodos básicos de HTTP, como lo son Create, Read, Update y Delete<br><br>Sebastian Ramirez Hoffman:<br>**TB1 y TP1**: Utilizando herramientas colaborativas en línea, pude mejorar mi capacidad de comunicación y colaboración en equipo de manera significativa. Estas plataformas facilitaron la interacción y el intercambio de ideas entre los miembros del equipo, lo que contribuyó a un ambiente de trabajo más eficiente y productivo, asimismo el implementar estos metodos de comunicacion se pueden hacer mejores analisis de entrevistas al tener una mayor accesibilidad a nuestros usuarios potenciales. Aprendi mas del sector empresarial utilizando herramientas de investigacion y analizando las entrevistas<br><br>Sebastian Manuel, Peña Rivera:<br>**TB1**: En esta fase del proyecto, me dediqué a elaborar el análisis de requisitos de manera detallada, lo que sentó las bases para el desarrollo posterior. Luego, me enfoqué en la creación de la base de datos del sistema y en la construcción del diagrama de clases, asegurándome de que ambos elementos estuvieran alineados con los requerimientos identificados y contribuyeran a la solidez y funcionalidad del proyecto en su conjunto.<br>**TP**: He desarrollado los componentes, vistas y funciones necesarias de la seccion Analytics de nuestra aplicacion frontend. <br><br>Fabia Herrera, Alejandra Aguirre:<br>**TB1 y TP1:** La investigación realizada para este proyecto fue exhaustivamente documentada y resultó fundamental para el modelado de nuestra solución. En esta fase, mi responsabilidad fue investigar sobre posibles competidores, lo que nos proporcionó información valiosa para aprender de sus errores y aciertos, ayudándonos así a mejorar nuestra estrategia y diseño.                                                                                                                                                                                                       |Gracias a las herramientas colaborativas brindadas y las aplicaciones de comunicación logramos establecer fechas y límites para nuestros trabajos y de esta manera mantenernos informados sobre el progreso de los demas miembros del equipo y realizar una mejor investigacion.|
+
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.| Nicolas Esteban:<br> **TB1 y TP:** Durante el proyecto, adquirí habilidades para transmitir conceptos complejos de manera comprensible a diversos grupos, lo que aumentó notablemente la colaboración y el compromiso con nuestra labor. Este proceso subrayó la relevancia de ajustar mi comunicación según el entorno, una lección de gran valor para mi desarrollo profesional futuro.<br><br>**TB2**: Durante el proyecto, adquirí habilidades para transmitir conceptos complejos de backend de manera comprensible a diversos grupos, lo que aumentó notablemente la colaboración y el compromiso con nuestra labor. Este proceso subrayó la relevancia de ajustar mi comunicación según el entorno, especialmente cuando se trataba de explicar la arquitectura, los servicios y las integraciones del backend, una lección de gran valor para mi desarrollo profesional futuro. <br><br>Arian Rodriguez Vargas:<br>**TB1**: Durante la ejecución del proyecto, conseguí transmitir de manera eficiente tanto los resultados como el proceso seguido, empleando Lean UX como enfoque principal. Además, compartí los descubrimientos fundamentales derivados de nuestra investigación en experiencia de usuario (UX).<br>**TP**: Logré elaborar mis propias soluciones en el nivel del FrontEnd con nuevas propuestas y desplegando el FakeAPI <br>**TB2**: Durante la ejecución del proyecto, conseguí transmitir de manera eficiente tanto los resultados como el proceso seguido, enfocándome en la creación de endpoints y la arquitectura del backend. Además, compartí los descubrimientos fundamentales derivados de nuestra investigación en el desarrollo y optimización del backend, empleando Lean UX como enfoque principal. <br><br>Sebastian Ramirez Hoffmann:<br>**TB1 y TB2**: Logre cumplir con mis asignaciones y adicionalmente comparti ideas para los supuestos de nuestra solucion, logre hacer e informar a mis compañeros sobre las tendencias en las entrevistas y consecuentemente definiendo nuestros usuarios objetivo.<br> **TP1**: Asimismo he logrado elaborar soluciones para mis compañeros realice mis tareas relacionadas al desarollo del proyecto web a nivel de front end utilizando la herramienta Prime Vue y Vue como framework. Como observaciones del trabajo en conjunto con mis demas colegas del trabajo diria que como cualquier equipo tenemos diferentes aspectos donde mejorar pero es gracias al mismo equipo que podemos superar estos obstaculos de manera efectiva **TB2**: Respecto al TB2 Participe de cambios al informe junto con algunas entrevistas que se realizaron en el capitulo 5. En el desarollo del back end me encarge principalmente del bounded context asignado de tasks utilizando Rider y Swagger.<br><br>Sebastian Manuel Peña Rivera:<br>**TB1**: Durante la realización del proyecto, logré expresar de manera clara todas mis ideas durante las reuniones de equipo. Además, llevé a cabo una entrevista con un usuario potencial, donde expliqué el propósito de la misma y la información que necesitaba recopilar.<br>**TP**: En el transcurso del proyecto, me dediqué a perfeccionar mis habilidades comunicación y organización, además de cumplir con el desarrollo de los componentes Analytics en los plazos establecidos.  <br>**TB2**: En el transcurso del proyecto, me dediqué a perfeccionar mis habilidades de comunicación y organización mientras enfrentaba una lucha interminable contra los desafíos de Analytics. Además de cumplir con el desarrollo de los componentes de Analytics en los plazos establecidos, me sumergí en la creación de endpoints críticos, superando cada obstáculo con determinación y creatividad. Esta experiencia no solo reforzó mi capacidad para gestionar proyectos complejos, sino que también subrayó la importancia de la perseverancia y la innovación en el campo del desarrollo backend. <br><br>Fabia Alejandra, Herrera Aguirre:<br>**TB1 y TP1**: A lo largo del proyecto, progresé satisfactoriamente en las responsabilidades asignadas y fortalecí habilidades interpersonales como la comunicación dentro del equipo. Además, obtuve una comprensión más sólida del proceso a seguir, lo que permitió su enfoque desde diversas perspectivas para una mejor posicionamiento.  <br>**TB2**: En esta entrega aporté en la implementación de la creación de un nuevo usuario para el backend de Aidmanager. |Gracias a la eficiencia y la organización que mantuvimos, respaldadas por un sólido marco de trabajo establecido dentro del grupo, alcanzamos nuestro objetivo de desarrollar el primer entregable de manera precisa y oportuna. La colaboración efectiva, la comunicación clara y el compromiso compartido con los plazos establecidos fueron pilares clave en nuestro éxito|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.| Nicolas Esteban:<br> **TB1 TP1:** En mi participación en el proyecto, me dediqué a comunicar mis ideas y los resultados obtenidos de manera clara y objetiva. Desde la elaboración de informes hasta la realización de presentaciones, mi objetivo fue hacer que la información fuera accesible y comprensible para todos los involucrados.  <br>**TB2**: En mi participación en el proyecto, me dediqué a comunicar mis ideas y los resultados obtenidos en el desarrollo del backend de manera clara y objetiva. Desde la elaboración de informes técnicos hasta la realización de presentaciones sobre la creación y optimización de endpoints, mi objetivo fue hacer que la información fuera accesible y comprensible para todos los involucrados. <br><br> Arian Rodriguez Vargas<br>**TB1:** A lo largo de este proyecto, me encargué de documentar de manera adecuada el emprendimiento, utilizando las herramientas pertinentes y siguiendo las convenciones de idioma, estructura de nombres y prácticas de programación establecidas en los aspectos de la solución. Además, realicé y documenté minuciosamente los procesos de Lean UX, diseño, prototipado, entre otros, con el objetivo de lograr una comunicación efectiva con una amplia gama de audiencias.<br>**TP**: Aprendí las conexiones de los métodos básicos de HTTP, como lo son Create, Read, Update y Delete  <br>**TB2**: A lo largo de este proyecto, me encargué de documentar de manera adecuada el desarrollo del backend, utilizando las herramientas pertinentes y siguiendo las convenciones de idioma, estructura de nombres y prácticas de programación establecidas en los aspectos de la solución. Además, realicé y documenté minuciosamente los procesos de diseño y desarrollo de endpoints, con el objetivo de lograr una comunicación efectiva con una amplia gama de audiencias. <br><br>Sebastian Ramirez Hoffman:<br>**TB1**: Utilizando herramientas colaborativas en línea, pude mejorar mi capacidad de comunicación y colaboración en equipo de manera significativa. Estas plataformas facilitaron la interacción y el intercambio de ideas entre los miembros del equipo, lo que contribuyó a un ambiente de trabajo más eficiente y productivo, asimismo el implementar estos metodos de comunicacion se pueden hacer mejores analisis de entrevistas al tener una mayor accesibilidad a nuestros usuarios potenciales. De esta manera obtuve mejor informacion respecto a los requerimientos que solicitaban los segmentos objetivo respecto al proyecto. <br> **TP1**: Aprendi mas del sector empresarial utilizando herramientas de investigacion y analizando las entrevistas y realizando las Historias de Usuario necesarias para esta seccion.<br>**TB2**: A nivel de conocer el dominio del sector las entrevistas como siempre nos ayudan a complementar la investigacion de las necesidades y pain points que existen en el area de la gestion de proyectos a nivel de ONG, Las entrevistas de validacion sirvieron bastante para poder terminar de entender realmente la necesidad de los usuarios objetivos en el area a implementar. <br><br>Sebastian Manuel, Peña Rivera:<br>**TB1**: En esta fase del proyecto, me dediqué a elaborar el análisis de requisitos de manera detallada, lo que sentó las bases para el desarrollo posterior. Luego, me enfoqué en la creación de la base de datos del sistema y en la construcción del diagrama de clases, asegurándome de que ambos elementos estuvieran alineados con los requerimientos identificados y contribuyeran a la solidez y funcionalidad del proyecto en su conjunto.<br>**TP**: He desarrollado los componentes, vistas y funciones necesarias de la seccion Analytics de nuestra aplicacion frontend.  <br>**TB2**: Mi incesante lucha contra Analytics ha llegado casi al final. Me encuentro en busca del creador, con el fin de derrocarlo y reclamar la victoria definitiva en esta épica batalla tecnológica. <br><br>Fabia Herrera, Alejandra Aguirre:<br>**TB1 y TP1:** La investigación realizada para este proyecto fue exhaustivamente documentada y resultó fundamental para el modelado de nuestra solución. En esta fase, mi responsabilidad fue investigar sobre posibles competidores, lo que nos proporcionó información valiosa para aprender de sus errores y aciertos, ayudándonos así a mejorar nuestra estrategia y diseño. <br>**TB2**: La investigación realizada para este proyecto fue exhaustivamente documentada y resultó fundamental para el modelado de nuestra solución backend. En esta fase, mi responsabilidad fue investigar sobre posibles competidores y sus arquitecturas backend, lo que nos proporcionó información valiosa para aprender de sus errores y aciertos, ayudándonos así a mejorar nuestra estrategia y diseño de los endpoints y servicios.                                                                                                                                                                                                       |Gracias a las herramientas colaborativas brindadas y las aplicaciones de comunicación logramos establecer fechas y límites para nuestros trabajos y de esta manera mantenernos informados sobre el progreso de los demas miembros del equipo.|
+
 
 # Contenido
 
@@ -1151,12 +1166,12 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
         </tr>
         <tr>
             <td style="font-weight: bold;"> Prepared By</td>
-            <td> Y.E.S.I Team
+            <td> Esteban Garcia, Nicolas Sebastián
             <td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
-            <td> Todos los miembros del equipo Y.E.S.I
+            <td> Peña Rivera, Manuel Sebastian / Ramírez Hoffmann, Sebastián / Rodriguez Vargas, Arian Martin / Esteban Garcia, Nicolas Sebastián / Herrera Aguirre, Fabia Alejandra
             <td>
         </tr>
         <tr>
@@ -1167,7 +1182,24 @@ En este apartado, detallaremos los pasos realizados para el despliegue de la Lan
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td> En este sprint se desarrollará la landing page basado en el diseño del wireframe y mockup creados en figma. </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User stories</td>
+        </tr>
+         <tr>
+            <td style="font-weight: bold;"> Sprint n Goal</td>
+            <td> Para este sprint 1, el objetivo principal es brindar informacion de la empresa mediante una pagina web (landing page), bajo la metrica de story points.
             <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n velocity</td>
+            <td> Va ser necesario 5 iteraciones con valor de 2 story points cada uno. Se han aceptado 10 story points para este Sprint 1.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story points</td>
+            <td> 10
         </tr>
     <tbody>
 <table>
@@ -1355,17 +1387,17 @@ Evidencia de contribuciones:
         </tr>
         <tr>
             <td style="font-weight: bold;"> Prepared By</td>
-            <td> Y.E.S.I Team
+            <td> Ramírez Hoffmann, Sebastián
             <td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
-            <td> Todos los miembros del equipo Y.E.S.I
-            <td>
+            <td> Peña Rivera, Manuel Sebastian / Ramírez Hoffmann, Sebastián / Rodriguez Vargas, Arian Martin / Esteban Garcia, Nicolas Sebastián / Herrera Aguirre, Fabia Alejandra
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
-            <td> Del Sprint anterior se realizo la landing pagae para el producto donde se cumplieron los objetivos propuestos.
+            <td> Del Sprint anterior se realizo la landing page para el producto donde se cumplieron los objetivos propuestos.
             <td>
         </tr>
         <tr>
@@ -1375,6 +1407,23 @@ Evidencia de contribuciones:
             Para el sprint anterior se realizaron todas las tareas a su tiempo, si las acabamos antes de este tiempo tendriamos la oportunidad para un debug extensivo y agregar otros features adicionales.
             </td>
         </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User stories</td>
+        </tr>
+         <tr>
+            <td style="font-weight: bold;"> Sprint n Goal</td>
+            <td> Para este sprint 2, el objetivo principal es comenzar el desarrollo frontend de la aplicación web, bajo la metrica de story points.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n velocity</td>
+            <td> Va ser necesario 5 iteraciones para cada apartado, con valor de 2 a 3 story points cada uno. Se han aceptado 20 story points para este Sprint 1.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story points</td>
+            <td> 20
+        </tr>
     <tbody>
 <table>
 
@@ -1383,13 +1432,13 @@ Evidencia de contribuciones:
 
 | Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
 |------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
-| CC01 | Calendar     | C01  | Sección Calendario | Desarrollo e implementación de los estilos que corresponden a la sección Calendarios | 6                   | Arian Rodriguez Vargas      | Done   |
-| CC02 | Analitycs         | C02  | Sección de analisis     | Desarrollo e implementación de los estilos que corresponden a la sección Analisis     | 8                   | Peña Rivera, Manuel Sebastian      | Done   |
+| CC01 | Calendar     | C01  | Sección Calendario | Desarrollo e implementación de los estilos que corresponden a la sección Calendarios | 5                   | Arian Rodriguez Vargas      | Done   |
+| CC02 | Analitycs         | C02  | Sección de analisis     | Desarrollo e implementación de los estilos que corresponden a la sección Analisis     | 5                   | Peña Rivera, Manuel Sebastian      | Done   |
 | CC03 | Main Sidebar | C03  | Sidebar Design responsive        | Desarrollo e implementación de los estilos que corresponden al Sidebar                 | 2                   | Esteban Garcia, Nicolas Sebastian | Done   |
 | CC04 | Navbar component | C04  | Sección Navbar responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Navbar       | 3                   | Esteban Garcia, Nicolas Sebastian | Done   |
 | CC05 | Users Profile          | C05  | Sección Users Profile responsive      | Desarrollo e implementación de los estilos que corresponden a la sección Users Profile      | 5                   | Fabia Alejandra, Herrera Aguirre  | Done   |
 | CC06 | Login           | C06  | Sección Login responsive       | Desarrollo e implementación de los estilos que corresponden a la sección Login       | 2                   | Fabia Alejandra, Herrera Aguirre  | Done   |
-| CC07 | Project              | C07  | Sección Project  responsive         | Desarrollo e implementación de los estilos que corresponden a la sección Project          | 8                   | Sebastian Ramirez Hoffmann | Done   |
+| CC07 | Project              | C07  | Sección Project  responsive         | Desarrollo e implementación de los estilos que corresponden a la sección Project          | 5                   | Sebastian Ramirez Hoffmann | Done   |
 | CC08 | To-Do             | C08  | Sección About responsive        | Desarrollo e implementación de los estilos que corresponden a la sección About        | 4                   | Sebastian Ramirez Hoffmann | Done   |
 | CC10 | Team           | C010 | Sección Team       | Desarrollo e implementación de los estilos que corresponden a la sección Team       | 5                   | Arian Rodriguez Vargas       | Done   |
 | CC11 | Analitycs Forms           | C011 | Sección Forms de analitycs       | Desarrollo e implementación de los estilos que corresponden a la sección Analitycs Forms       | 5                   | Peña Rivera, Manuel Sebastian       | Done   |
@@ -1439,7 +1488,6 @@ Para esta entrega, el equipo AidManager logró implementar exitosamente el front
 **URL Front End:** https://landing-page-aid-manager-37nb.vercel.app/
 
 
-
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 Los integrantes de AidManager Solutions completaron con éxito las actividades planificadas. El sprint se centró principalmente en la implementación y mejora del software. Además de las tareas previstas, se llevaron a cabo ajustes y mejoras en el código para corregir errores.
@@ -1473,31 +1521,347 @@ Flujo de trabajo entre las ramas:
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1. Sprint Planning 3
+
+<table>
+       <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 18/05/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 17:32 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Modalidad remota por Discord.
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Ramírez Hoffmann, Sebastián
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Peña Rivera, Manuel Sebastian / Ramírez Hoffmann, Sebastián / Rodriguez Vargas, Arian Martin / Esteban Garcia, Nicolas Sebastián / Herrera Aguirre, Fabia Alejandra
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
+            <td> 
+            Durante el sprint anterior se desarrolló el FrontEnd de la aplicación web, cumpliendo con los objetivos y las fechas establecidas.
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary
+            </td>
+            <td>
+            Durante el último sprint se logró completar todas las tareas propuestas, sin embargo, se identificaron algunos problemas con la conexión a la FakeAPI, por lo que se tuvieron que realizar ajustes en el código.
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User stories</td>
+        </tr>
+         <tr>
+            <td style="font-weight: bold;"> Sprint 3 Goal</td>
+            <td> 
+            El objetivo principal para el sprint 3 es comenzar el desarrollo backend de la aplicación web, bajo la métrica de story points.
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 3 velocity</td>
+            <td>
+            Para este sprint el equipo se ha comprometido desarrollar 12 historias de usuario, con un valor de 3 story points cada una. Se han aceptado 36 story points para este Sprint.
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story points</td>
+            <td>
+            36
+            </td>
+        </tr>
+    <tbody>
+<table>
+
 #### 5.2.3.2. Sprint Backlog 3
+
+| Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
+|------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
+| CC01 | Projects | C01  | API para CRUD de proyectos | Desarrollo de la API que permita crear, actualizar, borrar y gestionar proyectos.	 |           3        |    Arian Rodriguez Vargas   | Done   |
+| CC02 | Tasks | C02 | API para asignar tareas | Desarrollo de la API que permita la asignación de tareas a miembros de un determinado equipo.	 |          2      |   Sebastian Ramirez Hoffman    | Done   |
+| CC03 | Tasks Status | C03 | Endpoint para gestión de estado de tareas | Desarrollo de endpoint en API de asignación de tareas para poder asignar, actualizar y modificar el estado de una tarea.	 |            2        |    Sebastian Ramirez Hoffman   | Done   |
+| CC04 | Dashboard | C04 | API para CRUD de dashboards | Desarrollo de la API que permita la creación, modificación, eliminación y visualización de dashboards.	 |            3        |   Sebastian Peña Rivera    | Done   |
+| CC05 | Home | C05 | API para actualización de Home | Desarrollo de la API que permita la actualización de novedades que aparecen en el Home de la aplicación.	 |       3             |  Nicolas Esteban Garcia     | Done   |
+| CC06 | Calendar | C06 | API para gestión de eventos en calendario | Desarrollo de la API que permita la creación, edición, eliminación y visualización de eventos en el calendario.	 |        3            |   Arian Rodriguez Vargas    | Done   |
+| CC07 | Analytics | C07 | Generación automática de resúmenes de analytics | Desarrollo de la API que permita obtener dashboards automáticos con la información recopilada de los proyectos.	 |            3        |   Sebastian Peña Rivera    | Done   |
+| CC08 | Users | C08 | API para CRUD de usuarios | Desarrollo de la API que permita la creación, modificación, eliminación y visualización de usuarios.	 |          3          |   Fabia Herrera Aguirre    | Done   |
+
+
+
+**Link to product backlog table:** https://github.com/orgs/AplicacionesWeb-WX54/projects/4/views/1
+
+<br/>
+<img src="../assets/collaboration-insights/sprint-3/sprint-backlog3.png" alt="Captura Sprint 3 en Trello" width="100%">
+
+
 #### 5.2.3.3. Development Evidence for Sprint Review
+
+Para este tercer sprint se decidió crear ramas distintas para cada uno de los bounded context creados con anterioridad. A continuación se muestra el detalle de los commits realizados por los integrantes del equipo:
+
+
+| Repository                 | Branch                   | Commit ID | Commit Message                                                                      | Commit Message Body | Commited On(Date) |
+|----------------------------|--------------------------|-----------|-------------------------------------------------------------------------------------|---------------------|-------------------|
+| AidManager-BackEnd | user-auth-system | 9dbc7fd    | add: method post to register new users | - | 01/06/2024        |
+| AidManager-BackEnd | user-auth-system | 05b9308    | add: authenticating user with his email | - | 01/06/2024        |
+| AidManager-BackEnd | collaborate-system | 477f30c  | feat: method get by project id all events | - | 06/06/2024        |
+| AidManager-BackEnd | collaborate-system | 64e59eb  | feat: method post to events calendar | - | 01/06/2024        |
+| AidManager-BackEnd | manage-costs-system | 4bb9df3 | feat(analytics): added Analytic get all | - | 05/06/2024        |
+| AidManager-BackEnd | manage-costs-system | 26b63bf | feat(analytics): implemented Analytic Find all | - | 01/06/2024        |
+| AidManager-BackEnd | manage-tasks-system | 4e52220 | feat(manageTasks): interface Implemented | - | 04/06/2024        |
+| AidManager-BackEnd | manage-tasks-system | 2b78ff1 | feat(manageTasks): Manage Tasks Domain Implemented | - | 04/06/2024        |
+| AidManager-BackEnd | payment-system    | 9690c5e  | feat: payment details table config | - | 07/06/2024 |
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+En este sprint se realizaron las pruebas de aceptación en la herramienta de Gherkin. En el siguiente link se puede encontrar dichas pruebas de aceptación: [ ]
+
+
 #### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante esta entrega el equipo de AidManager logró implementar exitosamente el backend que permitirá la gestión de proyectos, tareas, usuarios, entre otros, en nuestra aplicación web. Para ello, se utilizaron las herramientas y tecnologías necesarias para el desarrollo de la API:
+- **Git y Gitflow:** Para el control de versiones del código fuente y la gestión de ramas de desarrollo.
+- **Swagger:** Se utilizó para documentar la API y facilitar su uso.
+- **MySQL:** Se utilizó para la base de datos de la API.
+
+
+A continuación se muestra la documentación de la API desarrollada: 
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/execution-evidence-sprint3/evidence1.jpg" alt="Swagger" style="width:80%;">
+</div>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/execution-evidence-sprint3/evidence2.png" alt="Swagger" style="width:80%;">
+</div>
+<div style="display:flex;justify-content:center">
+<img src="../assets/execution-evidence-sprint3/evidence3.jpeg" alt="Swagger" style="width:80%;">
+</div>
+<div style="display:flex;justify-content:center">
+<img src="../assets/execution-evidence-sprint3/evidence4.jpeg" alt="Swagger" style="width:80%;">
+</div>
+
+
+
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Los integrantes de AidManager Solutions completaron con éxito las actividades planificadas. El sprint se centró principalmente en el desarrollo del backend de la aplicación web. Además de las tareas previstas, se llevaron a cabo ajustes y mejoras en el código para corregir errores.
+
+Como servicios utilizados estamos implementando SWAGGER y RIDER como las herramientas relacionadas al desarollo de la seccion back end de nuestra solucion.
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+EL API Realizado para el back end fue desplegado en un App Service de AZURE por la cual se podrá acceder a la base de datos en MySQL y hacer los request requeridos para esta entrega.
+Se consideró la creación de un App Service para el despliegue de .NET v8 y además se creó una base de datos flexible MySQL para el almacenamiento de los datos de la aplicación.
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/1.PNG" alt="Evidence" style="width:80%;">
+</div>
+<p style="font-style: italic; text-align:center">Creación del app service gratuito</p>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/2.PNG" alt="Evidence" style="width:80%;">
+</div>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/3.PNG" alt="Evidence" style="width:80%;">
+</div>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/4.PNG" alt="Evidence" style="width:80%;">
+</div>
+<p style="font-style: italic; text-align:center">Implementando y sincronizando con nuestro repositorio de GitHub, de manera que cada vez se realice un nuevo commit en la rama main de producción, este se actualice en deploy</p>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/5.PNG" alt="Evidence" style="width:80%;">
+</div>
+<br>
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/bd-1.PNG" alt="Evidence" style="width:80%;">
+</div>
+<p style="font-style: italic; text-align:center">Base de datos Flexible MySQL creada en Azure</p>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/postman-1.PNG" alt="Evidence" style="width:80%;">
+</div>
+<br>
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/postman-2.PNG" alt="Evidence" style="width:80%;">
+</div>
+
+<p style="font-style: italic; text-align:center">Una vez desplegado el App Service, se procede a realizar las pruebas necesarias con el dominio de azure, resultando de manera válida las peticiones que se realizan a los diferentes endpoints creados</p>
+
+
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de este sprint, se crearon ramas distintas para cada uno de los bounded context en los cuales se desarrollaron los features correspondientes. Posteriormente, se realizaron los commits en cada rama y se fusionaron las ramas con la rama development. Habiendo compronbado que todo funcionaba correctamente, se realizó el merge a la rama main y se desplegó en un app service de Azure. 
+A continuación se muestra el detalle de los commits realizados por los integrantes del equipo:
+<br>
+<div style="display:flex;justify-content:center">
+<img src="../assets/team-insights-sprint3/evidence1.png" alt="Evidence" style="width:80%;">
+</div>
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
+**Preguntas generales:**
+
+1. ¿Cuál es su nombre? 
+2. ¿Qué edad tiene? 
+3. ¿A qué se dedica? 
+
+**Entrevistas usuario segmento 1**
+1. ¿Cómo se sintió al ver la página principal de la aplicación por primera vez?
+2. ¿Qué le parecen las funciones disponibles y la interfaz visual de la aplicación?
+3. ¿Encuentra intuitiva la navegación y el uso de las diferentes herramientas?
+4. ¿Considera que la aplicación facilita una comunicación efectiva entre usted y los miembros de su equipo?
+5. ¿Hay alguna función que le gustaría agregar?
+6. ¿Qué mejoras cree que serían necesarias para optimizar su experiencia con la aplicación?
+7. En una frase breve, ¿cómo describiría la aplicación y su impacto en la gestión de proyectos?
+   
+**Entrevistas usuario segmento 2**
+1. ¿Cómo se sintió al ver la página principal de la aplicación por primera vez?
+2. ¿Qué le parecen las funciones disponibles y la interfaz visual de la aplicación?
+3. ¿Encuentra intuitiva la navegación y el uso de las diferentes herramientas?
+4. ¿Considera que la aplicación facilita una comunicación efectiva entre usted y el gestor del proyecto?
+5. ¿Hay alguna función que le gustaría agregar?
+6. En una frase breve, ¿cómo describiría la aplicación y su impacto en su trabajo diario?
+
 ### 5.3.2. Registro de Entrevistas
+
+**Segmento 1**  
+
+Nombre: Cesar Alva Posada
+Edad: 57 años
+Ocupación: Sociólogo encargado de Gestión de Proyectos 
+
+![Imagen de entrevista](../assets/registro-entrevistas-sprint3/entrevista-cesarAlva-manager.png)  
+[Seg1 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EU6vtNjTaXpGqf7jjuq5oKMBXxSt7zJ9Er-W39zJwXX9Ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwOkR5)
+
+Cesar Alva Posada, sociólogo encargado de gestión de proyectos, se sintió satisfecho al ver la página principal de la aplicación por primera vez, considera que las funciones disponibles y la interfaz visual de la aplicación son adecuadas. Encuentra intuitiva la navegación y el uso de las diferentes herramientas. Considera que la aplicación facilita una comunicación efectiva entre él y los miembros de su equipo. No hay ninguna función que le gustaría agregar, sin embargo, considera que sería necesario mejorar la velocidad de carga de la aplicación. En una frase breve, describiría la aplicación como una herramienta que facilita la gestión de proyectos y la comunicación entre los miembros del equipo.
+
+**Segmento 2**
+
+Nombre: Pol Landeo
+Edad: 27 años 
+Ocupación: Ayudante en una ONG
+
+![Imagen de entrevista](../assets/registro-entrevistas-sprint3/entrevista-polLandeo-team.png)  
+[Seg2 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EQoxEIcI9S9LjoLBI1Pvk9sBOBDDbocy79EGJtHMYUifsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uQrCmF)
+
+Pol Landeo nos comenta que la página de la aplciación tiene un aspecto profesional y pulcro. La interfaz visual de la aplicación es atractiva y las funciones disponibles son útiles. Nos recomendó como aspecto de mejora para la parte visual de la aplicación modificar una de las tipografías utilizadas para mejorar su legibilidad. En una frase breve, se refiere a la aplicación como una herramienta para una "comunicación agradable y eficiente".
+
+<br>
+
+Nombre: Luis Herrera Gonzales
+Edad: 19 años 
+Ocupación: Estudiante - Ayudante 
+![Imagen de entrevista](../assets/Entrevistas/EntrevistaS2E1.png)  
+[Seg2 - Entrevista - 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EcatbdnAbUpMiAMARybJ2vMB2uTPWkIzuN4HVZFljueERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=inq8J5)
+
+Luis menciona de como el diseño de la pagina cumple con sus expectativas y de como se logra el objetivo, nos relata de como le gusto la mayoria del diseño y de la facilidad de la pagina para poder realizar los objetivos que tiene. Como observaciones importantes menciona de como la seccion de Home no presenta claramente la funcionalidad que tiene y comenta que la imagen que se presenta en esa sección lo confunde más que ayudarlo a saber el funcionamiento de esta. No obstante nos felicita por la facilidad que le proveemos al darle herramientas de comunicacion y administracion de tareas.
+
+
+
 ### 5.3.3. Evaluaciones según heurísticas
+
+| HEURISTICAS                                   |
+|-----------------------------------------------|
+| Visibilidad del estado del sistema            |
+| Coincidencia entre el sistema y el mundo real |
+| Control y libertad del usuario                |
+| Consistencia y estándares                     |
+| Prevención de errores                         |
+| Mostrar antes que recordar                    |
+| Flexibilidad y eficiencia de uso              |
+| Diseño estético y minimalista                 |
+| Comunicar errores con facilidad               |
+| Ayuda y documentación                         |
+
+<br>
+
+**SITE o APP A EVALUAR:** AidManager
+
+**TAREAS A EVALUAR:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Registro de un usuario nuevo
+2. Administración de las Tareas
+3. Administración del equipo
+4. Análisis de información
+5. Comunicación entre usuarios
+6. Creación y administración de proyectos
+7. Organización de tiempos
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Sistema de pago
+2. Servicios de correo para terceros
+
+Niveles de Severidad:
+1. Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco
+frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.
+2. Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de
+superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente
+reléase
+3. Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es
+importante que sean corregidos y se les debe asignar una prioridad alta.
+4. Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de
+la herramienta. Es imperativo que sea corregido antes del lanzamiento
+
+| PROBLEMA                                    |Escala de severidad 1:✅4:❌ | Heuristica no considerada    |
+|-----------------------------------------------|---------------|---------|
+| Vista de Home no definida correctamente |     2       | Diseño estético y minimalista |
+| Variedad de reaccion como commentarios en los posts              |     3         | Diseño estético y minimalista |
+| Titulo de analytics con una fuente que no concuerda mucho con la pagina |     1         | Diseño estético y minimalista |
+| Mejorar el orden en equipo                     |       3       | Diseño estético y minimalista |
+| Mejorar la vista de Analytics para que sea de enfoque mas economico                         |      3        | Consistencia y estándares |
+
+<br>
+
 ## 5.4. Video About-the-Product
 
+Video promocional de la aplicación web AidManager, en el cual se muestra la funcionalidad y los beneficios que ofrece a las ONGs y a los voluntarios:
+
+[Enlace del video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EVW3sQLVUNdDhuNp6Kt6lbwBQVVS3x5TgdeOWTtp1w-NPQ?e=cmimyD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+ 
+<div style="display:flex;justify-content:center">
+<img src="../assets/video-about-the-product/captura-video.png" alt="Video About-the-Product" style="width:80%;">
+</div>
 
 
 # Conclusiones
 TB1: AidManager se centra en la creación de una aplicación web que permita a las ONGs gestionar sus proyectos de manera eficiente, así como a los voluntarios colaborar en las diferentes actividades que se realizan. La landing page es el primer paso para dar a conocer la startup y los servicios que ofrece, de manera que se pueda captar la atención de los posibles usuarios. Se ha logrado implementar de manera exitosa la landing page, la cual se encuentra desplegada en la web de manera pública. Los integrantes del equipo colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existían las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main. Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
 
-TP: Se ha logrado implementar de manera exitosa la landing page, la cual se encuentra desplegada en la web de manera pública. Los integrantes del equipo colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existían las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main. Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
+TP: Se ha logrado implementar de manera exitosa la landing page y la parte Front End de nuestra aplicacion web, la cual se encuentra desplegada en la web de manera pública. Los integrantes del equipo colaboraron de manera equitativa para desarrollar los diferentes features de la landing page, se utilizó la herramienta de GitFlow para manejar las actualizaciones que iba realizando cada uno, para ello existían las ramas: main, development, features, de modo que cada uno trabajaba en su rama feature, para luego trasladarlo a development y ver que este todo correcto y finalmente desplegarlo a producción con la rama main. Las evidencias muestran como los integrantes realizaron diferentes commits para los features.
+
+TB2: En esta entrega se logro implementar el back end bajo un approach similar a la entrega anterior donde se logro donde se habia hecho todo bajo las ramas correspondientes y un develop para realizar un merge, en este caso todos participaron de acuerdo a lo que se esperaba y finitamente se logro implementar la solucion de back end eficientemente. Adicionalmente se realizaron entrevistas a la mayoria de los participantes de la primera entrevista donde nos compartieron su vision y observaciones respecto a la solucion de front end que se llego a implementar. Finalmente cabe mencionar que utilizamos herramientas como SWAGGER y Rider para realizar el back end y para organizarnos utilizamos herramientas como discord y  Trello para hacer seguimiento de los sprints y tareas pendientes.
 
 # Recomendaciones.
 TB1: Se recomienda seguir trabajando de manera colaborativa y equitativa, de manera que se pueda lograr los objetivos propuestos en el tiempo establecido. Se recomienda seguir utilizando las herramientas de GitFlow para manejar las actualizaciones que se vayan realizando en el código fuente, de manera que se pueda tener un control de las versiones y de los cambios que se vayan realizando. Se recomienda seguir utilizando las herramientas de GitFlow para manejar las actualizaciones que se vayan realizando en el código fuente, de manera que se pueda tener un control de las versiones y de los cambios que se vayan realizando.
 
 TP: Se recomienda tener en cuenta el despliegue del FrontEnd, ya que si se ejecuta de manera local, se puede levantar el fake api con "npm run fakeapi" en la terminal mientras se está levantando el servidor de la aplicación front, sin embargo si se estuviera probando en el despliegue, se debe levantar de todas maneras el fakeapi a nivel local y así puedan funcionar las consultas CRUD.
+
+TB2: Como observaciones en base a los entrevistados nos mencionaron realizar cambios respecto a diseño principalmente. Adicionalmente la organizacion que realizamos puede haber resultado conflictiva para nuestra eficiencia al no haber considerado un orden mas organico para esta entrega, de todas maneras se logro completar de manera efectiva pero siempre teniendo en cuenta los cambios orientados a la mejora continua.
 
 # Bibliografía
 ``` 
