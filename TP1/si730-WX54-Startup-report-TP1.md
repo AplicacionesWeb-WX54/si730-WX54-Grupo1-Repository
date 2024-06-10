@@ -1863,6 +1863,14 @@ TP: Se recomienda tener en cuenta el despliegue del FrontEnd, ya que si se ejecu
 
 TB2: Como observaciones en base a los entrevistados nos mencionaron realizar cambios respecto a diseño principalmente. Adicionalmente la organizacion que realizamos puede haber resultado conflictiva para nuestra eficiencia al no haber considerado un orden mas organico para esta entrega, de todas maneras se logro completar de manera efectiva pero siempre teniendo en cuenta los cambios orientados a la mejora continua.
 
+# Video About The Team
+
+Video Testimonio del equipo, en el cual se muestran los testimonios y experiencias de los miembros del equipo:
+
+[Enlace del video About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EUnwWXgjXJVGiOwx6KQMveoBAafwnXWHWiC4h4kaYyZMmQ?e=qKMHTz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EUnwWXgjXJVGiOwx6KQMveoBAafwnXWHWiC4h4kaYyZMmQ?e=qKMHTz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 # Bibliografía
 ``` 
 
