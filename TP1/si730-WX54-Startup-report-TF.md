@@ -54,7 +54,7 @@ Se muestran evidencias de los commits realizados en la entrega de la TP1 en el i
 <img src="../assets/collaboration-insights/report/commitstp1.png" alt="commits">
 
 ### TB2
-Para la entrega del TB2 se ha desarollando el backend junto con los respectivos deployments que estos requieren, se repartieron las tareas a realizar por medio de los bounded context que hicimos en la entrega anterior asimismo como las correcciones de la entrega anterior orientadas al front end. En las reuniones de sprint hemos identificado las actividades a realizar e hicimos un seguimiento implementando trello.
+Para la entrega del TB2 se ha desarrollando el backend junto con los respectivos deployments que estos requieren, se repartieron las tareas a realizar por medio de los bounded context que hicimos en la entrega anterior asimismo como las correcciones de la entrega anterior orientadas al front end. En las reuniones de sprint hemos identificado las actividades a realizar e hicimos un seguimiento implementando trello.
 
 Se muestran evidencias de los commits realizados en la entrega de la TB2
 
@@ -62,13 +62,16 @@ Se muestran evidencias de los commits realizados en la entrega de la TB2
 
 <img src="../assets/collaboration-insights/report/commitstp1.png" alt="commits">
 
-# Student Outcome 3
+### TF
 
-|Criterio Especifico| Acciones Realizadas                                                                                                                                                                                |Conclusiones|
-|-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-|
+Para la entrega del TF se han realizado las correciones finales al informe y a la aplicacion web tanto a nivel de backend como front end. Hicimos el sprint final y dimos nuestras observaciones.
 
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.| Nicolas Esteban:<br> **TB1 y TP:** Durante el proyecto, adquirí habilidades para transmitir conceptos complejos de manera comprensible a diversos grupos, lo que aumentó notablemente la colaboración y el compromiso con nuestra labor. Este proceso subrayó la relevancia de ajustar mi comunicación según el entorno, una lección de gran valor para mi desarrollo profesional futuro.<br><br>**TB2**: Durante el proyecto, adquirí habilidades para transmitir conceptos complejos de backend de manera comprensible a diversos grupos, lo que aumentó notablemente la colaboración y el compromiso con nuestra labor. Este proceso subrayó la relevancia de ajustar mi comunicación según el entorno, especialmente cuando se trataba de explicar la arquitectura, los servicios y las integraciones del backend, una lección de gran valor para mi desarrollo profesional futuro. <br><br>Arian Rodriguez Vargas:<br>**TB1**: Durante la ejecución del proyecto, conseguí transmitir de manera eficiente tanto los resultados como el proceso seguido, empleando Lean UX como enfoque principal. Además, compartí los descubrimientos fundamentales derivados de nuestra investigación en experiencia de usuario (UX).<br>**TP**: Logré elaborar mis propias soluciones en el nivel del FrontEnd con nuevas propuestas y desplegando el FakeAPI <br>**TB2**: Durante la ejecución del proyecto, conseguí transmitir de manera eficiente tanto los resultados como el proceso seguido, enfocándome en la creación de endpoints y la arquitectura del backend. Además, compartí los descubrimientos fundamentales derivados de nuestra investigación en el desarrollo y optimización del backend, empleando Lean UX como enfoque principal. <br><br>Sebastian Ramirez Hoffmann:<br>**TB1 y TB2**: Logre cumplir con mis asignaciones y adicionalmente comparti ideas para los supuestos de nuestra solucion, logre hacer e informar a mis compañeros sobre las tendencias en las entrevistas y consecuentemente definiendo nuestros usuarios objetivo.<br> **TP1**: Asimismo he logrado elaborar soluciones para mis compañeros realice mis tareas relacionadas al desarollo del proyecto web a nivel de front end utilizando la herramienta Prime Vue y Vue como framework. Como observaciones del trabajo en conjunto con mis demas colegas del trabajo diria que como cualquier equipo tenemos diferentes aspectos donde mejorar pero es gracias al mismo equipo que podemos superar estos obstaculos de manera efectiva **TB2**: Respecto al TB2 Participe de cambios al informe junto con algunas entrevistas que se realizaron en el capitulo 5. En el desarollo del back end me encarge principalmente del bounded context asignado de tasks utilizando Rider y Swagger.<br><br>Sebastian Manuel Peña Rivera:<br>**TB1**: Durante la realización del proyecto, logré expresar de manera clara todas mis ideas durante las reuniones de equipo. Además, llevé a cabo una entrevista con un usuario potencial, donde expliqué el propósito de la misma y la información que necesitaba recopilar.<br>**TP**: En el transcurso del proyecto, me dediqué a perfeccionar mis habilidades comunicación y organización, además de cumplir con el desarrollo de los componentes Analytics en los plazos establecidos.  <br>**TB2**: En el transcurso del proyecto, me dediqué a perfeccionar mis habilidades de comunicación y organización mientras enfrentaba una lucha interminable contra los desafíos de Analytics. Además de cumplir con el desarrollo de los componentes de Analytics en los plazos establecidos, me sumergí en la creación de endpoints críticos, superando cada obstáculo con determinación y creatividad. Esta experiencia no solo reforzó mi capacidad para gestionar proyectos complejos, sino que también subrayó la importancia de la perseverancia y la innovación en el campo del desarrollo backend. <br><br>Fabia Alejandra, Herrera Aguirre:<br>**TB1 y TP1**: A lo largo del proyecto, progresé satisfactoriamente en las responsabilidades asignadas y fortalecí habilidades interpersonales como la comunicación dentro del equipo. Además, obtuve una comprensión más sólida del proceso a seguir, lo que permitió su enfoque desde diversas perspectivas para una mejor posicionamiento.  <br>**TB2**: En esta entrega aporté en la implementación de la creación de un nuevo usuario para el backend de Aidmanager. |Gracias a la eficiencia y la organización que mantuvimos, respaldadas por un sólido marco de trabajo establecido dentro del grupo, alcanzamos nuestro objetivo de desarrollar el primer entregable de manera precisa y oportuna. La colaboración efectiva, la comunicación clara y el compromiso compartido con los plazos establecidos fueron pilares clave en nuestro éxito|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.| Nicolas Esteban:<br> **TB1 TP1:** En mi participación en el proyecto, me dediqué a comunicar mis ideas y los resultados obtenidos de manera clara y objetiva. Desde la elaboración de informes hasta la realización de presentaciones, mi objetivo fue hacer que la información fuera accesible y comprensible para todos los involucrados.  <br>**TB2**: En mi participación en el proyecto, me dediqué a comunicar mis ideas y los resultados obtenidos en el desarrollo del backend de manera clara y objetiva. Desde la elaboración de informes técnicos hasta la realización de presentaciones sobre la creación y optimización de endpoints, mi objetivo fue hacer que la información fuera accesible y comprensible para todos los involucrados. <br><br> Arian Rodriguez Vargas<br>**TB1:** A lo largo de este proyecto, me encargué de documentar de manera adecuada el emprendimiento, utilizando las herramientas pertinentes y siguiendo las convenciones de idioma, estructura de nombres y prácticas de programación establecidas en los aspectos de la solución. Además, realicé y documenté minuciosamente los procesos de Lean UX, diseño, prototipado, entre otros, con el objetivo de lograr una comunicación efectiva con una amplia gama de audiencias.<br>**TP**: Aprendí las conexiones de los métodos básicos de HTTP, como lo son Create, Read, Update y Delete  <br>**TB2**: A lo largo de este proyecto, me encargué de documentar de manera adecuada el desarrollo del backend, utilizando las herramientas pertinentes y siguiendo las convenciones de idioma, estructura de nombres y prácticas de programación establecidas en los aspectos de la solución. Además, realicé y documenté minuciosamente los procesos de diseño y desarrollo de endpoints, con el objetivo de lograr una comunicación efectiva con una amplia gama de audiencias. <br><br>Sebastian Ramirez Hoffman:<br>**TB1**: Utilizando herramientas colaborativas en línea, pude mejorar mi capacidad de comunicación y colaboración en equipo de manera significativa. Estas plataformas facilitaron la interacción y el intercambio de ideas entre los miembros del equipo, lo que contribuyó a un ambiente de trabajo más eficiente y productivo, asimismo el implementar estos metodos de comunicacion se pueden hacer mejores analisis de entrevistas al tener una mayor accesibilidad a nuestros usuarios potenciales. De esta manera obtuve mejor informacion respecto a los requerimientos que solicitaban los segmentos objetivo respecto al proyecto. <br> **TP1**: Aprendi mas del sector empresarial utilizando herramientas de investigacion y analizando las entrevistas y realizando las Historias de Usuario necesarias para esta seccion.<br>**TB2**: A nivel de conocer el dominio del sector las entrevistas como siempre nos ayudan a complementar la investigacion de las necesidades y pain points que existen en el area de la gestion de proyectos a nivel de ONG, Las entrevistas de validacion sirvieron bastante para poder terminar de entender realmente la necesidad de los usuarios objetivos en el area a implementar. <br><br>Sebastian Manuel, Peña Rivera:<br>**TB1**: En esta fase del proyecto, me dediqué a elaborar el análisis de requisitos de manera detallada, lo que sentó las bases para el desarrollo posterior. Luego, me enfoqué en la creación de la base de datos del sistema y en la construcción del diagrama de clases, asegurándome de que ambos elementos estuvieran alineados con los requerimientos identificados y contribuyeran a la solidez y funcionalidad del proyecto en su conjunto.<br>**TP**: He desarrollado los componentes, vistas y funciones necesarias de la seccion Analytics de nuestra aplicacion frontend.  <br>**TB2**: Mi incesante lucha contra Analytics ha llegado casi al final. Me encuentro en busca del creador, con el fin de derrocarlo y reclamar la victoria definitiva en esta épica batalla tecnológica. <br><br>Fabia Herrera, Alejandra Aguirre:<br>**TB1 y TP1:** La investigación realizada para este proyecto fue exhaustivamente documentada y resultó fundamental para el modelado de nuestra solución. En esta fase, mi responsabilidad fue investigar sobre posibles competidores, lo que nos proporcionó información valiosa para aprender de sus errores y aciertos, ayudándonos así a mejorar nuestra estrategia y diseño. <br>**TB2**: La investigación realizada para este proyecto fue exhaustivamente documentada y resultó fundamental para el modelado de nuestra solución backend. En esta fase, mi responsabilidad fue investigar sobre posibles competidores y sus arquitecturas backend, lo que nos proporcionó información valiosa para aprender de sus errores y aciertos, ayudándonos así a mejorar nuestra estrategia y diseño de los endpoints y servicios.                                                                                                                                                                                                       |Gracias a las herramientas colaborativas brindadas y las aplicaciones de comunicación logramos establecer fechas y límites para nuestros trabajos y de esta manera mantenernos informados sobre el progreso de los demas miembros del equipo.|
+# Student Outcome
+
+|Criterio Especifico| Acciones Realizadas|Conclusiones|
+|-|----------|-|
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.| Nicolas Esteban:<br> **TB1 y TP:** Durante el proyecto, adquirí habilidades para transmitir conceptos complejos de manera comprensible a diversos grupos, lo que aumentó notablemente la colaboración y el compromiso con nuestra labor. Este proceso subrayó la relevancia de ajustar mi comunicación según el entorno, una lección de gran valor para mi desarrollo profesional futuro.<br><br>**TB2**: Durante el proyecto, adquirí habilidades para transmitir conceptos complejos de backend de manera comprensible a diversos grupos, lo que aumentó notablemente la colaboración y el compromiso con nuestra labor. Este proceso subrayó la relevancia de ajustar mi comunicación según el entorno, especialmente cuando se trataba de explicar la arquitectura, los servicios y las integraciones del backend, una lección de gran valor para mi desarrollo profesional futuro. <br><br>Arian Rodriguez Vargas:<br>**TB1**: Durante la ejecución del proyecto, conseguí transmitir de manera eficiente tanto los resultados como el proceso seguido, empleando Lean UX como enfoque principal. Además, compartí los descubrimientos fundamentales derivados de nuestra investigación en experiencia de usuario (UX).<br>**TP**: Logré elaborar mis propias soluciones en el nivel del FrontEnd con nuevas propuestas y desplegando el FakeAPI <br>**TB2**: Durante la ejecución del proyecto, conseguí transmitir de manera eficiente tanto los resultados como el proceso seguido, enfocándome en la creación de endpoints y la arquitectura del backend. Además, compartí los descubrimientos fundamentales derivados de nuestra investigación en el desarrollo y optimización del backend, empleando Lean UX como enfoque principal. <br><br>Sebastian Ramirez Hoffmann:<br>**TB1**: Logre cumplir con mis asignaciones con el equipo y adicionalmente comparti ideas para los supuestos de nuestra solucion, logre hacer e informar a mis compañeros sobre las tendencias en las entrevistas y consecuentemente definiendo nuestros usuarios objetivo de manera eficiente.<br> **TP1**: Asimismo he logrado elaborar soluciones para mis compañeros realice mis tareas relacionadas al desarollo del proyecto web a nivel de front end utilizando la herramienta Prime Vue y Vue como framework. Como observaciones del trabajo en conjunto con mis demas colegas del trabajo diria que hemos <br> **TB2**: Respecto al TB2 Participe de cambios al informe junto con algunas entrevistas que se realizaron en el capitulo 5. En el desarollo del back end me encarge principalmente del bounded context asignado de tasks utilizando Rider y Swagger y participe colaborativamente de los sprint ofreciendo eficiencia en mi trabajo. <br> **TF** Respecto al TF me enfoque en realizar las correciones mencionadas por el profesor de maera rapida, me comunique con el equipo para informar de avances siempre manteniendome objetivo con lo que proponemos.<br><br>Sebastian Manuel Peña Rivera:<br>**TB1**: Durante la realización del proyecto, logré expresar de manera clara todas mis ideas durante las reuniones de equipo. Además, llevé a cabo una entrevista con un usuario potencial, donde expliqué el propósito de la misma y la información que necesitaba recopilar.<br>**TP**: En el transcurso del proyecto, me dediqué a perfeccionar mis habilidades comunicación y organización, además de cumplir con el desarrollo de los componentes Analytics en los plazos establecidos.  <br>**TB2**: En el transcurso del proyecto, me dediqué a perfeccionar mis habilidades de comunicación y organización mientras enfrentaba una lucha interminable contra los desafíos de Analytics. Además de cumplir con el desarrollo de los componentes de Analytics en los plazos establecidos, me sumergí en la creación de endpoints críticos, superando cada obstáculo con determinación y creatividad. Esta experiencia no solo reforzó mi capacidad para gestionar proyectos complejos, sino que también subrayó la importancia de la perseverancia y la innovación en el campo del desarrollo backend. <br><br>Fabia Alejandra, Herrera Aguirre:<br>**TB1 y TP1**: A lo largo del proyecto, progresé satisfactoriamente en las responsabilidades asignadas y fortalecí habilidades interpersonales como la comunicación dentro del equipo. Además, obtuve una comprensión más sólida del proceso a seguir, lo que permitió su enfoque desde diversas perspectivas para una mejor posicionamiento.  <br>**TB2**: En esta entrega aporté en la implementación de la creación de un nuevo usuario para el backend de Aidmanager. |La participacion de equipos multidisciplinarios fomenta un workflow efectivo y eficiente para tener el mejor de los resultados en las soluciones de software, en este trabajo todos los integrantes lograron participar de una manera objetiva y eficiente asimismo fomentando la colaboracion lo cual fue indispensable para el desarrollo de este proyecto.|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.| Nicolas Esteban:<br> **TB1 TP1:** En mi participación en el proyecto, me dediqué a comunicar mis ideas y los resultados obtenidos de manera clara y objetiva. Desde la elaboración de informes hasta la realización de presentaciones, mi objetivo fue hacer que la información fuera accesible y comprensible para todos los involucrados.  <br>**TB2**: En mi participación en el proyecto, me dediqué a comunicar mis ideas y los resultados obtenidos en el desarrollo del backend de manera clara y objetiva. Desde la elaboración de informes técnicos hasta la realización de presentaciones sobre la creación y optimización de endpoints, mi objetivo fue hacer que la información fuera accesible y comprensible para todos los involucrados. <br><br> Arian Rodriguez Vargas<br>**TB1:** A lo largo de este proyecto, me encargué de documentar de manera adecuada el emprendimiento, utilizando las herramientas pertinentes y siguiendo las convenciones de idioma, estructura de nombres y prácticas de programación establecidas en los aspectos de la solución. Además, realicé y documenté minuciosamente los procesos de Lean UX, diseño, prototipado, entre otros, con el objetivo de lograr una comunicación efectiva con una amplia gama de audiencias.<br>**TP**: Aprendí las conexiones de los métodos básicos de HTTP, como lo son Create, Read, Update y Delete  <br>**TB2**: A lo largo de este proyecto, me encargué de documentar de manera adecuada el desarrollo del backend, utilizando las herramientas pertinentes y siguiendo las convenciones de idioma, estructura de nombres y prácticas de programación establecidas en los aspectos de la solución. Además, realicé y documenté minuciosamente los procesos de diseño y desarrollo de endpoints, con el objetivo de lograr una comunicación efectiva con una amplia gama de audiencias. <br><br>Sebastian Ramirez Hoffman:<br>**TB1**: Utilizando herramientas colaborativas en línea, pude mejorar mi capacidad de comunicación y colaboración en equipo de manera significativa. Estas plataformas facilitaron la interacción y el intercambio de ideas entre los miembros del equipo y mejoraron el dominio que tengo respecto al manejo de equipos en un proyecto, lo que contribuyó a un ambiente de trabajo más eficiente y productivo, asimismo el implementar estos metodos de comunicacion se pueden hacer mejores analisis de entrevistas al tener una mayor accesibilidad a nuestros usuarios potenciales. De esta manera obtuve mejor informacion respecto a los requerimientos que solicitaban los segmentos objetivo respecto al proyecto. <br> **TP1**: Aprendi mas del sector empresarial utilizando herramientas de investigacion y analizando las entrevistas y realizando las Historias de Usuario necesarias para esta seccion, comprendiendo mejor el sector empresarial.<br>**TB2**: A nivel de conocer el dominio del sector las entrevistas como siempre nos ayudan a complementar la investigacion de las necesidades y pain points que existen en el area de la gestion de proyectos a nivel de ONG, Las entrevistas de validacion sirvieron bastante para poder terminar de entender realmente la necesidad de los usuarios objetivos en el area a implementar y realizar las correciones necesarias. <br> **TF**: En base a lo que se ha desarrollado a lo largo del proyecto siento que ya estoy familiarizado en las necesidades y puntos clave del sector empresarial orientado a las ONG, despues de realizar las correciones puedo concluir de que mi dominio del tema esta desarrollado.<br><br>Sebastian Manuel, Peña Rivera:<br>**TB1**: En esta fase del proyecto, me dediqué a elaborar el análisis de requisitos de manera detallada, lo que sentó las bases para el desarrollo posterior. Luego, me enfoqué en la creación de la base de datos del sistema y en la construcción del diagrama de clases, asegurándome de que ambos elementos estuvieran alineados con los requerimientos identificados y contribuyeran a la solidez y funcionalidad del proyecto en su conjunto.<br>**TP**: He desarrollado los componentes, vistas y funciones necesarias de la seccion Analytics de nuestra aplicacion frontend.  <br>**TB2**: Mi incesante lucha contra Analytics ha llegado casi al final. Me encuentro en busca del creador, con el fin de derrocarlo y reclamar la victoria definitiva en esta épica batalla tecnológica. <br><br>Fabia Herrera, Alejandra Aguirre:<br>**TB1 y TP1:** La investigación realizada para este proyecto fue exhaustivamente documentada y resultó fundamental para el modelado de nuestra solución. En esta fase, mi responsabilidad fue investigar sobre posibles competidores, lo que nos proporcionó información valiosa para aprender de sus errores y aciertos, ayudándonos así a mejorar nuestra estrategia y diseño. <br>**TB2**: La investigación realizada para este proyecto fue exhaustivamente documentada y resultó fundamental para el modelado de nuestra solución backend. En esta fase, mi responsabilidad fue investigar sobre posibles competidores y sus arquitecturas backend, lo que nos proporcionó información valiosa para aprender de sus errores y aciertos, ayudándonos así a mejorar nuestra estrategia y diseño de los endpoints y servicios. |Gracias al conocimiento del sector empresarial podemos proyectar límites y objetivos para nuestro proyecto, definir bien lo que debemos de hacer y entender el user flow comun de este sector. Con un dominio de la aplicacion se logra desarrollar una solucion al problema que se observe de manera objetiva y efectiva.|
 
 
 # Contenido
@@ -440,7 +443,13 @@ Nombre: Maria Jose Melendez
 Edad: 53 años 
 Ocupación: Directora de Hogar (CAEF)
 ![Imagen de entrevista](/assets/Entrevistas/EntrevistaS1E1.png)  
+
+```
+
 [Seg1 - Entrevista - 1] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERgJ0_AWCqVErNukgws7eiIBIgGIeuzeYyiSeb76MeGP9w?e=f7I1Pt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+```
+
 
 En la entrevista Maria nos cuenta de como su ONG no tiene una herramienta de gestion determinada y como normalmente usan Excel para los analisis de sus datos, tambien relata que para la planificación se hacen reuniones anuales y mensuales.
 
@@ -448,15 +457,29 @@ Nombre: Cesar Alva Posada
 Edad: 57 años 
 Ocupación: Sociologo encargado de Gestion de Proyectos  
 ![Imagen de entrevista](/assets/Entrevistas/EntrevistaS1E2.png)  
+
+```
+
+
 [Seg1 -Entrevista - 2] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESDqRfzRGHFMsuxKkO5AzPgB5n2DN_YAREAKth0-NdKi-A?e=2FxzuN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+```
+
 
 En esta entrevista Cesar explica como la metodologia que se usa es importante a la hora de organizarse asimismo nos comento de otras herramientas que se implementan para la gestion, no obstante tambien menciona que todos estos procesos se hacen de manera separada. Asimismo para la gestion de datos utiliza excel.
 
 Nombre: Guilder Quiñones Aldean
 Edad: 54 años 
 Ocupación: Jefe de Proyectos  
-![Imagen de entrevista](/assets/Entrevistas/EntrevistaS1E3.png)  
+![Imagen de entrevista](/assets/Entrevistas/EntrevistaS1E3.png) 
+
+```
+
+
 [Seg1 - Entrevista - 3] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESDqRfzRGHFMsuxKkO5AzPgB5n2DN_YAREAKth0-NdKi-A?e=2FxzuN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+```
+
 
 El Jefe de Proyecto Guilder comparte su vision respecto a las herramientas usadas, de manera parecida a la entrevista anterior el usa excel para manejar sus datos mas tambien hace uso de programas de gestion como trello.
 
@@ -465,23 +488,41 @@ Nombre: Luis Herrera Gonzales
 Edad: 19 años 
 Ocupación: Estudiante - Ayudante 
 ![Imagen de entrevista](../assets/Entrevistas/EntrevistaS2E1.png)  
+
+```
+
 [Seg2 - Entrevista - 1] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESesnqbIKNBIj2P7j6CMxpsBuPL5ecH8TMAAxZh29afhHw?e=pCWved&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+```
+
 
 Luis nos cuenta de como participa de estas actividades usando whatsapp como su principal fuente de recoleccion de datos y comunicacion con su gerente, menciona que tanto el uso del correo electronico y uso de whatsapp son obsoletos, toman mucho tiempo y no demuestran el nivel de formalidad deseado.
 
 Nombre: Alvaro Jimenez
 Edad: 19 años
 Ocupación: Estudiante - Ayudante 
+
+```
+
 ![Imagen de entrevista](/assets/Entrevistas/EntrevistaS2E2.png)  
 [Seg2 - Entrevista - 2] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESskiDGzwCZLrHJVscTBOOoBK0Bx2Q6u2aFn2dDAv0RB8w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=smRneZ)
+
+```
+
 
 Alvaro comenta sobre su experiencia como voluntario ayudante en una ONG. Se menciona como es la distribucion de tareas y la comunicacion entre los ayudantes y el gestor del proyecto. Tambien menciona que no es eficiente ni rapida la gestion de la organizacion y que el espera se pueda mejorar en algun futuro.
 
 Nombre: Pol Landeo
 Edad: 27 años 
 Ocupación: Ayudante en una ONG
-![Imagen de entrevista](../assets/Entrevistas/EntrevistaS2E3.png)  
+![Imagen de entrevista](../assets/Entrevistas/EntrevistaS2E3.png) 
+
+```
+
 [Seg2 - Entrevista - 3] (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EVTCV3Z3klZEunW6DHRtpU4BIwJk7OE6UEs4NEG5tWiMpQ?e=l3SrWz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+```
+
 
 Pol nos cuenta que en su día a día hace uso de las herramientas de google para la administración de tareas y la comunicación con el gestor del proyecto, menciona que la comunicación con el gestor del proyecto es efectiva pero que la gestión de tareas no es tan eficiente. En cuanto a la recolección de datos, menciona que se hace de manera manual, por lo que sería de gran ayuda contar con una herramienta que facilite este proceso.
 
@@ -1756,7 +1797,13 @@ Edad: 57 años
 Ocupación: Sociólogo encargado de Gestión de Proyectos 
 
 ![Imagen de entrevista](../assets/registro-entrevistas-sprint3/entrevista-cesarAlva-manager.png)  
+
+```
+
 [Seg1 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EU6vtNjTaXpGqf7jjuq5oKMBXxSt7zJ9Er-W39zJwXX9Ew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=bwOkR5)
+
+```
+
 
 Cesar Alva Posada, sociólogo encargado de gestión de proyectos, se sintió satisfecho al ver la página principal de la aplicación por primera vez, considera que las funciones disponibles y la interfaz visual de la aplicación son adecuadas. Encuentra intuitiva la navegación y el uso de las diferentes herramientas. Considera que la aplicación facilita una comunicación efectiva entre él y los miembros de su equipo. No hay ninguna función que le gustaría agregar, sin embargo, considera que sería necesario mejorar la velocidad de carga de la aplicación. En una frase breve, describiría la aplicación como una herramienta que facilita la gestión de proyectos y la comunicación entre los miembros del equipo.
 
@@ -1767,7 +1814,14 @@ Edad: 27 años
 Ocupación: Ayudante en una ONG
 
 ![Imagen de entrevista](../assets/registro-entrevistas-sprint3/entrevista-polLandeo-team.png)  
+
+```
+
+
 [Seg2 - Entrevista - 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EQoxEIcI9S9LjoLBI1Pvk9sBOBDDbocy79EGJtHMYUifsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uQrCmF)
+
+```
+
 
 Pol Landeo nos comenta que la página de la aplciación tiene un aspecto profesional y pulcro. La interfaz visual de la aplicación es atractiva y las funciones disponibles son útiles. Nos recomendó como aspecto de mejora para la parte visual de la aplicación modificar una de las tipografías utilizadas para mejorar su legibilidad. En una frase breve, se refiere a la aplicación como una herramienta para una "comunicación agradable y eficiente".
 
@@ -1777,7 +1831,13 @@ Nombre: Luis Herrera Gonzales
 Edad: 19 años 
 Ocupación: Estudiante - Ayudante 
 ![Imagen de entrevista](../assets/Entrevistas/EntrevistaS2E1.png)  
+
+```
+
 [Seg2 - Entrevista - 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EcatbdnAbUpMiAMARybJ2vMB2uTPWkIzuN4HVZFljueERg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=inq8J5)
+
+```
+
 
 Luis menciona de como el diseño de la pagina cumple con sus expectativas y de como se logra el objetivo, nos relata de como le gusto la mayoria del diseño y de la facilidad de la pagina para poder realizar los objetivos que tiene. Como observaciones importantes menciona de como la seccion de Home no presenta claramente la funcionalidad que tiene y comenta que la imagen que se presenta en esa sección lo confunde más que ayudarlo a saber el funcionamiento de esta. No obstante nos felicita por la facilidad que le proveemos al darle herramientas de comunicacion y administracion de tareas.
 
@@ -1841,8 +1901,16 @@ la herramienta. Es imperativo que sea corregido antes del lanzamiento
 
 Video promocional de la aplicación web AidManager, en el cual se muestra la funcionalidad y los beneficios que ofrece a las ONGs y a los voluntarios:
 
-[Enlace del video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EVW3sQLVUNdDhuNp6Kt6lbwBQVVS3x5TgdeOWTtp1w-NPQ?e=cmimyD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Enlace del video About-the-Product](https://youtu.be/2cZpH5GsaWg)
 
+YouTube: https://youtu.be/2cZpH5GsaWg
+
+SharePoint: 
+
+```
+ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EQPn3vzKbctPm3SuNDHOZGEBPb4QsxUHXc9_faWDOEqdNA?e=c8UTc6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+ ```
  
 <div style="display:flex;justify-content:center">
 <img src="../assets/video-about-the-product/captura-video.png" alt="Video About-the-Product" style="width:80%;">
@@ -1867,9 +1935,15 @@ TB2: Como observaciones en base a los entrevistados nos mencionaron realizar cam
 
 Video Testimonio del equipo, en el cual se muestran los testimonios y experiencias de los miembros del equipo:
 
-[Enlace del video About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EUnwWXgjXJVGiOwx6KQMveoBAafwnXWHWiC4h4kaYyZMmQ?e=qKMHTz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Enlace del video About-the-Team](https://youtu.be/f5II0f6P9DY)
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EUnwWXgjXJVGiOwx6KQMveoBAafwnXWHWiC4h4kaYyZMmQ?e=qKMHTz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+ ```
+YouTube: https://youtu.be/f5II0f6P9DY
+
+SharePoint: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EUnwWXgjXJVGiOwx6KQMveoBAafwnXWHWiC4h4kaYyZMmQ?e=qKMHTz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+ ```
+
 
 # Bibliografía
 ``` 
