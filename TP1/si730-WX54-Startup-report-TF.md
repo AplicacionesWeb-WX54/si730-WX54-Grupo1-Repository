@@ -1763,6 +1763,514 @@ A continuación se muestra el detalle de los commits realizados por los integran
 <img src="../assets/team-insights-sprint3/evidence1.png" alt="Evidence" style="width:80%;">
 </div>
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+
+<table>
+       <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 18/05/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 17:32 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Modalidad remota por Discord.
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Ramírez Hoffmann, Sebastián
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Peña Rivera, Manuel Sebastian / Ramírez Hoffmann, Sebastián / Rodriguez Vargas, Arian Martin / Esteban Garcia, Nicolas Sebastián / Herrera Aguirre, Fabia Alejandra
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
+            <td> 
+            Durante el sprint anterior se desarrolló el FrontEnd de la aplicación web, cumpliendo con los objetivos y las fechas establecidas.
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary
+            </td>
+            <td>
+            Durante el último sprint se logró completar todas las tareas propuestas, sin embargo, se identificaron algunos problemas con la conexión a la FakeAPI, por lo que se tuvieron que realizar ajustes en el código.
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User stories</td>
+        </tr>
+         <tr>
+            <td style="font-weight: bold;"> Sprint 4 Goal</td>
+            <td> 
+            El objetivo principal para el Sprint 4 es comenzar el desarrollo backend de la aplicación web, bajo la métrica de story points.
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 4 velocity</td>
+            <td>
+            Para este sprint el equipo se ha comprometido desarrollar 12 historias de usuario, con un valor de 3 story points cada una. Se han aceptado 36 story points para este Sprint.
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story points</td>
+            <td>
+            36
+            </td>
+        </tr>
+    <tbody>
+<table>
+
+#### 5.2.4.2. Sprint Backlog 4
+
+| Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
+|------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
+| CC01 | Projects | C01  | API para CRUD de proyectos | Desarrollo de la API que permita crear, actualizar, borrar y gestionar proyectos.	 |           3        |    Arian Rodriguez Vargas   | Done   |
+| CC02 | Tasks | C02 | API para asignar tareas | Desarrollo de la API que permita la asignación de tareas a miembros de un determinado equipo.	 |          2      |   Sebastian Ramirez Hoffman    | Done   |
+| CC03 | Tasks Status | C03 | Endpoint para gestión de estado de tareas | Desarrollo de endpoint en API de asignación de tareas para poder asignar, actualizar y modificar el estado de una tarea.	 |            2        |    Sebastian Ramirez Hoffman   | Done   |
+| CC04 | Dashboard | C04 | API para CRUD de dashboards | Desarrollo de la API que permita la creación, modificación, eliminación y visualización de dashboards.	 |            3        |   Sebastian Peña Rivera    | Done   |
+| CC05 | Home | C05 | API para actualización de Home | Desarrollo de la API que permita la actualización de novedades que aparecen en el Home de la aplicación.	 |       3             |  Nicolas Esteban Garcia     | Done   |
+| CC06 | Calendar | C06 | API para gestión de eventos en calendario | Desarrollo de la API que permita la creación, edición, eliminación y visualización de eventos en el calendario.	 |        3            |   Arian Rodriguez Vargas    | Done   |
+| CC07 | Analytics | C07 | Generación automática de resúmenes de analytics | Desarrollo de la API que permita obtener dashboards automáticos con la información recopilada de los proyectos.	 |            3        |   Sebastian Peña Rivera    | Done   |
+| CC08 | Users | C08 | API para CRUD de usuarios | Desarrollo de la API que permita la creación, modificación, eliminación y visualización de usuarios.	 |          3          |   Fabia Herrera Aguirre    | Done   |
+
+
+
+**Link to product backlog table:** https://github.com/orgs/AplicacionesWeb-WX54/projects/4/views/1
+
+<br/>
+<img src="../assets/collaboration-insights/sprint-3/sprint-backlog3.png" alt="Captura Sprint 4 en Trello" width="100%">
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+Para este tercer sprint se decidió crear ramas distintas para cada uno de los bounded context creados con anterioridad. A continuación se muestra el detalle de los commits realizados por los integrantes del equipo ya mergeados en las ramas develop de el Back End y del Front End:
+
+```
+Para realizar el registro de los commits se utilizo el siguiente commando de git en la terminal shell.
+
+# Obtener el nombre del repositorio y la rama actual
+$repoName = Split-Path -Leaf (git rev-parse --show-toplevel)
+$branchName = git rev-parse --abbrev-ref HEAD
+
+# Generar la cabecera de la tabla
+$header = "| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Committed On (Date) |`n|------------|--------|-----------|----------------|---------------------|---------------------|`n"
+
+# Obtener los commits y formatearlos
+$commits = git log --pretty=format:"| $repoName | $branchName | %h | %s | %b | %ad |" --date=short
+
+# Guardar todo en un archivo markdown
+$header + $commits | Out-File -FilePath commits.md -Encoding utf8
+
+
+```
+
+| Repository                 | Branch                   | Commit ID | Commit Message                                                                      | Commit Message Body | Commited On(Date) |
+|----------------------------|--------------------------|-----------|-------------------------------------------------------------------------------------|---------------------|-------------------|
+| AidManager-Frontend  | develop | b890d92   | fix: user data to localStorage and update companyName to db |                     | 2024-06-27          |
+| AidManager-Frontend | develop | 85367db   | fix: bolita ocho enojada!!                                  |                     | 2024-06-27          | 
+| AidManager-Frontend | develop | f302110 | fix: yesidesastre2 |  | 2024-06-27 |
+| AidManager-Frontend | develop | 167a69c | fix: yesidesastre |  | 2024-06-27 |
+| AidManager-Frontend | develop | e4059cc | Revert "update: posts bc connected with backend" | This reverts commit 65d70d68836a992d53dcd1b3dc3c9c1dbc874ad1.  | 2024-06-27 | 
+| AidManager-Frontend | develop | 9c9ad0c | add: merge projects |  | 2024-06-27 | 
+| AidManager-Frontend | develop | 65d70d6 | update: posts bc connected with backend |  | 2024-06-26 | 
+| AidManager-Frontend | develop | 63250d8 | update: user profile fixed |  | 2024-06-26 | 
+| AidManager-Frontend | develop | 85905fe | Merge remote-tracking branch 'origin/backup' into develop |  | 2024-06-26 | 
+| AidManager-Frontend | develop | 4699c4e | Merge remote-tracking branch 'origin/feature/profile' into develop |  | 2024-06-26 | 
+| AidManager-Frontend | develop | 2cdfbce | Merge remote-tracking branch 'origin/feature/home' into develop |  | 2024-06-26 | 
+| AidManager-Frontend | develop | 5848b84 | Merge branch 'feature/calendar' into develop |  | 2024-06-26 | 
+| AidManager-Frontend | develop | dbb6314 | fear: changes de menores |  | 2024-06-26 | 
+| AidManager-Frontend | develop | 3f41480 | update: update profile connection with backend |  | 2024-06-25 | 
+| AidManager-Frontend | develop | 02c79b7 | update: messages connected |  | 2024-06-20 | 
+| AidManager-Frontend | develop | 474e746 | update: members team connected and kick method |  | 2024-06-20 | 
+| AidManager-Frontend | develop | ae2c075 | update: minor changes connected with backend |  | 2024-06-20 | 
+| AidManager-Frontend | develop | 8d349c4 | update: event project id |  | 2024-06-20 | 
+| AidManager-Frontend | develop | 384de56 | update: recovering project names dropdown |  | 2024-06-20 | 
+| AidManager-Frontend | develop | f722439 | feat: add random images to new posts and fix responsive design on home view: :lipstick: |  | 2024-06-19 | 
+| AidManager-Frontend | develop | 46db6f9 | feat: add backend request methods :pig: |  | 2024-06-19 | 
+| AidManager-Frontend | develop | 61860b1 | Merge pull request #31 from AplicacionesWeb-WX54/develop | Develop | 2024-06-17 | 
+| AidManager-Frontend | develop | d92a675 | Merge pull request #29 from AplicacionesWeb-WX54/develop | Develop | 2024-06-17 | 
+| AidManager-Frontend | develop | 29a3ec3 | Merge pull request #28 from AplicacionesWeb-WX54/develop | Develop | 2024-06-17 | 
+| AidManager-Frontend | develop | 548030b | Merge pull request #27 from AplicacionesWeb-WX54/develop | Develop | 2024-06-17 | 
+| AidManager-Frontend | develop | 9eff686 | update: azure domain api |  | 2024-06-08 | 
+| AidManager-Frontend | develop | 25e93dd | update: minor changes login connected |  | 2024-06-08 | 
+| AidManager-Frontend | develop | 2382936 | update: minor changes |  | 2024-06-08 | 
+| AidManager-Frontend | develop | bd05b45 | feat: add routing for subscription view :8ball: |  | 2024-05-31 | 
+| AidManager-Frontend | develop | 9ca7b48 | style: standardize size, fonts, and styles of titles for each section :nail_care: |  | 2024-05-31 | 
+| AidManager-Frontend | develop | 75220bc | feat(analytics): add progress bar chart modal, new CTA button modals, and error handling modal |  | 2024-05-31 | 
+| AidManager-Frontend | develop | 845641c | feat: Add modals to the analytics view and fix the dropdown :lips: |  | 2024-05-26 | 
+| AidManager-Frontend | develop | 67d0516 | fix: duplicate id in db.json |  | 2024-05-26 | 
+| AidManager-Frontend | develop | 688f313 | fix: db.json format |  | 2024-05-26 | 
+| AidManager-Frontend | develop | c2e53b2 | Merge pull request #25 from AplicacionesWeb-WX54/feature/calendar | merge calander into develop | 2024-05-26 | 
+| AidManager-Frontend | develop | 4efe28e | Merge branch 'develop' into feature/calendar |  | 2024-05-26 | 
+| AidManager-Frontend | develop | 948ede1 | Merge pull request #24 from AplicacionesWeb-WX54/feature/team | merge feature/team into develop | 2024-05-25 | 
+| AidManager-Frontend | develop | 045e201 | Merge branch 'develop' into feature/team |  | 2024-05-25 | 
+| AidManager-Frontend | develop | cf2a977 | feat: space beetwen containers and rating component added |  | 2024-05-25 | 
+| AidManager-Frontend | develop | 7739adc | fix: error navigation |  | 2024-05-24 | 
+| AidManager-Frontend | develop | 64ee248 | feat: add login routes for admin and team segments, and enable interaction between both segments through IDCompany :8ball: |  | 2024-05-24 | 
+| AidManager-Frontend | develop | 9f0d167 | Merge pull request #23 from AplicacionesWeb-WX54/feature/profile | merge profile into develop | 2024-05-23 | 
+| AidManager-Frontend | develop | 3ddc2cc | update: responsive profile |  | 2024-05-21 | 
+| AidManager-Frontend | develop | 9f2ce8e | update: profile design |  | 2024-05-21 | 
+| AidManager-Frontend | develop | 0f49979 | add: update feature |  | 2024-05-21 | 
+| AidManager-Frontend | develop | 9d17817 | update: profile appearance |  | 2024-05-21 | 
+| AidManager-Frontend | develop | 231f32f | update: edit icons |  | 2024-05-20 | 
+| AidManager-Frontend | develop | 91f0613 | update: login & signup password field |  | 2024-05-20 | 
+| AidManager-Frontend | develop | 9338f22 | update: added data to profile view |  | 2024-05-19 | 
+| AidManager-Frontend | develop | f9ce7f8 | feature: dropdown added with the name projects |  | 2024-05-17 | 
+| AidManager-Frontend | develop | d7761d8 | add: edit the event |  | 2024-05-17 | 
+| AidManager-Frontend | develop | da1dc82 | update: calendar component like by branch main |  | 2024-05-16 | 
+| AidManager-Frontend | develop | 7429f43 | fix: post the messages to team members |  | 2024-05-16 | 
+| AidManager-Frontend | develop | aa25054 | add: endpoint to delete team members |  | 2024-05-16 | 
+| AidManager-Frontend | develop | 711999e | update: team content like the branch main |  | 2024-05-16 | 
+| AidManager-Frontend | develop | 3dd8137 | fix: modal to update a user |  | 2024-05-15 | 
+| AidManager-Frontend | develop | 6c4ce3f | add: minor changes |  | 2024-05-15 | 
+| AidManager-Frontend | develop | 214b505 | fix: change to correct routes | 999+ conflictos  | 2024-05-15 | 
+| AidManager-Frontend | develop | 3f8b18b | Merge branch 'projects' into develop |  | 2024-05-15 | 
+| AidManager-Frontend | develop | bfcecb3 | erase: break line |  | 2024-05-15 | 
+| AidManager-Frontend | develop | 97c7357 | erase: paths to login in router file |  | 2024-05-15 | 
+| AidManager-Frontend | develop | e8ae494 | update: more styles to profile component |  | 2024-05-15 | 
+| AidManager-Frontend | develop | 569a34b | add: profile |  | 2024-05-15 | 
+| AidManager-Frontend | develop | a935bed | feat: add routing to login, register and nested routing to main layout and user login added |  | 2024-05-13 | 
+| AidManager-Frontend | develop | 430214f | feat(projects): Made changes regarding styling and crud operations for tasks. |  | 2024-05-12 | 
+| AidManager-Frontend | develop | f302e02 | Merge branch 'feature/team' into develop |  | 2024-05-04 | 
+| AidManager-Frontend | develop | 66e5157 | Merge pull request #17 from AplicacionesWeb-WX54/origin/feature/login | Origin/feature/login | 2024-05-04 | 
+| AidManager-Frontend | develop | 51bc69a | Merge pull request #16 from AplicacionesWeb-WX54/feature/home | feat: home page and components added | 2024-05-04 | 
+| AidManager-Frontend | develop | 0676442 | Merge branch 'develop' into feature/home |  | 2024-05-04 | 
+| AidManager-Frontend | develop | 41b4bf9 | Merge pull request #15 from AplicacionesWeb-WX54/feature/calendar | Feature/calendar | 2024-05-04 | 
+| AidManager-Frontend | develop | f9d1b60 | Merge branch 'develop' into feature/calendar |  | 2024-05-04 | 
+| AidManager-Frontend | develop | c15e745 | Merge pull request #14 from AplicacionesWeb-WX54/feature/analytics | Feature/analytics | 2024-05-04 | 
+| AidManager-Frontend | develop | 428eb8b | Merge branch 'develop' into feature/analytics |  | 2024-05-04 | 
+| AidManager-Frontend | develop | a345a7e | Merge pull request #13 from AplicacionesWeb-WX54/feature/projects | Merge feat/project | 2024-05-04 | 
+| AidManager-Frontend | develop | 69aac15 | update: login |  | 2024-05-03 | 
+| AidManager-Frontend | develop | 797edaf | add: delete event fakeapi |  | 2024-05-03 | 
+| AidManager-Frontend | develop | 5a237fb | add: new event form and post event fakeapi |  | 2024-05-03 | 
+| AidManager-Frontend | develop | 55ae609 | feat(analytics-content): added card report view |  | 2024-05-03 | 
+| AidManager-Frontend | develop | 09c144f | feat(analytics-main): imported primevue inputs |  | 2024-05-03 | 
+| AidManager-Frontend | develop | 7e411af | feat(analytics-card-projects): added responsive |  | 2024-05-03 | 
+| AidManager-Frontend | develop | a12ad1a | feat(analytics-card-report): added card report component |  | 2024-05-03 | 
+| AidManager-Frontend | develop | 5eda2af | update: more gap to member container for mobile |  | 2024-05-03 | 
+| AidManager-Frontend | develop | ed623f4 | fix: responsive and scroll to container |  | 2024-05-03 | 
+| AidManager-Frontend | develop | cbada84 | feat: home page and components added |  | 2024-05-03 | 
+| AidManager-Frontend | develop | 82bb0e5 | feat(analytics-line): added api chart line |  | 2024-05-03 | 
+| AidManager-Frontend | develop | ae5a8c2 | feat(analytics-vertical-bar): added api chart vertical bar |  | 2024-05-03 | 
+| AidManager-Frontend | develop | ba7036c | feat(analytics-horizontal-bar): added api chart horizontal bar |  | 2024-05-03 | 
+| AidManager-Frontend | develop | eca166a | feat(analytics-chart-doughnut): added api chart doughnut |  | 2024-05-03 | 
+| AidManager-Frontend | develop | 0a3ef60 | feat(analytics-db.json): added api |  | 2024-05-03 | 
+| AidManager-Frontend | develop | 89fc278 | add: popup with events detail |  | 2024-05-03 | 
+| AidManager-Frontend | develop | 422cc6e | add: service to functions calendar |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 824dcd0 | add: component with calendar |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 895b3e6 | add: endpoints to calendar |  | 2024-05-02 | 
+| AidManager-Frontend | develop | dcdcebf | update: global styles |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 66f3ff6 | add: icons to use |  | 2024-05-02 | 
+| AidManager-Frontend | develop | e078520 | add: trying post messages |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 942cecb | add: popup to leave message to user |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 2667e6d | feat(analytics-chart-doughnut): added api to doughnut component |  | 2024-05-02 | 
+| AidManager-Frontend | develop | cc70546 | update: new attributes |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 80217e6 | update: popup contact member |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 2f23c7d | update: data received |  | 2024-05-02 | 
+| AidManager-Frontend | develop | a3fc20c | add: font awesome cdn |  | 2024-05-02 | 
+| AidManager-Frontend | develop | ab2e24d | feat(analytics-db.json): added analytic db.json in cards |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 5426931 | feat(analytics-db.json): added analytic db.json |  | 2024-05-02 | 
+| AidManager-Frontend | develop | ef5d0c8 | feat(analytics-service): added analytic service |  | 2024-05-02 | 
+| AidManager-Frontend | develop | c8328c8 | feat(analytics-entity): added analytic entity |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 78e0e3e | update: fakeapi with team members |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 002e8e5 | add: membrs service created |  | 2024-05-02 | 
+| AidManager-Frontend | develop | d81bb07 | update: team list component |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 4f10ac6 | add: member entity |  | 2024-05-02 | 
+| AidManager-Frontend | develop | a26a033 | update: main css |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 43cbbbb | add: message icon |  | 2024-05-02 | 
+| AidManager-Frontend | develop | d6c08c0 | erase: calendar component and service |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 6c57c6a | add: icons to use |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 5b3e1db | Merge pull request #7 from AplicacionesWeb-WX54/develop | merge develop into calendar | 2024-05-02 | 
+| AidManager-Frontend | develop | 78fdf02 | Merge pull request #6 from AplicacionesWeb-WX54/develop | merge develop into team | 2024-05-02 | 
+| AidManager-Frontend | develop | 9e44023 | Merge pull request #5 from AplicacionesWeb-WX54/develop | merge develop into projects | 2024-05-02 | 
+| AidManager-Frontend | develop | 9619057 | Merge pull request #4 from AplicacionesWeb-WX54/develop | merge develop into anaelytics | 2024-05-02 | 
+| AidManager-Frontend | develop | 4cac5a3 | Merge pull request #3 from AplicacionesWeb-WX54/develop | Merge pull request #2 from AplicacionesWeb-WX54/feature/home | 2024-05-02 | 
+| AidManager-Frontend | develop | 59bc90d | Merge pull request #2 from AplicacionesWeb-WX54/feature/home | update: grid app-container to flexbox and only scroll to main-content | 2024-05-02 | 
+| AidManager-Frontend | develop | 22be8d2 | Merge pull request #1 from AplicacionesWeb-WX54/feature/home | update: grid app-container to flexbox and only scroll to main-content | 2024-05-02 | 
+| AidManager-Frontend | develop | 9fd59e4 | update: grid app-container to flexbox and only scroll to main-content |  | 2024-05-02 | 
+| AidManager-Frontend | develop | a238c2f | feat(analytics-primevue): imported chart.js |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 70ae59d | feat(analytics-pages): added analytics-pages |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 0b9ae61 | feat(analytics-content): added analytics-content |  | 2024-05-02 | 
+| AidManager-Frontend | develop | dd900be | feat(analytics-card): added analytics-card-projects |  | 2024-05-02 | 
+| AidManager-Frontend | develop | e7d21b8 | feat(analytics-chart): added analytics-chart-doughnut component |  | 2024-05-02 | 
+| AidManager-Frontend | develop | d4001a1 | feat(analytics-chart): added analytics-chart-horizontal-bar component |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 239991b | feat(analytics-chart): added analytics-chart-line component |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 40369c1 | feat(analytics-chart): added analytics-chart-doughnut component |  | 2024-05-02 | 
+| AidManager-Frontend | develop | 05cdfab | update(server): updated the db.json data for test |  | 2024-05-02 | 
+| AidManager-Frontend | develop | b695e64 | update(server): updated the db.json data for test |  | 2024-05-01 | 
+| AidManager-Frontend | develop | c8055ff | feat(projects): implemented tasks entity |  | 2024-05-01 | 
+| AidManager-Frontend | develop | a4328e4 | feat(projects): updated the db.json data for test |  | 2024-05-01 | 
+| AidManager-Frontend | develop | 97f5b35 | update(projects): implemented the api service |  | 2024-05-01 | 
+| AidManager-Frontend | develop | e54fe07 | update(projects): changed the format to vue3 (script setup) implemented the posting for the projects |  | 2024-05-01 | 
+| AidManager-Frontend | develop | e908a51 | update(projects): changed stylization |  | 2024-05-01 | 
+| AidManager-Frontend | develop | e594c65 | feat(projects): updated the db.json data for test |  | 2024-05-01 | 
+| AidManager-Frontend | develop | c35eaef | feat(projects): started using a projects entity for good practices |  | 2024-05-01 | 
+| AidManager-Frontend | develop | caf8545 | feat(projects): made it so that the tasks show in the testing data, further implementation for the Crud applications required |  | 2024-05-01 | 
+| AidManager-Frontend | develop | 8a4ec0d | feat(projects): changed the format to vue3 (script setup) implemented the posting for the projects |  | 2024-05-01 | 
+| AidManager-Frontend | develop | a606070 | feat(projects): updated the card component for use with vue3 (Script setup) |  | 2024-05-01 | 
+| AidManager-Frontend | develop | 7a33437 | feat(projects): created routing and fake api data |  | 2024-05-01 | 
+| AidManager-Frontend | develop | 96ed510 | feat(projects): created the column component and the task component |  | 2024-05-01 | 
+| AidManager-Frontend | develop | aa67e2e | feat(projects): added card component for the card-holder and routing to toDo |  | 2024-05-01 | 
+| AidManager-Frontend | develop | ed4e1e4 | feat(projects): added toDo section endpoint of the project card |  | 2024-05-01 | 
+| AidManager-Frontend | develop | 54b2437 | feat(projects): added Projects component to projects page |  | 2024-05-01 | 
+| AidManager-Frontend | develop | 36727d3 | feat(projects): created card holder and card creator button |  | 2024-05-01 | 
+| AidManager-Frontend | develop | 5a2ab45 | feat(fake-api): implement the project section for the db-json |  | 2024-04-30 | 
+| AidManager-Frontend | develop | b4ea4d1 | erase: example data from fakeapi deleted |  | 2024-04-28 | 
+| AidManager-Frontend | develop | a47dbf3 | initial commit |  | 2024-04-28 |
+| AidManager-BackEnd | develop | 8786706 | feat: add update field companyName of user |  | 2024-06-27 | 
+| AidManager-BackEnd | develop | 5be312f | fix: yesidesastre |  | 2024-06-27 | 
+| AidManager-BackEnd | develop | 3448d24 | Revert "fix: companyId like string" | This reverts commit d06e499599cefe9e59d5613cf31142d171954487.  | 2024-06-27 | 
+| AidManager-BackEnd | develop | fe7ae48 | fix: projects merge |  | 2024-06-27 | 
+| AidManager-BackEnd | develop | d06e499 | fix: companyId like string |  | 2024-06-26 | 
+| AidManager-BackEnd | develop | e65cae7 | Merge remote-tracking branch 'origin/backup' into develop |  | 2024-06-26 | 
+| AidManager-BackEnd | develop | 996a2f6 | Merge branch 'user-profile-system' into develop |  | 2024-06-26 | 
+| AidManager-BackEnd | develop | 0363135 | Merge branch 'manage-tasks-system' into develop |  | 2024-06-26 | 
+| AidManager-BackEnd | develop | 8de6089 | Merge branch 'collaborate-system' into develop |  | 2024-06-26 | 
+| AidManager-BackEnd | develop | ab9a4a5 | Merge branch 'user-auth-system' into develop |  | 2024-06-26 | 
+| AidManager-BackEnd | develop | 25daeec | feat: minor changes | xd  | 2024-06-26 | 
+| AidManager-BackEnd | develop | 96a27c2 | Merge pull request #3 from AplicacionesWeb-WX54/manage-costs-system | Manage costs system | 2024-06-25 | 
+| AidManager-BackEnd | develop | 63e25ee | Merge pull request #2 from AplicacionesWeb-WX54/manage-tasks-system | Merge Manage Costs with Manage Tasks | 2024-06-25 | 
+| AidManager-BackEnd | develop | 7612727 | feat(analytics): wiwiwi |  | 2024-06-25 | 
+| AidManager-BackEnd | develop | 25b432e | fix(manageTasks): minor fix |  | 2024-06-25 | 
+| AidManager-BackEnd | develop | 9611324 | Merge remote-tracking branch 'origin/manage-tasks-system' into manage-tasks-system | # Conflicts: #	AidManager.API/ManageTasks/Domain/Model/Aggregates/Project.cs #	AidManager.API/ManageTasks/Domain/Repositories/IProjectRepository.cs #	AidManager.API/ManageTasks/Infrastructure/Repositories/ProjectsRepository.cs #	AidManager.API/ManageTasks/Interfaces/ProjectsController.cs  | 2024-06-25 | 
+| AidManager-BackEnd | develop | 663d8f4 | feat(manageTasks): minor changes for methods |  | 2024-06-25 | 
+| AidManager-BackEnd | develop | 84706ff | feature: methods to send messages |  | 2024-06-20 | 
+| AidManager-BackEnd | develop | 8bebbe8 | feature: method to kick member |  | 2024-06-20 | 
+| AidManager-BackEnd | develop | a78c180 | refactor: projectId |  | 2024-06-20 | 
+| AidManager-BackEnd | develop | 7870b7d | Merge branch 'develop' into collaborate-system |  | 2024-06-20 | 
+| AidManager-BackEnd | develop | 982b0a9 | feature: method to get projects by company id and companyid body post |  | 2024-06-20 | 
+| AidManager-BackEnd | develop | be0d597 | feat(manageTasks): changedResource |  | 2024-06-19 | 
+| AidManager-BackEnd | develop | 26a424f | Merge remote-tracking branch 'origin/manage-tasks-system' into manage-tasks-system | # Conflicts: #	AidManager.API/Shared/Infraestructure/Persistence/EFC/Configuration/AppDBContext.cs #	AidManager.API/appsettings.json  | 2024-06-19 | 
+| AidManager-BackEnd | develop | 8db8705 | feat(manageTasks): implementedProjects |  | 2024-06-19 | 
+| AidManager-BackEnd | develop | f4fa4bd | refactor: adding new post requests from company :8ball: |  | 2024-06-19 | 
+| AidManager-BackEnd | develop | d3b9402 | Merge branch 'main' into user-profile-system |  | 2024-06-18 | 
+| AidManager-BackEnd | develop | e139b7d | Merge pull request #1 from AplicacionesWeb-WX54/main | merge main to collab bc | 2024-06-18 | 
+| AidManager-BackEnd | develop | ca3866c | update: credentials local |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | afed02b | update: credentials db |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | 7fcfef1 | update: credentials local db |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | 254ab40 | add: credentials db |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | b7e1ae4 | update: minor changes login connected |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | 852243e | update: major changes |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | 9866763 | erase: minor changes |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | ec72a06 | Merge branch 'user-auth-system' into develop |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | 62011d4 | update: user profile update |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | 77f767d | update: payment DI and table |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | b1ca07a | Merge branch 'payment-system' into develop |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | aa378a7 | update: tasks DI and table |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | ec5c347 | Merge branch 'manage-tasks-system' into develop |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | 6f86c94 | update: analytics DI and table |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | 82f63a8 | Merge branch 'manage-costs-system' into develop |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | 7a6b655 | update: user table and DI |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | d1a7269 | Merge branch 'user-auth-system' into develop |  | 2024-06-08 | 
+| AidManager-BackEnd | develop | ad4cf3f | feat(update-analytic): added update analytic on controller [HttpPut("{id}"] |  | 2024-06-07 | 
+| AidManager-BackEnd | develop | 9576162 | feat(update-analytic): added UpdateAnalyticCommandFromResourceAssembler.cs |  | 2024-06-07 | 
+| AidManager-BackEnd | develop | 00fd4a4 | feat(update-analytic): added UpdateAnalyticResource.cs |  | 2024-06-07 | 
+| AidManager-BackEnd | develop | f4c2214 | feat(update-analytic): added handle updateAnalyticCommand interface |  | 2024-06-07 | 
+| AidManager-BackEnd | develop | 5853650 | feat(update-analytic): added handle UpdateAnalyticCommand |  | 2024-06-07 | 
+| AidManager-BackEnd | develop | 03b1ff1 | feat(update-analytic): added updateAnalytic function |  | 2024-06-07 | 
+| AidManager-BackEnd | develop | a12d6b4 | feat(update-analytic): added update analytic command |  | 2024-06-07 | 
+| AidManager-BackEnd | develop | 9690c5e | update: payment details table config |  | 2024-06-07 | 
+| AidManager-BackEnd | develop | 3f6e668 | update: payment bc |  | 2024-06-07 | 
+| AidManager-BackEnd | develop | c9c70ba | update: validations in inputs |  | 2024-06-06 | 
+| AidManager-BackEnd | develop | 0cd93ca | feature: method to delete one event |  | 2024-06-06 | 
+| AidManager-BackEnd | develop | 163c0c7 | feature: method put to edit one event |  | 2024-06-06 | 
+| AidManager-BackEnd | develop | 477f30c | feat: method get by project id all events |  | 2024-06-05 | 
+| AidManager-BackEnd | develop | 887e609 | feat: method get to obtain all the events |  | 2024-06-05 | 
+| AidManager-BackEnd | develop | 9379692 | add: postId required in body |  | 2024-06-05 | 
+| AidManager-BackEnd | develop | 4e52220 | feat(manageTasks): interface Implemented |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | 7d1d301 | feat(manageTasks): Application implemented |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | 79d45f9 | feat(manageTasks): infrastructure implemented |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | 2b78ff1 | feat(manageTasks): Manage Tasks Domain Implemented |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | 1e81af4 | feat(analytics): implemented HttpGet GetAllAnalytics |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | 55c743e | feat(analytics): implemented Analytic Find all |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | 218234b | feat(analytics): implemented Analytic handle get all |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | 26b63bf | feat(analytics): implemented Analytic Find all |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | 4bb9df3 | feat(analytics): added Analytic get all |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | b49b000 | feat(analytics): minor changes |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | 9487db4 | feat(analytics): added Analytic context injection configuration |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | da56f21 | feat(analytics): added Analytic table |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | 8c2c36a | feat(analytics): added Analytic Controller |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | 90c8616 | feat(analytics): added AnalyticCommandService.cs and AnalyticQueryService.cs |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | 2b652f2 | feat(analytics): added Analytic ResourceFromEntityAssembler and CreateAnalyticCommandFromResourceAssembler.cs, deleted ola.txt |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | 65e0d7d | feat(analytics): added Analytic Resources, deleted ola.txt |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | ae161b5 | feat(analytics): added IAnalytic Repository, deleted ola.txt |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | f514b88 | feat(analytics): added Analytic Command Service and Analytic Query Service, deleted ola.txt |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | 952263a | feat(analytics): added Get Analytic By Id query, deleted ola.txt |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | 5619149 | feat(analytics): added Analytic Repository, deleted ola.txt |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | baf707e | feat(analytics): added CreateAnalyticCommand.cs, deleted ola.txt |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | db8c4f5 | feat(analytics): updated Analytic.cs aggregate, deleted ola.txt |  | 2024-06-04 | 
+| AidManager-BackEnd | develop | 7dc9a5b | feat(analytics-query-service): added Analytic Query Service, delete ola.txt |  | 2024-06-03 | 
+| AidManager-BackEnd | develop | 3d90996 | feat(analytics-command-service): added Analytic Command Service, delete ola.txt |  | 2024-06-03 | 
+| AidManager-BackEnd | develop | 3ec40b4 | feat(analytics-aggregate):  added Analytic.cs aggregate, deleted ola.txt |  | 2024-06-03 | 
+| AidManager-BackEnd | develop | 64e59eb | feature: method post to events calendar |  | 2024-06-01 | 
+| AidManager-BackEnd | develop | 78d6b15 | erase: .idea? |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | 1850e07 | fix: routes ignore |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | 1bf0a68 | Merge branch 'main' into payment-system |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | 8894da3 | fix: routes ignore |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | 8a64fd8 | Merge branch 'main' into manage-tasks-system |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | 2b876d8 | Merge branch 'main' into manage-costs-system |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | faafcac | Merge branch 'main' into user-auth-system |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | a118476 | fix: routes with ignore |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | 4f84471 | Merge branch 'main' into user-profile-system |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | 06827c9 | fix: import library missing |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | 2893410 | Merge branch 'main' into collaborate-system |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | 019c34a | update: gitignore without temp folders |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | ac20f66 | Merge branch 'main' into collaborate-system |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | 8da0256 | Merge branch 'main' into user-profile-system |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | d624fc4 | Merge branch 'main' into manage-costs-system |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | 4eb3a68 | Merge branch 'main' into payment-system |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | 0d7f3c9 | Merge branch 'main' into user-auth-system |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | e7a266b | add: gitignore |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | 3d7941a | feat: add Postman collection for AidMangerAPI endpoints |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | f855708 | chore: remove placeholder file ola.txt from directories |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | 3481a03 | feat(collaboration-system): add posts endpoint with POST, GET, and DELETE requests |  | 2024-05-31 | 
+| AidManager-BackEnd | develop | 05b9308 | add: authenticating user with his email |  | 2024-05-29 | 
+| AidManager-BackEnd | develop | bbdc714 | update: merge main |  | 2024-05-29 | 
+| AidManager-BackEnd | develop | 98f2376 | update: merge main |  | 2024-05-29 | 
+| AidManager-BackEnd | develop | 9f596dd | update: merge main |  | 2024-05-29 | 
+| AidManager-BackEnd | develop | ee3b49d | Merge branch 'main' into user-profile-system |  | 2024-05-29 | 
+| AidManager-BackEnd | develop | 91c6249 | update: merge main |  | 2024-05-29 | 
+| AidManager-BackEnd | develop | 06fea32 | add: method get to obtain all users registered |  | 2024-05-29 | 
+| AidManager-BackEnd | develop | 9dbc7fd | add: method post to register new users |  | 2024-05-29 | 
+| AidManager-BackEnd | develop | e46b15b | update: base repository with transactions |  | 2024-05-29 | 
+| AidManager-BackEnd | develop | a34ca20 | Merge branch 'main' into user-profile-system |  | 2024-05-28 | 
+| AidManager-BackEnd | develop | 7e960f1 | update: new structure DDD |  | 2024-05-28 | 
+| AidManager-BackEnd | develop | 10a7da1 | add: user profile bounded |  | 2024-05-26 | 
+| AidManager-BackEnd | develop | f678729 | add: manage tasks bounded |  | 2024-05-26 | 
+| AidManager-BackEnd | develop | 01d06f5 | add: manage costs bounded |  | 2024-05-26 | 
+| AidManager-BackEnd | develop | 49cd214 | add: collaborate bounded |  | 2024-05-26 | 
+| AidManager-BackEnd | develop | 5870c4c | add: payment bounded |  | 2024-05-26 | 
+| AidManager-BackEnd | develop | 882948b | erase: packages dotnet to install |  | 2024-05-26 | 
+| AidManager-BackEnd | develop | d22e85e | add: table to db |  | 2024-05-26 | 
+| AidManager-BackEnd | develop | b6dc654 | add: bounded sample to create endpoints |  | 2024-05-26 | 
+| AidManager-BackEnd | develop | 8a9e54b | add: DI into the api web |  | 2024-05-26 | 
+| AidManager-BackEnd | develop | 43f5287 | add: gitignore file |  | 2024-05-26 | 
+| AidManager-BackEnd | develop | a92ba4c | update: convention name db |  | 2024-05-26 | 
+| AidManager-BackEnd | develop | 294fcb7 | feature: DDD and conventions added |  | 2024-05-26 |
+
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+Como esta entrega son solo correciones los testings solo se implementaron a nivel de la aplicacion de manera manual.
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+Durante esta entrega el equipo de AidManager logró implementar exitosamente el backend que permitirá la gestión de proyectos, tareas, usuarios, entre otros, en nuestra aplicación web. Para ello, se utilizaron las herramientas y tecnologías necesarias para el desarrollo de la API:
+- **Git y Gitflow:** Para el control de versiones del código fuente y la gestión de ramas de desarrollo.
+- **Swagger:** Se utilizó para documentar la API y facilitar su uso.
+- **MySQL:** Se utilizó para la base de datos de la API.
+- **Vue:** Se utilizo como framework del FrontEnd.
+- **Vercel:** Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular
+
+Evidencias de despliegue en la plataforma Vercel:
+
+<img src="../assets/evidences-deployment/deployment.jpg" alt="Imagen del compañero" style="width:100%"><br/>
+
+A continuación se muestra la documentación de la API desarrollada: 
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/execution-evidence-sprint3/evidence1.jpg" alt="Swagger" style="width:80%;">
+</div>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/execution-evidence-sprint3/evidence2.png" alt="Swagger" style="width:80%;">
+</div>
+<div style="display:flex;justify-content:center">
+<img src="../assets/execution-evidence-sprint3/evidence3.jpeg" alt="Swagger" style="width:80%;">
+</div>
+<div style="display:flex;justify-content:center">
+<img src="../assets/execution-evidence-sprint3/evidence4.jpeg" alt="Swagger" style="width:80%;">
+</div>
+
+
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Los integrantes de AidManager Solutions completaron con éxito las actividades planificadas. El sprint se centró principalmente en las correciones del backend de la aplicación web. Además de las tareas previstas, se llevaron a cabo ajustes y mejoras en el informe.
+
+Como servicios utilizados estamos implementando SWAGGER, RIDER, VUE y WEBSTORM como las herramientas relacionadas al desarollo de la seccion back end y front end de nuestra solucion.
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+EL API Realizado para el back end fue desplegado en un App Service de AZURE por la cual se podrá acceder a la base de datos en MySQL y hacer los request requeridos para esta entrega.
+
+Asimismo el front end fue desplegado en Vercel. 
+
+BackEnd:
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/1.PNG" alt="Evidence" style="width:80%;">
+</div>
+<p style="font-style: italic; text-align:center">Creación del app service gratuito</p>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/2.PNG" alt="Evidence" style="width:80%;">
+</div>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/3.PNG" alt="Evidence" style="width:80%;">
+</div>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/4.PNG" alt="Evidence" style="width:80%;">
+</div>
+<p style="font-style: italic; text-align:center">Implementando y sincronizando con nuestro repositorio de GitHub, de manera que cada vez se realice un nuevo commit en la rama main de producción, este se actualice en deploy</p>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/5.PNG" alt="Evidence" style="width:80%;">
+</div>
+<br>
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/bd-1.PNG" alt="Evidence" style="width:80%;">
+</div>
+<p style="font-style: italic; text-align:center">Base de datos Flexible MySQL creada en Azure</p>
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/postman-1.PNG" alt="Evidence" style="width:80%;">
+</div>
+<br>
+<div style="display:flex;justify-content:center">
+<img src="../assets/evidence-deployment-backend/postman-2.PNG" alt="Evidence" style="width:80%;">
+</div>
+
+<p style="font-style: italic; text-align:center">Una vez desplegado el App Service, se procede a realizar las pruebas necesarias con el dominio de azure, resultando de manera válida las peticiones que se realizan a los diferentes endpoints creados</p>
+
+El Front End Desplegado en vercel por medio del uso de GitHub en colaboracion con Vercel.
+Evidencias de despliegue en la plataforma Vercel:
+
+https://aid-manager-frontend.vercel.app/login
+
+<img src="../assets/evidences-deployment/deployment.jpg" alt="Imagen del compañero" style="width:100%"><br/>
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de este sprint, se crearon ramas distintas para cada uno de los bounded context en los cuales se desarrollaron los features correspondientes. Posteriormente, se realizaron los commits en cada rama y se fusionaron las ramas con la rama development. Habiendo compronbado que todo funcionaba correctamente, se realizó el merge y se desplegó el front y back en un app service de Azure y en Vercel. 
+A continuación se muestra el detalle de los commits realizados por los integrantes del equipo:
+<br>
+<div style="display:flex;justify-content:center">
+<img src="" alt="Evidence" style="width:80%;">
+</div>
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 **Preguntas generales:**
