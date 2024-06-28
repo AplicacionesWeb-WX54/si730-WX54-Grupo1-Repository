@@ -21,9 +21,14 @@
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
 | 1.0 | 14/04/2024 |Nicolas | creacion del informe |
-| 1.1 | 1/04/2024 | Sebastian | cambios a las secciones iniciales del informe |
+| 1.1 | 1/04/2024 | Sebastian P | cambios a las secciones iniciales del informe |
 | 2.0 | 24/04/2024 | Arian | Merge final a las ramas para entrega TP1 |
-| 3.0 | 9/06/2024 | Sebastian | Merge final de las ramas para la entrega TB2 |
+| 3.0 | 9/06/2024 | Sebastian R | Merge final de las ramas para la entrega TB2 |
+| 4.0 | 27/06/2024 | Fabia | Correciones significantes para el TF |
+| 4.1 | 28/06/2024 | Sebastian R | Merge final de las ramas para la entrega TF |
+
+
+
 
 
 
@@ -72,6 +77,16 @@ Back End:
 
 Para la entrega del TF se han realizado las correciones finales al informe y a la aplicacion web tanto a nivel de backend como front end. Hicimos el sprint final y dimos nuestras observaciones.
 
+<img src="https://i.imgur.com/W6bnG4z.png" alt="commits">
+<img src="https://i.imgur.com/Miv2sXm." alt="commits">
+
+FrontEnd:
+<img src="https://i.imgur.com/mpLWYSJ.png" alt="commits">
+<img src="https://i.imgur.com/LwWKaP5.png" alt="commits">
+
+BackEnd:
+<img src="https://i.imgur.com/YP5wb23.png" alt="commits">
+<img src="https://i.imgur.com/8nOtpG3.png" alt="commits">
 
 
 # Student Outcome
