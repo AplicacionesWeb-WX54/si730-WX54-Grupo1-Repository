@@ -2188,9 +2188,29 @@ Durante esta entrega el equipo de AidManager logró implementar exitosamente el 
 - **Vue:** Se utilizo como framework del FrontEnd.
 - **Vercel:** Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular
 
-[Imagenes evidencia del Front]
+<br/>
+<img src="../assets/evidences-aidmanager/front-1.PNG" alt="Evidence" width="100%">
 
-[Imagenes evidencia del BackEnd]
+<br/>
+<img src="../assets/evidences-aidmanager/front-2.PNG" alt="Evidence" width="100%">
+
+<br/>
+<img src="../assets/evidences-aidmanager/front-3.PNG" alt="Evidence" width="100%">
+
+<br/>
+<img src="../assets/evidences-aidmanager/front-4.PNG" alt="Evidence" width="100%">
+
+<br/>
+<img src="../assets/evidences-aidmanager/back-1.PNG" alt="Evidence" width="100%">
+
+<br/>
+<img src="../assets/evidences-aidmanager/back-2.PNG" alt="Evidence" width="100%">
+
+<br/>
+<img src="../assets/evidences-aidmanager/back-3.PNG" alt="Evidence" width="100%">
+
+<br/>
+<img src="../assets/evidences-aidmanager/back-4.PNG" alt="Evidence" width="100%">
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
@@ -2199,21 +2219,38 @@ Los integrantes de AidManager Solutions completaron con éxito las actividades p
 
 Como servicios utilizados estamos implementando SWAGGER, RIDER, VUE y WEBSTORM como las herramientas relacionadas al desarollo de la seccion back end y front end de nuestra solucion.
 
-[Imagenes del Swagger]
+<br/>
+<img src="../assets/evidences-aidmanager/swagger-1.PNG" alt="Evidence" width="100%">
+
+<br/>
+<img src="../assets/evidences-aidmanager/swagger-2.PNG" alt="Evidence" width="100%">
+
+<br/>
+<img src="../assets/evidences-aidmanager/swagger-3.PNG" alt="Evidence" width="100%">
+
+<br/>
+<img src="../assets/evidences-aidmanager/swagger-4.PNG" alt="Evidence" width="100%">
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 EL API Realizado para el back end fue desplegado en un App Service de AZURE por la cual se podrá acceder a la base de datos en MySQL y hacer los request requeridos para esta entrega.
 
-Asimismo el front end fue desplegado en Vercel. 
-
-Front End:
-
-[Aqui las imganes]
-
 Back End:
 
-[Aqui las imganes]
+<br/>
+<img src="../assets/evidences-aidmanager/azure-1.PNG" alt="Evidence" width="100%">
+
+<br/>
+<img src="../assets/evidences-aidmanager/azure-2.PNG" alt="Evidence" width="100%">
+
+<br/>
+<img src="../assets/evidences-aidmanager/postman-1.PNG" alt="Evidence" width="100%">
+
+<br/>
+<img src="../assets/evidences-aidmanager/postman-2.PNG" alt="Evidence" width="100%">
+
+<br/>
+<img src="../assets/evidences-aidmanager/postman-3.PNG" alt="Evidence" width="100%">
 
 El Front End Desplegado en vercel por medio del uso de GitHub en colaboracion con Vercel.
 Evidencias de despliegue en la plataforma Vercel:
@@ -2227,16 +2264,17 @@ https://aid-manager-frontend.vercel.app/login
 Para el desarrollo de este sprint, se crearon ramas distintas para cada uno de los bounded context en los cuales se desarrollaron los features correspondientes. Posteriormente, se realizaron los commits en cada rama y se fusionaron las ramas con la rama development. Habiendo compronbado que todo funcionaba correctamente, se realizó el merge y se desplegó el front y back en un app service de Azure y en Vercel. 
 A continuación se muestra el detalle de los commits realizados por los integrantes del equipo:
 
-[Imagen de los analíticos de colaboración y
-commits en GitHub, realizados por los miembros del equipo. Todos los miembros del
-equipo deben tener participación en la implementación de cada uno de los
-productos según corresponda en el Sprint: Landing Page, Web Applications, Web
-Services. ESTATE SEGURO DE QUE TODO ESTE YA EN EL MAIN]
+<br>
+<img src="../assets/evidences-aidmanager/insights-1.PNG" alt="Evidence" style="width:100%"><br/>
 
 <br>
-<div style="display:flex;justify-content:center">
-<img src="" alt="Evidence" style="width:80%;">
-</div>
+<img src="../assets/evidences-aidmanager/insights-2.PNG" alt="Evidence" style="width:100%"><br/>
+
+<br>
+<img src="../assets/evidences-aidmanager/insights-3.PNG" alt="Evidence" style="width:100%"><br/>
+
+<br>
+<img src="../assets/evidences-aidmanager/insights-4.PNG" alt="Evidence" style="width:100%"><br/>
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
