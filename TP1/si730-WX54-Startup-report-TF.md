@@ -53,6 +53,9 @@ Se muestran evidencias de los commits realizados en la entrega de la TP1 en el i
 
 <img src="../assets/collaboration-insights/report/commitstp1.png" alt="commits">
 
+Front End:
+
+
 ### TB2
 Para la entrega del TB2 se ha desarrollando el backend junto con los respectivos deployments que estos requieren, se repartieron las tareas a realizar por medio de los bounded context que hicimos en la entrega anterior asimismo como las correcciones de la entrega anterior orientadas al front end. En las reuniones de sprint hemos identificado las actividades a realizar e hicimos un seguimiento implementando trello.
 
@@ -62,9 +65,13 @@ Se muestran evidencias de los commits realizados en la entrega de la TB2
 
 <img src="../assets/collaboration-insights/report/commitstp1.png" alt="commits">
 
+Back End:
+
 ### TF
 
 Para la entrega del TF se han realizado las correciones finales al informe y a la aplicacion web tanto a nivel de backend como front end. Hicimos el sprint final y dimos nuestras observaciones.
+
+
 
 # Student Outcome
 
@@ -2181,27 +2188,9 @@ Durante esta entrega el equipo de AidManager logró implementar exitosamente el 
 - **Vue:** Se utilizo como framework del FrontEnd.
 - **Vercel:** Se utilizó esta herramienta ya que nos ofrece un despliegue sin costo de manera rápida y fácil, además que se puede vincular
 
-Evidencias de despliegue en la plataforma Vercel:
+[Imagenes evidencia del Front]
 
-<img src="../assets/evidences-deployment/deployment.jpg" alt="Imagen del compañero" style="width:100%"><br/>
-
-A continuación se muestra la documentación de la API desarrollada: 
-
-<div style="display:flex;justify-content:center">
-<img src="../assets/execution-evidence-sprint3/evidence1.jpg" alt="Swagger" style="width:80%;">
-</div>
-
-<div style="display:flex;justify-content:center">
-<img src="../assets/execution-evidence-sprint3/evidence2.png" alt="Swagger" style="width:80%;">
-</div>
-<div style="display:flex;justify-content:center">
-<img src="../assets/execution-evidence-sprint3/evidence3.jpeg" alt="Swagger" style="width:80%;">
-</div>
-<div style="display:flex;justify-content:center">
-<img src="../assets/execution-evidence-sprint3/evidence4.jpeg" alt="Swagger" style="width:80%;">
-</div>
-
-
+[Imagenes evidencia del BackEnd]
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
@@ -2210,50 +2199,21 @@ Los integrantes de AidManager Solutions completaron con éxito las actividades p
 
 Como servicios utilizados estamos implementando SWAGGER, RIDER, VUE y WEBSTORM como las herramientas relacionadas al desarollo de la seccion back end y front end de nuestra solucion.
 
+[Imagenes del Swagger]
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 EL API Realizado para el back end fue desplegado en un App Service de AZURE por la cual se podrá acceder a la base de datos en MySQL y hacer los request requeridos para esta entrega.
 
 Asimismo el front end fue desplegado en Vercel. 
 
-BackEnd:
+Front End:
 
-<div style="display:flex;justify-content:center">
-<img src="../assets/evidence-deployment-backend/1.PNG" alt="Evidence" style="width:80%;">
-</div>
-<p style="font-style: italic; text-align:center">Creación del app service gratuito</p>
+[Aqui las imganes]
 
-<div style="display:flex;justify-content:center">
-<img src="../assets/evidence-deployment-backend/2.PNG" alt="Evidence" style="width:80%;">
-</div>
+Back End:
 
-<div style="display:flex;justify-content:center">
-<img src="../assets/evidence-deployment-backend/3.PNG" alt="Evidence" style="width:80%;">
-</div>
-
-<div style="display:flex;justify-content:center">
-<img src="../assets/evidence-deployment-backend/4.PNG" alt="Evidence" style="width:80%;">
-</div>
-<p style="font-style: italic; text-align:center">Implementando y sincronizando con nuestro repositorio de GitHub, de manera que cada vez se realice un nuevo commit en la rama main de producción, este se actualice en deploy</p>
-
-<div style="display:flex;justify-content:center">
-<img src="../assets/evidence-deployment-backend/5.PNG" alt="Evidence" style="width:80%;">
-</div>
-<br>
-<div style="display:flex;justify-content:center">
-<img src="../assets/evidence-deployment-backend/bd-1.PNG" alt="Evidence" style="width:80%;">
-</div>
-<p style="font-style: italic; text-align:center">Base de datos Flexible MySQL creada en Azure</p>
-
-<div style="display:flex;justify-content:center">
-<img src="../assets/evidence-deployment-backend/postman-1.PNG" alt="Evidence" style="width:80%;">
-</div>
-<br>
-<div style="display:flex;justify-content:center">
-<img src="../assets/evidence-deployment-backend/postman-2.PNG" alt="Evidence" style="width:80%;">
-</div>
-
-<p style="font-style: italic; text-align:center">Una vez desplegado el App Service, se procede a realizar las pruebas necesarias con el dominio de azure, resultando de manera válida las peticiones que se realizan a los diferentes endpoints creados</p>
+[Aqui las imganes]
 
 El Front End Desplegado en vercel por medio del uso de GitHub en colaboracion con Vercel.
 Evidencias de despliegue en la plataforma Vercel:
@@ -2266,6 +2226,13 @@ https://aid-manager-frontend.vercel.app/login
 
 Para el desarrollo de este sprint, se crearon ramas distintas para cada uno de los bounded context en los cuales se desarrollaron los features correspondientes. Posteriormente, se realizaron los commits en cada rama y se fusionaron las ramas con la rama development. Habiendo compronbado que todo funcionaba correctamente, se realizó el merge y se desplegó el front y back en un app service de Azure y en Vercel. 
 A continuación se muestra el detalle de los commits realizados por los integrantes del equipo:
+
+[Imagen de los analíticos de colaboración y
+commits en GitHub, realizados por los miembros del equipo. Todos los miembros del
+equipo deben tener participación en la implementación de cada uno de los
+productos según corresponda en el Sprint: Landing Page, Web Applications, Web
+Services. ESTATE SEGURO DE QUE TODO ESTE YA EN EL MAIN]
+
 <br>
 <div style="display:flex;justify-content:center">
 <img src="" alt="Evidence" style="width:80%;">
